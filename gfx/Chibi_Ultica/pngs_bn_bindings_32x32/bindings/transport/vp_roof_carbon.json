@@ -1,0 +1,12 @@
+{
+  "id": "vp_roof_carbon",
+  "fg": "1799_vp_roof_0",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "1799_vp_roof_0"
+    }
+  ]
+}

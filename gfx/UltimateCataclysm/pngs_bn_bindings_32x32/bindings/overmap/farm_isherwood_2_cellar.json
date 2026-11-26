@@ -1,0 +1,11 @@
+{
+  "id": "farm_isherwood_2_cellar",
+  "fg": [
+    "rural_house_faceN",
+    "rural_house_faceW",
+    "rural_house_faceS",
+    "rural_house_faceE"
+  ],
+  "bg": "t_soil_center",
+  "rotates": true
+}

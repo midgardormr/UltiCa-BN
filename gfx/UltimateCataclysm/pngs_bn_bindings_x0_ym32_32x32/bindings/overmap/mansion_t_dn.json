@@ -1,0 +1,11 @@
+{
+  "id": "mansion_t_dn",
+  "fg": [
+    "mansion_S",
+    "mansion_E",
+    "mansion_N",
+    "mansion_W"
+  ],
+  "bg": "t_soil_center",
+  "rotates": true
+}

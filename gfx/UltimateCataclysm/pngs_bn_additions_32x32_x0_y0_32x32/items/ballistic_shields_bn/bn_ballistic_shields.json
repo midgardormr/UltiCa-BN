@@ -1,0 +1,30 @@
+[
+  {
+    "id": "shield_ballistic",
+    "fg": "bn_bshield_shield_ballistic"
+  },
+  {
+    "id": "shield_welded",
+    "fg": "bn_bshield_shield_welded"
+  },
+  {
+    "id": "shield_welded_hard",
+    "fg": "bn_bshield_shield_welded_hard"
+  },
+  {
+    "id": "shield_welded_composite",
+    "fg": "bn_bshield_shield_welded_composite"
+  },
+  {
+    "id": "shield_welded_superalloy",
+    "fg": "bn_bshield_shield_welded_superalloy"
+  },
+  {
+    "id": "shield_welded_surv",
+    "fg": "bn_bshield_shield_welded_surv"
+  },
+  {
+    "id": "shield_welded_surv_superalloy",
+    "fg": "bn_bshield_shield_welded_surv_superalloy"
+  }
+]

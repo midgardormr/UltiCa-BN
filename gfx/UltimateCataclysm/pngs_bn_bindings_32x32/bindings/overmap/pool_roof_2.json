@@ -1,0 +1,11 @@
+{
+  "id": "pool_roof_2",
+  "fg": [
+    "pool_2_faceN",
+    "pool_2_faceW",
+    "pool_2_faceS",
+    "pool_2_faceE"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

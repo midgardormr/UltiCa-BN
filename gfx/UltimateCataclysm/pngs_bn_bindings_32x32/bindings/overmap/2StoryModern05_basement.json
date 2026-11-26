@@ -1,0 +1,18 @@
+{
+  "id": "2StoryModern05_basement",
+  "fg": [
+    {
+      "sprite": "bn_basement_storage",
+      "weight": 1
+    },
+    {
+      "sprite": "bn_basement_workshop",
+      "weight": 1
+    },
+    {
+      "sprite": "bn_basement_laundry",
+      "weight": 1
+    }
+  ],
+  "rotates": false
+}

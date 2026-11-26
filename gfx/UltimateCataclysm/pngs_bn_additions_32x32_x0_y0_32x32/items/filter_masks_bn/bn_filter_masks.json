@@ -1,0 +1,10 @@
+[
+  {
+    "id": "mask_filter",
+    "fg": "bn_respirator_mask_filter"
+  },
+  {
+    "id": "mask_halfsurvivor",
+    "fg": "bn_respirator_mask_halfsurvivor"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "paddock_trailhead_9",
+  "fg": [
+    "pasture_corner_ne",
+    "pasture_corner_nw",
+    "pasture_corner_sw",
+    "pasture_corner_se"
+  ],
+  "rotates": true
+}

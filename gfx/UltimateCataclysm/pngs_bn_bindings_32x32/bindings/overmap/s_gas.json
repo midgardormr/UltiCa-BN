@@ -1,0 +1,10 @@
+{
+  "id": "s_gas",
+  "fg": [
+    "gas_small_faceN",
+    "gas_small_faceW",
+    "gas_small_faceS",
+    "gas_small_faceE"
+  ],
+  "bg": "field"
+}

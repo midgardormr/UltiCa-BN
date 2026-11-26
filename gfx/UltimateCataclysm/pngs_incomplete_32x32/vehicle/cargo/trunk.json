@@ -1,25 +1,37 @@
 [
   {
     "id": "vp_box",
-    "fg": [ "vp_box", "vp_box_rot" ],
-    "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_box", "vp_box_rot" ] } ]
-  },
-  {
-    "id": "vp_wood box",
-    "fg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ],
-    "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ] } ]
-  },
-  {
-    "id": "vp_box_wheelbarrow",
-    "fg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotE", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotW" ],
+    "fg": [
+      "vp_box",
+      "vp_box_rot"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotE", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotW" ]
+        "bg": [
+          "vp_box",
+          "vp_box_rot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_wood box",
+    "fg": [
+      "vp_wood_box_rotNS",
+      "vp_wood_box_rotEW"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_wood_box_rotNS",
+          "vp_wood_box_rotEW"
+        ]
       }
     ]
   },
@@ -27,18 +39,115 @@
     "id": "vp_trunk",
     "fg": "vp_trunk",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_trunk" } ]
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_trunk",
+        "masks": [
+          {
+            "type": "tint",
+            "bg": [
+              "bn_surface_paint_a720d532d6951c16976ca7e8"
+            ],
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_a720d532d6951c16976ca7e8"
+        ]
+      }
+    ]
   },
   {
     "id": "vp_trunk_rear_edge",
     "fg": "vp_trunk_rear_edge",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_trunk_rear_edge" } ]
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_trunk_rear_edge",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_ad79d28cbd4a461a54267d18"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_ad79d28cbd4a461a54267d18"
+        ]
+      }
+    ]
   },
   {
     "id": "vp_cargo_space",
     "fg": "vp_cargo_space",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_cargo_space" } ]
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_cargo_space",
+        "masks": [
+          {
+            "type": "tint",
+            "bg": [
+              "bn_surface_paint_4896fae9c35e66275ddba7cc"
+            ],
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_4896fae9c35e66275ddba7cc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_box_wheelbarrow",
+    "fg": [
+      "vp_box_wheelbarrow_rotN",
+      "vp_box_wheelbarrow_rotW",
+      "vp_box_wheelbarrow_rotS",
+      "vp_box_wheelbarrow_rotE"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_box_wheelbarrow_rotN",
+          "vp_box_wheelbarrow_rotW",
+          "vp_box_wheelbarrow_rotS",
+          "vp_box_wheelbarrow_rotE"
+        ]
+      }
+    ]
   }
 ]

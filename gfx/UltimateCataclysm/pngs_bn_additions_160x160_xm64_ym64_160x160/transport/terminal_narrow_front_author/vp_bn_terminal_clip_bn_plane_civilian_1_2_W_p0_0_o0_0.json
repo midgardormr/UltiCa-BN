@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_terminal_clip_bn_plane_civilian_1_2_W_p0_0_o0_0",
+  "fg": [
+    "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_0_o0_0",
+    "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_0_o0_0",
+    "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_0_o0_0",
+    "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_0_o0_0"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_-1_o0_0_mask",
+        "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_-1_o0_0_mask",
+        "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_-1_o0_0_mask",
+        "bn_terminal_clip_bn_plane_civilian_1_1_W_p0_-1_o0_0_mask"
+      ]
+    }
+  ]
+}

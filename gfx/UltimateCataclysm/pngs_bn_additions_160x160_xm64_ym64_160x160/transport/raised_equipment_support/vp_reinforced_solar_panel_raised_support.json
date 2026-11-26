@@ -1,0 +1,61 @@
+{
+  "id": "vp_reinforced_solar_panel_raised_support",
+  "fg": [
+    "bn_raised_a3ef7a99edf5788860",
+    "bn_roof_lamp_f627ca4c2c322f15db2615",
+    "bn_raised_a3ef7a99edf5788860",
+    "bn_roof_lamp_f627ca4c2c322f15db2615"
+  ],
+  "bg": [
+    "bn_raised_bb767822d2a09ecf79",
+    "bn_raised_f62cc90d08b84294a1",
+    "bn_raised_bb767822d2a09ecf79",
+    "bn_raised_6796adbac273257125"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_raised_e82236e41d8115d8da"
+      ],
+      "bg": [
+        "bn_raised_bb767822d2a09ecf79",
+        "bn_raised_f62cc90d08b84294a1",
+        "bn_raised_bb767822d2a09ecf79",
+        "bn_raised_6796adbac273257125"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_raised_ccd4715d3a087ab638",
+            "bn_raised_20e3107d6c160d6c0c",
+            "bn_raised_ccd4715d3a087ab638",
+            "bn_raised_20e3107d6c160d6c0c"
+          ],
+          "fg": [
+            "bn_raised_a13dacc68a2eec12fc"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_raised_ccd4715d3a087ab638",
+        "bn_raised_20e3107d6c160d6c0c",
+        "bn_raised_ccd4715d3a087ab638",
+        "bn_raised_20e3107d6c160d6c0c"
+      ],
+      "bg": [
+        "bn_raised_ccd4715d3a087ab638",
+        "bn_raised_20e3107d6c160d6c0c",
+        "bn_raised_ccd4715d3a087ab638",
+        "bn_raised_20e3107d6c160d6c0c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "splitrail_fence_inner",
+  "fg": [
+    "pasture_not_s",
+    "pasture_not_n",
+    "pasture_not_e",
+    "pasture_not_w"
+  ],
+  "rotates": true
+}

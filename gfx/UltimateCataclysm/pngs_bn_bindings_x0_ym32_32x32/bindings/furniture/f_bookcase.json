@@ -1,0 +1,14 @@
+{
+  "id": "f_bookcase",
+  "rotates": true,
+  "flags": [
+    "ALIGN_TO_TERRAIN"
+  ],
+  "fg": [
+    "bn_bookcase_faceS",
+    "bn_bookcase_faceW",
+    "bn_bookcase_faceN",
+    "bn_bookcase_faceE"
+  ],
+  "bg": ""
+}

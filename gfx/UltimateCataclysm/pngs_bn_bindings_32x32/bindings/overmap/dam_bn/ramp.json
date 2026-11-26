@@ -1,0 +1,12 @@
+{
+  "id": [
+    "damhead_ramp"
+  ],
+  "fg": [
+    "bn_dam_ramp_north",
+    "bn_dam_ramp_west",
+    "bn_dam_ramp_south",
+    "bn_dam_ramp_east"
+  ],
+  "rotates": true
+}

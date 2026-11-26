@@ -1,0 +1,11 @@
+{
+  "id": "miniaturerailway_1_1_1",
+  "fg": [
+    "luna_park_top_right_faceN",
+    "luna_park_top_right_faceW",
+    "luna_park_top_right_faceS",
+    "luna_park_top_right_faceE"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

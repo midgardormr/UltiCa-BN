@@ -1,0 +1,42 @@
+[
+  {
+    "id": "targeting_module",
+    "fg": "bn_robot_targeting_module"
+  },
+  {
+    "id": "identification_module",
+    "fg": "bn_robot_identification_module"
+  },
+  {
+    "id": "pathfinding_module",
+    "fg": "bn_robot_pathfinding_module"
+  },
+  {
+    "id": "memory_module",
+    "fg": "bn_robot_memory_module"
+  },
+  {
+    "id": "sensor_module",
+    "fg": "bn_robot_sensor_module"
+  },
+  {
+    "id": "self_monitoring_module",
+    "fg": "bn_robot_self_monitoring_module"
+  },
+  {
+    "id": "ai_module",
+    "fg": "bn_robot_ai_module"
+  },
+  {
+    "id": "ai_module_basic",
+    "fg": "bn_robot_ai_module_basic"
+  },
+  {
+    "id": "ai_module_advanced",
+    "fg": "bn_robot_ai_module_advanced"
+  },
+  {
+    "id": "gun_module",
+    "fg": "bn_robot_gun_module"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "paddock_L_gap",
+  "fg": [
+    "pasture_end_w",
+    "pasture_end_s",
+    "pasture_end_e",
+    "pasture_end_n"
+  ],
+  "rotates": true
+}

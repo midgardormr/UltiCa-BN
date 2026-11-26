@@ -1,0 +1,12 @@
+[
+  {
+    "id": [
+      "craft_shop",
+      "craft_shop_1",
+      "craft_shop_2",
+      "craft_shop_3"
+    ],
+    "fg": "bn_craft_shop_front",
+    "rotates": false
+  }
+]

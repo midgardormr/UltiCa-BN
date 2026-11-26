@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mask_ski",
+    "fg": "bn_mask_ski"
+  },
+  {
+    "id": "mask_ski_loose",
+    "fg": "bn_mask_ski_loose"
+  },
+  {
+    "id": "makeshift_headwrap",
+    "fg": "bn_makeshift_headwrap"
+  }
+]

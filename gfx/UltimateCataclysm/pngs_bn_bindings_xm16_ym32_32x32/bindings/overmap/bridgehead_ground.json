@@ -1,0 +1,16 @@
+{
+  "id": "bridgehead_ground",
+  "fg": [
+    "bridgehead_faceN",
+    "bridgehead_faceW",
+    "bridgehead_faceS",
+    "bridgehead_faceE"
+  ],
+  "bg": [
+    "t_water_moving_sh_center_large",
+    "t_water_moving_sh_center_large",
+    "t_water_moving_sh_center_large",
+    "t_water_moving_sh_center_large"
+  ],
+  "rotates": true
+}

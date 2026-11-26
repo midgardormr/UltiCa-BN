@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_user_wind_turbine_center",
+  "fg": [
+    "bn_user_E_wind_turbine_center",
+    "bn_user_W_bn_user_E_wind_turbine_center",
+    "bn_user_E_wind_turbine_center",
+    "bn_user_E_wind_turbine_center"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_user_W_identity_64x64",
+        "bn_user_W_bn_user_E_wind_turbine_center_mask",
+        "bn_user_W_identity_64x64",
+        "bn_user_W_identity_64x64"
+      ]
+    }
+  ]
+}

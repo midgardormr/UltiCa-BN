@@ -1,0 +1,10 @@
+{
+  "id": "paddock_trailhead_5",
+  "fg": [
+    "pasture_end_e",
+    "pasture_end_n",
+    "pasture_end_w",
+    "pasture_end_s"
+  ],
+  "rotates": true
+}

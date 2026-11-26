@@ -156,7 +156,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "1767_vp_hdroof_0"
+        "bg": "1767_vp_hdroof_0",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_782c2ad6ba5311dead6c97df"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_782c2ad6ba5311dead6c97df"
+        ]
       }
     ]
   },
@@ -276,7 +295,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "1799_vp_roof_0"
+        "bg": "1799_vp_roof_0",
+        "masks": [
+          {
+            "type": "tint",
+            "bg": [
+              "bn_surface_paint_f964483fda342410faf19801"
+            ],
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_f964483fda342410faf19801"
+        ]
       }
     ]
   },
@@ -288,7 +326,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "400_f_canvas_wall_0"
+        "bg": "400_f_canvas_wall_0",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_ea339edeb9eae5ed89e6768b"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_ea339edeb9eae5ed89e6768b"
+        ]
       }
     ]
   },
@@ -437,7 +494,10 @@
     ]
   },
   {
-    "id": ["wheel_wood", "wheel_wood_b"],
+    "id": [
+      "wheel_wood",
+      "wheel_wood_b"
+    ],
     "fg": "wheel_wood",
     "multitile": true,
     "additional_tiles": [
@@ -463,10 +523,6 @@
   {
     "id": "foot_crank",
     "fg": "136_vp_foot_pedals_0"
-  },
-  {
-    "id": "frame",
-    "fg": "98_vp_frame_wood_cross_0"
   },
   {
     "id": "hard_plate",
@@ -509,7 +565,10 @@
     "fg": "129_vp_engine_vtwin_0"
   },
   {
-    "id": ["v6_combustion", "v6_diesel"],
+    "id": [
+      "v6_combustion",
+      "v6_diesel"
+    ],
     "fg": "131_vp_engine_v6_0"
   },
   {

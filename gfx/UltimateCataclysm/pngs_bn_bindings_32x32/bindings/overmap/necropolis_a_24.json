@@ -1,0 +1,16 @@
+{
+  "fg": [
+    "road_t_connection_s",
+    "road_t_connection_e",
+    "road_t_connection_n",
+    "road_t_connection_w"
+  ],
+  "rotates": true,
+  "bg": [
+    "field",
+    "field",
+    "field",
+    "field"
+  ],
+  "id": "necropolis_a_24"
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "seed_rice",
+    "fg": "bn_rice_seed_rice"
+  },
+  {
+    "id": "dry_rice",
+    "fg": "bn_rice_dry_rice"
+  }
+]

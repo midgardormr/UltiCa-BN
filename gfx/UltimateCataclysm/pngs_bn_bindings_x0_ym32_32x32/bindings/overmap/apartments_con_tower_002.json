@@ -1,0 +1,16 @@
+{
+  "id": "apartments_con_tower_002",
+  "fg": [
+    "apartments_con_tower_4x4_bot_right",
+    "apartments_con_tower_4x4_top_right",
+    "apartments_con_tower_4x4_top_left",
+    "apartments_con_tower_4x4_bot_left"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

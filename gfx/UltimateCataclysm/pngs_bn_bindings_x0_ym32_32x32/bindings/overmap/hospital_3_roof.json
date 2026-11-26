@@ -1,0 +1,10 @@
+{
+  "id": "hospital_3_roof",
+  "fg": [
+    "hospital_7",
+    "hospital_1",
+    "hospital_3",
+    "hospital_9"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "sand_pit_SW_down",
+  "fg": [
+    "sandpit_sw",
+    "sandpit_se",
+    "sandpit_ne",
+    "sandpit_nw"
+  ],
+  "bg": "t_dirt_center3",
+  "rotates": true
+}

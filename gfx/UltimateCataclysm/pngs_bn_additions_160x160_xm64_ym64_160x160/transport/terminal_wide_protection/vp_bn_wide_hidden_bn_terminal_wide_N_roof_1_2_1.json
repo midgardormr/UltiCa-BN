@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_wide_hidden_bn_terminal_wide_N_roof_1_2_1",
+  "fg": [
+    "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_58b41857cb4c",
+    "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_58b41857cb4c",
+    "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_58b41857cb4c",
+    "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_58b41857cb4c"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_a18dcb78728d",
+        "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_a18dcb78728d",
+        "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_a18dcb78728d",
+        "bn_wide_hidden_bn_terminal_wide_N_roof_1_1_1_a18dcb78728d"
+      ]
+    }
+  ]
+}

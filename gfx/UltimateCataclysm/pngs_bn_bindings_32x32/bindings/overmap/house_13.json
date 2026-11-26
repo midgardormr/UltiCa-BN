@@ -1,0 +1,11 @@
+{
+  "id": "house_13",
+  "fg": [
+    "otr_house_1_faceN",
+    "otr_house_1_faceW",
+    "otr_house_1_faceS",
+    "otr_house_1_faceE"
+  ],
+  "bg": "field",
+  "rotates": true
+}

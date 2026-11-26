@@ -1,0 +1,50 @@
+[
+  {
+    "id": "matrix_crystal_biokinesis",
+    "fg": "bn_mom_matrix_crystal_biokinesis"
+  },
+  {
+    "id": "matrix_crystal_clairsentience",
+    "fg": "bn_mom_matrix_crystal_clairsentience"
+  },
+  {
+    "id": "matrix_crystal_electrokinesis",
+    "fg": "bn_mom_matrix_crystal_electrokinesis"
+  },
+  {
+    "id": "matrix_crystal_photokinesis",
+    "fg": "bn_mom_matrix_crystal_photokinesis"
+  },
+  {
+    "id": "matrix_crystal_pyrokinesis",
+    "fg": "bn_mom_matrix_crystal_pyrokinesis"
+  },
+  {
+    "id": "matrix_crystal_telekinesis",
+    "fg": "bn_mom_matrix_crystal_telekinesis"
+  },
+  {
+    "id": "matrix_crystal_telepathy",
+    "fg": "bn_mom_matrix_crystal_telepathy"
+  },
+  {
+    "id": "matrix_crystal_teleportation",
+    "fg": "bn_mom_matrix_crystal_teleportation"
+  },
+  {
+    "id": "matrix_crystal_drained",
+    "fg": "bn_mom_matrix_crystal_drained"
+  },
+  {
+    "id": "matrix_crystal_coruscating",
+    "fg": "bn_mom_matrix_crystal_coruscating"
+  },
+  {
+    "id": "pyrokinetic_matrix_crystal_bomb",
+    "fg": "bn_mom_pyrokinetic_matrix_crystal_bomb"
+  },
+  {
+    "id": "pyrokinetic_matrix_crystal_bomb_act",
+    "fg": "bn_mom_pyrokinetic_matrix_crystal_bomb_act"
+  }
+]

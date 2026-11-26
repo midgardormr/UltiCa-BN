@@ -1,0 +1,61 @@
+{
+  "id": "vp_bn_user_ups_rifle_t_center_directed",
+  "fg": [
+    "bn_directed_turret_b2cd26eddf18a64808351ffe",
+    "bn_directed_turret_442f4792007b3959398dcffa",
+    "bn_user_laser_rifle_center_S_anchored64_user_position_S",
+    "bn_directed_turret_75d3894a8bdadbda4d10dee3"
+  ],
+  "bg": [
+    "bn_directed_turret_5aee26d151ceb1f84dba9c2b",
+    "bn_directed_turret_1810a06f2e584d194137dad0",
+    "bn_user_compact_turret_base_center_S",
+    "bn_directed_turret_e6bfe505f69b2cffb5d0686f"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e"
+      ],
+      "bg": [
+        "bn_directed_turret_b2cd26eddf18a64808351ffe",
+        "bn_directed_turret_442f4792007b3959398dcffa",
+        "bn_user_laser_rifle_center_S_anchored64_user_position_S",
+        "bn_directed_turret_75d3894a8bdadbda4d10dee3"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_directed_turret_720c07c2623b2189926b511b",
+            "bn_directed_turret_f930261e6a220edfe1060f0d",
+            "bn_user_W_identity_64x64",
+            "bn_directed_turret_79f4adbc7a8c697515808537"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_directed_turret_720c07c2623b2189926b511b",
+        "bn_directed_turret_f930261e6a220edfe1060f0d",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_79f4adbc7a8c697515808537"
+      ],
+      "bg": [
+        "bn_directed_turret_720c07c2623b2189926b511b",
+        "bn_directed_turret_544d8de5422af69f69c900d4",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_79f4adbc7a8c697515808537"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": [
+      "cemetery_4square_00"
+    ],
+    "fg": [
+      "bn_cemetery_q0_north",
+      "bn_cemetery_q0_west",
+      "bn_cemetery_q0_south",
+      "bn_cemetery_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "cemetery_4square_10"
+    ],
+    "fg": [
+      "bn_cemetery_q1_north",
+      "bn_cemetery_q1_west",
+      "bn_cemetery_q1_south",
+      "bn_cemetery_q1_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "cemetery_4square_01"
+    ],
+    "fg": [
+      "bn_cemetery_q2_north",
+      "bn_cemetery_q2_west",
+      "bn_cemetery_q2_south",
+      "bn_cemetery_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "cemetery_4square_11"
+    ],
+    "fg": [
+      "bn_cemetery_q3_north",
+      "bn_cemetery_q3_west",
+      "bn_cemetery_q3_south",
+      "bn_cemetery_q3_east"
+    ],
+    "rotates": true
+  }
+]

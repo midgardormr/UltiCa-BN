@@ -1,0 +1,12 @@
+{
+  "id": [
+    "damhead_ground"
+  ],
+  "fg": [
+    "bn_dam_ground_north",
+    "bn_dam_ground_west",
+    "bn_dam_ground_south",
+    "bn_dam_ground_east"
+  ],
+  "rotates": true
+}

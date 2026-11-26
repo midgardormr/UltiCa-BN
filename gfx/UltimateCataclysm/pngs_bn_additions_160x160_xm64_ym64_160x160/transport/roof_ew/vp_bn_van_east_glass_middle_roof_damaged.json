@@ -1,0 +1,67 @@
+{
+  "id": "vp_bn_van_east_glass_middle_roof_damaged",
+  "fg": [
+    "bn_van_east_glass_middle_roof_damaged",
+    "bn_van_east_glass_middle_roof_damaged",
+    "bn_van_east_glass_middle_roof_damaged",
+    "bn_van_east_glass_middle_roof_damaged"
+  ],
+  "bg": [
+    "bn_van_east_glass_middle_body",
+    "bn_van_east_glass_middle_body",
+    "bn_van_east_glass_middle_body",
+    "bn_van_east_glass_middle_body"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_van_east_glass_middle_both_damaged",
+        "bn_van_east_glass_middle_both_damaged",
+        "bn_van_east_glass_middle_both_damaged",
+        "bn_van_east_glass_middle_both_damaged"
+      ],
+      "bg": [
+        "bn_van_east_glass_middle_body",
+        "bn_van_east_glass_middle_body",
+        "bn_van_east_glass_middle_body",
+        "bn_van_east_glass_middle_body"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_b3e5a34f1f111857636dc84a",
+            "bn_surface_paint_b3e5a34f1f111857636dc84a",
+            "bn_surface_paint_b3e5a34f1f111857636dc84a",
+            "bn_surface_paint_b3e5a34f1f111857636dc84a"
+          ],
+          "fg": [
+            "bn_surface_paint_cb8d95e6bd4e1010cd9f4aed",
+            "bn_surface_paint_cb8d95e6bd4e1010cd9f4aed",
+            "bn_surface_paint_cb8d95e6bd4e1010cd9f4aed",
+            "bn_surface_paint_cb8d95e6bd4e1010cd9f4aed"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "bg": [
+        "bn_surface_paint_b3e5a34f1f111857636dc84a",
+        "bn_surface_paint_b3e5a34f1f111857636dc84a",
+        "bn_surface_paint_b3e5a34f1f111857636dc84a",
+        "bn_surface_paint_b3e5a34f1f111857636dc84a"
+      ],
+      "fg": [
+        "bn_surface_paint_e5040bb48ae9817a13120196",
+        "bn_surface_paint_e5040bb48ae9817a13120196",
+        "bn_surface_paint_e5040bb48ae9817a13120196",
+        "bn_surface_paint_e5040bb48ae9817a13120196"
+      ]
+    }
+  ]
+}

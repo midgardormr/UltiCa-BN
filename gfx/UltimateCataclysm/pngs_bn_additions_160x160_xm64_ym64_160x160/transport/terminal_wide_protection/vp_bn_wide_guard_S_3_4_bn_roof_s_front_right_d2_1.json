@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1",
+  "fg": [
+    "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9",
+    "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9",
+    "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9",
+    "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_6d94543aa962",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_6d94543aa962",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_6d94543aa962",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_6d94543aa962"
+      ],
+      "bg": [
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c083e7e117f9"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe",
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe",
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe",
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe"
+          ],
+          "fg": [
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_611b63f89ed9",
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_611b63f89ed9",
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_611b63f89ed9",
+            "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_611b63f89ed9"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe",
+        "bn_wide_guard_S_3_4_bn_roof_s_front_right_d2_1_c86ec49245fe"
+      ]
+    }
+  ]
+}

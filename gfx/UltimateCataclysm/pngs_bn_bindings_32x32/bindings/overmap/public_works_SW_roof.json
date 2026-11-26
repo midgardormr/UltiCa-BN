@@ -1,0 +1,10 @@
+{
+  "id": "public_works_SW_roof",
+  "fg": [
+    "bn_public_works_SW_fg_0",
+    "bn_public_works_SW_fg_1",
+    "bn_public_works_SW_fg_2",
+    "bn_public_works_SW_fg_3"
+  ],
+  "rotates": true
+}

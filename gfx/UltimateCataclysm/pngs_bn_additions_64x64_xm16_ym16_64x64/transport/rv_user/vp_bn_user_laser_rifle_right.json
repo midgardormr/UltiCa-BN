@@ -1,0 +1,56 @@
+{
+  "id": "vp_bn_user_laser_rifle_right",
+  "fg": [
+    "bn_user_laser_rifle_right_N_anchored64",
+    "bn_user_W_bn_user_laser_rifle_left_E_anchored64_user_E_position",
+    "bn_directed_turret_fbf12ff17ca89a07518e537b",
+    "bn_user_laser_rifle_right_E_anchored64_user_E_position"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+      "bg": [
+        "bn_user_laser_rifle_right_N_anchored64",
+        "bn_user_W_bn_user_laser_rifle_left_E_anchored64_user_E_position",
+        "bn_directed_turret_fbf12ff17ca89a07518e537b",
+        "bn_user_laser_rifle_right_E_anchored64_user_E_position"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_user_W_identity_64x64",
+            "bn_user_W_bn_user_laser_rifle_left_E_anchored64_user_E_position_mask",
+            "bn_user_W_identity_64x64",
+            "bn_user_W_identity_64x64"
+          ]
+        }
+      ]
+    }
+  ],
+  "bg": [
+    "bn_user_compact_turret_base_right_N",
+    "bn_user_W_bn_user_compact_turret_base_left_E",
+    "bn_user_compact_turret_base_right_S",
+    "bn_user_compact_turret_base_right_E"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_user_W_identity_64x64",
+        "bn_user_W_bn_user_laser_rifle_left_E_anchored64_user_E_position_mask",
+        "bn_user_W_identity_64x64",
+        "bn_user_W_identity_64x64"
+      ],
+      "bg": [
+        "bn_user_W_identity_64x64",
+        "bn_user_W_bn_user_compact_turret_base_left_E_mask",
+        "bn_user_W_identity_64x64",
+        "bn_user_W_identity_64x64"
+      ]
+    }
+  ]
+}

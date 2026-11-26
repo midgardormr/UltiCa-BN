@@ -1,0 +1,10 @@
+[
+  {
+    "id": "well_pump",
+    "fg": "bn_pump_well_pump"
+  },
+  {
+    "id": "pump_complex",
+    "fg": "bn_pump_pump_complex"
+  }
+]

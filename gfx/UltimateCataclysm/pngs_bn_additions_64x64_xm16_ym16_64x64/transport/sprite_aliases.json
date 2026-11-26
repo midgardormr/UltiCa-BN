@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "bn_directed_floodlight_center_S",
+    "fg": "bn_directed_floodlight_center_S"
+  },
+  {
+    "id": "bn_directed_floodlight_center_S_mask",
+    "fg": "bn_user_E_empty64"
+  },
+  {
+    "id": "bn_directed_floodlight_front_S",
+    "fg": "bn_directed_floodlight_center_S"
+  },
+  {
+    "id": "bn_directed_floodlight_front_S_mask",
+    "fg": "bn_user_E_empty64"
+  },
+  {
+    "id": "bn_directed_floodlight_left_S",
+    "fg": "bn_directed_floodlight_directed_floodlight_left_S"
+  },
+  {
+    "id": "bn_directed_floodlight_left_S_mask",
+    "fg": "bn_user_E_empty64"
+  },
+  {
+    "id": "bn_directed_floodlight_rear_S",
+    "fg": "bn_directed_floodlight_floodlight_rear_S"
+  },
+  {
+    "id": "bn_directed_floodlight_rear_S_mask",
+    "fg": "bn_user_E_empty64"
+  },
+  {
+    "id": "bn_directed_floodlight_right_S",
+    "fg": "bn_directed_floodlight_center_S"
+  },
+  {
+    "id": "bn_directed_floodlight_right_S_mask",
+    "fg": "bn_user_E_empty64"
+  },
+  {
+    "id": "bn_surface_paint_0bc055c46decefd119970367",
+    "fg": "bn_user_W_identity_64x64"
+  },
+  {
+    "id": "bn_surface_paint_2295d89f2cd5536a6919f3ed",
+    "fg": "bn_user_W_bn_user_E_roof_tank_mask"
+  },
+  {
+    "id": "bn_surface_paint_33e12f95591f0f63f11598cf",
+    "fg": "bn_user_W_bn_user_E_directed_floodlight_rear_mask"
+  },
+  {
+    "id": "bn_surface_paint_3768d922085dcc86f554891d",
+    "fg": "bn_user_W_bn_user_flamethrower_rear_E_anchored64_user_E_position_mask"
+  },
+  {
+    "id": "bn_surface_paint_48847f138f73d061fd26cd46",
+    "fg": "bn_user_W_bn_user_E_directed_floodlight_left_mask"
+  },
+  {
+    "id": "bn_surface_paint_56ac0412dbc81c94e2a126f2",
+    "fg": "bn_user_W_bn_user_compact_turret_base_left_E_mask"
+  },
+  {
+    "id": "bn_surface_paint_584a824ec033f572f0bc587f",
+    "fg": "bn_user_W_identity_64x64"
+  },
+  {
+    "id": "bn_surface_paint_5bd9aa7f2c51b74c5a75fcf3",
+    "fg": "bn_user_W_identity_64x64"
+  },
+  {
+    "id": "bn_surface_paint_660afa03a70be6be00a58fb9",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64_mask"
+  },
+  {
+    "id": "bn_surface_paint_70c1b5e3a05568be2125c0ac",
+    "fg": "bn_user_W_identity_64x64"
+  },
+  {
+    "id": "bn_surface_paint_86a8261c551b01d139e077da",
+    "fg": "bn_user_W_bn_user_E_funnel_center_mask"
+  },
+  {
+    "id": "bn_surface_paint_8a9a8aea2adb6ca01d022877",
+    "fg": "bn_user_W_bn_user_flamethrower_center_E_anchored64_user_E_position_mask"
+  },
+  {
+    "id": "bn_surface_paint_95ba1c7d7cca06598a0ddd49",
+    "fg": "bn_user_W_identity_64x64"
+  },
+  {
+    "id": "bn_surface_paint_9c352d64063115feeea3b26c",
+    "fg": "bn_user_W_bn_user_compact_turret_base_center_E_mask"
+  },
+  {
+    "id": "bn_surface_paint_b371d5605703dee741caa2ca",
+    "fg": "bn_user_W_bn_user_compact_turret_base_rear_E_mask"
+  },
+  {
+    "id": "bn_surface_paint_bc363e465e6581d1b019c7d0",
+    "fg": "bn_user_W_bn_user_E_directed_floodlight_right_mask"
+  },
+  {
+    "id": "bn_surface_paint_bd84fa37644b0efb0bbeedf3",
+    "fg": "bn_surface_paint_bd84fa37644b0efb0bbeedf3"
+  },
+  {
+    "id": "bn_surface_paint_e31a6cb60d27c4cfad314115",
+    "fg": "bn_user_W_bn_user_compact_turret_base_right_E_mask"
+  },
+  {
+    "id": "bn_surface_paint_e381935f82e1d23161a2c6c6",
+    "fg": "bn_user_W_identity_64x64"
+  },
+  {
+    "id": "bn_surface_paint_f9088e83e7e92c6f66ab0a52",
+    "fg": "bn_user_W_bn_user_flamethrower_left_E_anchored64_user_E_position_mask"
+  },
+  {
+    "id": "bn_surface_paint_fd62449f5238481b201bc8ab",
+    "fg": "bn_user_W_bn_user_flamethrower_right_E_anchored64_user_E_position_mask"
+  },
+  {
+    "id": "bn_surface_paint_feb8d81c3f744aa6dfb3d931",
+    "fg": "bn_user_W_identity_64x64"
+  },
+  {
+    "id": "bn_user_E_empty64",
+    "fg": "bn_user_E_empty64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_center_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_front_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_left_E_anchored64",
+    "fg": "bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_left_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_rear_E_anchored64",
+    "fg": "bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_rear_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_right_E_anchored64",
+    "fg": "bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_directed_floodlight_right_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_flamethrower_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_center_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_front_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_left_E_anchored64",
+    "fg": "bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_left_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_rear_E_anchored64",
+    "fg": "bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_rear_S_anchored64",
+    "fg": "bn_user_directed_floodlight_rear_N_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_rear_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_right_E_anchored64",
+    "fg": "bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_floodlight_right_W_anchored64",
+    "fg": "bn_user_W_bn_user_directed_floodlight_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_funnel_center_E_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_center_W_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_front_E_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_front_W_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_left_E_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_left_W_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_rear_E_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_rear_W_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_right_E_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_funnel_right_W_anchored64",
+    "fg": "bn_user_E_funnel_center"
+  },
+  {
+    "id": "bn_user_laser_rifle_center_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_center_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_center_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_front_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_front_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_front_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_left_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_left_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_rear_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_rear_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_rear_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_right_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_laser_rifle_right_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_m249_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_m249_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_m249_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_m249_semi_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_abzats_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_bigun_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_browning_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_chemical_thrower_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_center_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_center_S_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_center_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_front_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_front_S_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_front_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_left_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_left_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_rear_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_rear_S_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_rear_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_right_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_coilgun_right_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_center_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_center_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_center_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_front_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_front_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_front_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_left_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_left_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_rear_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_rear_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_rear_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_right_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_emp_gun_right_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_center_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_center_S_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_center_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_front_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_front_S_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_front_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_left_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_left_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_rear_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_rear_S_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_rear_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_right_E_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_hk_g80_right_W_anchored64",
+    "fg": "bn_user_mounted_coilgun_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m134_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m1918_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m240_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_m60_semi_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_mk19_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_center_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_center_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_center_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_front_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_front_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_front_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_left_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_left_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_rear_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_rear_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_rear_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_right_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_plasma_gun_right_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm298_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_mounted_rm614_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_center_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_center_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_center_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_front_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_front_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_front_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_left_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_left_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_rear_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_rear_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_rear_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_right_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_plasma_gun_right_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_tow_launcher_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_turret_base_E_preserved",
+    "fg": "bn_user_turret_base_E_preserved"
+  },
+  {
+    "id": "bn_user_turret_base_W_preserved",
+    "fg": "bn_user_turret_base_W_preserved"
+  },
+  {
+    "id": "bn_user_turret_base_anchored64",
+    "fg": "bn_directed_turret_d51ae6c98c4d2863eae0ee4b"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_center_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_center_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_center_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_front_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_front_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_front_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_left_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_left_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_rear_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_rear_S_anchored64",
+    "fg": "bn_user_laser_rifle_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_rear_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_right_E_anchored64",
+    "fg": "bn_user_laser_rifle_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_ups_rifle_t_right_W_anchored64",
+    "fg": "bn_user_laser_rifle_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_vp_afs_roof_external_tank_E_anchored64",
+    "fg": "bn_user_vp_afs_roof_external_tank_E_anchored64"
+  },
+  {
+    "id": "bn_user_vp_afs_roof_external_tank_W_anchored64",
+    "fg": "bn_user_vp_afs_roof_external_tank_E_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_center_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_center_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_center_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_front_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_front_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_front_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_left_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_left_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_rear_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_rear_S_anchored64",
+    "fg": "bn_user_flamethrower_center_N_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_rear_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_right_E_anchored64",
+    "fg": "bn_user_flamethrower_center_E_anchored64"
+  },
+  {
+    "id": "bn_user_watercannon_right_W_anchored64",
+    "fg": "bn_user_flamethrower_center_W_anchored64"
+  },
+  {
+    "id": "bn_user_wind_turbine_center_E_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_center_W_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_front_E_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_front_W_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_left_E_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_left_W_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_rear_E_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_rear_W_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_right_E_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  },
+  {
+    "id": "bn_user_wind_turbine_right_W_anchored64",
+    "fg": "bn_user_E_wind_turbine_center"
+  }
+]

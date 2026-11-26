@@ -1,0 +1,16 @@
+{
+  "id": "wizardtower1_ground",
+  "fg": [
+    "wizard_tower1_rot_N",
+    "wizard_tower1_rot_W",
+    "wizard_tower1_rot_S",
+    "wizard_tower1_rot_E"
+  ],
+  "bg": [
+    "field_large",
+    "field_large",
+    "field_large",
+    "field_large"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_van_s_cab_frame_right",
+  "fg": [
+    "bn_van_s_cab_frame_right",
+    "bn_van_s_cab_frame_right",
+    "bn_van_s_cab_frame_right",
+    "bn_van_s_cab_frame_right"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_f226bfad3f2b03aa00cec37e",
+        "bn_surface_paint_f226bfad3f2b03aa00cec37e",
+        "bn_surface_paint_f226bfad3f2b03aa00cec37e",
+        "bn_surface_paint_f226bfad3f2b03aa00cec37e"
+      ]
+    }
+  ]
+}

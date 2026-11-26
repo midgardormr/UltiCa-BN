@@ -1,0 +1,16 @@
+{
+  "id": "mansion_c3u",
+  "fg": [
+    "mansion_NW",
+    "mansion_SW",
+    "mansion_SE",
+    "mansion_NE"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

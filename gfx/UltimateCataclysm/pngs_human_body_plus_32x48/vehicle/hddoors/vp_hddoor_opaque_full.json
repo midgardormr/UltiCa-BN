@@ -16,16 +16,60 @@
           "vp_hddoor_opaque_left_open_rotE",
           "vp_hddoor_opaque_left_open_rotS",
           "vp_hddoor_opaque_left_open_rotW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_3c660d19d9454976aa05a3f7",
+              "bn_surface_paint_c3e499c2ec8fd219cbc218d6",
+              "bn_surface_paint_b5de3b599cdc74d9b0ae23d1",
+              "bn_surface_paint_d2f4f41cffabe179eb203e31"
+            ]
+          }
         ]
       },
       {
         "id": "broken",
-        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "fg": [
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48"
+        ],
         "bg": [
           "vp_hddoor_opaque_left_open_rotN",
           "vp_hddoor_opaque_left_open_rotE",
           "vp_hddoor_opaque_left_open_rotS",
           "vp_hddoor_opaque_left_open_rotW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "bg": [
+              "bn_surface_paint_3c660d19d9454976aa05a3f7",
+              "bn_surface_paint_c3e499c2ec8fd219cbc218d6",
+              "bn_surface_paint_b5de3b599cdc74d9b0ae23d1",
+              "bn_surface_paint_d2f4f41cffabe179eb203e31"
+            ],
+            "fg": [
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_a4029c191a684e2b4ed28240",
+          "bn_surface_paint_6c34443dc6158de74a45e606",
+          "bn_surface_paint_547778aba279f3caab7a4158",
+          "bn_surface_paint_3ffeb47b53cd1c7cdf1fa8bb"
         ]
       }
     ]
@@ -35,7 +79,7 @@
     "fg": [
       "vp_hddoor_opaque_right_rotN",
       "vp_hddoor_opaque_right_rotE",
-      "vp_hddoor_opaque_right_rotS",
+      "bn_user_right_opaque_door_closed_S_native",
       "vp_hddoor_opaque_right_rotW"
     ],
     "multitile": true,
@@ -45,18 +89,62 @@
         "fg": [
           "vp_hddoor_opaque_right_open_rotN",
           "vp_hddoor_opaque_right_open_rotE",
-          "vp_hddoor_opaque_right_open_rotS",
+          "bn_user_right_opaque_door_open_S_native",
           "vp_hddoor_opaque_right_open_rotW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_6f3bcbc0af240b2ce20c59ef",
+              "bn_surface_paint_a80572c70ee4cb631ad96fc8",
+              "bn_door_material_mask_bn_user_right_opaque_door_open_S_native",
+              "bn_surface_paint_4128b00db1ca0b8cf2beb3a6"
+            ]
+          }
         ]
       },
       {
         "id": "broken",
-        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "fg": [
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48"
+        ],
         "bg": [
           "vp_hddoor_opaque_right_open_rotN",
           "vp_hddoor_opaque_right_open_rotE",
-          "vp_hddoor_opaque_right_open_rotS",
+          "bn_user_right_opaque_door_open_S_native",
           "vp_hddoor_opaque_right_open_rotW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "bg": [
+              "bn_surface_paint_6f3bcbc0af240b2ce20c59ef",
+              "bn_surface_paint_a80572c70ee4cb631ad96fc8",
+              "bn_door_material_mask_bn_user_right_opaque_door_open_S_native",
+              "bn_surface_paint_4128b00db1ca0b8cf2beb3a6"
+            ],
+            "fg": [
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_1b71011d9104ab9ceab6a5d2",
+          "bn_surface_paint_4adda3228cd1a3bbf3adaf21",
+          "bn_door_material_mask_bn_user_right_opaque_door_closed_S_native",
+          "bn_surface_paint_017688171bffc6cc192758d2"
         ]
       }
     ]

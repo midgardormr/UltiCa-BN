@@ -1,0 +1,20 @@
+{
+  "fg": [
+    "bn_roof_lamp_f627ca4c2c322f15db2615",
+    "bn_roof_lamp_f627ca4c2c322f15db2615",
+    "bn_roof_lamp_f627ca4c2c322f15db2615",
+    "bn_roof_lamp_f627ca4c2c322f15db2615"
+  ],
+  "id": "vp_bn_wheel_anchor_short_rear",
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_dcd7b45a56b45e4a55def015",
+        "bn_surface_paint_dcd7b45a56b45e4a55def015",
+        "bn_surface_paint_dcd7b45a56b45e4a55def015",
+        "bn_surface_paint_dcd7b45a56b45e4a55def015"
+      ]
+    }
+  ]
+}

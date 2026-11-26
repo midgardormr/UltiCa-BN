@@ -1,0 +1,44 @@
+{
+  "id": "vp_bn_user_floodlight_rear",
+  "fg": [
+    "bn_user_directed_floodlight_rear_N_anchored64",
+    "bn_user_W_bn_user_E_floodlight_rear",
+    "bn_user_rear_floodlight_S_native",
+    "bn_user_E_floodlight_rear"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+      "bg": [
+        "bn_user_directed_floodlight_rear_N_anchored64",
+        "bn_user_W_bn_user_E_floodlight_rear",
+        "bn_user_rear_floodlight_S_native",
+        "bn_user_E_floodlight_rear"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_user_W_identity_64x64",
+            "bn_user_W_bn_user_E_floodlight_rear_mask",
+            "bn_surface_paint_bd84fa37644b0efb0bbeedf3",
+            "bn_user_W_identity_64x64"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_user_W_identity_64x64",
+        "bn_user_W_bn_user_E_floodlight_rear_mask",
+        "bn_surface_paint_bd84fa37644b0efb0bbeedf3",
+        "bn_user_W_identity_64x64"
+      ]
+    }
+  ]
+}

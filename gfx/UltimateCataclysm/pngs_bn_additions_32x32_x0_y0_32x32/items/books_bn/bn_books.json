@@ -1,0 +1,695 @@
+[
+  {
+    "id": "story_book",
+    "fg": "bn_book_story_book"
+  },
+  {
+    "id": "textbook_archery",
+    "fg": "bn_book_textbook_archery"
+  },
+  {
+    "id": "textbook_business",
+    "fg": "bn_book_textbook_business"
+  },
+  {
+    "id": "computer_science",
+    "fg": "bn_book_computer_science"
+  },
+  {
+    "id": "sa_cryptology_key",
+    "fg": "bn_book_sa_cryptology_key"
+  },
+  {
+    "id": "reference_cooking",
+    "fg": "bn_book_reference_cooking"
+  },
+  {
+    "id": "textbook_chemistry",
+    "fg": "bn_book_textbook_chemistry"
+  },
+  {
+    "id": "manual_dodge",
+    "fg": "bn_book_manual_dodge"
+  },
+  {
+    "id": "textbook_dodge",
+    "fg": "bn_book_textbook_dodge"
+  },
+  {
+    "id": "carpentry_book",
+    "fg": "bn_book_carpentry_book"
+  },
+  {
+    "id": "reference_firstaid1",
+    "fg": "bn_book_reference_firstaid1"
+  },
+  {
+    "id": "reference_firstaid2",
+    "fg": "bn_book_reference_firstaid2"
+  },
+  {
+    "id": "textbook_tailor",
+    "fg": "bn_book_textbook_tailor"
+  },
+  {
+    "id": "textbook_speech",
+    "fg": "bn_book_textbook_speech"
+  },
+  {
+    "id": "baking_book",
+    "fg": "bn_book_baking_book"
+  },
+  {
+    "id": "fermenting_book",
+    "fg": "bn_book_fermenting_book"
+  },
+  {
+    "id": "cookbook_indian",
+    "fg": "bn_book_cookbook_indian"
+  },
+  {
+    "id": [
+      "encyclopedia_mechanics",
+      "encyclopedia_mechanics_advance"
+    ],
+    "fg": "bn_book_encyclopedia_mechanics"
+  },
+  {
+    "id": [
+      "encyclopedia_fabrication",
+      "encyclopedia_fabrication_advance"
+    ],
+    "fg": "bn_book_encyclopedia_fabrication"
+  },
+  {
+    "id": [
+      "encyclopedia_archery",
+      "encyclopedia_archery_advance"
+    ],
+    "fg": "bn_book_encyclopedia_archery"
+  },
+  {
+    "id": [
+      "encyclopedia_barter",
+      "encyclopedia_barter_advance"
+    ],
+    "fg": "bn_book_encyclopedia_barter"
+  },
+  {
+    "id": [
+      "encyclopedia_bashing",
+      "encyclopedia_bashing_advance"
+    ],
+    "fg": "bn_book_encyclopedia_bashing"
+  },
+  {
+    "id": [
+      "encyclopedia_computer",
+      "encyclopedia_computer_advance"
+    ],
+    "fg": "bn_book_encyclopedia_computer"
+  },
+  {
+    "id": [
+      "encyclopedia_cooking",
+      "encyclopedia_cooking_advance"
+    ],
+    "fg": "bn_book_encyclopedia_cooking"
+  },
+  {
+    "id": [
+      "encyclopedia_cutting",
+      "encyclopedia_cutting_advance"
+    ],
+    "fg": "bn_book_encyclopedia_cutting"
+  },
+  {
+    "id": [
+      "encyclopedia_dodge",
+      "encyclopedia_dodge_advance"
+    ],
+    "fg": "bn_book_encyclopedia_dodge"
+  },
+  {
+    "id": [
+      "encyclopedia_driving",
+      "encyclopedia_driving_advance"
+    ],
+    "fg": "bn_book_encyclopedia_driving"
+  },
+  {
+    "id": [
+      "encyclopedia_electronics",
+      "encyclopedia_electronics_advance"
+    ],
+    "fg": "bn_book_encyclopedia_electronics"
+  },
+  {
+    "id": [
+      "encyclopedia_firstaid",
+      "encyclopedia_firstaid_advance"
+    ],
+    "fg": "bn_book_encyclopedia_firstaid"
+  },
+  {
+    "id": [
+      "encyclopedia_gun",
+      "encyclopedia_gun_advance"
+    ],
+    "fg": "bn_book_encyclopedia_gun"
+  },
+  {
+    "id": [
+      "encyclopedia_launcher",
+      "encyclopedia_launcher_advance"
+    ],
+    "fg": "bn_book_encyclopedia_launcher"
+  },
+  {
+    "id": [
+      "encyclopedia_melee",
+      "encyclopedia_melee_advance"
+    ],
+    "fg": "bn_book_encyclopedia_melee"
+  },
+  {
+    "id": [
+      "encyclopedia_pistol",
+      "encyclopedia_pistol_advance"
+    ],
+    "fg": "bn_book_encyclopedia_pistol"
+  },
+  {
+    "id": [
+      "encyclopedia_rifle",
+      "encyclopedia_rifle_advance"
+    ],
+    "fg": "bn_book_encyclopedia_rifle"
+  },
+  {
+    "id": [
+      "encyclopedia_shotgun",
+      "encyclopedia_shotgun_advance"
+    ],
+    "fg": "bn_book_encyclopedia_shotgun"
+  },
+  {
+    "id": [
+      "encyclopedia_smg",
+      "encyclopedia_smg_advance"
+    ],
+    "fg": "bn_book_encyclopedia_smg"
+  },
+  {
+    "id": [
+      "encyclopedia_speech",
+      "encyclopedia_speech_advance"
+    ],
+    "fg": "bn_book_encyclopedia_speech"
+  },
+  {
+    "id": [
+      "encyclopedia_stabbing",
+      "encyclopedia_stabbing_advance"
+    ],
+    "fg": "bn_book_encyclopedia_stabbing"
+  },
+  {
+    "id": [
+      "encyclopedia_survival",
+      "encyclopedia_survival_advance"
+    ],
+    "fg": "bn_book_encyclopedia_survival"
+  },
+  {
+    "id": [
+      "encyclopedia_swimming",
+      "encyclopedia_swimming_advance"
+    ],
+    "fg": "bn_book_encyclopedia_swimming"
+  },
+  {
+    "id": [
+      "encyclopedia_tailor",
+      "encyclopedia_tailor_advance"
+    ],
+    "fg": "bn_book_encyclopedia_tailor"
+  },
+  {
+    "id": [
+      "encyclopedia_throw",
+      "encyclopedia_throw_advance"
+    ],
+    "fg": "bn_book_encyclopedia_throw"
+  },
+  {
+    "id": [
+      "encyclopedia_traps",
+      "encyclopedia_traps_advance"
+    ],
+    "fg": "bn_book_encyclopedia_traps"
+  },
+  {
+    "id": [
+      "encyclopedia_unarmed",
+      "encyclopedia_unarmed_advance"
+    ],
+    "fg": "bn_book_encyclopedia_unarmed"
+  },
+  {
+    "id": "sq_recipe_book_vertigon",
+    "fg": "bn_book_sq_recipe_book_vertigon"
+  },
+  {
+    "id": "vinegar_maker",
+    "fg": "bn_book_vinegar_maker"
+  },
+  {
+    "id": "encyclopedia_arcana",
+    "fg": "bn_book_encyclopedia_arcana"
+  },
+  {
+    "id": "manual_business",
+    "fg": "bn_book_manual_business"
+  },
+  {
+    "id": "howto_computer",
+    "fg": "bn_book_howto_computer"
+  },
+  {
+    "id": "manual_computers",
+    "fg": "bn_book_manual_computers"
+  },
+  {
+    "id": "concrete_book",
+    "fg": "bn_book_concrete_book"
+  },
+  {
+    "id": "reference_fabrication1",
+    "fg": "bn_book_reference_fabrication1"
+  },
+  {
+    "id": "reference_aircraft",
+    "fg": "bn_book_reference_aircraft"
+  },
+  {
+    "id": "manual_speech",
+    "fg": "bn_book_manual_speech"
+  },
+  {
+    "id": "manual_throw",
+    "fg": "bn_book_manual_throw"
+  },
+  {
+    "id": "textbook_bashing",
+    "fg": "bn_book_textbook_bashing"
+  },
+  {
+    "id": "textbook_cutting",
+    "fg": "bn_book_textbook_cutting"
+  },
+  {
+    "id": "textbook_melee",
+    "fg": "bn_book_textbook_melee"
+  },
+  {
+    "id": "manual_stabbing",
+    "fg": "bn_book_manual_stabbing"
+  },
+  {
+    "id": "textbook_stabbing",
+    "fg": "bn_book_textbook_stabbing"
+  },
+  {
+    "id": "textbook_brawl",
+    "fg": "bn_book_textbook_brawl"
+  },
+  {
+    "id": "manual_bashing",
+    "fg": "bn_book_manual_bashing"
+  },
+  {
+    "id": "manual_cutting",
+    "fg": "bn_book_manual_cutting"
+  },
+  {
+    "id": "mag_bashing",
+    "fg": "bn_book_mag_bashing"
+  },
+  {
+    "id": "mag_unarmed",
+    "fg": "bn_book_mag_unarmed"
+  },
+  {
+    "id": "mag_melee",
+    "fg": "bn_book_mag_melee"
+  },
+  {
+    "id": "mag_cutting",
+    "fg": "bn_book_mag_cutting"
+  },
+  {
+    "id": "mag_stabbing",
+    "fg": "bn_book_mag_stabbing"
+  },
+  {
+    "id": "mag_throwing",
+    "fg": "bn_book_mag_throwing"
+  },
+  {
+    "id": "mag_barter",
+    "fg": "bn_book_mag_barter"
+  },
+  {
+    "id": "mag_computer",
+    "fg": "bn_book_mag_computer"
+  },
+  {
+    "id": "mag_dodge",
+    "fg": "bn_book_mag_dodge"
+  },
+  {
+    "id": "mag_cars",
+    "fg": "bn_book_mag_cars"
+  },
+  {
+    "id": "mag_carpentry",
+    "fg": "bn_book_mag_carpentry"
+  },
+  {
+    "id": "mag_firstaid",
+    "fg": "bn_book_mag_firstaid"
+  },
+  {
+    "id": "mag_comic",
+    "fg": "bn_book_mag_comic"
+  },
+  {
+    "id": "mag_gaming",
+    "fg": "bn_book_mag_gaming"
+  },
+  {
+    "id": "mag_porn",
+    "fg": "bn_book_mag_porn"
+  },
+  {
+    "id": "mag_tv",
+    "fg": "bn_book_mag_tv"
+  },
+  {
+    "id": "mag_dude",
+    "fg": "bn_book_mag_dude"
+  },
+  {
+    "id": "novel_crime_murdergrape",
+    "fg": "bn_book_novel_crime_murdergrape"
+  },
+  {
+    "id": "novel_spy_comefly",
+    "fg": "bn_book_novel_spy_comefly"
+  },
+  {
+    "id": "novel_spy_rocketsci",
+    "fg": "bn_book_novel_spy_rocketsci"
+  },
+  {
+    "id": "visions_solitude",
+    "fg": "bn_book_visions_solitude"
+  },
+  {
+    "id": "essay_book",
+    "fg": "bn_book_essay_book"
+  },
+  {
+    "id": "fairy_tales",
+    "fg": "bn_book_fairy_tales"
+  },
+  {
+    "id": "plays_book",
+    "fg": "bn_book_plays_book"
+  },
+  {
+    "id": "poetry_book",
+    "fg": "bn_book_poetry_book"
+  },
+  {
+    "id": "tall_tales",
+    "fg": "bn_book_tall_tales"
+  },
+  {
+    "id": "classic_literature",
+    "fg": "bn_book_classic_literature"
+  },
+  {
+    "id": "afs_librarian_book",
+    "fg": "bn_book_afs_librarian_book"
+  },
+  {
+    "id": "child_book",
+    "fg": "bn_book_child_book"
+  },
+  {
+    "id": "collector_book",
+    "fg": "bn_book_collector_book"
+  },
+  {
+    "id": "offalcooking",
+    "fg": "bn_book_offalcooking"
+  },
+  {
+    "id": "dairy_book",
+    "fg": "bn_book_dairy_book"
+  },
+  {
+    "id": "winemaking_beginner",
+    "fg": "bn_book_winemaking_beginner"
+  },
+  {
+    "id": "distilling_cookbook",
+    "fg": "bn_book_distilling_cookbook"
+  },
+  {
+    "id": "sweets_book",
+    "fg": "bn_book_sweets_book"
+  },
+  {
+    "id": "survivalflavor_book",
+    "fg": "bn_book_survivalflavor_book"
+  },
+  {
+    "id": "guidebook",
+    "fg": "bn_book_guidebook"
+  },
+  {
+    "id": "ZSG",
+    "fg": "bn_book_ZSG"
+  },
+  {
+    "id": "decoy_anarch",
+    "fg": "bn_book_decoy_anarch"
+  },
+  {
+    "id": "101_carpentry",
+    "fg": "bn_book_101_carpentry"
+  },
+  {
+    "id": "booklet_firstaid",
+    "fg": "bn_book_booklet_firstaid"
+  },
+  {
+    "id": "book_lockpick",
+    "fg": "bn_book_book_lockpick"
+  },
+  {
+    "id": "dnd_handbook",
+    "fg": "bn_book_dnd_handbook"
+  },
+  {
+    "id": "holybook_bible1",
+    "fg": "bn_book_holybook_bible1"
+  },
+  {
+    "id": "holybook_bible3",
+    "fg": "bn_book_holybook_bible3"
+  },
+  {
+    "id": "philosophy_book",
+    "fg": "bn_book_philosophy_book"
+  },
+  {
+    "id": "phonebook",
+    "fg": "bn_book_phonebook"
+  },
+  {
+    "id": "textbook_computer",
+    "fg": "bn_book_textbook_computer"
+  },
+  {
+    "id": "textbook_fabrication",
+    "fg": "bn_book_textbook_fabrication"
+  },
+  {
+    "id": "textbook_survival",
+    "fg": "bn_book_textbook_survival"
+  },
+  {
+    "id": "recipe_lab_cvd",
+    "fg": "bn_book_recipe_lab_cvd"
+  },
+  {
+    "id": "textbook_atomic_lab",
+    "fg": "bn_book_textbook_atomic_lab"
+  },
+  {
+    "id": "manual_psionics_advan",
+    "fg": "bn_book_manual_psionics_advan"
+  },
+  {
+    "id": "note_mutagen_conspiracy",
+    "fg": "bn_book_note_mutagen_conspiracy"
+  },
+  {
+    "id": "recipe_mil_augs",
+    "fg": "bn_book_recipe_mil_augs"
+  },
+  {
+    "id": "schematics_teleportation",
+    "fg": "bn_book_schematics_teleportation"
+  },
+  {
+    "id": "phavian_noetic_resonance_detector_instructions",
+    "fg": "bn_book_phavian_noetic_resonance_detector_instructions"
+  },
+  {
+    "id": "black_box_transcript",
+    "fg": "bn_book_black_box_transcript"
+  },
+  {
+    "id": "commune_prospectus",
+    "fg": "bn_book_commune_prospectus"
+  },
+  {
+    "id": "decoy_elfa",
+    "fg": "bn_book_decoy_elfa"
+  },
+  {
+    "id": "necropolis_freq",
+    "fg": "bn_book_necropolis_freq"
+  },
+  {
+    "id": "necropolis_datasheet",
+    "fg": "bn_book_necropolis_datasheet"
+  },
+  {
+    "id": "classified_file_docmission",
+    "fg": "bn_book_classified_file_docmission"
+  },
+  {
+    "id": "record_accounting",
+    "fg": "bn_book_record_accounting"
+  },
+  {
+    "id": "textbook_extraction",
+    "fg": "bn_book_textbook_extraction"
+  },
+  {
+    "id": "cookbook_human",
+    "fg": "bn_book_cookbook_human"
+  },
+  {
+    "id": "book_bloodmagic",
+    "fg": "bn_book_book_bloodmagic"
+  },
+  {
+    "id": "bulette_bullet_theory",
+    "fg": "bn_book_bulette_bullet_theory"
+  },
+  {
+    "id": "millyficents_diary",
+    "fg": "bn_book_millyficents_diary"
+  },
+  {
+    "id": "manual_brawl",
+    "fg": "bn_book_manual_brawl"
+  },
+  {
+    "id": "manual_carpentry",
+    "fg": "bn_book_manual_carpentry"
+  },
+  {
+    "id": "manual_dodge_kid",
+    "fg": "bn_book_manual_dodge_kid"
+  },
+  {
+    "id": "manual_driving",
+    "fg": "bn_book_manual_driving"
+  },
+  {
+    "id": "manual_melee",
+    "fg": "bn_book_manual_melee"
+  },
+  {
+    "id": "record_weather",
+    "fg": "bn_book_record_weather"
+  },
+  {
+    "id": "manual_barbaran",
+    "fg": "bn_book_manual_barbaran"
+  },
+  {
+    "id": "manual_kickboxing",
+    "fg": "bn_book_manual_kickboxing"
+  },
+  {
+    "id": "book_scrollcraft",
+    "fg": "bn_book_book_scrollcraft"
+  },
+  {
+    "id": "evil_invitation",
+    "fg": "bn_book_evil_invitation"
+  },
+  {
+    "id": "omnitech_weapon_ups_manual",
+    "fg": "bn_book_omnitech_weapon_ups_manual"
+  },
+  {
+    "id": "black_dragons",
+    "fg": "bn_book_black_dragons"
+  },
+  {
+    "id": "alchemy_basic",
+    "fg": "bn_book_alchemy_basic"
+  },
+  {
+    "id": "necro_basic",
+    "fg": "bn_book_necro_basic"
+  },
+  {
+    "id": "book_mythological",
+    "fg": "bn_book_book_mythological"
+  },
+  {
+    "id": "cooking_poison",
+    "fg": "bn_book_cooking_poison"
+  },
+  {
+    "id": "metal_legends",
+    "fg": "bn_book_metal_legends"
+  },
+  {
+    "id": "magic_armormaking",
+    "fg": "bn_book_magic_armormaking"
+  },
+  {
+    "id": "recipe_survivor_matrix_crystal_ground",
+    "fg": "bn_book_recipe_survivor_matrix_crystal_ground"
+  },
+  {
+    "id": "sugarkin_flyer",
+    "fg": "bn_book_sugarkin_flyer"
+  },
+  {
+    "id": "recipe_fox",
+    "fg": "bn_book_recipe_fox"
+  }
+]

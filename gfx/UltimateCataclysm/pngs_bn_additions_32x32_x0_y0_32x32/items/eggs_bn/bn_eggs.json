@@ -1,0 +1,138 @@
+[
+  {
+    "id": "egg_bird",
+    "fg": "bn_egg_egg_bird"
+  },
+  {
+    "id": "egg_bird_unfert",
+    "fg": "bn_egg_egg_bird"
+  },
+  {
+    "id": "egg_dino_theropod",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_dino_theropod_small",
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": "egg_dino_theropod_large",
+    "fg": "bn_egg_egg_dino_large"
+  },
+  {
+    "id": "egg_coelophysis",
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": "egg_dilophosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_ceratosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_spinosaurus",
+    "fg": "bn_egg_egg_dino_large"
+  },
+  {
+    "id": "egg_torvosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_allosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_acrocanthosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_siats",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_dryptosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_appalachiosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_gorgosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_albertosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_qianzhousaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_nanuqsaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_daspletosaurus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_tyrannosaurus",
+    "fg": "bn_egg_egg_dino_large"
+  },
+  {
+    "id": "egg_compsognathus",
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": "egg_gallimimus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_struthiomimus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_ornithomimus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_albertonykus",
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": "egg_nothronychus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_anzu",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_saurornitholestes",
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": "egg_velociraptor",
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": "egg_deinonychus",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_utahraptor",
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": "egg_dromaeosaurus",
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": "egg_stenonychosaurus",
+    "fg": "bn_egg_egg_dino_small"
+  }
+]

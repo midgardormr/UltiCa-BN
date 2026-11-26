@@ -1,0 +1,16 @@
+{
+  "id": "horse_farm_isherwood_7_hayloft",
+  "fg": [
+    "barn_faceNS",
+    "barn_faceEW",
+    "barn_faceNS",
+    "barn_faceEW"
+  ],
+  "bg": [
+    "open_air",
+    "open_air",
+    "open_air",
+    "open_air"
+  ],
+  "rotates": true
+}

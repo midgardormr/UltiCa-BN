@@ -1,0 +1,76 @@
+[
+  {
+    "id": [
+      "urban_32_1",
+      "urban_32_5",
+      "urban_32_9",
+      "urban_32_13",
+      "urban_32_17"
+    ],
+    "fg": [
+      "bn_fire_station_q0_north",
+      "bn_fire_station_q0_west",
+      "bn_fire_station_q0_south",
+      "bn_fire_station_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_32_2",
+      "urban_32_6",
+      "urban_32_10",
+      "urban_32_14",
+      "urban_32_18"
+    ],
+    "fg": [
+      "bn_fire_station_q1_north",
+      "bn_fire_station_q1_west",
+      "bn_fire_station_q1_south",
+      "bn_fire_station_q1_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_32_3",
+      "urban_32_7",
+      "urban_32_11",
+      "urban_32_15",
+      "urban_32_19"
+    ],
+    "fg": [
+      "bn_fire_station_q2_north",
+      "bn_fire_station_q2_west",
+      "bn_fire_station_q2_south",
+      "bn_fire_station_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_32_4",
+      "urban_32_8",
+      "urban_32_12",
+      "urban_32_16",
+      "urban_32_20"
+    ],
+    "fg": [
+      "bn_fire_station_q3_north",
+      "bn_fire_station_q3_west",
+      "bn_fire_station_q3_south",
+      "bn_fire_station_q3_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "urban_32_21",
+    "fg": [
+      "bn_fire_station_tower_north",
+      "bn_fire_station_tower_west",
+      "bn_fire_station_tower_south",
+      "bn_fire_station_tower_east"
+    ],
+    "rotates": true
+  }
+]

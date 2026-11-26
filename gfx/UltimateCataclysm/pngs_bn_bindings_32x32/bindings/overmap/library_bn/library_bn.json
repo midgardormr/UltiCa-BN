@@ -1,0 +1,58 @@
+[
+  {
+    "id": [
+      "urban_41_1",
+      "urban_41_5",
+      "urban_41_9"
+    ],
+    "fg": [
+      "bn_library_q0_north",
+      "bn_library_q0_west",
+      "bn_library_q0_south",
+      "bn_library_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_41_2",
+      "urban_41_6",
+      "urban_41_10"
+    ],
+    "fg": [
+      "bn_library_q1_north",
+      "bn_library_q1_west",
+      "bn_library_q1_south",
+      "bn_library_q1_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_41_3",
+      "urban_41_7",
+      "urban_41_11"
+    ],
+    "fg": [
+      "bn_library_q2_north",
+      "bn_library_q2_west",
+      "bn_library_q2_south",
+      "bn_library_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_41_4",
+      "urban_41_8",
+      "urban_41_12"
+    ],
+    "fg": [
+      "bn_library_q3_north",
+      "bn_library_q3_west",
+      "bn_library_q3_south",
+      "bn_library_q3_east"
+    ],
+    "rotates": true
+  }
+]

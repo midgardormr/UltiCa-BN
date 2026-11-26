@@ -1,0 +1,11 @@
+{
+  "id": "small_wooded_trail",
+  "fg": [
+    "small_wooded_trail_rot_N",
+    "small_wooded_trail_rot_W",
+    "small_wooded_trail_rot_S",
+    "small_wooded_trail_rot_E"
+  ],
+  "bg": "field",
+  "rotates": true
+}

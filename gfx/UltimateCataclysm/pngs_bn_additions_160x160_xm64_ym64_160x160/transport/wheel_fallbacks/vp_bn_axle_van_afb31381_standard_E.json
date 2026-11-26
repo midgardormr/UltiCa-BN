@@ -1,0 +1,49 @@
+{
+  "id": "vp_bn_axle_van_afb31381_standard_E",
+  "fg": [
+    "bn_axle_van_afb31381_rail_E_base_fg",
+    "bn_axle_van_afb31381_rail_E_base_fg",
+    "bn_axle_van_afb31381_rail_E_base_fg",
+    "bn_axle_van_afb31381_rail_E_base_fg"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_axle_van_afb31381_rail_E_base_fg",
+        "bn_axle_van_afb31381_rail_E_base_fg",
+        "bn_axle_van_afb31381_rail_E_base_fg",
+        "bn_axle_van_afb31381_rail_E_base_fg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_axle_van_afb31381_rail_E_base_fg_mask",
+            "bn_axle_van_afb31381_rail_E_base_fg_mask",
+            "bn_axle_van_afb31381_rail_E_base_fg_mask",
+            "bn_axle_van_afb31381_rail_E_base_fg_mask"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_axle_van_afb31381_rail_E_base_fg_mask",
+        "bn_axle_van_afb31381_rail_E_base_fg_mask",
+        "bn_axle_van_afb31381_rail_E_base_fg_mask",
+        "bn_axle_van_afb31381_rail_E_base_fg_mask"
+      ]
+    }
+  ]
+}

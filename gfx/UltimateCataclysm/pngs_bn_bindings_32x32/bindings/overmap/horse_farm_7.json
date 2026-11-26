@@ -1,0 +1,11 @@
+{
+  "id": "horse_farm_7",
+  "fg": [
+    "barn_faceNS",
+    "barn_faceEW",
+    "barn_faceNS",
+    "barn_faceEW"
+  ],
+  "bg": "field",
+  "rotates": true
+}

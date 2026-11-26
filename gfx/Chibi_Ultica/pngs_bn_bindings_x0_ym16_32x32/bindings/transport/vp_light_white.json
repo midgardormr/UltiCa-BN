@@ -1,0 +1,39 @@
+{
+  "id": "vp_light_white",
+  "fg": [
+    "vp_light_white",
+    "vp_light_white_rotWE"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center_32x48",
+      "bg": [
+        "vp_light_white",
+        "vp_light_white_rotWE"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_e889462ab1aaa19c286a99a2"
+          ],
+          "bg": [
+            "bn_surface_paint_03a5d1fe82f19f124921237a",
+            "bn_surface_paint_fd676dadd07aea5c31774afa"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_03a5d1fe82f19f124921237a",
+        "bn_surface_paint_fd676dadd07aea5c31774afa"
+      ]
+    }
+  ]
+}

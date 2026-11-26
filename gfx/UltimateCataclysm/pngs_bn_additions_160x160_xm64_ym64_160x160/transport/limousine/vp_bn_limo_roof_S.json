@@ -1,0 +1,27 @@
+{
+  "id": "vp_bn_limo_roof_S",
+  "fg": [
+    "bn_limo_roof_N",
+    "bn_limo_roof_N",
+    "bn_limo_roof_N",
+    "bn_limo_roof_N"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_limo_roof_N",
+        "bn_limo_roof_N",
+        "bn_limo_roof_N",
+        "bn_limo_roof_N"
+      ]
+    }
+  ]
+}

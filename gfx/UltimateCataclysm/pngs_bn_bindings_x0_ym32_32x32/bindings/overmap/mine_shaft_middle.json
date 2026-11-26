@@ -1,0 +1,16 @@
+{
+  "id": "mine_shaft_middle",
+  "fg": [
+    "mine_N_1",
+    "mine_W_1",
+    "mine_S_1",
+    "mine_E_1"
+  ],
+  "bg": [
+    "t_dirt_center3_tall",
+    "t_dirt_center3_tall",
+    "t_dirt_center3_tall",
+    "t_dirt_center3_tall"
+  ],
+  "rotates": true
+}

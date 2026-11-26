@@ -1,0 +1,67 @@
+{
+  "id": "vp_bn_van_west_glass_middle_roof_damaged",
+  "fg": [
+    "bn_van_west_glass_middle_roof_damaged",
+    "bn_van_west_glass_middle_roof_damaged",
+    "bn_van_west_glass_middle_roof_damaged",
+    "bn_van_west_glass_middle_roof_damaged"
+  ],
+  "bg": [
+    "bn_van_west_glass_middle_body",
+    "bn_van_west_glass_middle_body",
+    "bn_van_west_glass_middle_body",
+    "bn_van_west_glass_middle_body"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_van_west_glass_middle_both_damaged",
+        "bn_van_west_glass_middle_both_damaged",
+        "bn_van_west_glass_middle_both_damaged",
+        "bn_van_west_glass_middle_both_damaged"
+      ],
+      "bg": [
+        "bn_van_west_glass_middle_body",
+        "bn_van_west_glass_middle_body",
+        "bn_van_west_glass_middle_body",
+        "bn_van_west_glass_middle_body"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e"
+          ],
+          "fg": [
+            "bn_surface_paint_3c376b24be24f3803b4f5a67",
+            "bn_surface_paint_3c376b24be24f3803b4f5a67",
+            "bn_surface_paint_3c376b24be24f3803b4f5a67",
+            "bn_surface_paint_3c376b24be24f3803b4f5a67"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "bg": [
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e"
+      ],
+      "fg": [
+        "bn_surface_paint_a0d4234635b3c3f4f864543c",
+        "bn_surface_paint_a0d4234635b3c3f4f864543c",
+        "bn_surface_paint_a0d4234635b3c3f4f864543c",
+        "bn_surface_paint_a0d4234635b3c3f4f864543c"
+      ]
+    }
+  ]
+}

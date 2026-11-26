@@ -1,6 +1,11 @@
 [
   {
-    "id": [ "compbow", "compbow_high", "compbow_low" ],
+    "id": [
+      "compbow",
+      "compbow_high",
+      "compbow_low",
+      "reach_bow"
+    ],
     "fg": "compbow"
   }
 ]

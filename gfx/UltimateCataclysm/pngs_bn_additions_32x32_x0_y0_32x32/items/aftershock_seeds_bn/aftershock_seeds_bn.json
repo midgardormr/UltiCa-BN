@@ -1,0 +1,22 @@
+[
+  {
+    "id": "seed_pineapple",
+    "fg": "bn_seed_pineapple"
+  },
+  {
+    "id": "seed_bananas",
+    "fg": "bn_seed_bananas"
+  },
+  {
+    "id": "seed_orange",
+    "fg": "bn_seed_orange"
+  },
+  {
+    "id": "seed_lemon",
+    "fg": "bn_seed_lemon"
+  },
+  {
+    "id": "seed_coconut",
+    "fg": "bn_seed_coconut"
+  }
+]

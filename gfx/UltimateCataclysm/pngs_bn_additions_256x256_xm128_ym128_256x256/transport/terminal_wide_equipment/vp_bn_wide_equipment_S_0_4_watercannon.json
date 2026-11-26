@@ -1,0 +1,73 @@
+{
+  "id": "vp_bn_wide_equipment_S_0_4_watercannon",
+  "bg": [
+    "bn_wide_equipment_S_0_4_watercannon_closed_bg",
+    "bn_wide_equipment_S_0_4_watercannon_closed_bg",
+    "bn_wide_equipment_S_0_4_watercannon_closed_bg",
+    "bn_wide_equipment_S_0_4_watercannon_closed_bg"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "bg": [
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask"
+      ]
+    },
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask"
+      ]
+    }
+  ],
+  "fg": [
+    "bn_wide_equipment_S_0_4_watercannon_broken_bg",
+    "bn_wide_equipment_S_0_4_watercannon_broken_bg",
+    "bn_wide_equipment_S_0_4_watercannon_broken_bg",
+    "bn_wide_equipment_S_0_4_watercannon_broken_bg"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "bg": [
+        "bn_wide_equipment_S_0_4_watercannon_broken_bg",
+        "bn_wide_equipment_S_0_4_watercannon_broken_bg",
+        "bn_wide_equipment_S_0_4_watercannon_broken_bg",
+        "bn_wide_equipment_S_0_4_watercannon_broken_bg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask"
+          ]
+        },
+        {
+          "type": "tint",
+          "fg": [
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+            "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask"
+          ]
+        }
+      ],
+      "fg": [
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask",
+        "bn_wide_equipment_E_0_0_watercannon_broken_bg_mask"
+      ]
+    }
+  ]
+}

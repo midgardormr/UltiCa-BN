@@ -1,0 +1,58 @@
+[
+  {
+    "id": [
+      "town_hall_0_0_0",
+      "town_hall_0_0_1",
+      "town_hall_0_0_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q0_north",
+      "bn_town_hall_q0_west",
+      "bn_town_hall_q0_south",
+      "bn_town_hall_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "town_hall_1_0_0",
+      "town_hall_1_0_1",
+      "town_hall_1_0_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q1_north",
+      "bn_town_hall_q1_west",
+      "bn_town_hall_q1_south",
+      "bn_town_hall_q1_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "town_hall_0_1_0",
+      "town_hall_0_1_1",
+      "town_hall_0_1_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q2_north",
+      "bn_town_hall_q2_west",
+      "bn_town_hall_q2_south",
+      "bn_town_hall_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "town_hall_1_1_0",
+      "town_hall_1_1_1",
+      "town_hall_1_1_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q3_north",
+      "bn_town_hall_q3_west",
+      "bn_town_hall_q3_south",
+      "bn_town_hall_q3_east"
+    ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": [
+      "urban_33_1",
+      "urban_33_5",
+      "urban_33_9",
+      "urban_33_13",
+      "urban_33_17",
+      "urban_33_21",
+      "urban_33_25",
+      "urban_33_29"
+    ],
+    "fg": [
+      "bn_hotel_q0_north",
+      "bn_hotel_q0_west",
+      "bn_hotel_q0_south",
+      "bn_hotel_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_33_2",
+      "urban_33_6",
+      "urban_33_10",
+      "urban_33_14",
+      "urban_33_18",
+      "urban_33_22",
+      "urban_33_26",
+      "urban_33_30",
+      "urban_33_34"
+    ],
+    "fg": [
+      "bn_hotel_q1_north",
+      "bn_hotel_q1_west",
+      "bn_hotel_q1_south",
+      "bn_hotel_q1_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_33_3",
+      "urban_33_7",
+      "urban_33_11",
+      "urban_33_15",
+      "urban_33_19",
+      "urban_33_23",
+      "urban_33_27",
+      "urban_33_31",
+      "urban_33_35"
+    ],
+    "fg": [
+      "bn_hotel_q2_north",
+      "bn_hotel_q2_west",
+      "bn_hotel_q2_south",
+      "bn_hotel_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_33_4",
+      "urban_33_8",
+      "urban_33_12",
+      "urban_33_16",
+      "urban_33_20",
+      "urban_33_24",
+      "urban_33_28",
+      "urban_33_32",
+      "urban_33_36"
+    ],
+    "fg": [
+      "bn_hotel_q3_north",
+      "bn_hotel_q3_west",
+      "bn_hotel_q3_south",
+      "bn_hotel_q3_east"
+    ],
+    "rotates": true
+  }
+]

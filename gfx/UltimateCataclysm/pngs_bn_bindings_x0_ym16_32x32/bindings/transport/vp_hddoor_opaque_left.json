@@ -1,0 +1,75 @@
+{
+  "id": "vp_hddoor_opaque_left",
+  "fg": [
+    "vp_hddoor_opaque_left_rotN",
+    "vp_hddoor_opaque_left_rotW",
+    "vp_hddoor_opaque_left_rotS",
+    "vp_hddoor_opaque_left_rotE"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "vp_hddoor_opaque_left_open_rotN",
+        "vp_hddoor_opaque_left_open_rotW",
+        "vp_hddoor_opaque_left_open_rotS",
+        "vp_hddoor_opaque_left_open_rotE"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_3c660d19d9454976aa05a3f7",
+            "bn_surface_paint_d2f4f41cffabe179eb203e31",
+            "bn_surface_paint_b5de3b599cdc74d9b0ae23d1",
+            "bn_surface_paint_c3e499c2ec8fd219cbc218d6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48"
+      ],
+      "bg": [
+        "vp_hddoor_opaque_left_open_rotN",
+        "vp_hddoor_opaque_left_open_rotW",
+        "vp_hddoor_opaque_left_open_rotS",
+        "vp_hddoor_opaque_left_open_rotE"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_3c660d19d9454976aa05a3f7",
+            "bn_surface_paint_d2f4f41cffabe179eb203e31",
+            "bn_surface_paint_b5de3b599cdc74d9b0ae23d1",
+            "bn_surface_paint_c3e499c2ec8fd219cbc218d6"
+          ],
+          "fg": [
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_a4029c191a684e2b4ed28240",
+        "bn_surface_paint_3ffeb47b53cd1c7cdf1fa8bb",
+        "bn_surface_paint_547778aba279f3caab7a4158",
+        "bn_surface_paint_6c34443dc6158de74a45e606"
+      ]
+    }
+  ]
+}

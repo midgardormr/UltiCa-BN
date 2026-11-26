@@ -1,0 +1,39 @@
+{
+  "id": "vp_basketsm",
+  "fg": [
+    "vp_basketsm_rotNrotS",
+    "vp_basketsm_rotErotW"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [
+        "vp_basketsm_rotNrotS",
+        "vp_basketsm_rotErotW"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_e02e48e9feffe718f28be1bc",
+            "bn_surface_paint_083409779f569f85820c6783"
+          ],
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_e02e48e9feffe718f28be1bc",
+        "bn_surface_paint_083409779f569f85820c6783"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "fg": [
+    "road_center",
+    "road_center",
+    "road_center",
+    "road_center"
+  ],
+  "rotates": true,
+  "bg": [
+    "field",
+    "field",
+    "field",
+    "field"
+  ],
+  "id": "necropolis_a_68"
+}

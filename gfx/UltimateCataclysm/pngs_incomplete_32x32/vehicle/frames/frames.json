@@ -7,7 +7,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_cover"
+        "bg": "frame_cover",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_e2ac0b9f625f857963463251"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_e2ac0b9f625f857963463251"
+        ]
       }
     ]
   },
@@ -19,7 +38,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_cross"
+        "bg": "frame_cross",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_72de6e72ae18d02efe4529a0"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_72de6e72ae18d02efe4529a0"
+        ]
       }
     ]
   },
@@ -31,7 +69,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_cross_unconnected"
+        "bg": "frame_cross_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_c1aee0eb9e43eeb3aff8320f"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_c1aee0eb9e43eeb3aff8320f"
+        ]
       }
     ]
   },
@@ -43,7 +100,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_ne"
+        "bg": "frame_ne",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_531df73ccb298b322e120a8e"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_531df73ccb298b322e120a8e"
+        ]
       }
     ]
   },
@@ -55,7 +131,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_nw"
+        "bg": "frame_nw",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_62b5f6ab46c848f368336598"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_62b5f6ab46c848f368336598"
+        ]
       }
     ]
   },
@@ -67,7 +162,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_se"
+        "bg": "frame_se",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_319714d8f9f4fb726ef4d1ce"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_319714d8f9f4fb726ef4d1ce"
+        ]
       }
     ]
   },
@@ -79,7 +193,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_sw"
+        "bg": "frame_sw",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_a9f68f51fafbbb1fd6741963"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_a9f68f51fafbbb1fd6741963"
+        ]
       }
     ]
   },
@@ -91,7 +224,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical_unconnected"
+        "bg": "frame_vertical_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_1dac5110eeca66f732763cb7"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_1dac5110eeca66f732763cb7"
+        ]
       }
     ]
   },
@@ -103,7 +255,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical2_unconnected"
+        "bg": "frame_vertical2_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_cc4c1fb2bdd1c14958aa8e23"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_cc4c1fb2bdd1c14958aa8e23"
+        ]
       }
     ]
   },
@@ -115,7 +286,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical_left"
+        "bg": "frame_vertical_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_6ea9f7c19f339d4e35464c84"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_6ea9f7c19f339d4e35464c84"
+        ]
       }
     ]
   },
@@ -127,7 +317,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical2_left"
+        "bg": "frame_vertical2_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_e4c4c8d8b76c4b3ab12ab83c"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_e4c4c8d8b76c4b3ab12ab83c"
+        ]
       }
     ]
   },
@@ -139,7 +348,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical_right"
+        "bg": "frame_vertical_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_8084a13802e262041eadc2d9"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_8084a13802e262041eadc2d9"
+        ]
       }
     ]
   },
@@ -151,7 +379,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical2_right"
+        "bg": "frame_vertical2_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_ea7c20274fcc0bb99f134cfc"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_ea7c20274fcc0bb99f134cfc"
+        ]
       }
     ]
   },
@@ -163,7 +410,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal"
+        "bg": "frame_horizontal",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_7cbb9ca5f8ed0777afef9e27"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_7cbb9ca5f8ed0777afef9e27"
+        ]
       }
     ]
   },
@@ -175,7 +441,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal2"
+        "bg": "frame_horizontal2",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_6ca2578868a1b948bdcb5000"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_6ca2578868a1b948bdcb5000"
+        ]
       }
     ]
   },
@@ -187,7 +472,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal_unconnected"
+        "bg": "frame_horizontal_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_736ac5c56200043e1923586a"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_736ac5c56200043e1923586a"
+        ]
       }
     ]
   },
@@ -199,7 +503,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal2_unconnected"
+        "bg": "frame_horizontal2_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_7c5dcb1ceb66cb55a0efd57d"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_7c5dcb1ceb66cb55a0efd57d"
+        ]
       }
     ]
   },
@@ -211,7 +534,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal_front"
+        "bg": "frame_horizontal_front",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_a55ec0fd050180a59381d00d"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_a55ec0fd050180a59381d00d"
+        ]
       }
     ]
   },
@@ -223,7 +565,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal2_front"
+        "bg": "frame_horizontal2_front",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_f8a564327df0a8434f70af5f"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_f8a564327df0a8434f70af5f"
+        ]
       }
     ]
   },
@@ -235,7 +596,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal_rear"
+        "bg": "frame_horizontal_rear",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_889f7ca40f28b207239f85a9"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_889f7ca40f28b207239f85a9"
+        ]
       }
     ]
   },
@@ -247,19 +627,60 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal2_rear"
+        "bg": "frame_horizontal2_rear",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_485bcbc84b46e3acaba125ff"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_485bcbc84b46e3acaba125ff"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_frame_horizontal_left", "vp_frame_vertical_T_left" ],
+    "id": [
+      "vp_frame_horizontal_left",
+      "vp_frame_vertical_T_left"
+    ],
     "fg": "frame_horizontal_left",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal_left"
+        "bg": "frame_horizontal_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_2e6e639c7a64b24fd877d24d"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_2e6e639c7a64b24fd877d24d"
+        ]
       }
     ]
   },
@@ -271,19 +692,60 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal_2_left"
+        "bg": "frame_horizontal_2_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_264b068ff74b8dd15b90d87d"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_264b068ff74b8dd15b90d87d"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_frame_horizontal_right", "vp_frame_vertical_T_right" ],
+    "id": [
+      "vp_frame_horizontal_right",
+      "vp_frame_vertical_T_right"
+    ],
     "fg": "frame_horizontal_right",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal_right"
+        "bg": "frame_horizontal_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_fa1e9ae7b5eb92212baac284"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_fa1e9ae7b5eb92212baac284"
+        ]
       }
     ]
   },
@@ -295,7 +757,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_horizontal_2_right"
+        "bg": "frame_horizontal_2_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_819c1ceb6ca1c32b85e62c59"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_819c1ceb6ca1c32b85e62c59"
+        ]
       }
     ]
   },
@@ -307,7 +788,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical"
+        "bg": "frame_vertical",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_08bb32fdbd2ec2b0de72ef03"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_08bb32fdbd2ec2b0de72ef03"
+        ]
       }
     ]
   },
@@ -319,7 +819,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "frame_vertical2"
+        "bg": "frame_vertical2",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_72de6e72ae18d02efe4529a0"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_72de6e72ae18d02efe4529a0"
+        ]
       }
     ]
   },
@@ -331,7 +850,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_cover"
+        "bg": "hdframe_cover",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_31a979998f93bf67adc0b424"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_31a979998f93bf67adc0b424"
+        ]
       }
     ]
   },
@@ -343,7 +881,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_cross"
+        "bg": "hdframe_cross",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_e763b24406ce69ba33683665"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_e763b24406ce69ba33683665"
+        ]
       }
     ]
   },
@@ -355,7 +912,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_cross_unconnected"
+        "bg": "hdframe_cross_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_b6aa78bba1f57f80f0a57368"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_b6aa78bba1f57f80f0a57368"
+        ]
       }
     ]
   },
@@ -367,7 +943,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_ne"
+        "bg": "hdframe_ne",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_6c8da290476ce138595b1380"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_6c8da290476ce138595b1380"
+        ]
       }
     ]
   },
@@ -379,7 +974,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_nw"
+        "bg": "hdframe_nw",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_9a10de1968bac3a7c52db9fe"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_9a10de1968bac3a7c52db9fe"
+        ]
       }
     ]
   },
@@ -391,7 +1005,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_se"
+        "bg": "hdframe_se",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_d3bd5b643e2e9088e5be1710"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_d3bd5b643e2e9088e5be1710"
+        ]
       }
     ]
   },
@@ -403,7 +1036,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_sw"
+        "bg": "hdframe_sw",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_9a42d5a82be72a2d2696c8d9"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_9a42d5a82be72a2d2696c8d9"
+        ]
       }
     ]
   },
@@ -415,7 +1067,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical_unconnected"
+        "bg": "hdframe_vertical_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_276bcbcdff0ffb0ab3e1d71c"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_276bcbcdff0ffb0ab3e1d71c"
+        ]
       }
     ]
   },
@@ -427,7 +1098,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2_unconnected"
+        "bg": "hdframe_vertical2_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_b777d654da196cb4152d2a75"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_b777d654da196cb4152d2a75"
+        ]
       }
     ]
   },
@@ -439,7 +1129,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical_left"
+        "bg": "hdframe_vertical_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_a439f9b152cd85064daeaf75"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_a439f9b152cd85064daeaf75"
+        ]
       }
     ]
   },
@@ -451,7 +1160,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2_left"
+        "bg": "hdframe_vertical2_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_0b418f8514411ab8277e1def"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_0b418f8514411ab8277e1def"
+        ]
       }
     ]
   },
@@ -463,7 +1191,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical_right"
+        "bg": "hdframe_vertical_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_f1e6498e653436eabc2ee588"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_f1e6498e653436eabc2ee588"
+        ]
       }
     ]
   },
@@ -475,7 +1222,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2_right"
+        "bg": "hdframe_vertical2_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_edf6d26da86ac01efd58fc4d"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_edf6d26da86ac01efd58fc4d"
+        ]
       }
     ]
   },
@@ -487,7 +1253,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal"
+        "bg": "hdframe_horizontal",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_9b319e8fd7a1ced8e1eacb1c"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_9b319e8fd7a1ced8e1eacb1c"
+        ]
       }
     ]
   },
@@ -499,7 +1284,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2"
+        "bg": "hdframe_horizontal2",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_026f9c06bb4635ca68a741f0"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_026f9c06bb4635ca68a741f0"
+        ]
       }
     ]
   },
@@ -511,7 +1315,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_unconnected"
+        "bg": "hdframe_horizontal_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_c25ab41d3a0b737282fc8d11"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_c25ab41d3a0b737282fc8d11"
+        ]
       }
     ]
   },
@@ -523,7 +1346,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2_unconnected"
+        "bg": "hdframe_horizontal2_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_17b22ef1fa440b7fa69304bb"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_17b22ef1fa440b7fa69304bb"
+        ]
       }
     ]
   },
@@ -535,7 +1377,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_front"
+        "bg": "hdframe_horizontal_front",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_2ad0fadc9ab379d0b6a82d5e"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_2ad0fadc9ab379d0b6a82d5e"
+        ]
       }
     ]
   },
@@ -547,7 +1408,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2_front"
+        "bg": "hdframe_horizontal2_front",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_20c0a3424d5472242a1a801b"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_20c0a3424d5472242a1a801b"
+        ]
       }
     ]
   },
@@ -559,7 +1439,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_rear"
+        "bg": "hdframe_horizontal_rear",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_6b4082a2b599a5dd1034e3b8"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_6b4082a2b599a5dd1034e3b8"
+        ]
       }
     ]
   },
@@ -571,19 +1470,60 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2_rear"
+        "bg": "hdframe_horizontal2_rear",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_b84ac50b0d600cb7343a8196"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_b84ac50b0d600cb7343a8196"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_hdframe_horizontal_left", "vp_hdframe_vertical_T_left" ],
+    "id": [
+      "vp_hdframe_horizontal_left",
+      "vp_hdframe_vertical_T_left"
+    ],
     "fg": "hdframe_horizontal_left",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_left"
+        "bg": "hdframe_horizontal_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_817d81a74fb561d668d0e8c6"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_817d81a74fb561d668d0e8c6"
+        ]
       }
     ]
   },
@@ -595,19 +1535,60 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_2_left"
+        "bg": "hdframe_horizontal_2_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_0798b7f579a7873b0ce65dc4"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_0798b7f579a7873b0ce65dc4"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_hdframe_horizontal_right", "vp_hdframe_vertical_T_right" ],
+    "id": [
+      "vp_hdframe_horizontal_right",
+      "vp_hdframe_vertical_T_right"
+    ],
     "fg": "hdframe_horizontal_right",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_right"
+        "bg": "hdframe_horizontal_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_47cc098f2267d90f4f4fa3ee"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_47cc098f2267d90f4f4fa3ee"
+        ]
       }
     ]
   },
@@ -619,7 +1600,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_2_right"
+        "bg": "hdframe_horizontal_2_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_6393b8d776f393fab7cda19e"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_6393b8d776f393fab7cda19e"
+        ]
       }
     ]
   },
@@ -631,7 +1631,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical"
+        "bg": "hdframe_vertical",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_b35c815fc6ab61eb5731c1f8"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_b35c815fc6ab61eb5731c1f8"
+        ]
       }
     ]
   },
@@ -643,7 +1662,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2"
+        "bg": "hdframe_vertical2",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_e763b24406ce69ba33683665"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_e763b24406ce69ba33683665"
+        ]
       }
     ]
   },
@@ -655,7 +1693,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_cover"
+        "bg": "xlframe_cover",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_6df78bed578522ae3bfd3634"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_6df78bed578522ae3bfd3634"
+        ]
       }
     ]
   },
@@ -667,7 +1724,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_cross"
+        "bg": "xlframe_cross",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_f3ddebaf9b32e356e09cfd74"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_f3ddebaf9b32e356e09cfd74"
+        ]
       }
     ]
   },
@@ -679,7 +1755,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_cross_unconnected"
+        "bg": "xlframe_cross_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_fea955ce7b6025f0ad8fb95e"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_fea955ce7b6025f0ad8fb95e"
+        ]
       }
     ]
   },
@@ -691,7 +1786,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_ne"
+        "bg": "xlframe_ne",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_ead2d5e41125d463b819147d"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_ead2d5e41125d463b819147d"
+        ]
       }
     ]
   },
@@ -703,7 +1817,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_nw"
+        "bg": "xlframe_nw",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_e4477d72fd580d1601ef4b69"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_e4477d72fd580d1601ef4b69"
+        ]
       }
     ]
   },
@@ -715,7 +1848,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_se"
+        "bg": "xlframe_se",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_5b07ebecd8bd406e5769e7b3"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_5b07ebecd8bd406e5769e7b3"
+        ]
       }
     ]
   },
@@ -727,7 +1879,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_sw"
+        "bg": "xlframe_sw",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_95161811d60f0db1685f6f50"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_95161811d60f0db1685f6f50"
+        ]
       }
     ]
   },
@@ -739,7 +1910,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical_unconnected"
+        "bg": "xlframe_vertical_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_b879a3f36bcbe8946a6e7832"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_b879a3f36bcbe8946a6e7832"
+        ]
       }
     ]
   },
@@ -751,7 +1941,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2_unconnected"
+        "bg": "xlframe_vertical2_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_804b1f5670a4d569d0f99282"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_804b1f5670a4d569d0f99282"
+        ]
       }
     ]
   },
@@ -763,7 +1972,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical_left"
+        "bg": "xlframe_vertical_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_358b2cf2ad6cf6745b2b43cd"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_358b2cf2ad6cf6745b2b43cd"
+        ]
       }
     ]
   },
@@ -775,7 +2003,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2_left"
+        "bg": "xlframe_vertical2_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_45b523731cdbae126f8ebf8f"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_45b523731cdbae126f8ebf8f"
+        ]
       }
     ]
   },
@@ -787,7 +2034,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical_right"
+        "bg": "xlframe_vertical_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_094ecab77c7f08c22dfc0d4c"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_094ecab77c7f08c22dfc0d4c"
+        ]
       }
     ]
   },
@@ -799,7 +2065,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2_right"
+        "bg": "xlframe_vertical2_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_bdb776a3842c65750bbcf7c7"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_bdb776a3842c65750bbcf7c7"
+        ]
       }
     ]
   },
@@ -811,7 +2096,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal"
+        "bg": "xlframe_horizontal",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_8842888e8aae15005a2b2902"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_8842888e8aae15005a2b2902"
+        ]
       }
     ]
   },
@@ -823,7 +2127,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2"
+        "bg": "xlframe_horizontal2",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_5f742b3d6b26861cfc03d8d4"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_5f742b3d6b26861cfc03d8d4"
+        ]
       }
     ]
   },
@@ -835,7 +2158,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_unconnected"
+        "bg": "xlframe_horizontal_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_0a87a0b99009be3840c9fd6f"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_0a87a0b99009be3840c9fd6f"
+        ]
       }
     ]
   },
@@ -847,7 +2189,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2_unconnected"
+        "bg": "xlframe_horizontal2_unconnected",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_31387ab566989ec5b02c80c7"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_31387ab566989ec5b02c80c7"
+        ]
       }
     ]
   },
@@ -859,7 +2220,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_front"
+        "bg": "xlframe_horizontal_front",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_e852e90fd64c69e7e4464218"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_e852e90fd64c69e7e4464218"
+        ]
       }
     ]
   },
@@ -871,7 +2251,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2_front"
+        "bg": "xlframe_horizontal2_front",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_ca723baf95af1b6828e0a5ab"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_ca723baf95af1b6828e0a5ab"
+        ]
       }
     ]
   },
@@ -883,7 +2282,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_rear"
+        "bg": "xlframe_horizontal_rear",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_a9eb8a8dda9b0183241c344f"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_a9eb8a8dda9b0183241c344f"
+        ]
       }
     ]
   },
@@ -895,19 +2313,60 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2_rear"
+        "bg": "xlframe_horizontal2_rear",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_4f08add3162852bb672a3bdd"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_4f08add3162852bb672a3bdd"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_xlframe_horizontal_left", "vp_xlframe_vertical_T_left" ],
+    "id": [
+      "vp_xlframe_horizontal_left",
+      "vp_xlframe_vertical_T_left"
+    ],
     "fg": "xlframe_horizontal_left",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_left"
+        "bg": "xlframe_horizontal_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_74ea0db97ec1a672ee1b3c40"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_74ea0db97ec1a672ee1b3c40"
+        ]
       }
     ]
   },
@@ -919,19 +2378,60 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_2_left"
+        "bg": "xlframe_horizontal_2_left",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_b4671c93e0869b0106234812"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_b4671c93e0869b0106234812"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_xlframe_horizontal_right", "vp_xlframe_vertical_T_right" ],
+    "id": [
+      "vp_xlframe_horizontal_right",
+      "vp_xlframe_vertical_T_right"
+    ],
     "fg": "xlframe_horizontal_right",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_right"
+        "bg": "xlframe_horizontal_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_13fa7b9e08d9d43450357ff3"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_13fa7b9e08d9d43450357ff3"
+        ]
       }
     ]
   },
@@ -943,7 +2443,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_2_right"
+        "bg": "xlframe_horizontal_2_right",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_8a12959a39659bf05f9a4645"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_8a12959a39659bf05f9a4645"
+        ]
       }
     ]
   },
@@ -955,7 +2474,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical"
+        "bg": "xlframe_vertical",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_809be79af4caefc56844ba22"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_809be79af4caefc56844ba22"
+        ]
       }
     ]
   },
@@ -967,7 +2505,26 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2"
+        "bg": "xlframe_vertical2",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_f3ddebaf9b32e356e09cfd74"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_f3ddebaf9b32e356e09cfd74"
+        ]
       }
     ]
   }

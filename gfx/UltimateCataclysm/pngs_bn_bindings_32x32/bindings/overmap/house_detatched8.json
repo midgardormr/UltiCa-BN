@@ -1,0 +1,11 @@
+{
+  "id": "house_detatched8",
+  "fg": [
+    "house_park_faceN",
+    "house_park_faceW",
+    "house_park_faceS",
+    "house_park_faceE"
+  ],
+  "bg": "field",
+  "rotates": true
+}

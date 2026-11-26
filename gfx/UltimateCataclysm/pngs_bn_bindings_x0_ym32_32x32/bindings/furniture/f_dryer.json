@@ -1,0 +1,14 @@
+{
+  "id": "f_dryer",
+  "rotates": true,
+  "flags": [
+    "ALIGN_TO_TERRAIN"
+  ],
+  "fg": [
+    "bn_dryer_faceS",
+    "bn_dryer_faceW",
+    "bn_dryer_faceN",
+    "bn_dryer_faceE"
+  ],
+  "bg": ""
+}

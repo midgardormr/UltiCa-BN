@@ -1,0 +1,61 @@
+{
+  "id": "vp_bn_user_plasma_gun_right_directed",
+  "fg": [
+    "bn_directed_turret_db409c3090ffdebfd63dc51f",
+    "bn_directed_turret_b8f5a1f7a1ec2dccf54ee4e7",
+    "bn_directed_turret_fbf12ff17ca89a07518e537b",
+    "bn_directed_turret_9462015421854740560d3b24"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e"
+      ],
+      "bg": [
+        "bn_directed_turret_db409c3090ffdebfd63dc51f",
+        "bn_directed_turret_b8f5a1f7a1ec2dccf54ee4e7",
+        "bn_directed_turret_fbf12ff17ca89a07518e537b",
+        "bn_directed_turret_9462015421854740560d3b24"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_directed_turret_7d876d1ba547b2ec3d9e4d92",
+            "bn_directed_turret_0aeca2963f6c4c0b82514220",
+            "bn_user_W_identity_64x64",
+            "bn_directed_turret_39c382065cc26ba80e8b1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "bg": [
+    "bn_directed_turret_7ada689d9c5084bc24146c77",
+    "bn_directed_turret_780a1f653708e2850437c158",
+    "bn_user_compact_turret_base_right_S",
+    "bn_directed_turret_562e0d915886b26c6846af23"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_directed_turret_7d876d1ba547b2ec3d9e4d92",
+        "bn_directed_turret_0aeca2963f6c4c0b82514220",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_39c382065cc26ba80e8b1836"
+      ],
+      "bg": [
+        "bn_directed_turret_7d876d1ba547b2ec3d9e4d92",
+        "bn_directed_turret_6ac713a1fccf480606862020",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_39c382065cc26ba80e8b1836"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vp_bn_van_n_light_red_rear",
+  "fg": "bn_van_n_light_red_rear",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_van_n_light_blue_rear_broken",
+      "bg": "bn_van_n_light_red_rear"
+    }
+  ]
+}

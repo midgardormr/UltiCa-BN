@@ -1,0 +1,118 @@
+[
+  {
+    "id": "bn_door_material_mask_bn_user_E_hddoor_left_base_fg",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_left_base_fg"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_E_hddoor_left_open_fg",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_left_open_fg"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_E_hddoor_opaque_right_base_fg",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_opaque_right_base_fg"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_E_hddoor_opaque_right_open_fg",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_opaque_right_open_fg"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_front_left_door_closed_S_native",
+    "fg": "bn_door_material_mask_bn_user_front_left_door_closed_S_native"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_front_left_door_open_S_native",
+    "fg": "bn_door_material_mask_bn_user_front_left_door_open_S_native"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_right_opaque_door_closed_S_native",
+    "fg": "bn_door_material_mask_bn_user_right_opaque_door_closed_S_native"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_right_opaque_door_open_S_native",
+    "fg": "bn_door_material_mask_bn_user_right_opaque_door_open_S_native"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_L_rotN",
+    "fg": "bn_user_N_mask_vp_hddoor_L_rotN"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_L_rotW",
+    "fg": "bn_door_material_mask_vp_hddoor_L_rotW"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_R_rotE",
+    "fg": "bn_door_material_mask_vp_hddoor_L_rotW"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_left_open_rotN",
+    "fg": "bn_user_N_mask_vp_hddoor_left_open_rotN"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_left_open_rotW",
+    "fg": "bn_user_W_bn_user_E_hddoor_right_open_fg_mask"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_opaque_right_rotN",
+    "fg": "bn_user_N_mask_vp_hddoor_opaque_right_rotN"
+  },
+  {
+    "id": "bn_surface_paint_97a7bd7a5b620d62aa06c098",
+    "fg": "bn_door_material_mask_bn_user_front_left_door_closed_S_native"
+  },
+  {
+    "id": "bn_user_E_hddoor_left_base_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_left_base_fg"
+  },
+  {
+    "id": "bn_user_E_hddoor_left_open_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_left_open_fg"
+  },
+  {
+    "id": "bn_user_E_hddoor_opaque_right_base_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_opaque_right_base_fg"
+  },
+  {
+    "id": "bn_user_E_hddoor_opaque_right_open_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_opaque_right_open_fg"
+  },
+  {
+    "id": "bn_user_NS_identity_32x48",
+    "fg": "bn_user_NS_identity_32x48"
+  },
+  {
+    "id": "bn_user_N_identity_32x48",
+    "fg": "bn_user_NS_identity_32x48"
+  },
+  {
+    "id": "bn_user_N_mask_vp_hddoor_L_rotN",
+    "fg": "bn_user_N_mask_vp_hddoor_L_rotN"
+  },
+  {
+    "id": "bn_user_N_mask_vp_hddoor_left_open_rotN",
+    "fg": "bn_user_N_mask_vp_hddoor_left_open_rotN"
+  },
+  {
+    "id": "bn_user_N_mask_vp_hddoor_opaque_right_rotN",
+    "fg": "bn_user_N_mask_vp_hddoor_opaque_right_rotN"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_hddoor_right_open_fg_mask",
+    "fg": "bn_user_W_bn_user_E_hddoor_right_open_fg_mask"
+  },
+  {
+    "id": "bn_user_front_left_door_closed_S_mask_native",
+    "fg": "bn_door_material_mask_bn_user_front_left_door_closed_S_native"
+  },
+  {
+    "id": "bn_user_front_left_door_open_S_mask_native",
+    "fg": "bn_door_material_mask_bn_user_front_left_door_open_S_native"
+  },
+  {
+    "id": "bn_user_right_opaque_door_closed_S_mask_native",
+    "fg": "bn_door_material_mask_bn_user_right_opaque_door_closed_S_native"
+  },
+  {
+    "id": "bn_user_right_opaque_door_open_S_mask_native",
+    "fg": "bn_door_material_mask_bn_user_right_opaque_door_open_S_native"
+  }
+]

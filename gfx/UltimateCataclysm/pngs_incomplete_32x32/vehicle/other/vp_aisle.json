@@ -26,29 +26,52 @@
   {
     "id": "vp_trunk_floor",
     "fg": "vp_trunk_floor",
-    "bg": "vp_aisle_vertical"
+    "bg": "vp_aisle_vertical",
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_ca0187ae197d3af28f35c5f1"
+        ],
+        "fg": [
+          "bn_surface_paint_0ce2a4f5a7baa372fcc78a6e"
+        ]
+      }
+    ]
   },
   {
     "id": "vp_wooden_aisle_vertical",
-    "fg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
+    "fg": [
+      "vp_wooden_aisle_vertical",
+      "vp_wooden_aisle_horizontal"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ]
+        "bg": [
+          "vp_wooden_aisle_vertical",
+          "vp_wooden_aisle_horizontal"
+        ]
       }
     ]
   },
   {
     "id": "vp_wooden_aisle_horizontal",
-    "fg": [ "vp_wooden_aisle_horizontal", "vp_wooden_aisle_vertical" ],
+    "fg": [
+      "vp_wooden_aisle_horizontal",
+      "vp_wooden_aisle_vertical"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_wooden_aisle_horizontal", "vp_wooden_aisle_vertical" ]
+        "bg": [
+          "vp_wooden_aisle_horizontal",
+          "vp_wooden_aisle_vertical"
+        ]
       }
     ]
   }

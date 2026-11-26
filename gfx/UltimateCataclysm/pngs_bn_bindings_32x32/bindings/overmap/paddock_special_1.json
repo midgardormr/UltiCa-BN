@@ -1,0 +1,10 @@
+{
+  "id": "paddock_special_1",
+  "fg": [
+    "pasture_corner_sw",
+    "pasture_corner_se",
+    "pasture_corner_ne",
+    "pasture_corner_nw"
+  ],
+  "rotates": true
+}

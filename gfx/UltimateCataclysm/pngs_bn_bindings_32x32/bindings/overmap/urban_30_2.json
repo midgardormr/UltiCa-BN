@@ -1,0 +1,10 @@
+{
+  "id": "urban_30_2",
+  "fg": [
+    "sub_station_rot_N",
+    "sub_station_rot_W",
+    "sub_station_rot_S",
+    "sub_station_rot_E"
+  ],
+  "rotates": true
+}

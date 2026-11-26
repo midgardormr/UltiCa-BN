@@ -1,0 +1,16 @@
+{
+  "id": "farm_dairy_twd_4_roof",
+  "fg": [
+    "rural_house_big_faceN",
+    "rural_house_big_faceE",
+    "rural_house_big_faceS",
+    "rural_house_big_faceW"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

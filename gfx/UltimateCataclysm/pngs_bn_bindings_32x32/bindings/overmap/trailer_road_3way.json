@@ -1,0 +1,10 @@
+{
+  "id": "trailer_road_3way",
+  "fg": [
+    "road_t_connection_n",
+    "road_t_connection_w",
+    "road_t_connection_s",
+    "road_t_connection_e"
+  ],
+  "rotates": true
+}

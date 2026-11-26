@@ -1,0 +1,75 @@
+{
+  "id": "vp_bn_roof_cap_hddoor_right",
+  "fg": [
+    "bn_EW_mirrored_0066",
+    "bn_EW_mirrored_0141",
+    "bn_EW_mirrored_0064",
+    "bn_EW_mirrored_0143"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "bn_EW_mirrored_0148",
+        "bn_EW_mirrored_0149",
+        "bn_EW_mirrored_0150",
+        "bn_EW_mirrored_0151"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_EW_mirrored_0152",
+            "bn_EW_mirrored_0153",
+            "bn_EW_mirrored_0154",
+            "bn_EW_mirrored_0155"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_EW_mirrored_0148",
+        "bn_EW_mirrored_0149",
+        "bn_EW_mirrored_0150",
+        "bn_EW_mirrored_0151"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_fa1d278a3e7f595c45d09a2e",
+            "bn_surface_paint_fa1d278a3e7f595c45d09a2e",
+            "bn_surface_paint_fa1d278a3e7f595c45d09a2e",
+            "bn_surface_paint_fa1d278a3e7f595c45d09a2e"
+          ],
+          "bg": [
+            "bn_EW_mirrored_0152",
+            "bn_EW_mirrored_0153",
+            "bn_EW_mirrored_0154",
+            "bn_EW_mirrored_0155"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_EW_mirrored_0144",
+        "bn_EW_mirrored_0145",
+        "bn_EW_mirrored_0146",
+        "bn_EW_mirrored_0147"
+      ]
+    }
+  ]
+}

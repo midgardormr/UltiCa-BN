@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_surface_joint_passenger_opening_E_rear_skin_0_opaque_rim",
+  "fg": [
+    "bn_opaque_joint_4004f2531b358e441266cb18",
+    "bn_opaque_joint_4004f2531b358e441266cb18",
+    "bn_opaque_joint_4004f2531b358e441266cb18",
+    "bn_opaque_joint_4004f2531b358e441266cb18"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_opaque_joint_4004f2531b358e441266cb18",
+        "bn_opaque_joint_4004f2531b358e441266cb18",
+        "bn_opaque_joint_4004f2531b358e441266cb18",
+        "bn_opaque_joint_4004f2531b358e441266cb18"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd"
+          ],
+          "bg": [
+            "bn_surface_paint_e55b9cb0d681edf7ec9b1c87",
+            "bn_surface_paint_e55b9cb0d681edf7ec9b1c87",
+            "bn_surface_paint_e55b9cb0d681edf7ec9b1c87",
+            "bn_surface_paint_e55b9cb0d681edf7ec9b1c87"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_e55b9cb0d681edf7ec9b1c87",
+        "bn_surface_paint_e55b9cb0d681edf7ec9b1c87",
+        "bn_surface_paint_e55b9cb0d681edf7ec9b1c87",
+        "bn_surface_paint_e55b9cb0d681edf7ec9b1c87"
+      ]
+    }
+  ]
+}

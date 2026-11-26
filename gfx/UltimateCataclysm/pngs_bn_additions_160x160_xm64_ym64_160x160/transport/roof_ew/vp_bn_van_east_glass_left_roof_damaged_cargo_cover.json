@@ -1,0 +1,67 @@
+{
+  "id": "vp_bn_van_east_glass_left_roof_damaged_cargo_cover",
+  "fg": [
+    "bn_roof_lamp_f627ca4c2c322f15db2615",
+    "bn_roof_lamp_f627ca4c2c322f15db2615",
+    "bn_roof_lamp_f627ca4c2c322f15db2615",
+    "bn_roof_lamp_f627ca4c2c322f15db2615"
+  ],
+  "bg": [
+    "bn_plane_civilian_1_1_E_front_glass_0",
+    "bn_plane_civilian_1_1_E_front_glass_0",
+    "bn_plane_civilian_1_1_E_front_glass_0",
+    "bn_plane_civilian_1_1_E_front_glass_0"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_camper_cover_left_1_fg",
+        "bn_camper_cover_left_1_fg",
+        "bn_camper_cover_left_1_fg",
+        "bn_camper_cover_left_1_fg"
+      ],
+      "bg": [
+        "bn_plane_civilian_1_1_E_front_glass_0",
+        "bn_plane_civilian_1_1_E_front_glass_0",
+        "bn_plane_civilian_1_1_E_front_glass_0",
+        "bn_plane_civilian_1_1_E_front_glass_0"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_ec7e4c2763cd218a4f989d49",
+            "bn_surface_paint_ec7e4c2763cd218a4f989d49",
+            "bn_surface_paint_ec7e4c2763cd218a4f989d49",
+            "bn_surface_paint_ec7e4c2763cd218a4f989d49"
+          ],
+          "fg": [
+            "bn_surface_paint_10f70472047346997c7ae65b",
+            "bn_surface_paint_10f70472047346997c7ae65b",
+            "bn_surface_paint_10f70472047346997c7ae65b",
+            "bn_surface_paint_10f70472047346997c7ae65b"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "bg": [
+        "bn_surface_paint_ec7e4c2763cd218a4f989d49",
+        "bn_surface_paint_ec7e4c2763cd218a4f989d49",
+        "bn_surface_paint_ec7e4c2763cd218a4f989d49",
+        "bn_surface_paint_ec7e4c2763cd218a4f989d49"
+      ],
+      "fg": [
+        "bn_surface_paint_dcd7b45a56b45e4a55def015",
+        "bn_surface_paint_dcd7b45a56b45e4a55def015",
+        "bn_surface_paint_dcd7b45a56b45e4a55def015",
+        "bn_surface_paint_dcd7b45a56b45e4a55def015"
+      ]
+    }
+  ]
+}

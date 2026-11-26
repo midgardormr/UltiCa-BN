@@ -1,0 +1,10 @@
+[
+  {
+    "id": "stepladder",
+    "fg": "bn_stepladder_folded"
+  },
+  {
+    "id": "f_ladder",
+    "fg": "stepladder"
+  }
+]

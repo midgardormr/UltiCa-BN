@@ -1,0 +1,10 @@
+{
+  "id": "railroad_station_2_4",
+  "fg": [
+    "s_lot",
+    "bn_airport_apron_3_fg_1",
+    "s_lot",
+    "bn_airport_apron_3_fg_1"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": "vp_hdframe_cover",
+  "fg": "hdframe_cover",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "hdframe_cover",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ],
+          "bg": [
+            "bn_surface_paint_31a979998f93bf67adc0b424"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_31a979998f93bf67adc0b424"
+      ]
+    }
+  ]
+}

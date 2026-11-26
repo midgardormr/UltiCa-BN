@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_inset_outboard_glass",
+  "fg": [
+    "bn_inset_local_vp_windshield_rear_rotNS",
+    "bn_inset_local_vp_windshield_rear_rotW",
+    "bn_inset_local_vp_windshield_rear_rotNS",
+    "bn_inset_local_vp_windshield_rear_rotE"
+  ],
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_inset_local_crack_glass_center_32x48",
+        "bn_inset_local_crack_glass_center_32x48",
+        "bn_inset_local_crack_glass_center_32x48",
+        "bn_inset_local_crack_glass_center_32x48"
+      ],
+      "bg": [
+        "bn_inset_local_vp_windshield_rear_rotNS",
+        "bn_inset_local_vp_windshield_rear_rotW",
+        "bn_inset_local_vp_windshield_rear_rotNS",
+        "bn_inset_local_vp_windshield_rear_rotE"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_inset_local_bn_surface_paint_044bcce6de15c2b0ebbca171",
+            "bn_inset_local_bn_surface_paint_044bcce6de15c2b0ebbca171",
+            "bn_inset_local_bn_surface_paint_044bcce6de15c2b0ebbca171",
+            "bn_inset_local_bn_surface_paint_044bcce6de15c2b0ebbca171"
+          ],
+          "bg": [
+            "bn_inset_local_bn_surface_paint_eed1564510c0eab6e02889e2",
+            "bn_inset_local_bn_surface_paint_38844894c83af89477e776ad",
+            "bn_inset_local_bn_surface_paint_eed1564510c0eab6e02889e2",
+            "bn_inset_local_bn_surface_paint_cdf14c1dd9e5774407083ece"
+          ]
+        }
+      ]
+    }
+  ],
+  "multitile": true,
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_inset_local_bn_surface_paint_eed1564510c0eab6e02889e2",
+        "bn_inset_local_bn_surface_paint_38844894c83af89477e776ad",
+        "bn_inset_local_bn_surface_paint_eed1564510c0eab6e02889e2",
+        "bn_inset_local_bn_surface_paint_cdf14c1dd9e5774407083ece"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "lake_cabin_boathouse_roof",
+  "fg": [
+    "cabin_faceN",
+    "cabin_faceW",
+    "cabin_faceS",
+    "cabin_faceE"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

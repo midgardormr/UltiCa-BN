@@ -1,0 +1,16 @@
+[
+  {
+    "id": [
+      "thermal_outfit",
+      "thermal_outfit_on"
+    ],
+    "fg": "bn_thermal_outfit"
+  },
+  {
+    "id": [
+      "thermal_cooling",
+      "thermal_cooling_on"
+    ],
+    "fg": "bn_thermal_cooling"
+  }
+]

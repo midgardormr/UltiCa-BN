@@ -5,16 +5,208 @@
     "height": 32
   },
   {
+    "bn_additions_96x96_xm32_ym64.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -64,
+      "sprite_offset_x_retracted": -32,
+      "sprite_offset_y_retracted": -64
+    }
+  },
+  {
+    "bn_additions_160x160_xm64_ym64.png": {
+      "sprite_width": 160,
+      "sprite_height": 160,
+      "sprite_offset_x": -64,
+      "sprite_offset_y": -64,
+      "sprite_offset_x_retracted": -64,
+      "sprite_offset_y_retracted": -64
+    }
+  },
+  {
+    "bn_additions_96x96_xm32_ym32.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -32,
+      "sprite_offset_x_retracted": -32,
+      "sprite_offset_y_retracted": -32
+    }
+  },
+  {
+    "bn_additions_64x64_xm16_ym16.png": {
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16,
+      "sprite_offset_x_retracted": -16,
+      "sprite_offset_y_retracted": -16
+    }
+  },
+  {
+    "bn_bindings.png": {}
+  },
+  {
+    "bn_bindings_x0_ym16.png": {
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "bn_bindings_x0_ym32.png": {
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "bn_bindings_xm16_ym16.png": {
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16
+    }
+  },
+  {
+    "bn_bindings_xm16_ym32.png": {
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32
+    }
+  },
+  {
+    "bn_bindings_xm16_ym48.png": {
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "bn_bindings_xm32_ym48.png": {
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -48
+    }
+  },
+  {
+    "bn_bindings_xm64_ym96.png": {
+      "sprite_offset_x": -64,
+      "sprite_offset_y": -96
+    }
+  },
+  {
+    "bn_additions_32x64_x0_ym32.png": {
+      "sprite_offset_y": -32,
+      "sprite_offset_y_retracted": -32,
+      "sprite_width": 32,
+      "sprite_height": 64
+    }
+  },
+  {
+    "bn_additions_96x96_x0_y0.png": {
+      "sprite_width": 96,
+      "sprite_height": 96
+    }
+  },
+  {
+    "bn_additions_48x48_xm16_ym16.png": {
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16,
+      "sprite_offset_x_retracted": -16,
+      "sprite_offset_y_retracted": -16,
+      "sprite_width": 48,
+      "sprite_height": 48
+    }
+  },
+  {
+    "bn_additions_64x64_x0_y0.png": {
+      "sprite_width": 64,
+      "sprite_height": 64
+    }
+  },
+  {
+    "bn_additions_96x96_xm32_ym48.png": {
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -48,
+      "sprite_offset_x_retracted": -32,
+      "sprite_offset_y_retracted": -48,
+      "sprite_width": 96,
+      "sprite_height": 96
+    }
+  },
+  {
+    "bn_additions_64x80_xm16_ym48.png": {
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48,
+      "sprite_offset_x_retracted": -16,
+      "sprite_offset_y_retracted": -48,
+      "sprite_width": 64,
+      "sprite_height": 80
+    }
+  },
+  {
+    "bn_additions_32x48_x0_ym16.png": {
+      "sprite_offset_y": -16,
+      "sprite_offset_y_retracted": -16,
+      "sprite_width": 32,
+      "sprite_height": 48
+    }
+  },
+  {
+    "bn_additions_32x64_x0_y0.png": {
+      "sprite_width": 32,
+      "sprite_height": 64
+    }
+  },
+  {
+    "bn_additions_32x32_x0_y0.png": {
+      "sprite_width": 32,
+      "sprite_height": 32
+    }
+  },
+  {
+    "bn_additions_32x48_x0_y0.png": {
+      "sprite_width": 32,
+      "sprite_height": 48
+    }
+  },
+  {
+    "bn_additions_64x64_xm16_ym32.png": {
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32,
+      "sprite_offset_x_retracted": -16,
+      "sprite_offset_y_retracted": -32,
+      "sprite_width": 64,
+      "sprite_height": 64
+    }
+  },
+  {
+    "bn_additions_256x256_xm128_ym128.png": {
+      "sprite_width": 256,
+      "sprite_height": 256,
+      "sprite_offset_x": -128,
+      "sprite_offset_y": -128,
+      "sprite_offset_x_retracted": -128,
+      "sprite_offset_y_retracted": -128
+    }
+  },
+  {
     "ChibiLarge.png": {
       "sprite_width": 64,
       "sprite_height": 80,
       "sprite_offset_x": -16,
       "sprite_offset_y": -48,
-      "exclude": [ "furniture", "terrain", "mods/Magiclysm/furnitures" ]
+      "exclude": [
+        "furniture",
+        "terrain",
+        "mods/Magiclysm/furnitures"
+      ],
+      "filler": true
     }
   },
   {
-    "ChibiBig.png": { "sprite_width": 80, "sprite_height": 64, "sprite_offset_x": -48, "sprite_offset_y": -32 }
+    "ChibiBig.png": {
+      "sprite_width": 80,
+      "sprite_height": 64,
+      "sprite_offset_x": -48,
+      "sprite_offset_y": -32,
+      "filler": true
+    }
   },
   {
     "ChibiNormal.png": {
@@ -37,7 +229,8 @@
         "mods/Aftershock/terrain",
         "mods/Aftershock/furniture",
         "mods/skyisland/furniture"
-      ]
+      ],
+      "filler": true
     }
   },
   {
@@ -46,7 +239,11 @@
       "sprite_height": 48,
       "sprite_offset_x": -16,
       "sprite_offset_y": -16,
-      "exclude": [ "items", "mods/Magiclysm/furnitures" ]
+      "exclude": [
+        "items",
+        "mods/Magiclysm/furnitures"
+      ],
+      "filler": true
     }
   },
   {
@@ -55,14 +252,36 @@
       "sprite_height": 48,
       "sprite_offset_x": 0,
       "sprite_offset_y": -16,
-      "exclude": [ "furniture", "spell", "terrain", "vehicle", "mods/Magiclysm/furniture" ]
+      "exclude": [
+        "furniture",
+        "spell",
+        "terrain",
+        "vehicle",
+        "mods/Magiclysm/furniture"
+      ],
+      "filler": true
     }
   },
   {
-    "ChibiTaller.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -32, "exclude": [ "terrain" ] }
+    "ChibiTaller.png": {
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -32,
+      "exclude": [
+        "terrain"
+      ],
+      "filler": true
+    }
   },
   {
-    "ChibiHuge.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
+    "ChibiHuge.png": {
+      "sprite_width": 128,
+      "sprite_height": 128,
+      "sprite_offset_x": -64,
+      "sprite_offset_y": -96,
+      "filler": true
+    }
   },
   {
     "ChibiSmall.png": {
@@ -70,23 +289,61 @@
       "sprite_height": 20,
       "sprite_offset_x": 0,
       "sprite_offset_y": 0,
-      "exclude": [ "appliances", "items" ]
+      "exclude": [
+        "appliances",
+        "items"
+      ],
+      "filler": true
     }
   },
   {
-    "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
+    "small.png": {
+      "sprite_width": 20,
+      "sprite_height": 20,
+      "filler": true,
+      "sprite_offset_x": 6
+    }
   },
   {
-    "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/wielded", "overlay/worn" ] }
+    "normal.png": {
+      "filler": true,
+      "exclude": [
+        "overlay/mutations",
+        "overlay/wielded",
+        "overlay/worn",
+        "overmap/commercial.json",
+        "overmap/otr_commercial_general.png"
+      ]
+    }
   },
   {
-    "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true, "exclude": [ "overlay" ] }
+    "tall.png": {
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32,
+      "filler": true,
+      "exclude": [
+        "overlay"
+      ]
+    }
   },
   {
-    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true }
+    "huge.png": {
+      "sprite_width": 64,
+      "sprite_height": 96,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -64,
+      "filler": true
+    }
   },
   {
-    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "filler": true }
+    "centered.png": {
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16,
+      "filler": true
+    }
   },
   {
     "large.png": {
@@ -95,20 +352,33 @@
       "sprite_offset_x": -16,
       "sprite_offset_y": -32,
       "filler": true,
-      "exclude": [ "overlay" ]
+      "exclude": [
+        "overlay"
+      ]
     }
   },
   {
-    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
+    "giant.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -64,
+      "filler": true
+    }
   },
   {
-    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true }
+    "incomplete.png": {
+      "filler": true
+    }
   },
   {
-    "incomplete.png": { "filler": true }
-  },
-  {
-    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+    "incomplete_large.png": {
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32,
+      "filler": true
+    }
   },
   {
     "human_body_plus.png": {
@@ -116,11 +386,22 @@
       "sprite_height": 48,
       "sprite_offset_y": -16,
       "filler": true,
-      "exclude": [ "character", "overlay" ]
+      "exclude": [
+        "character",
+        "overlay"
+      ]
     }
   },
   {
-    "human_body.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8, "filler": true, "exclude": [ "overlay" ] }
+    "human_body.png": {
+      "sprite_width": 32,
+      "sprite_height": 36,
+      "sprite_offset_y": -8,
+      "filler": true,
+      "exclude": [
+        "overlay"
+      ]
+    }
   },
   {
     "fillerhoder.png": {
@@ -129,18 +410,49 @@
     }
   },
   {
-    "dcss.png": { "filler": true }
+    "dcss.png": {
+      "filler": true
+    }
   },
   {
-    "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true }
+    "filler.png": {
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "filler": true
+    }
   },
   {
-    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
+    "fillergiant.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -64,
+      "filler": true
+    }
   },
   {
     "fallback.png": {
       "source": "https://github.com/Chezzo/Cataclysm-DDA/blob/0ca0b5307f1b2fab7edb5519a3176e1d887087a7/gfx/ChestHole32Tileset/fallback.png",
       "fallback": true
+    }
+  },
+  {
+    "bn_body.png": {
+      "sprite_width": 32,
+      "sprite_height": 36,
+      "sprite_offset_y": -8
+    }
+  },
+  {
+    "bn_bindings_x6_y0.png": {
+      "sprite_offset_x": 6,
+      "sprite_offset_y": 0
+    }
+  },
+  {
+    "bn_bindings_x0_ym8.png": {
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -8
     }
   }
 ]

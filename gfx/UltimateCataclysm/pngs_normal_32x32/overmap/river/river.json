@@ -30,12 +30,6 @@
     "rotates": false
   },
   {
-    "id": "river",
-    "fg": [ "river_north", "river_east", "river_south", "river_west" ],
-    "bg": "field",
-    "rotates": true
-  },
-  {
     "id": "river_c_not_nw",
     "fg": "river_c_not_nw",
     "bg": "field",
@@ -58,5 +52,16 @@
     "fg": "river_c_not_se",
     "bg": "field",
     "rotates": false
+  },
+  {
+    "id": "river",
+    "fg": [
+      "river_north",
+      "river_west",
+      "river_south",
+      "river_east"
+    ],
+    "bg": "field",
+    "rotates": true
   }
 ]

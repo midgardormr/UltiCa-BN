@@ -1,0 +1,31 @@
+{
+  "id": "vp_bn_roof_n_rear_right_d3",
+  "fg": "bn_roof_n_rear_right_d3",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_roof_n_rear_right_d1_broken",
+      "bg": "bn_roof_n_rear_right_d3",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_0bbe2c1e14fc40b3729476c1"
+          ],
+          "bg": [
+            "bn_surface_paint_9f5d003c318f7a3db0641966"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_9f5d003c318f7a3db0641966"
+      ]
+    }
+  ]
+}

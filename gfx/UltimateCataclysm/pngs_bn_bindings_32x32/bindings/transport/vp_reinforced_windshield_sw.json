@@ -1,0 +1,31 @@
+{
+  "id": "vp_reinforced_windshield_sw",
+  "fg": "vp_windshield_reinforced_sw",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_glass_center",
+      "bg": "vp_windshield_reinforced_sw",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_01e36ec64e24c71a46db883d"
+          ],
+          "bg": [
+            "bn_surface_paint_0ad648b1850bdb598c0846e9"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_0ad648b1850bdb598c0846e9"
+      ]
+    }
+  ]
+}

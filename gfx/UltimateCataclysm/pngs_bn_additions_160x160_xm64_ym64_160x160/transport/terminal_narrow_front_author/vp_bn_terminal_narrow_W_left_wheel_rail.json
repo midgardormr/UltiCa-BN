@@ -1,0 +1,49 @@
+{
+  "id": "vp_bn_terminal_narrow_W_left_wheel_rail",
+  "fg": [
+    "bn_terminal_narrow_W_left_wheel_rail",
+    "bn_terminal_narrow_W_left_wheel_rail",
+    "bn_terminal_narrow_W_left_wheel_rail",
+    "bn_terminal_narrow_W_left_wheel_rail"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_terminal_narrow_W_left_wheel_rail_mask",
+        "bn_terminal_narrow_W_left_wheel_rail_mask",
+        "bn_terminal_narrow_W_left_wheel_rail_mask",
+        "bn_terminal_narrow_W_left_wheel_rail_mask"
+      ]
+    }
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_terminal_narrow_W_left_wheel_rail_damage",
+        "bn_terminal_narrow_W_left_wheel_rail_damage",
+        "bn_terminal_narrow_W_left_wheel_rail_damage",
+        "bn_terminal_narrow_W_left_wheel_rail_damage"
+      ],
+      "bg": [
+        "bn_terminal_narrow_W_left_wheel_rail",
+        "bn_terminal_narrow_W_left_wheel_rail",
+        "bn_terminal_narrow_W_left_wheel_rail",
+        "bn_terminal_narrow_W_left_wheel_rail"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_terminal_narrow_W_left_wheel_rail_mask",
+            "bn_terminal_narrow_W_left_wheel_rail_mask",
+            "bn_terminal_narrow_W_left_wheel_rail_mask",
+            "bn_terminal_narrow_W_left_wheel_rail_mask"
+          ]
+        }
+      ]
+    }
+  ]
+}

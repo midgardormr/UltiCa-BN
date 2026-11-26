@@ -8,11 +8,36 @@
       "id": "center",
       "bg": "",
       "fg": [
-        { "weight": 100, "sprite": [ "t_nl_catwalk_center_1" ] },
-        { "weight": 100, "sprite": [ "t_nl_catwalk_center_2" ] },
-        { "weight": 50, "sprite": [ "t_nl_catwalk_center_3" ] },
-        { "weight": 50, "sprite": [ "t_nl_catwalk_center_4" ] },
-        { "weight": 1, "sprite": [ "t_nl_catwalk_center_rare" ] }
+        {
+          "weight": 100,
+          "sprite": [
+            "t_nl_catwalk_center_1"
+          ]
+        },
+        {
+          "weight": 100,
+          "sprite": [
+            "t_nl_catwalk_center_2"
+          ]
+        },
+        {
+          "weight": 50,
+          "sprite": [
+            "t_nl_catwalk_center_3"
+          ]
+        },
+        {
+          "weight": 50,
+          "sprite": [
+            "t_nl_catwalk_center_4"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_nl_catwalk_center_rare"
+          ]
+        }
       ]
     },
     {
@@ -21,15 +46,30 @@
       "fg": [
         {
           "weight": 2,
-          "sprite": [ "t_nl_catwalk_corner_nw_1", "t_nl_catwalk_corner_se_1", "t_nl_catwalk_corner_ne_1", "t_nl_catwalk_corner_sw_1" ]
+          "sprite": [
+            "t_nl_catwalk_corner_nw_1",
+            "t_nl_catwalk_corner_sw_1",
+            "t_nl_catwalk_corner_ne_1",
+            "t_nl_catwalk_corner_se_1"
+          ]
         },
         {
           "weight": 2,
-          "sprite": [ "t_nl_catwalk_corner_nw_2", "t_nl_catwalk_corner_se_2", "t_nl_catwalk_corner_ne_2", "t_nl_catwalk_corner_sw_2" ]
+          "sprite": [
+            "t_nl_catwalk_corner_nw_2",
+            "t_nl_catwalk_corner_sw_2",
+            "t_nl_catwalk_corner_ne_2",
+            "t_nl_catwalk_corner_se_2"
+          ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_nl_catwalk_corner_nw_3", "t_nl_catwalk_corner_se_3", "t_nl_catwalk_corner_ne_3", "t_nl_catwalk_corner_sw_3" ]
+          "sprite": [
+            "t_nl_catwalk_corner_nw_3",
+            "t_nl_catwalk_corner_sw_3",
+            "t_nl_catwalk_corner_ne_3",
+            "t_nl_catwalk_corner_se_3"
+          ]
         }
       ]
     },
@@ -41,18 +81,18 @@
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_t_connection_n_1",
-            "t_nl_catwalk_t_connection_e_1",
+            "t_nl_catwalk_t_connection_w_1",
             "t_nl_catwalk_t_connection_s_1",
-            "t_nl_catwalk_t_connection_w_1"
+            "t_nl_catwalk_t_connection_e_1"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_t_connection_n_2",
-            "t_nl_catwalk_t_connection_e_2",
+            "t_nl_catwalk_t_connection_w_2",
             "t_nl_catwalk_t_connection_s_2",
-            "t_nl_catwalk_t_connection_w_2"
+            "t_nl_catwalk_t_connection_e_2"
           ]
         }
       ]
@@ -61,8 +101,20 @@
       "id": "edge",
       "bg": "",
       "fg": [
-        { "weight": 1, "sprite": [ "t_nl_catwalk_edge_ns_1", "t_nl_catwalk_edge_ew_1" ] },
-        { "weight": 1, "sprite": [ "t_nl_catwalk_edge_ns_2", "t_nl_catwalk_edge_ew_2" ] }
+        {
+          "weight": 1,
+          "sprite": [
+            "t_nl_catwalk_edge_ns_1",
+            "t_nl_catwalk_edge_ew_1"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_nl_catwalk_edge_ns_2",
+            "t_nl_catwalk_edge_ew_2"
+          ]
+        }
       ]
     },
     {
@@ -73,18 +125,18 @@
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_end_piece_n_1",
-            "t_nl_catwalk_end_piece_e_1",
+            "t_nl_catwalk_end_piece_w_1",
             "t_nl_catwalk_end_piece_s_1",
-            "t_nl_catwalk_end_piece_w_1"
+            "t_nl_catwalk_end_piece_e_1"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_end_piece_n_2",
-            "t_nl_catwalk_end_piece_e_2",
+            "t_nl_catwalk_end_piece_w_2",
             "t_nl_catwalk_end_piece_s_2",
-            "t_nl_catwalk_end_piece_w_2"
+            "t_nl_catwalk_end_piece_e_2"
           ]
         }
       ]
@@ -93,8 +145,18 @@
       "bg": "",
       "id": "unconnected",
       "fg": [
-        { "weight": 1, "sprite": [ "t_nl_catwalk_unconnected_1" ] },
-        { "weight": 1, "sprite": [ "t_nl_catwalk_unconnected_2" ] }
+        {
+          "weight": 1,
+          "sprite": [
+            "t_nl_catwalk_unconnected_1"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_nl_catwalk_unconnected_2"
+          ]
+        }
       ]
     }
   ]

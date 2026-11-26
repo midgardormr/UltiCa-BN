@@ -1,0 +1,61 @@
+{
+  "id": "vp_bn_user_mounted_plasma_gun_rear_directed",
+  "fg": [
+    "bn_directed_turret_b2cd26eddf18a64808351ffe",
+    "bn_directed_turret_0a7db396f6466b3e7711485d",
+    "bn_user_laser_rifle_center_S_anchored64_user_position_S",
+    "bn_directed_turret_d1d666f2ff49bd62b2e3e117"
+  ],
+  "bg": [
+    "bn_directed_turret_5aee26d151ceb1f84dba9c2b",
+    "bn_directed_turret_92af6889ff8da4886fa663d6",
+    "bn_user_compact_turret_base_center_S",
+    "bn_directed_turret_0be39f2a417040d5c045f0e6"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e"
+      ],
+      "bg": [
+        "bn_directed_turret_b2cd26eddf18a64808351ffe",
+        "bn_directed_turret_0a7db396f6466b3e7711485d",
+        "bn_user_laser_rifle_center_S_anchored64_user_position_S",
+        "bn_directed_turret_d1d666f2ff49bd62b2e3e117"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_directed_turret_720c07c2623b2189926b511b",
+            "bn_directed_turret_7765fc855d1083f5caa4601c",
+            "bn_user_W_identity_64x64",
+            "bn_directed_turret_3c3987cf9c50d967764eea79"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_directed_turret_720c07c2623b2189926b511b",
+        "bn_directed_turret_7765fc855d1083f5caa4601c",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_3c3987cf9c50d967764eea79"
+      ],
+      "bg": [
+        "bn_directed_turret_720c07c2623b2189926b511b",
+        "bn_directed_turret_7504357c7dd6173f4f1f675f",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_3c3987cf9c50d967764eea79"
+      ]
+    }
+  ]
+}

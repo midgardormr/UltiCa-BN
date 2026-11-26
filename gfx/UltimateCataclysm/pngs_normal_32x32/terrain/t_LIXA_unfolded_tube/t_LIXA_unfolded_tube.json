@@ -7,12 +7,22 @@
     {
       "id": "t_connection",
       "bg": "t_thconc_floor_center",
-      "fg": [ "t_LIXA_unfolded_tube_n", "t_LIXA_unfolded_tube_e", "t_LIXA_unfolded_tube_s", "t_LIXA_unfolded_tube_w" ]
+      "fg": [
+        "t_LIXA_unfolded_tube_n",
+        "t_LIXA_unfolded_tube_w",
+        "t_LIXA_unfolded_tube_s",
+        "t_LIXA_unfolded_tube_e"
+      ]
     },
     {
       "id": "end_piece",
       "bg": "t_thconc_floor_center",
-      "fg": [ "t_LIXA_unfolded_tube_n", "t_LIXA_unfolded_tube_e", "t_LIXA_unfolded_tube_s", "t_LIXA_unfolded_tube_w" ]
+      "fg": [
+        "t_LIXA_unfolded_tube_n",
+        "t_LIXA_unfolded_tube_w",
+        "t_LIXA_unfolded_tube_s",
+        "t_LIXA_unfolded_tube_e"
+      ]
     }
   ]
 }

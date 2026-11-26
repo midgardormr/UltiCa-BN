@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bridge_under",
+    "fg": [
+      "bn_bridge_support_ns",
+      "bn_bridge_support_ew",
+      "bn_bridge_support_ns",
+      "bn_bridge_support_ew"
+    ],
+    "rotates": true
+  }
+]

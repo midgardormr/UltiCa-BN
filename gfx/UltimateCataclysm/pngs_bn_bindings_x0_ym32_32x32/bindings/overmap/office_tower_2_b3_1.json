@@ -1,0 +1,10 @@
+{
+  "id": "office_tower_2_b3_1",
+  "fg": [
+    "office_tower_2_b3_faceN",
+    "office_tower_2_b3_faceW",
+    "office_tower_2_b3_faceS",
+    "office_tower_2_b3_faceE"
+  ],
+  "rotates": true
+}

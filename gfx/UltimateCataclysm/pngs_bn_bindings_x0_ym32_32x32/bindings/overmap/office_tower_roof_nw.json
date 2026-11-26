@@ -1,0 +1,11 @@
+{
+  "id": "office_tower_roof_nw",
+  "fg": [
+    "office_tower_roof_nw",
+    "office_tower_roof_sw",
+    "office_tower_roof_se",
+    "office_tower_roof_nw"
+  ],
+  "bg": "open_air_tall",
+  "rotates": true
+}

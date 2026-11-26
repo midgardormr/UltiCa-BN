@@ -1,0 +1,49 @@
+{
+  "id": "vp_solar_panel_v2_raised_support",
+  "fg": [
+    "bn_raised_e67af248adbcf5b04d",
+    "bn_raised_4ae9435e9ee7160fd9",
+    "bn_raised_e67af248adbcf5b04d",
+    "bn_raised_559f60fbccd487157f"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_raised_e82236e41d8115d8da"
+      ],
+      "bg": [
+        "bn_raised_e67af248adbcf5b04d",
+        "bn_raised_4ae9435e9ee7160fd9",
+        "bn_raised_e67af248adbcf5b04d",
+        "bn_raised_559f60fbccd487157f"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_raised_ccd4715d3a087ab638",
+            "bn_raised_ccd4715d3a087ab638",
+            "bn_raised_ccd4715d3a087ab638",
+            "bn_raised_20e3107d6c160d6c0c"
+          ],
+          "fg": [
+            "bn_raised_a13dacc68a2eec12fc"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_raised_ccd4715d3a087ab638",
+        "bn_raised_ccd4715d3a087ab638",
+        "bn_raised_ccd4715d3a087ab638",
+        "bn_raised_20e3107d6c160d6c0c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vp_bn_limo_roof_front_seam_W",
+  "fg": [
+    "bn_limo_roof_front_seam_W",
+    "bn_limo_roof_front_seam_W",
+    "bn_limo_roof_front_seam_W",
+    "bn_limo_roof_front_seam_W"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_limo_roof_front_seam_E_damage",
+        "bn_limo_roof_front_seam_E_damage",
+        "bn_limo_roof_front_seam_E_damage",
+        "bn_limo_roof_front_seam_E_damage"
+      ],
+      "bg": [
+        "bn_limo_roof_front_seam_W",
+        "bn_limo_roof_front_seam_W",
+        "bn_limo_roof_front_seam_W",
+        "bn_limo_roof_front_seam_W"
+      ]
+    }
+  ]
+}

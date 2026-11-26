@@ -1,0 +1,16 @@
+{
+  "id": "mine_entrance_roof",
+  "fg": [
+    "mine_N_1",
+    "mine_W_1",
+    "mine_S_1",
+    "mine_E_1"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

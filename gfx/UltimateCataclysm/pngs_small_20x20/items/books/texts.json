@@ -87,7 +87,11 @@
     "fg": "generic_recipebook"
   },
   {
-    "id": [ "pocket_firstaid", "pocket_firearms", "pocket_survival" ],
+    "id": [
+      "pocket_firstaid",
+      "pocket_firearms",
+      "pocket_survival"
+    ],
     "fg": "generic_pocketguide"
   },
   {
@@ -127,7 +131,10 @@
       "schematics_searchlight",
       "schematics_secubot",
       "schematics_dispatch_military",
-      "schematics_dispatch"
+      "schematics_dispatch",
+      "schematics_chickenbot",
+      "schematics_tankbot",
+      "schematics_tripod"
     ],
     "fg": "generic_schematics"
   },
@@ -153,7 +160,11 @@
     "fg": "generic_manual"
   },
   {
-    "id": [ "record_patient", "tailor_portfolio", "isherwood_herbal_remedies" ],
+    "id": [
+      "record_patient",
+      "tailor_portfolio",
+      "isherwood_herbal_remedies"
+    ],
     "fg": "generic_binder"
   }
 ]

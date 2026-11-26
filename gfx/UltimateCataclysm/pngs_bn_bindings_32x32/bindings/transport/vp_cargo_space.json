@@ -1,0 +1,31 @@
+{
+  "id": "vp_cargo_space",
+  "fg": "vp_cargo_space",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_cargo_space",
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_4896fae9c35e66275ddba7cc"
+          ],
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_4896fae9c35e66275ddba7cc"
+      ]
+    }
+  ]
+}

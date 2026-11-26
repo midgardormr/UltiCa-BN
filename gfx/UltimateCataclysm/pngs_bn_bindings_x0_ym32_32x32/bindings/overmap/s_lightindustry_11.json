@@ -1,0 +1,16 @@
+{
+  "id": "s_lightindustry_11",
+  "fg": [
+    "industry_light_EW_4",
+    "industry_light_NS_3",
+    "industry_light_EW_1",
+    "industry_light_NS_2"
+  ],
+  "bg": [
+    "field_tall",
+    "field_tall",
+    "field_tall",
+    "field_tall"
+  ],
+  "rotates": true
+}

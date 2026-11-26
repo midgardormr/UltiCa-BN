@@ -15,10 +15,12 @@
 },{
   "id": [
     "cookies",
-    "crackers",
     "biscuit"
   ],
   "fg": "cookies"
+},{
+  "id": "crackers",
+  "fg": "crackers_centered"
 },{
   "id": [
     "cake2",

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "bn_door_material_mask_bn_user_E_bn_user_rear_hddoor_base_fg",
+    "fg": "bn_door_material_mask_bn_user_E_bn_user_rear_hddoor_base_fg"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_E_bn_user_rear_hddoor_open_fg",
+    "fg": "bn_door_material_mask_bn_user_E_bn_user_rear_hddoor_open_fg"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_rear_rotE",
+    "fg": "bn_door_material_mask_vp_hddoor_rear_rotE"
+  },
+  {
+    "id": "bn_door_material_mask_vp_hddoor_rear_rotW",
+    "fg": "bn_door_material_mask_vp_hddoor_rear_rotW"
+  },
+  {
+    "id": "bn_user_E_bn_reinforced_windshield_exposed_front_base_fg_mask",
+    "fg": "bn_surface_paint_95ffae479eb0844495cbe326"
+  },
+  {
+    "id": "bn_user_E_bn_roof_surface_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_bn_roof_surface_base_fg_mask"
+  },
+  {
+    "id": "bn_user_E_bn_user_rear_board_base_fg_mask",
+    "fg": "bn_surface_paint_c3a54b1f54e15948a782ba2c"
+  },
+  {
+    "id": "bn_user_E_bn_user_rear_hddoor_base_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_bn_user_rear_hddoor_base_fg"
+  },
+  {
+    "id": "bn_user_E_bn_user_rear_hddoor_open_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_bn_user_rear_hddoor_open_fg"
+  },
+  {
+    "id": "bn_user_E_hdboard_se_base_fg_mask",
+    "fg": "bn_surface_paint_c84380ab2897751a4a0cc805"
+  },
+  {
+    "id": "bn_user_E_hdboard_sw_base_fg_mask",
+    "fg": "bn_surface_paint_bc480c864cd2b111bb391571"
+  },
+  {
+    "id": "bn_user_E_hdboard_vertical_right_base_fg_mask",
+    "fg": "bn_surface_paint_6cea8f70ba3d285dc9cd647c"
+  },
+  {
+    "id": "bn_user_E_hdhalfboard_ne_base_fg_mask",
+    "fg": "bn_surface_paint_87129f14a05a8b5b2f9248f1"
+  },
+  {
+    "id": "bn_user_E_hdhalfboard_nw_base_fg_mask",
+    "fg": "bn_surface_paint_226dfd9fa48ee728bb02948a"
+  },
+  {
+    "id": "bn_user_E_identity_32x32",
+    "fg": "bn_user_W_bn_user_E_bn_roof_surface_base_fg_mask"
+  },
+  {
+    "id": "bn_user_E_reinforced_windshield_vertical_right_base_fg_mask",
+    "fg": "bn_surface_paint_1a444879083b1c2953377db1"
+  },
+  {
+    "id": "bn_user_NS_identity_32x32",
+    "fg": "bn_user_W_bn_user_E_bn_roof_surface_base_fg_mask"
+  },
+  {
+    "id": "bn_user_N_identity_32x32",
+    "fg": "bn_user_W_bn_user_E_bn_roof_surface_base_fg_mask"
+  },
+  {
+    "id": "bn_user_N_mask_bn_user_rear_door_closed_N",
+    "fg": "bn_user_N_mask_bn_user_rear_door_closed_N"
+  },
+  {
+    "id": "bn_user_N_mask_bn_user_side_hatch_right_closed_frame0",
+    "fg": "bn_user_N_mask_bn_user_side_hatch_right_closed_frame0"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_bn_reinforced_windshield_exposed_front_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_bn_reinforced_windshield_exposed_front_base_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_bn_roof_surface_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_bn_roof_surface_base_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_bn_user_rear_board_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_bn_user_rear_board_base_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_bn_user_rear_hddoor_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_bn_user_rear_hddoor_base_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_bn_user_rear_hddoor_open_fg_mask",
+    "fg": "bn_user_W_bn_user_E_bn_user_rear_hddoor_open_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_hdboard_se_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_hdboard_se_base_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_hdboard_sw_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_hdboard_sw_base_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_hdhalfboard_ne_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_hdhalfboard_ne_base_fg_mask"
+  },
+  {
+    "id": "bn_user_W_bn_user_E_hdhalfboard_nw_base_fg_mask",
+    "fg": "bn_user_W_bn_user_E_hdhalfboard_nw_base_fg_mask"
+  },
+  {
+    "id": "bn_user_hdboard_rear_left_S_mask_native",
+    "fg": "bn_surface_paint_5addf6a2027722bee2f56547"
+  },
+  {
+    "id": "bn_user_hdboard_rear_right_S_mask_native",
+    "fg": "bn_surface_paint_48a4c2ac8b36cff64d731a60"
+  },
+  {
+    "id": "bn_user_hdhalfboard_front_left_S_mask_native",
+    "fg": "bn_surface_paint_c56a13c69ff4f247c0ef109b"
+  },
+  {
+    "id": "bn_user_hdhalfboard_front_right_S_mask_native",
+    "fg": "bn_surface_paint_4e9072cd892625d3939ac656"
+  },
+  {
+    "id": "bn_user_rear_closed_N_mask",
+    "fg": "bn_surface_paint_541830206b5856ac221cf81e"
+  },
+  {
+    "id": "bn_user_rear_door_closed_S_mask_native",
+    "fg": "bn_surface_paint_7d2ba5e872f69ba27cc69dad"
+  },
+  {
+    "id": "bn_user_rear_door_open_S_mask_native",
+    "fg": "bn_surface_paint_dacec448d76059a790ecaaf2"
+  },
+  {
+    "id": "bn_user_rear_open_N_mask",
+    "fg": "bn_surface_paint_594dfa1b9b6721fd4d8ca64c"
+  },
+  {
+    "id": "bn_user_storage_left_closed_S_mask_native",
+    "fg": "bn_user_N_mask_bn_user_side_hatch_right_closed_frame0"
+  },
+  {
+    "id": "bn_user_vp_afs_roof_external_tank_E",
+    "fg": "bn_user_vp_afs_roof_external_tank_E"
+  },
+  {
+    "id": "bn_user_vp_afs_roof_external_tank_N",
+    "fg": "bn_user_vp_afs_roof_external_tank_N"
+  },
+  {
+    "id": "bn_user_vp_afs_roof_external_tank_S",
+    "fg": "bn_user_vp_afs_roof_external_tank_N"
+  },
+  {
+    "id": "bn_user_vp_afs_roof_external_tank_W",
+    "fg": "bn_user_vp_afs_roof_external_tank_E"
+  },
+  {
+    "id": "bn_user_vp_distorion_flow_rotor_part_E",
+    "fg": "bn_user_vp_distorion_flow_rotor_part_E"
+  },
+  {
+    "id": "bn_user_vp_distorion_flow_rotor_part_N",
+    "fg": "bn_user_vp_distorion_flow_rotor_part_N"
+  },
+  {
+    "id": "bn_user_vp_distorion_flow_rotor_part_S",
+    "fg": "bn_user_vp_distorion_flow_rotor_part_N"
+  },
+  {
+    "id": "bn_user_vp_distorion_flow_rotor_part_W",
+    "fg": "bn_user_vp_distorion_flow_rotor_part_E"
+  },
+  {
+    "id": "vp_bn_roof_cap_hdboard_vertical_left_base_E_mask",
+    "fg": "vp_bn_roof_cap_hdboard_vertical_right_vp_bn_roof_cap_hdboard_vertical_right_W_mask"
+  },
+  {
+    "id": "vp_bn_roof_cap_hdboard_vertical_right_vp_bn_roof_cap_hdboard_vertical_right_W_mask",
+    "fg": "vp_bn_roof_cap_hdboard_vertical_right_vp_bn_roof_cap_hdboard_vertical_right_W_mask"
+  },
+  {
+    "id": "vp_bn_roof_cap_hdhatch_opaque_left_base_E_mask",
+    "fg": "vp_bn_roof_cap_hdboard_vertical_right_vp_bn_roof_cap_hdboard_vertical_right_W_mask"
+  },
+  {
+    "id": "vp_bn_roof_cap_reinforced_windshield_vertical_left_base_E_mask",
+    "fg": "vp_bn_roof_cap_hdboard_vertical_right_vp_bn_roof_cap_hdboard_vertical_right_W_mask"
+  },
+  {
+    "id": "vp_bn_user_rear_board_mask_0",
+    "fg": "bn_surface_paint_541830206b5856ac221cf81e"
+  },
+  {
+    "id": "vp_bn_user_rear_board_mask_2",
+    "fg": "bn_surface_paint_541830206b5856ac221cf81e"
+  },
+  {
+    "id": "vp_bn_user_rear_hddoor_mask_0",
+    "fg": "bn_surface_paint_541830206b5856ac221cf81e"
+  },
+  {
+    "id": "vp_bn_user_rear_hddoor_mask_1",
+    "fg": "bn_door_material_mask_vp_hddoor_rear_rotW"
+  },
+  {
+    "id": "vp_bn_user_rear_hddoor_mask_2",
+    "fg": "bn_surface_paint_541830206b5856ac221cf81e"
+  },
+  {
+    "id": "vp_bn_user_rear_hddoor_mask_3",
+    "fg": "bn_door_material_mask_vp_hddoor_rear_rotE"
+  }
+]

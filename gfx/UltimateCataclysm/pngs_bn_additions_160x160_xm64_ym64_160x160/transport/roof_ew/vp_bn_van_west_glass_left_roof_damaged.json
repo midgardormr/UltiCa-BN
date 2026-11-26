@@ -1,0 +1,67 @@
+{
+  "id": "vp_bn_van_west_glass_left_roof_damaged",
+  "fg": [
+    "bn_van_west_glass_left_roof_damaged",
+    "bn_van_west_glass_left_roof_damaged",
+    "bn_van_west_glass_left_roof_damaged",
+    "bn_van_west_glass_left_roof_damaged"
+  ],
+  "bg": [
+    "bn_van_west_glass_left_body",
+    "bn_van_west_glass_left_body",
+    "bn_van_west_glass_left_body",
+    "bn_van_west_glass_left_body"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_van_west_glass_left_both_damaged",
+        "bn_van_west_glass_left_both_damaged",
+        "bn_van_west_glass_left_both_damaged",
+        "bn_van_west_glass_left_both_damaged"
+      ],
+      "bg": [
+        "bn_van_west_glass_left_body",
+        "bn_van_west_glass_left_body",
+        "bn_van_west_glass_left_body",
+        "bn_van_west_glass_left_body"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5",
+            "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5",
+            "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5",
+            "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5"
+          ],
+          "fg": [
+            "bn_surface_paint_9ca337c7d28b40e6d8088c8f",
+            "bn_surface_paint_9ca337c7d28b40e6d8088c8f",
+            "bn_surface_paint_9ca337c7d28b40e6d8088c8f",
+            "bn_surface_paint_9ca337c7d28b40e6d8088c8f"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "bg": [
+        "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5",
+        "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5",
+        "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5",
+        "bn_surface_paint_f1b0b7bc2ce0b271e0d054d5"
+      ],
+      "fg": [
+        "bn_surface_paint_d0d93ea93b0d517a60c04ff4",
+        "bn_surface_paint_d0d93ea93b0d517a60c04ff4",
+        "bn_surface_paint_d0d93ea93b0d517a60c04ff4",
+        "bn_surface_paint_d0d93ea93b0d517a60c04ff4"
+      ]
+    }
+  ]
+}

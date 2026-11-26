@@ -1,0 +1,1 @@
+Additional gate views drawn in Aseprite using the original UltiCa gate palettes and fence alignment. Existing east/west artwork retained except for new metal-gate and portcullis graphics.

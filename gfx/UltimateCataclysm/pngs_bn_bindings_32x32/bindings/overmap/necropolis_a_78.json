@@ -1,0 +1,16 @@
+{
+  "id": "necropolis_a_78",
+  "fg": [
+    "gas_small_faceW",
+    "gas_small_faceS",
+    "gas_small_faceE",
+    "gas_small_faceN"
+  ],
+  "rotates": true,
+  "bg": [
+    "field",
+    "field",
+    "field",
+    "field"
+  ]
+}

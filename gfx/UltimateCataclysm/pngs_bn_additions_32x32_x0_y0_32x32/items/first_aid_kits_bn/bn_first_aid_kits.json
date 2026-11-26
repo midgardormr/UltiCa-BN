@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1st_aid",
+    "fg": "bn_firstaid_1st_aid"
+  },
+  {
+    "id": "1st_aid_deluxe",
+    "fg": "bn_firstaid_1st_aid_deluxe"
+  },
+  {
+    "id": "crt_med_kit",
+    "fg": "bn_firstaid_crt_med_kit"
+  },
+  {
+    "id": "crt_good_med_kit",
+    "fg": "bn_firstaid_crt_good_med_kit"
+  }
+]

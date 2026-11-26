@@ -1,0 +1,10 @@
+{
+  "id": "paddock_R_butt",
+  "fg": [
+    "pasture_end_e",
+    "pasture_end_n",
+    "pasture_end_w",
+    "pasture_end_s"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dairy_farm_isherwood_SE",
+  "fg": [
+    "barn_faceNS",
+    "barn_faceEW",
+    "barn_faceNS",
+    "barn_faceEW"
+  ],
+  "bg": "field",
+  "rotates": true
+}

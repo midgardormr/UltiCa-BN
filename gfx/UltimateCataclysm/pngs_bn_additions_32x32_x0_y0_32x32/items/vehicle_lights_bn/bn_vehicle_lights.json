@@ -1,0 +1,42 @@
+[
+  {
+    "id": "car_headlight",
+    "fg": "bn_light_car_headlight"
+  },
+  {
+    "id": "motorcycle_headlight",
+    "fg": "bn_light_motorcycle_headlight"
+  },
+  {
+    "id": "car_wide_headlight",
+    "fg": "bn_light_car_wide_headlight"
+  },
+  {
+    "id": "headlight_reinforced",
+    "fg": "bn_light_headlight_reinforced"
+  },
+  {
+    "id": "wide_headlight_reinforced",
+    "fg": "bn_light_wide_headlight_reinforced"
+  },
+  {
+    "id": "light_emergency_red",
+    "fg": "bn_light_light_emergency_red"
+  },
+  {
+    "id": "light_emergency_blue",
+    "fg": "bn_light_light_emergency_blue"
+  },
+  {
+    "id": "light_emergency_white",
+    "fg": "bn_light_light_emergency_white"
+  },
+  {
+    "id": "floodlight",
+    "fg": "bn_light_floodlight"
+  },
+  {
+    "id": "directed_floodlight",
+    "fg": "bn_light_directed_floodlight"
+  }
+]

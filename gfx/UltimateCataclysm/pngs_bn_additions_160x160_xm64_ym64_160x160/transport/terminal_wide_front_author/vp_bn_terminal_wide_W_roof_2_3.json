@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_terminal_wide_W_roof_2_3",
+  "fg": [
+    "bn_limo_roof_N",
+    "bn_limo_roof_N",
+    "bn_limo_roof_N",
+    "bn_limo_roof_N"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_plane_passenger_N_rear_glass_0_mask",
+        "bn_plane_passenger_N_rear_glass_0_mask",
+        "bn_plane_passenger_N_rear_glass_0_mask",
+        "bn_plane_passenger_N_rear_glass_0_mask"
+      ]
+    }
+  ]
+}

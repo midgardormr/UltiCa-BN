@@ -1,0 +1,62 @@
+[
+  {
+    "id": "t_chickenwire_gate_o",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_o",
+      "bn_gate_chickenwire_ew_o_shifted"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_shifted",
+      "bn_gate_ground_grass_shifted"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_o",
+      "bn_gate_chickenwire_ew_o_shifted"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_shifted",
+      "bn_gate_ground_grass_shifted"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_o_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_o",
+      "bn_gate_chickenwire_ew_o_shifted"
+    ],
+    "bg": [
+      "bn_gate_ground_summer_shifted",
+      "bn_gate_ground_summer_shifted"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_o_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_o",
+      "bn_gate_chickenwire_ew_o_shifted"
+    ],
+    "bg": [
+      "bn_gate_ground_autumn_shifted",
+      "bn_gate_ground_autumn_shifted"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_o_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_o",
+      "bn_gate_chickenwire_ew_o_shifted"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_shifted",
+      "bn_gate_ground_snow_shifted"
+    ]
+  }
+]

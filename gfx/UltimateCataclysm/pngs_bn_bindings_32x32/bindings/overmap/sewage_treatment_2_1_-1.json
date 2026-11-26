@@ -1,0 +1,10 @@
+{
+  "id": "sewage_treatment_2_1_-1",
+  "fg": [
+    "t_sewage_pipe_corner_se",
+    "t_sewage_pipe_corner_ne",
+    "t_sewage_pipe_corner_nw",
+    "t_sewage_pipe_corner_sw"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "overmap_path",
+    "fg": "bn_overmap_path"
+  },
+  {
+    "id": "overmap_path_above",
+    "fg": "bn_overmap_path_above"
+  },
+  {
+    "id": "overmap_path_below",
+    "fg": "bn_overmap_path_above"
+  }
+]

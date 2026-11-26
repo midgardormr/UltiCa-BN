@@ -1,0 +1,10 @@
+{
+  "id": "office_tower_collapse_b1",
+  "fg": [
+    "office_tower_2_b2_faceN",
+    "office_tower_2_b2_faceW",
+    "office_tower_2_b2_faceS",
+    "office_tower_2_b2_faceE"
+  ],
+  "rotates": true
+}

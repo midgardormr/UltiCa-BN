@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fruit_leather",
+    "fg": "bn_fruit_leather"
+  },
+  {
+    "id": "kimchi",
+    "fg": "bn_kimchi"
+  },
+  {
+    "id": "kimchi_raw",
+    "fg": "bn_kimchi_raw"
+  }
+]

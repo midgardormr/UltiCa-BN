@@ -1,0 +1,16 @@
+{
+  "id": "loffice_tower_20",
+  "fg": [
+    "office_tower_roof_se",
+    "office_tower_roof_ne",
+    "office_tower_roof_nw",
+    "office_tower_roof_sw"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

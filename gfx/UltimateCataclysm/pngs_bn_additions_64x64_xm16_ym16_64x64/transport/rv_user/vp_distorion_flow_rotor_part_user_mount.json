@@ -1,0 +1,9 @@
+{
+  "id": "vp_distorion_flow_rotor_part_user_mount",
+  "fg": [
+    "bn_user_vp_distorion_flow_rotor_part_N_anchored64",
+    "bn_user_vp_distorion_flow_rotor_part_E_anchored64",
+    "bn_user_vp_distorion_flow_rotor_part_N_anchored64",
+    "bn_user_vp_distorion_flow_rotor_part_E_anchored64"
+  ]
+}

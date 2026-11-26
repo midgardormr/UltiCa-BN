@@ -1,0 +1,26 @@
+{
+  "id": "vp_solar_panel_v3",
+  "fg": [
+    "bn_vp_solar_panel_v3_ultica_0",
+    "bn_vp_solar_panel_v3_ultica_1"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_glass_center_32x48",
+      "bg": [
+        "bn_vp_solar_panel_v3_ultica_0",
+        "bn_vp_solar_panel_v3_ultica_1"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_f9d281cc34dab2ff99b951cf"
+          ]
+        }
+      ]
+    }
+  ]
+}

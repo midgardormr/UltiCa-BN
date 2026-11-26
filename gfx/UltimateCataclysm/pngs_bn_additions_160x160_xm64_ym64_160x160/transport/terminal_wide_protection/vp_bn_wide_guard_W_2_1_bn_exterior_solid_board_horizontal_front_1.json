@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_wide_guard_W_2_1_bn_exterior_solid_board_horizontal_front_1",
+  "fg": [
+    "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_2b870cb3f9f0",
+    "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_81ec1d70060a",
+    "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_c9ddf9dae51e",
+    "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_f3b4bd21e338"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_2b870cb3f9f0",
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_81ec1d70060a",
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_c9ddf9dae51e",
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_f3b4bd21e338"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_ece038e19c13",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_aa3ff487a5b7",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_0231f604819e",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_71fad6a20ca2"
+          ],
+          "fg": [
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_ece038e19c13",
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_aa3ff487a5b7",
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_0231f604819e",
+        "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_71fad6a20ca2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vp_bn_van_east_light_blue",
+  "fg": [
+    "bn_van_east_light_blue",
+    "bn_van_east_light_blue",
+    "bn_van_east_light_blue",
+    "bn_van_east_light_blue"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_van_east_light_blue_broken",
+        "bn_van_east_light_blue_broken",
+        "bn_van_east_light_blue_broken",
+        "bn_van_east_light_blue_broken"
+      ],
+      "bg": [
+        "bn_van_east_light_blue",
+        "bn_van_east_light_blue",
+        "bn_van_east_light_blue",
+        "bn_van_east_light_blue"
+      ]
+    }
+  ]
+}

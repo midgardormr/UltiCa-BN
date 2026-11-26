@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_van_n_light_blue_front",
+  "fg": "bn_van_n_light_blue_front",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_roof_n_front_left_d0_broken",
+      "bg": "bn_van_n_light_blue_front",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_bdcadb1c892d56879d374bb4"
+          ]
+        }
+      ]
+    }
+  ]
+}

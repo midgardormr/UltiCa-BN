@@ -1,0 +1,31 @@
+{
+  "id": "vp_frame_wood_light_cross",
+  "fg": "frame_wood_cross",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "frame_wood_cross",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ],
+          "bg": [
+            "bn_surface_paint_964a6120ec120bb3a5f06845"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_964a6120ec120bb3a5f06845"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "vp_hatch",
+  "fg": [
+    "vp_door_interior_rotN",
+    "vp_door_interior_rotW",
+    "vp_door_interior_rotS",
+    "vp_door_interior_rotE"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "vp_door_interior_rotN_open",
+        "vp_door_interior_open_rotW",
+        "vp_door_interior_rotS_open",
+        "vp_door_interior_open_rotE"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_2d009d0dda13d75ea000228a",
+            "bn_surface_paint_5e421c2f7168fd37fa10b260",
+            "bn_surface_paint_0dc4152a756f2ccbdb1d13c3",
+            "bn_surface_paint_5d03e4e267660e30fb9fa9d3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48"
+      ],
+      "bg": [
+        "vp_door_interior_rotN_open",
+        "vp_door_interior_open_rotW",
+        "vp_door_interior_rotS_open",
+        "vp_door_interior_open_rotE"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2"
+          ],
+          "bg": [
+            "bn_surface_paint_2d009d0dda13d75ea000228a",
+            "bn_surface_paint_5e421c2f7168fd37fa10b260",
+            "bn_surface_paint_0dc4152a756f2ccbdb1d13c3",
+            "bn_surface_paint_5d03e4e267660e30fb9fa9d3"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_65ac807fe9609c82230b84e2",
+        "bn_surface_paint_92cfd36b75e4194d531b9567",
+        "bn_surface_paint_cd18b99a6567e9db5fd02088",
+        "bn_surface_paint_bb5b5121d63aee5c862e421c"
+      ]
+    }
+  ]
+}

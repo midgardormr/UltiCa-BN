@@ -1,0 +1,12 @@
+[
+  {
+    "id": [
+      "bar",
+      "bar_1",
+      "bar_roof",
+      "bar_roof_1"
+    ],
+    "fg": "bn_bar_front",
+    "rotates": false
+  }
+]

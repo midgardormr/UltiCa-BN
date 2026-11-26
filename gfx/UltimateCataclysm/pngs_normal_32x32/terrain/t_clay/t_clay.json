@@ -5,24 +5,54 @@
     "fg": "t_clay_unconnected",
     "bg": "t_grass",
     "additional_tiles": [
-      { "id": "center", "fg": "t_clay_center", "bg": "t_grass" },
+      {
+        "id": "center",
+        "fg": "t_clay_center",
+        "bg": "t_grass"
+      },
       {
         "id": "corner",
-        "fg": [ "t_clay_corner_nw", "t_clay_corner_ne", "t_clay_corner_se", "t_clay_corner_sw" ],
+        "fg": [
+          "t_clay_corner_nw",
+          "t_clay_corner_sw",
+          "t_clay_corner_se",
+          "t_clay_corner_ne"
+        ],
         "bg": "t_grass"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_clay_t_connection_n", "t_clay_t_connection_e", "t_clay_t_connection_s", "t_clay_t_connection_w" ],
+        "fg": [
+          "t_clay_t_connection_n",
+          "t_clay_t_connection_w",
+          "t_clay_t_connection_s",
+          "t_clay_t_connection_e"
+        ],
         "bg": "t_grass"
       },
-      { "id": "edge", "fg": [ "t_clay_edge_ns", "t_clay_edge_ew" ], "bg": "t_grass" },
+      {
+        "id": "edge",
+        "fg": [
+          "t_clay_edge_ns",
+          "t_clay_edge_ew"
+        ],
+        "bg": "t_grass"
+      },
       {
         "id": "end_piece",
-        "fg": [ "t_clay_end_piece_n", "t_clay_end_piece_e", "t_clay_end_piece_s", "t_clay_end_piece_w" ],
+        "fg": [
+          "t_clay_end_piece_n",
+          "t_clay_end_piece_w",
+          "t_clay_end_piece_s",
+          "t_clay_end_piece_e"
+        ],
         "bg": "t_grass"
       },
-      { "id": "unconnected", "fg": "t_clay_unconnected", "bg": "t_grass" }
+      {
+        "id": "unconnected",
+        "fg": "t_clay_unconnected",
+        "bg": "t_grass"
+      }
     ]
   },
   {
@@ -31,24 +61,54 @@
     "fg": "t_clay_unconnected",
     "bg": "t_grass_summer",
     "additional_tiles": [
-      { "id": "center", "fg": "t_clay_center", "bg": "t_grass_summer" },
+      {
+        "id": "center",
+        "fg": "t_clay_center",
+        "bg": "t_grass_summer"
+      },
       {
         "id": "corner",
-        "fg": [ "t_clay_corner_nw", "t_clay_corner_ne", "t_clay_corner_se", "t_clay_corner_sw" ],
+        "fg": [
+          "t_clay_corner_nw",
+          "t_clay_corner_sw",
+          "t_clay_corner_se",
+          "t_clay_corner_ne"
+        ],
         "bg": "t_grass_summer"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_clay_t_connection_n", "t_clay_t_connection_e", "t_clay_t_connection_s", "t_clay_t_connection_w" ],
+        "fg": [
+          "t_clay_t_connection_n",
+          "t_clay_t_connection_w",
+          "t_clay_t_connection_s",
+          "t_clay_t_connection_e"
+        ],
         "bg": "t_grass_summer"
       },
-      { "id": "edge", "fg": [ "t_clay_edge_ns", "t_clay_edge_ew" ], "bg": "t_grass_summer" },
+      {
+        "id": "edge",
+        "fg": [
+          "t_clay_edge_ns",
+          "t_clay_edge_ew"
+        ],
+        "bg": "t_grass_summer"
+      },
       {
         "id": "end_piece",
-        "fg": [ "t_clay_end_piece_n", "t_clay_end_piece_e", "t_clay_end_piece_s", "t_clay_end_piece_w" ],
+        "fg": [
+          "t_clay_end_piece_n",
+          "t_clay_end_piece_w",
+          "t_clay_end_piece_s",
+          "t_clay_end_piece_e"
+        ],
         "bg": "t_grass_summer"
       },
-      { "id": "unconnected", "fg": "t_clay_unconnected", "bg": "t_grass_summer" }
+      {
+        "id": "unconnected",
+        "fg": "t_clay_unconnected",
+        "bg": "t_grass_summer"
+      }
     ]
   },
   {
@@ -57,24 +117,54 @@
     "fg": "t_clay_unconnected",
     "bg": "t_grass_autumn",
     "additional_tiles": [
-      { "id": "center", "fg": "t_clay_center", "bg": "t_grass_autumn" },
+      {
+        "id": "center",
+        "fg": "t_clay_center",
+        "bg": "t_grass_autumn"
+      },
       {
         "id": "corner",
-        "fg": [ "t_clay_corner_nw", "t_clay_corner_ne", "t_clay_corner_se", "t_clay_corner_sw" ],
+        "fg": [
+          "t_clay_corner_nw",
+          "t_clay_corner_sw",
+          "t_clay_corner_se",
+          "t_clay_corner_ne"
+        ],
         "bg": "t_grass_autumn"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_clay_t_connection_n", "t_clay_t_connection_e", "t_clay_t_connection_s", "t_clay_t_connection_w" ],
+        "fg": [
+          "t_clay_t_connection_n",
+          "t_clay_t_connection_w",
+          "t_clay_t_connection_s",
+          "t_clay_t_connection_e"
+        ],
         "bg": "t_grass_autumn"
       },
-      { "id": "edge", "fg": [ "t_clay_edge_ns", "t_clay_edge_ew" ], "bg": "t_grass_autumn" },
+      {
+        "id": "edge",
+        "fg": [
+          "t_clay_edge_ns",
+          "t_clay_edge_ew"
+        ],
+        "bg": "t_grass_autumn"
+      },
       {
         "id": "end_piece",
-        "fg": [ "t_clay_end_piece_n", "t_clay_end_piece_e", "t_clay_end_piece_s", "t_clay_end_piece_w" ],
+        "fg": [
+          "t_clay_end_piece_n",
+          "t_clay_end_piece_w",
+          "t_clay_end_piece_s",
+          "t_clay_end_piece_e"
+        ],
         "bg": "t_grass_autumn"
       },
-      { "id": "unconnected", "fg": "t_clay_unconnected", "bg": "t_grass_autumn" }
+      {
+        "id": "unconnected",
+        "fg": "t_clay_unconnected",
+        "bg": "t_grass_autumn"
+      }
     ]
   },
   {
@@ -83,24 +173,54 @@
     "fg": "t_clay_unconnected",
     "bg": "snow_shallow_center",
     "additional_tiles": [
-      { "id": "center", "fg": "t_clay_center", "bg": "snow_shallow_center" },
+      {
+        "id": "center",
+        "fg": "t_clay_center",
+        "bg": "snow_shallow_center"
+      },
       {
         "id": "corner",
-        "fg": [ "t_clay_corner_nw", "t_clay_corner_ne", "t_clay_corner_se", "t_clay_corner_sw" ],
+        "fg": [
+          "t_clay_corner_nw",
+          "t_clay_corner_sw",
+          "t_clay_corner_se",
+          "t_clay_corner_ne"
+        ],
         "bg": "snow_shallow_center"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_clay_t_connection_n", "t_clay_t_connection_e", "t_clay_t_connection_s", "t_clay_t_connection_w" ],
+        "fg": [
+          "t_clay_t_connection_n",
+          "t_clay_t_connection_w",
+          "t_clay_t_connection_s",
+          "t_clay_t_connection_e"
+        ],
         "bg": "snow_shallow_center"
       },
-      { "id": "edge", "fg": [ "t_clay_edge_ns", "t_clay_edge_ew" ], "bg": "snow_shallow_center" },
+      {
+        "id": "edge",
+        "fg": [
+          "t_clay_edge_ns",
+          "t_clay_edge_ew"
+        ],
+        "bg": "snow_shallow_center"
+      },
       {
         "id": "end_piece",
-        "fg": [ "t_clay_end_piece_n", "t_clay_end_piece_e", "t_clay_end_piece_s", "t_clay_end_piece_w" ],
+        "fg": [
+          "t_clay_end_piece_n",
+          "t_clay_end_piece_w",
+          "t_clay_end_piece_s",
+          "t_clay_end_piece_e"
+        ],
         "bg": "snow_shallow_center"
       },
-      { "bg": "snow_shallow_center", "id": "unconnected", "fg": "t_clay_unconnected" }
+      {
+        "bg": "snow_shallow_center",
+        "id": "unconnected",
+        "fg": "t_clay_unconnected"
+      }
     ]
   },
   {
@@ -109,24 +229,54 @@
     "fg": "t_clay_unconnected",
     "bg": "t_rock_floor_center",
     "additional_tiles": [
-      { "id": "center", "fg": "t_clay_center", "bg": "t_rock_floor_center" },
+      {
+        "id": "center",
+        "fg": "t_clay_center",
+        "bg": "t_rock_floor_center"
+      },
       {
         "id": "corner",
-        "fg": [ "t_clay_corner_nw", "t_clay_corner_ne", "t_clay_corner_se", "t_clay_corner_sw" ],
+        "fg": [
+          "t_clay_corner_nw",
+          "t_clay_corner_sw",
+          "t_clay_corner_se",
+          "t_clay_corner_ne"
+        ],
         "bg": "t_rock_floor_center"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_clay_t_connection_n", "t_clay_t_connection_e", "t_clay_t_connection_s", "t_clay_t_connection_w" ],
+        "fg": [
+          "t_clay_t_connection_n",
+          "t_clay_t_connection_w",
+          "t_clay_t_connection_s",
+          "t_clay_t_connection_e"
+        ],
         "bg": "t_rock_floor_center"
       },
-      { "id": "edge", "fg": [ "t_clay_edge_ns", "t_clay_edge_ew" ], "bg": "t_rock_floor_center" },
+      {
+        "id": "edge",
+        "fg": [
+          "t_clay_edge_ns",
+          "t_clay_edge_ew"
+        ],
+        "bg": "t_rock_floor_center"
+      },
       {
         "id": "end_piece",
-        "fg": [ "t_clay_end_piece_n", "t_clay_end_piece_e", "t_clay_end_piece_s", "t_clay_end_piece_w" ],
+        "fg": [
+          "t_clay_end_piece_n",
+          "t_clay_end_piece_w",
+          "t_clay_end_piece_s",
+          "t_clay_end_piece_e"
+        ],
         "bg": "t_rock_floor_center"
       },
-      { "id": "unconnected", "fg": "t_clay_unconnected", "bg": "t_rock_floor_center" }
+      {
+        "id": "unconnected",
+        "fg": "t_clay_unconnected",
+        "bg": "t_rock_floor_center"
+      }
     ]
   }
 ]

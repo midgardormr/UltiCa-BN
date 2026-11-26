@@ -1,0 +1,44 @@
+{
+  "id": "vp_bn_user_directed_floodlight_center_directed",
+  "fg": [
+    "bn_user_directed_floodlight_center_N_anchored64",
+    "bn_user_W_bn_user_directed_floodlight_center_E_anchored64",
+    "bn_directed_floodlight_center_S",
+    "bn_user_directed_floodlight_center_E_anchored64"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+      "bg": [
+        "bn_user_directed_floodlight_center_N_anchored64",
+        "bn_user_W_bn_user_directed_floodlight_center_E_anchored64",
+        "bn_directed_floodlight_center_S",
+        "bn_user_directed_floodlight_center_E_anchored64"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_user_W_identity_64x64",
+            "bn_user_W_bn_user_directed_floodlight_center_E_anchored64_mask",
+            "bn_user_E_empty64",
+            "bn_user_W_identity_64x64"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_user_W_identity_64x64",
+        "bn_user_W_bn_user_directed_floodlight_center_E_anchored64_mask",
+        "bn_user_E_empty64",
+        "bn_user_W_identity_64x64"
+      ]
+    }
+  ]
+}

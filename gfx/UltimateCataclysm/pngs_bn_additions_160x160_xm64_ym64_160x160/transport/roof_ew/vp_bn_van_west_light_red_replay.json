@@ -1,0 +1,27 @@
+{
+  "id": "vp_bn_van_west_light_red_replay",
+  "fg": [
+    "bn_van_west_light_red_replay",
+    "bn_van_west_light_red_replay",
+    "bn_van_west_light_red_replay",
+    "bn_van_west_light_red_replay"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_van_west_light_blue_replay_broken",
+        "bn_van_west_light_blue_replay_broken",
+        "bn_van_west_light_blue_replay_broken",
+        "bn_van_west_light_blue_replay_broken"
+      ],
+      "bg": [
+        "bn_van_west_light_red_replay",
+        "bn_van_west_light_red_replay",
+        "bn_van_west_light_red_replay",
+        "bn_van_west_light_red_replay"
+      ]
+    }
+  ]
+}

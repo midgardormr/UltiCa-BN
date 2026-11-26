@@ -1,0 +1,47 @@
+{
+  "id": "vp_stowboard_se",
+  "fg": [
+    "vp_stowboard_se",
+    "vp_stowboard_ne",
+    "vp_stowboard_ne_rotW",
+    "vp_stowboard_nw_rotW"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [
+        "vp_stowboard_se",
+        "vp_stowboard_ne",
+        "vp_stowboard_ne_rotW",
+        "vp_stowboard_nw_rotW"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ],
+          "bg": [
+            "bn_surface_paint_ed37f9898962f9ee6460fab5",
+            "bn_surface_paint_1a1fa55f6bfcc285ce7391db",
+            "bn_surface_paint_1acb72b396253d459b2564d1",
+            "bn_surface_paint_cec9aaf2bbea017cae084281"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_ed37f9898962f9ee6460fab5",
+        "bn_surface_paint_1a1fa55f6bfcc285ce7391db",
+        "bn_surface_paint_1acb72b396253d459b2564d1",
+        "bn_surface_paint_cec9aaf2bbea017cae084281"
+      ]
+    }
+  ]
+}

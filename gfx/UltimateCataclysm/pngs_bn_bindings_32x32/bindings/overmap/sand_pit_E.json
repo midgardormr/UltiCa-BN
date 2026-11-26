@@ -1,0 +1,11 @@
+{
+  "id": "sand_pit_E",
+  "fg": [
+    "sandpit_e",
+    "sandpit_n",
+    "sandpit_w",
+    "sandpit_s"
+  ],
+  "bg": "field",
+  "rotates": true
+}

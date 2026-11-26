@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bn_door_material_mask_bn_user_E_hddoor_right_base_fg",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_right_base_fg"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_E_hddoor_right_open_fg",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_right_open_fg"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_front_right_door_closed_S_native",
+    "fg": "bn_door_material_mask_bn_user_front_right_door_closed_S_native"
+  },
+  {
+    "id": "bn_door_material_mask_bn_user_front_right_door_open_S_native",
+    "fg": "bn_door_material_mask_bn_user_front_right_door_open_S_native"
+  },
+  {
+    "id": "bn_door_material_mask_bn_vp_hddoor_right_additional_tiles_0_fg_0",
+    "fg": "bn_user_N_mask_bn_vp_hddoor_right_additional_tiles_0_fg_0"
+  },
+  {
+    "id": "bn_door_material_mask_bn_vp_hddoor_right_fg_0",
+    "fg": "bn_user_N_mask_bn_vp_hddoor_right_fg_0"
+  },
+  {
+    "id": "bn_user_E_hddoor_right_base_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_right_base_fg"
+  },
+  {
+    "id": "bn_user_E_hddoor_right_open_fg_mask",
+    "fg": "bn_door_material_mask_bn_user_E_hddoor_right_open_fg"
+  },
+  {
+    "id": "bn_user_N_mask_bn_vp_hddoor_right_additional_tiles_0_fg_0",
+    "fg": "bn_user_N_mask_bn_vp_hddoor_right_additional_tiles_0_fg_0"
+  },
+  {
+    "id": "bn_user_N_mask_bn_vp_hddoor_right_fg_0",
+    "fg": "bn_user_N_mask_bn_vp_hddoor_right_fg_0"
+  },
+  {
+    "id": "bn_user_front_right_door_closed_S_mask_native",
+    "fg": "bn_door_material_mask_bn_user_front_right_door_closed_S_native"
+  },
+  {
+    "id": "bn_user_front_right_door_open_S_mask_native",
+    "fg": "bn_door_material_mask_bn_user_front_right_door_open_S_native"
+  }
+]

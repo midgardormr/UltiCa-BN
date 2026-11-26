@@ -1,0 +1,10 @@
+{
+  "id": "splitrail_fence_UR",
+  "fg": [
+    "pasture_corner_ne",
+    "pasture_corner_nw",
+    "pasture_corner_sw",
+    "pasture_corner_se"
+  ],
+  "rotates": true
+}

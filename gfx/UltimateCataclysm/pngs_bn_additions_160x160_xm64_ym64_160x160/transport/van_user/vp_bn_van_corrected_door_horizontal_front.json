@@ -1,0 +1,75 @@
+{
+  "id": "vp_bn_van_corrected_door_horizontal_front",
+  "fg": [
+    "bn_van_user_body_0164",
+    "bn_van_user_body_0165",
+    "bn_van_user_body_0166",
+    "bn_van_user_body_0167"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "bn_van_user_body_0172",
+        "bn_van_user_body_0173",
+        "bn_van_user_body_0174",
+        "bn_van_user_body_0175"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_9c63319330988a8def4dd9cf",
+            "bn_surface_paint_2c5f8bf87a15578e114dae64",
+            "bn_surface_paint_1a036f4e856f1ec71dfd2eb8",
+            "bn_surface_paint_66113b86c95fb580df7c42cd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_van_user_body_0172",
+        "bn_van_user_body_0173",
+        "bn_van_user_body_0174",
+        "bn_van_user_body_0175"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd"
+          ],
+          "bg": [
+            "bn_surface_paint_9c63319330988a8def4dd9cf",
+            "bn_surface_paint_2c5f8bf87a15578e114dae64",
+            "bn_surface_paint_1a036f4e856f1ec71dfd2eb8",
+            "bn_surface_paint_66113b86c95fb580df7c42cd"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_918f4a46d154788b30a97fee",
+        "bn_surface_paint_ebf2caaaff45149e0d60bca7",
+        "bn_surface_paint_6a853cc07ebd444fd708d2ba",
+        "bn_surface_paint_e7df541258f2a33ca194b781"
+      ]
+    }
+  ]
+}

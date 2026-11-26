@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1",
+  "fg": [
+    "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_81ec1d70060a",
+    "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_162796f55723",
+    "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_f3b4bd21e338",
+    "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_2b870cb3f9f0"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_d137c461de91",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_d137c461de91",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_d137c461de91",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_d137c461de91"
+      ],
+      "bg": [
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_81ec1d70060a",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_162796f55723",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_f3b4bd21e338",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_2b870cb3f9f0"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_aa3ff487a5b7",
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_4db53428f05a",
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_71fad6a20ca2",
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_ece038e19c13"
+          ],
+          "fg": [
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_154af6ca08d5",
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_154af6ca08d5",
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_154af6ca08d5",
+            "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_154af6ca08d5"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_aa3ff487a5b7",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_4db53428f05a",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_71fad6a20ca2",
+        "bn_wide_guard_S_3_0_bn_exterior_solid_board_vertical_left_1_ece038e19c13"
+      ]
+    }
+  ]
+}

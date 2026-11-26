@@ -1,0 +1,11 @@
+{
+  "id": "farm_horse_track_1",
+  "fg": [
+    "t_railroad_rubble_end_piece_n",
+    "t_railroad_rubble_end_piece_w",
+    "t_railroad_rubble_end_piece_s",
+    "t_railroad_rubble_end_piece_e"
+  ],
+  "bg": "field",
+  "rotates": true
+}

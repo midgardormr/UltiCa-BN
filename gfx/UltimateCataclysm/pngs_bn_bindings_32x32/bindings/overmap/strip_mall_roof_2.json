@@ -1,0 +1,11 @@
+{
+  "id": "strip_mall_roof_2",
+  "fg": [
+    "strip_mall_S_2",
+    "strip_mall_E_2",
+    "strip_mall_N_2",
+    "strip_mall_W_2"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

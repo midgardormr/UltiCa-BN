@@ -1,0 +1,11 @@
+{
+  "id": "cabin_roof_1",
+  "fg": [
+    "cabin_faceN",
+    "cabin_faceW",
+    "cabin_faceS",
+    "cabin_faceE"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

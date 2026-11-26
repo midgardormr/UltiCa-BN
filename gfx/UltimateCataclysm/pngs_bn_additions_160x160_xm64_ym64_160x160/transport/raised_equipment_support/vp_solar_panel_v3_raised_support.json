@@ -1,0 +1,28 @@
+{
+  "id": "vp_solar_panel_v3_raised_support",
+  "fg": [
+    "bn_raised_b748e2d42727e3e51e",
+    "bn_raised_dc47bca90b1ccccc5a"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_raised_e82236e41d8115d8da"
+      ],
+      "bg": [
+        "bn_raised_b748e2d42727e3e51e",
+        "bn_raised_dc47bca90b1ccccc5a"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_raised_a13dacc68a2eec12fc"
+          ]
+        }
+      ]
+    }
+  ]
+}

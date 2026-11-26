@@ -1,0 +1,49 @@
+{
+  "id": "vp_bn_axle_glazing_standard_E_damaged",
+  "fg": [
+    "bn_axle_glazing_standard_E_damaged_base_fg_0",
+    "bn_axle_glazing_standard_E_damaged_base_fg_0",
+    "bn_axle_glazing_standard_E_damaged_base_fg_0",
+    "bn_axle_glazing_standard_E_damaged_base_fg_0"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_axle_glazing_standard_E_base_mask_fg_0",
+        "bn_axle_glazing_standard_E_base_mask_fg_0",
+        "bn_axle_glazing_standard_E_base_mask_fg_0",
+        "bn_axle_glazing_standard_E_base_mask_fg_0"
+      ]
+    }
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_surface_joint_E_quarter_right_base_damage",
+        "bn_surface_joint_E_quarter_right_base_damage",
+        "bn_surface_joint_E_quarter_right_base_damage",
+        "bn_surface_joint_E_quarter_right_base_damage"
+      ],
+      "bg": [
+        "bn_axle_glazing_standard_E_damaged_base_fg_0",
+        "bn_axle_glazing_standard_E_damaged_base_fg_0",
+        "bn_axle_glazing_standard_E_damaged_base_fg_0",
+        "bn_axle_glazing_standard_E_damaged_base_fg_0"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_axle_glazing_standard_E_base_mask_fg_0",
+            "bn_axle_glazing_standard_E_base_mask_fg_0",
+            "bn_axle_glazing_standard_E_base_mask_fg_0",
+            "bn_axle_glazing_standard_E_base_mask_fg_0"
+          ]
+        }
+      ]
+    }
+  ]
+}

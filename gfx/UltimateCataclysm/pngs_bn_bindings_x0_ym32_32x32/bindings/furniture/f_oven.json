@@ -1,0 +1,13 @@
+{
+  "id": "f_oven",
+  "rotates": true,
+  "flags": [
+    "ALIGN_TO_TERRAIN"
+  ],
+  "fg": [
+    "oven_faceS",
+    "oven_faceW",
+    "oven_faceN",
+    "oven_faceE"
+  ]
+}

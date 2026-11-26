@@ -1,0 +1,12 @@
+[
+  {
+    "id": [
+      "s_pizza_parlor",
+      "s_pizza_parlor_1",
+      "s_pizza_parlor_roof",
+      "s_pizza_parlor_roof_1"
+    ],
+    "fg": "bn_pizzeria_front",
+    "rotates": false
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "wind_turbine_nacelle",
+  "fg": [
+    "wind_turbine_rot_N",
+    "wind_turbine_rot_W",
+    "wind_turbine_rot_S",
+    "wind_turbine_rot_E"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

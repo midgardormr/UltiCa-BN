@@ -1,0 +1,11 @@
+{
+  "id": "sewage_treatment_1_0_-1",
+  "fg": [
+    "sewagetreatmentplant_n_2",
+    "sewagetreatmentplant_w_2",
+    "sewagetreatmentplant_s_2",
+    "sewagetreatmentplant_e_2"
+  ],
+  "bg": "t_sewage_center",
+  "rotates": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "evac_center_23",
+  "fg": [
+    "road_t_connection_n",
+    "road_t_connection_w",
+    "road_t_connection_s",
+    "road_t_connection_e"
+  ],
+  "bg": "field",
+  "rotates": true
+}

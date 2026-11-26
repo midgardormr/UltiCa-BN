@@ -1,0 +1,27 @@
+{
+  "fg": [
+    "bn_wheel_fallback_small_E",
+    "bn_wheel_fallback_small_E",
+    "bn_wheel_fallback_small_E",
+    "bn_wheel_fallback_small_E"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_wheel_fallback_armored_E_damage",
+        "bn_wheel_fallback_armored_E_damage",
+        "bn_wheel_fallback_armored_E_damage",
+        "bn_wheel_fallback_armored_E_damage"
+      ],
+      "bg": [
+        "bn_wheel_fallback_small_E",
+        "bn_wheel_fallback_small_E",
+        "bn_wheel_fallback_small_E",
+        "bn_wheel_fallback_small_E"
+      ]
+    }
+  ],
+  "id": "vp_bn_wheel_fallback_small_W"
+}

@@ -1,49 +1,5 @@
 [
   {
-    "id": "vp_windshield_cover_left",
-    "fg": [
-      "vp_windshield_cover_left",
-      "vp_windshield_cover_left_rotE",
-      "vp_windshield_cover_left_rotS",
-      "vp_windshield_cover_left_rotW"
-    ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
-        "bg": [
-          "vp_windshield_cover_left",
-          "vp_windshield_cover_left_rotE",
-          "vp_windshield_cover_left_rotS",
-          "vp_windshield_cover_left_rotW"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "vp_windshield_cover_right",
-    "fg": [
-      "vp_windshield_cover_right",
-      "vp_windshield_cover_right_rotE",
-      "vp_windshield_cover_right_rotS",
-      "vp_windshield_cover_right_rotW"
-    ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
-        "bg": [
-          "vp_windshield_cover_right",
-          "vp_windshield_cover_right_rotE",
-          "vp_windshield_cover_right_rotS",
-          "vp_windshield_cover_right_rotW"
-        ]
-      }
-    ]
-  },
-  {
     "id": "vp_windshield_wheel_left",
     "fg": [
       "vp_windshield_wheel_left",
@@ -55,12 +11,45 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "fg": [
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48"
+        ],
         "bg": [
           "vp_windshield_wheel_left",
           "vp_windshield_wheel_left_rotE",
           "vp_windshield_wheel_left_rotS",
           "vp_windshield_wheel_left_rotW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2"
+            ],
+            "bg": [
+              "bn_surface_paint_3c7b427c326e1995434b0c9a",
+              "bn_surface_paint_436fa51304d7c88b119dbbdf",
+              "bn_surface_paint_32293a2a4162af172d731cc8",
+              "bn_surface_paint_43f953d285e65cc2e05b5393"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_3c7b427c326e1995434b0c9a",
+          "bn_surface_paint_436fa51304d7c88b119dbbdf",
+          "bn_surface_paint_32293a2a4162af172d731cc8",
+          "bn_surface_paint_43f953d285e65cc2e05b5393"
         ]
       }
     ]
@@ -77,12 +66,45 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "fg": [
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48"
+        ],
         "bg": [
           "vp_windshield_wheel_right",
           "vp_windshield_wheel_right_rotE",
           "vp_windshield_wheel_right_rotS",
           "vp_windshield_wheel_right_rotW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2"
+            ],
+            "bg": [
+              "bn_surface_paint_9043aac610a28a1b19b92ee3",
+              "bn_surface_paint_f7691a7eaf88afaa3aaa42b1",
+              "bn_surface_paint_412b02117301b79fd3308287",
+              "bn_surface_paint_040c6591d2ee181227f669a8"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_9043aac610a28a1b19b92ee3",
+          "bn_surface_paint_f7691a7eaf88afaa3aaa42b1",
+          "bn_surface_paint_412b02117301b79fd3308287",
+          "bn_surface_paint_040c6591d2ee181227f669a8"
         ]
       }
     ]
@@ -98,16 +120,49 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": [ "crack_glass_left_32x48", "crack_glass_left_32x48", "crack_glass_left_32x48", "crack_glass_left_32x48" ],
+        "fg": [
+          "crack_glass_left_32x48",
+          "crack_glass_left_32x48",
+          "crack_glass_left_32x48",
+          "crack_glass_left_32x48"
+        ],
         "bg": [
           "vp_windshield_left",
           "vp_windshield_left_rotE",
           "vp_windshield_left_rotS",
           "vp_windshield_vertical_2_left_rotW_right_rotE"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_b416962dd36e4e61475f6b91",
+              "bn_surface_paint_b416962dd36e4e61475f6b91",
+              "bn_surface_paint_b416962dd36e4e61475f6b91",
+              "bn_surface_paint_b416962dd36e4e61475f6b91"
+            ],
+            "bg": [
+              "bn_surface_paint_726561cc90b32a3221b64601",
+              "bn_surface_paint_c6d1b44cfb06810f1c61eee0",
+              "bn_surface_paint_3f7466c552937c65848596a9",
+              "bn_surface_paint_0ecfbce5c6ee3b2f76c223c7"
+            ]
+          }
         ]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_726561cc90b32a3221b64601",
+          "bn_surface_paint_c6d1b44cfb06810f1c61eee0",
+          "bn_surface_paint_3f7466c552937c65848596a9",
+          "bn_surface_paint_0ecfbce5c6ee3b2f76c223c7"
+        ]
+      }
+    ]
   },
   {
     "id": "vp_windshield_vertical_2_right",
@@ -120,15 +175,158 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": [ "crack_glass_right_32x48", "crack_glass_right_32x48", "crack_glass_right_32x48", "crack_glass_right_32x48" ],
+        "fg": [
+          "crack_glass_right_32x48",
+          "crack_glass_right_32x48",
+          "crack_glass_right_32x48",
+          "crack_glass_right_32x48"
+        ],
         "bg": [
           "vp_windshield_right",
           "vp_windshield_vertical_2_left_rotW_right_rotE",
           "vp_windshield_right_rotS",
           "vp_windshield_right_rotW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_c0e9ed589d2aeb35bc557a85",
+              "bn_surface_paint_c0e9ed589d2aeb35bc557a85",
+              "bn_surface_paint_c0e9ed589d2aeb35bc557a85",
+              "bn_surface_paint_c0e9ed589d2aeb35bc557a85"
+            ],
+            "bg": [
+              "bn_surface_paint_3f7466c552937c65848596a9",
+              "bn_surface_paint_0ecfbce5c6ee3b2f76c223c7",
+              "bn_surface_paint_726561cc90b32a3221b64601",
+              "bn_surface_paint_c6d1b44cfb06810f1c61eee0"
+            ]
+          }
         ]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_3f7466c552937c65848596a9",
+          "bn_surface_paint_0ecfbce5c6ee3b2f76c223c7",
+          "bn_surface_paint_726561cc90b32a3221b64601",
+          "bn_surface_paint_c6d1b44cfb06810f1c61eee0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_windshield_cover_left",
+    "fg": [
+      "vp_windshield_cover_left",
+      "vp_windshield_cover_left_rotW",
+      "vp_windshield_cover_left_rotS",
+      "vp_windshield_cover_left_rotE"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48"
+        ],
+        "bg": [
+          "vp_windshield_cover_left",
+          "vp_windshield_cover_left_rotW",
+          "vp_windshield_cover_left_rotS",
+          "vp_windshield_cover_left_rotE"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2"
+            ],
+            "bg": [
+              "bn_surface_paint_dfa8d4539bff4509da4295f4",
+              "bn_surface_paint_182aaac2f0a75426743caf4c",
+              "bn_surface_paint_1021dbd80808c572516727c9",
+              "bn_surface_paint_f1686f612aa93a4a4d7597f3"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_dfa8d4539bff4509da4295f4",
+          "bn_surface_paint_182aaac2f0a75426743caf4c",
+          "bn_surface_paint_1021dbd80808c572516727c9",
+          "bn_surface_paint_f1686f612aa93a4a4d7597f3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_windshield_cover_right",
+    "fg": [
+      "vp_windshield_cover_right",
+      "vp_windshield_cover_right_rotW",
+      "vp_windshield_cover_right_rotS",
+      "vp_windshield_cover_right_rotE"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48",
+          "crack_metal_center_32x48"
+        ],
+        "bg": [
+          "vp_windshield_cover_right",
+          "vp_windshield_cover_right_rotW",
+          "vp_windshield_cover_right_rotS",
+          "vp_windshield_cover_right_rotE"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2",
+              "bn_surface_paint_e889462ab1aaa19c286a99a2"
+            ],
+            "bg": [
+              "bn_surface_paint_442ee668dea9cdd12ac47132",
+              "bn_surface_paint_7cfb30f193c868a2995e96fb",
+              "bn_surface_paint_d4cbf1621177e427239f74b3",
+              "bn_surface_paint_6188e2688235270ed4fe8b8e"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_442ee668dea9cdd12ac47132",
+          "bn_surface_paint_7cfb30f193c868a2995e96fb",
+          "bn_surface_paint_d4cbf1621177e427239f74b3",
+          "bn_surface_paint_6188e2688235270ed4fe8b8e"
+        ]
+      }
+    ]
   }
 ]

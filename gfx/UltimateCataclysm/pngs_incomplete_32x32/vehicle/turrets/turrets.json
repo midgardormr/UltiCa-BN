@@ -22,12 +22,39 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
+        "bg": "vp_machinegun_mounted_rotS",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_741c288f4645444bd5bd909b"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_934f9d9d847a19bd7a0480a8"
+        ],
+        "fg": [
+          "bn_surface_paint_741c288f4645444bd5bd909b"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_mounted_emp_gun", "vp_mounted_plasma_gun", "vp_plasma_gun", "vp_laser_rifle" ],
+    "id": [
+      "vp_mounted_emp_gun",
+      "vp_mounted_plasma_gun",
+      "vp_plasma_gun",
+      "vp_laser_rifle"
+    ],
     "//": "energy weapons",
     "fg": "vp_laser_rifle",
     "bg": "bg_crows_rotS",
@@ -36,12 +63,37 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_laser_rifle"
+        "bg": "vp_laser_rifle",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_b7e9b663bba59a82ddd602a3"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_934f9d9d847a19bd7a0480a8"
+        ],
+        "fg": [
+          "bn_surface_paint_b7e9b663bba59a82ddd602a3"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_mounted_hk_g80", "vp_mounted_coilgun" ],
+    "id": [
+      "vp_mounted_hk_g80",
+      "vp_mounted_coilgun"
+    ],
     "//": "railguns",
     "fg": "vp_mounted_hk_g80",
     "bg": "bg_crows_rotS",
@@ -50,12 +102,37 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_mounted_hk_g80"
+        "bg": "vp_mounted_hk_g80",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_cef8e1546ffb22586bfe5574"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_934f9d9d847a19bd7a0480a8"
+        ],
+        "fg": [
+          "bn_surface_paint_cef8e1546ffb22586bfe5574"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_mounted_bigun", "vp_mounted_m134" ],
+    "id": [
+      "vp_mounted_bigun",
+      "vp_mounted_m134"
+    ],
     "//": "multibarrel weapons",
     "fg": "vp_machinegun_mounted_rotS",
     "bg": "bg_crows_rotS",
@@ -64,12 +141,38 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
+        "bg": "vp_machinegun_mounted_rotS",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_741c288f4645444bd5bd909b"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_934f9d9d847a19bd7a0480a8"
+        ],
+        "fg": [
+          "bn_surface_paint_741c288f4645444bd5bd909b"
+        ]
       }
     ]
   },
   {
-    "id": [ "vp_watercannon", "vp_flamethrower", "vp_mounted_chemical_thrower" ],
+    "id": [
+      "vp_watercannon",
+      "vp_flamethrower",
+      "vp_mounted_chemical_thrower"
+    ],
     "//": "liquid sprayers",
     "fg": "vp_machinegun_mounted_rotS",
     "bg": "bg_crows_rotS",
@@ -78,7 +181,29 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
+        "bg": "vp_machinegun_mounted_rotS",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_741c288f4645444bd5bd909b"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_934f9d9d847a19bd7a0480a8"
+        ],
+        "fg": [
+          "bn_surface_paint_741c288f4645444bd5bd909b"
+        ]
       }
     ]
   },
@@ -92,7 +217,29 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
+        "bg": "vp_machinegun_mounted_rotS",
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_1d2b682772c7cf6336733d27"
+            ],
+            "bg": [
+              "bn_surface_paint_741c288f4645444bd5bd909b"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_934f9d9d847a19bd7a0480a8"
+        ],
+        "fg": [
+          "bn_surface_paint_741c288f4645444bd5bd909b"
+        ]
       }
     ]
   },

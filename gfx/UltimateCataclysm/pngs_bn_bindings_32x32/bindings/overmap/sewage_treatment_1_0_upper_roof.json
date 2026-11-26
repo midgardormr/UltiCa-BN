@@ -1,0 +1,11 @@
+{
+  "id": "sewage_treatment_1_0_upper_roof",
+  "fg": [
+    "sewagetreatmentplant_n_2",
+    "sewagetreatmentplant_w_2",
+    "sewagetreatmentplant_s_2",
+    "sewagetreatmentplant_e_2"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

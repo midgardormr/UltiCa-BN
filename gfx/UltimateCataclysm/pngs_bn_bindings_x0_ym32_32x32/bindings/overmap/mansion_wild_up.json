@@ -1,0 +1,11 @@
+{
+  "id": "mansion_wild_up",
+  "fg": [
+    "mansion_N",
+    "mansion_W",
+    "mansion_S",
+    "mansion_E"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

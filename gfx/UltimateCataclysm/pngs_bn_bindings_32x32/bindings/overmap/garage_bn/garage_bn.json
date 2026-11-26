@@ -1,0 +1,15 @@
+[
+  {
+    "id": [
+      "s_garage",
+      "s_garage_1",
+      "s_garage_2",
+      "s_garage_roof",
+      "s_garage_roof_1",
+      "s_garage_roof_2",
+      "s_garage_upper_roof_2"
+    ],
+    "fg": "bn_garage_front",
+    "rotates": false
+  }
+]

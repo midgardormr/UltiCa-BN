@@ -1,0 +1,30 @@
+[
+  {
+    "id": [
+      "overlay_male_worn_thermal_outfit",
+      "overlay_male_worn_thermal_outfit_on"
+    ],
+    "fg": "bn_overlay_male_worn_thermal_outfit"
+  },
+  {
+    "id": [
+      "overlay_female_worn_thermal_outfit",
+      "overlay_female_worn_thermal_outfit_on"
+    ],
+    "fg": "bn_overlay_female_worn_thermal_outfit"
+  },
+  {
+    "id": [
+      "overlay_male_worn_thermal_cooling",
+      "overlay_male_worn_thermal_cooling_on"
+    ],
+    "fg": "bn_overlay_male_worn_thermal_cooling"
+  },
+  {
+    "id": [
+      "overlay_female_worn_thermal_cooling",
+      "overlay_female_worn_thermal_cooling_on"
+    ],
+    "fg": "bn_overlay_female_worn_thermal_cooling"
+  }
+]

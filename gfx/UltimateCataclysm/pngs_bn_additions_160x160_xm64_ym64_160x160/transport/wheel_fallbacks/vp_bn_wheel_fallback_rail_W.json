@@ -1,0 +1,27 @@
+{
+  "fg": [
+    "bn_limo_wheel_E",
+    "bn_limo_wheel_E",
+    "bn_limo_wheel_E",
+    "bn_limo_wheel_E"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_wheel_fallback_armored_E_damage",
+        "bn_wheel_fallback_armored_E_damage",
+        "bn_wheel_fallback_armored_E_damage",
+        "bn_wheel_fallback_armored_E_damage"
+      ],
+      "bg": [
+        "bn_limo_wheel_E",
+        "bn_limo_wheel_E",
+        "bn_limo_wheel_E",
+        "bn_limo_wheel_E"
+      ]
+    }
+  ],
+  "id": "vp_bn_wheel_fallback_rail_W"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "vp_bn_roof_cap_hdboard_vertical_left",
+  "fg": [
+    "bn_EW_mirrored_0000",
+    "bn_EW_mirrored_0001",
+    "bn_EW_mirrored_0002",
+    "bn_EW_mirrored_0003"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_EW_mirrored_0000",
+        "bn_EW_mirrored_0001",
+        "bn_EW_mirrored_0002",
+        "bn_EW_mirrored_0003"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_6ca8a75080a043ae21ddb722",
+            "bn_surface_paint_f3c4fe1f864e9bce632c21a1",
+            "bn_surface_paint_2f3fd0ab1502d3f9c62844f6",
+            "bn_EW_mirrored_0007"
+          ],
+          "fg": [
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd"
+          ]
+        }
+      ]
+    }
+  ],
+  "rotates": true,
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_6ca8a75080a043ae21ddb722",
+        "bn_surface_paint_f3c4fe1f864e9bce632c21a1",
+        "bn_surface_paint_2f3fd0ab1502d3f9c62844f6",
+        "bn_EW_mirrored_0007"
+      ]
+    }
+  ]
+}

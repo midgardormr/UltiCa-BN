@@ -1,0 +1,11 @@
+{
+  "id": "mansion_c_up",
+  "fg": [
+    "mansion_NW",
+    "mansion_SW",
+    "mansion_SE",
+    "mansion_NE"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

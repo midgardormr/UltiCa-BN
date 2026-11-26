@@ -1,0 +1,2 @@
+Folded item adapted from acepleiades' UltiCa wielded stepladder.
+Deployed furniture reuses UltiCa's original stepladder item sprite.

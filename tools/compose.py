@@ -217,6 +217,18 @@ class ComposingException(Exception):
     '''
 
 
+def is_bn_ultica_source(source_dir: Path) -> bool:
+    """Use the pack NAME, independently of archive or directory labels."""
+    descriptor = source_dir / 'tileset.txt'
+    if not descriptor.exists():
+        return False
+    for line in descriptor.read_text().splitlines():
+        key, separator, value = line.partition(':')
+        if separator and key.strip() == 'NAME':
+            return value.strip() in {'UltimateCataclysm', 'Chibi_Ultica', 'Alternative Ultica'}
+    return False
+
+
 class Tileset:
     '''
     Referenced sprites memory and handling, tile entries conversion
@@ -233,6 +245,7 @@ class Tileset:
         only_json: bool = False,
     ) -> None:
         self.source_dir = source_dir
+        self.bn_ultica = is_bn_ultica_source(source_dir)
         self.output_dir = output_dir
         self.no_use_all = no_use_all
         self.obsolete_fillers = obsolete_fillers
@@ -323,7 +336,14 @@ class Tileset:
         # loop through tilesheets and parse all configs in subdirectories,
         # create sheet images
         added_first_null = False
-        for config in self.info[1:]:
+        sheet_definitions = self.info[1:]
+        if self.bn_ultica:
+            # Numeric sprite indices must follow the final main/filler/fallback order.
+            def sheet_order(config):
+                specs = next(iter(config.values()))
+                return 2 if specs.get('fallback') else 1 if specs.get('filler') else 0
+            sheet_definitions = sorted(sheet_definitions, key=sheet_order)
+        for config in sheet_definitions:
             sheet = Tilesheet(self, config)
 
             if not added_first_null:
@@ -471,6 +491,7 @@ class Tileset:
         tiles_new.append(FALLBACK)
         output_conf = {
             'tile_info': [{
+                **(self.info[0] if self.bn_ultica else {}),
                 'pixelscale': self.pixelscale,
                 'width': self.sprite_width,
                 'height': self.sprite_height,
@@ -596,8 +617,9 @@ class Tilesheet:
                 ]
                 yield [root, dirs, filenames]
 
+        excluded_paths = list(map(self.subdir_path.joinpath, self.exclude))
         sorted_files = sorted(
-            filtered_tree(list(map(self.subdir_path.joinpath, self.exclude))),
+            filtered_tree(excluded_paths),
             key=lambda d: d[0]
         )
         mode = sorted_files if no_tqdm or run_silent else tqdm(sorted_files)
@@ -605,6 +627,8 @@ class Tilesheet:
             subdir_fpath = Path(subdir_fpath)
             for filename in sorted(filenames):
                 filepath = subdir_fpath.joinpath(filename)
+                if self.tileset.bn_ultica and filepath in excluded_paths:
+                    continue
 
                 if filepath.suffixes == ['.png']:
                     self.process_png(filepath)
@@ -791,6 +815,13 @@ class TileEntry:
             # don't pop at the start because that affects order of the keys
             entry.pop('bg', None)
 
+        # BN tint masks store sprite names.
+        for mask in entry.get('masks', []) if self.tilesheet.tileset.bn_ultica else []:
+            for layer in ('fg', 'bg'):
+                if mask.get(layer):
+                    mask[layer] = list_or_first(
+                        self.convert_entry_layer(mask[layer]))
+
         # recursively convert additional_tiles value
         additional_entries = entry.get('additional_tiles', [])
         for additional_entry in additional_entries:
@@ -798,7 +829,7 @@ class TileEntry:
             self.convert(additional_entry, f'{entry_ids[0]}_')
 
         # remember processed IDs and remove duplicates
-        for entry_id in entry_ids:
+        for entry_id in entry_ids[:] if self.tilesheet.tileset.bn_ultica else entry_ids:
             full_id = f'{prefix}{entry_id}'
 
             if full_id not in self.tilesheet.tileset.processed_ids:

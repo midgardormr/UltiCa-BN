@@ -1,0 +1,6 @@
+{
+  "id": "rural_road_3way",
+  "fg": "dirt_road_unconnected",
+  "bg": "field",
+  "rotates": false
+}

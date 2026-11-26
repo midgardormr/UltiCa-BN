@@ -1,0 +1,14 @@
+{
+  "id": "mon_afs_headless_zombie",
+  "fg": [
+    {
+      "weight": 100,
+      "sprite": "zombie_headless_f"
+    },
+    {
+      "weight": 100,
+      "sprite": "zombie_headless_m"
+    }
+  ],
+  "bg": "shadow_32x48_normal"
+}

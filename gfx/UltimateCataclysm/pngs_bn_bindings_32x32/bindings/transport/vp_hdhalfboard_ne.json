@@ -1,0 +1,50 @@
+{
+  "id": [
+    "vp_hdhalfboard_ne",
+    "vp_halfboard_appearance_hdhalfboard_ne"
+  ],
+  "fg": [
+    "vp_hdhalfboard_ne",
+    "bn_user_W_bn_user_E_hdhalfboard_nw_base_fg",
+    "bn_user_hdhalfboard_front_right_S_native",
+    "bn_user_E_hdhalfboard_ne_base_fg"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [
+        "vp_hdhalfboard_ne",
+        "bn_user_W_bn_user_E_hdhalfboard_nw_base_fg",
+        "bn_user_hdhalfboard_front_right_S_native",
+        "bn_user_E_hdhalfboard_ne_base_fg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_5e701c41732dc1c359e33037",
+            "bn_user_W_bn_user_E_hdhalfboard_nw_base_fg_mask",
+            "bn_surface_paint_4e9072cd892625d3939ac656",
+            "bn_surface_paint_87129f14a05a8b5b2f9248f1"
+          ],
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_5e701c41732dc1c359e33037",
+        "bn_user_W_bn_user_E_hdhalfboard_nw_base_fg_mask",
+        "bn_surface_paint_4e9072cd892625d3939ac656",
+        "bn_surface_paint_87129f14a05a8b5b2f9248f1"
+      ]
+    }
+  ]
+}

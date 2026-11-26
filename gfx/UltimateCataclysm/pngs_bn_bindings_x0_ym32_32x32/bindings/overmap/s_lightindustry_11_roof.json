@@ -1,0 +1,16 @@
+{
+  "id": "s_lightindustry_11_roof",
+  "fg": [
+    "industry_light_EW_4",
+    "industry_light_NS_3",
+    "industry_light_EW_1",
+    "industry_light_NS_2"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

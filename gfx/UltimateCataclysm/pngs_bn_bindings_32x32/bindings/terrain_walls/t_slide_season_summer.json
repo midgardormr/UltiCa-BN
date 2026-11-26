@@ -1,0 +1,56 @@
+{
+  "id": "t_slide_season_summer",
+  "fg": "t_slide_unconnected",
+  "bg": "t_grass_summer",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_slide_edge_ns",
+      "bg": "t_grass_summer"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_slide_end_piece_n",
+        "t_slide_end_piece_w",
+        "t_slide_end_piece_s",
+        "t_slide_end_piece_n"
+      ],
+      "bg": "t_grass_summer"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_slide_end_piece_n",
+        "t_slide_edge_ns",
+        "t_slide_end_piece_s",
+        "t_slide_edge_ns"
+      ],
+      "bg": "t_grass_summer"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_slide_edge_ns",
+        "t_slide_edge_ew"
+      ],
+      "bg": "t_grass_summer"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_slide_end_piece_n",
+        "t_slide_end_piece_w",
+        "t_slide_end_piece_s",
+        "t_slide_end_piece_e"
+      ],
+      "bg": "t_grass_summer"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_slide_unconnected",
+      "bg": "t_grass_summer"
+    }
+  ]
+}

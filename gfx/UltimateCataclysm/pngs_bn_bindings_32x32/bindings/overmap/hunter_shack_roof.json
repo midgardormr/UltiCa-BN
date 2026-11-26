@@ -1,0 +1,11 @@
+{
+  "id": "hunter_shack_roof",
+  "fg": [
+    "hunter_shack_faceS",
+    "hunter_shack_faceE",
+    "hunter_shack_faceN",
+    "hunter_shack_faceW"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

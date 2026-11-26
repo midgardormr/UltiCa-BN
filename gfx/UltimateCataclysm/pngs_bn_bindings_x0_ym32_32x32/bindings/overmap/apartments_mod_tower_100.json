@@ -1,0 +1,16 @@
+{
+  "id": "apartments_mod_tower_100",
+  "fg": [
+    "apartments_con_tower_4x4_bot_left",
+    "apartments_con_tower_4x4_bot_right",
+    "apartments_con_tower_4x4_top_right",
+    "apartments_con_tower_4x4_top_left"
+  ],
+  "bg": [
+    "field_tall",
+    "field_tall",
+    "field_tall",
+    "field_tall"
+  ],
+  "rotates": true
+}

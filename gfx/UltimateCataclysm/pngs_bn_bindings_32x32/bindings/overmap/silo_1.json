@@ -1,0 +1,11 @@
+{
+  "id": "silo_1",
+  "fg": [
+    "silo_rot_N",
+    "silo_rot_W",
+    "silo_rot_S",
+    "silo_rot_E"
+  ],
+  "bg": "t_soil_center",
+  "rotates": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mil_base_4j",
+  "fg": [
+    "road_corner_sw",
+    "road_corner_se",
+    "road_corner_ne",
+    "road_corner_nw"
+  ],
+  "bg": "field",
+  "rotates": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "office_skyscraper_1",
+  "fg": [
+    "office_tower_ground_nw",
+    "office_tower_ground_sw",
+    "office_tower_ground_se",
+    "office_tower_ground_ne"
+  ],
+  "bg": [
+    "field_tall",
+    "field_tall",
+    "field_tall",
+    "field_tall"
+  ],
+  "rotates": true
+}

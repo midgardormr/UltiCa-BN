@@ -1,0 +1,392 @@
+[
+  {
+    "id": "t_fencegate_c",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_c",
+      "t_fencegate_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_fencegate_c_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_c",
+      "t_fencegate_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_fencegate_c_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_c",
+      "t_fencegate_c"
+    ],
+    "bg": [
+      "t_grass_summer",
+      "t_grass_summer"
+    ]
+  },
+  {
+    "id": "t_fencegate_c_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_c",
+      "t_fencegate_c"
+    ],
+    "bg": [
+      "t_grass_autumn",
+      "t_grass_autumn"
+    ]
+  },
+  {
+    "id": "t_fencegate_c_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_c",
+      "t_fencegate_c"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_c",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_c",
+      "t_privacy_fencegate_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_c_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_c",
+      "t_privacy_fencegate_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_c_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_c",
+      "t_privacy_fencegate_c"
+    ],
+    "bg": [
+      "t_grass_summer",
+      "t_grass_summer"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_c_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_c",
+      "t_privacy_fencegate_c"
+    ],
+    "bg": [
+      "t_grass_autumn",
+      "t_grass_autumn"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_c_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_c",
+      "t_privacy_fencegate_c"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ]
+  },
+  {
+    "id": "t_palisade_gate",
+    "rotates": true,
+    "fg": [
+      "bn_gate_palisade_ns_c",
+      "t_palisade_gate"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_palisade_gate_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_palisade_ns_c",
+      "t_palisade_gate"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_palisade_gate_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_palisade_ns_c",
+      "t_palisade_gate"
+    ],
+    "bg": [
+      "t_grass_summer",
+      "t_grass_summer"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_palisade_gate_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_palisade_ns_c",
+      "t_palisade_gate"
+    ],
+    "bg": [
+      "t_grass_autumn",
+      "t_grass_autumn"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_palisade_gate_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_palisade_ns_c",
+      "t_palisade_gate"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_chaingate_l",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_locked_ns_c",
+      "t_gate_chainlink_l"
+    ],
+    "bg": [
+      "t_pavement",
+      "t_pavement"
+    ]
+  },
+  {
+    "id": "t_chaingate_l_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_locked_ns_c",
+      "t_gate_chainlink_l"
+    ],
+    "bg": [
+      "t_pavement",
+      "t_pavement"
+    ]
+  },
+  {
+    "id": "t_chaingate_l_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_locked_ns_c",
+      "t_gate_chainlink_l"
+    ],
+    "bg": [
+      "t_pavement",
+      "t_pavement"
+    ]
+  },
+  {
+    "id": "t_chaingate_l_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_locked_ns_c",
+      "t_gate_chainlink_l"
+    ],
+    "bg": [
+      "t_pavement",
+      "t_pavement"
+    ]
+  },
+  {
+    "id": "t_chaingate_l_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_locked_ns_c",
+      "t_gate_chainlink_l"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "t_grass_summer",
+      "t_grass_summer"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "t_grass_autumn",
+      "t_grass_autumn"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ]
+  },
+  {
+    "id": "t_portcullis",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_portcullis_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_portcullis_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "t_grass_summer",
+      "t_grass_summer"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_portcullis_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "t_grass_autumn",
+      "t_grass_autumn"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_portcullis_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  }
+]

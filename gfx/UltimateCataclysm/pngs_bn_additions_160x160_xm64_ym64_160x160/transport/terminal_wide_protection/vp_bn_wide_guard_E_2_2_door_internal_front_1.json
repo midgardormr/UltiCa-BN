@@ -1,0 +1,75 @@
+{
+  "id": "vp_bn_wide_guard_E_2_2_door_internal_front_1",
+  "fg": [
+    "bn_wide_guard_E_2_2_door_internal_front_1_eaae4a087c1f",
+    "bn_wide_guard_E_2_2_door_internal_front_1_4e87efea9f5a",
+    "bn_wide_guard_E_2_2_door_internal_front_1_6e908a5ec402",
+    "bn_wide_guard_E_2_2_door_internal_front_1_86c2db679eda"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "bn_wide_guard_E_2_2_door_internal_front_1_22e46a074b21",
+        "bn_wide_guard_E_2_2_door_internal_front_1_3230caaaaea0",
+        "bn_wide_guard_E_2_2_door_internal_front_1_17505ebd965d",
+        "bn_wide_guard_E_2_2_door_internal_front_1_c155dd4f429d"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_wide_guard_E_2_2_door_internal_front_1_c3b46f413fd4",
+            "bn_wide_guard_E_2_2_door_internal_front_1_5ddd9143dd96",
+            "bn_wide_guard_E_2_2_door_internal_front_1_be49678eb9bc",
+            "bn_wide_guard_E_2_2_door_internal_front_1_1ed9c2cb8fd4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_wide_guard_E_2_2_door_internal_front_1_22e46a074b21",
+        "bn_wide_guard_E_2_2_door_internal_front_1_3230caaaaea0",
+        "bn_wide_guard_E_2_2_door_internal_front_1_17505ebd965d",
+        "bn_wide_guard_E_2_2_door_internal_front_1_c155dd4f429d"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5",
+            "bn_wide_guard_E_2_1_bn_exterior_solid_board_horizontal_front_1_154af6ca08d5"
+          ],
+          "bg": [
+            "bn_wide_guard_E_2_2_door_internal_front_1_c3b46f413fd4",
+            "bn_wide_guard_E_2_2_door_internal_front_1_5ddd9143dd96",
+            "bn_wide_guard_E_2_2_door_internal_front_1_be49678eb9bc",
+            "bn_wide_guard_E_2_2_door_internal_front_1_1ed9c2cb8fd4"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_guard_E_2_2_door_internal_front_1_4d4538cf4a61",
+        "bn_wide_guard_E_2_2_door_internal_front_1_cd094465e186",
+        "bn_wide_guard_E_2_2_door_internal_front_1_4239609c5b0f",
+        "bn_wide_guard_E_2_2_door_internal_front_1_774e49ca65da"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "shield_wooden",
+    "fg": "bn_shield_shield_wooden"
+  },
+  {
+    "id": "shield_leather",
+    "fg": "bn_shield_shield_leather"
+  },
+  {
+    "id": "shield_kevlar",
+    "fg": "bn_shield_shield_kevlar"
+  },
+  {
+    "id": "shield_banded",
+    "fg": "bn_shield_shield_banded"
+  },
+  {
+    "id": "shield_buckler",
+    "fg": "bn_shield_shield_buckler"
+  },
+  {
+    "id": "shield_buckler_superalloy",
+    "fg": "bn_shield_shield_buckler_superalloy"
+  },
+  {
+    "id": "shield_spiked",
+    "fg": "bn_shield_shield_spiked"
+  },
+  {
+    "id": "shield_bronze",
+    "fg": "bn_shield_shield_bronze"
+  },
+  {
+    "id": "shield_targe_wooden",
+    "fg": "bn_shield_shield_targe_wooden"
+  },
+  {
+    "id": "carbon_buckler",
+    "fg": "bn_shield_carbon_buckler"
+  },
+  {
+    "id": "shield_hoplon",
+    "fg": "bn_shield_shield_hoplon"
+  }
+]

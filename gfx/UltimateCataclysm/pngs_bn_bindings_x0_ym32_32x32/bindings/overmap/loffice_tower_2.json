@@ -1,0 +1,16 @@
+{
+  "id": "loffice_tower_2",
+  "fg": [
+    "office_tower_ground_ne",
+    "office_tower_ground_nw",
+    "office_tower_ground_sw",
+    "office_tower_ground_se"
+  ],
+  "bg": [
+    "field_tall",
+    "field_tall",
+    "field_tall",
+    "field_tall"
+  ],
+  "rotates": true
+}

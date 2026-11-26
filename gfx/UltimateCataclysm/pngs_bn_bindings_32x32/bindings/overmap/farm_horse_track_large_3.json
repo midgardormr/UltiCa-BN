@@ -1,0 +1,11 @@
+{
+  "id": "farm_horse_track_large_3",
+  "fg": [
+    "t_railroad_rubble_corner_nw",
+    "t_railroad_rubble_corner_se",
+    "t_railroad_rubble_corner_ne",
+    "t_railroad_rubble_corner_sw"
+  ],
+  "bg": "field",
+  "rotates": true
+}

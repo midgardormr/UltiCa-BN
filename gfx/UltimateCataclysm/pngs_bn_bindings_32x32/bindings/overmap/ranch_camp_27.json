@@ -1,0 +1,10 @@
+{
+  "id": "ranch_camp_27",
+  "fg": [
+    "pasture_not_e",
+    "pasture_not_n",
+    "pasture_not_w",
+    "pasture_not_s"
+  ],
+  "rotates": true
+}

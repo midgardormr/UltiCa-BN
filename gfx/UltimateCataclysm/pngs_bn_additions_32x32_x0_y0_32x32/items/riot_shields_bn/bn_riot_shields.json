@@ -1,0 +1,18 @@
+[
+  {
+    "id": "shield_riot",
+    "fg": "bn_rshield_shield_riot"
+  },
+  {
+    "id": "shield_ballistic_large",
+    "fg": "bn_rshield_shield_ballistic_large"
+  },
+  {
+    "id": "carbon_shield",
+    "fg": "bn_rshield_carbon_shield"
+  },
+  {
+    "id": "shield_riot_surv",
+    "fg": "bn_rshield_shield_riot_surv"
+  }
+]

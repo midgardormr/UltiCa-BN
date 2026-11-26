@@ -1,0 +1,61 @@
+{
+  "id": "vp_bn_user_mounted_hk_g80_right_directed",
+  "fg": [
+    "bn_directed_turret_8ebb4d65e5a7ef5eda3cf0c8",
+    "bn_directed_turret_e10022eaa94fb3f300f220a2",
+    "bn_directed_turret_bba9d325a60b2cfff13e53d8",
+    "bn_directed_turret_7aa89ef3dfe0cd20b408b229"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e"
+      ],
+      "bg": [
+        "bn_directed_turret_8ebb4d65e5a7ef5eda3cf0c8",
+        "bn_directed_turret_e10022eaa94fb3f300f220a2",
+        "bn_directed_turret_bba9d325a60b2cfff13e53d8",
+        "bn_directed_turret_7aa89ef3dfe0cd20b408b229"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_directed_turret_414cc19ee9c1ec5ef0599864",
+            "bn_directed_turret_1116a4cc77b8e22cb3ef5813",
+            "bn_user_W_identity_64x64",
+            "bn_directed_turret_23255f2329a4cf3df6acdb17"
+          ]
+        }
+      ]
+    }
+  ],
+  "bg": [
+    "bn_directed_turret_600b16eaa74e15460fa330e6",
+    "bn_directed_turret_ea755d59d9a6d8354b9f0a07",
+    "bn_user_compact_turret_base_right_S",
+    "bn_directed_turret_1fccb6deb90188422b896d59"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_directed_turret_414cc19ee9c1ec5ef0599864",
+        "bn_directed_turret_1116a4cc77b8e22cb3ef5813",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_23255f2329a4cf3df6acdb17"
+      ],
+      "bg": [
+        "bn_directed_turret_414cc19ee9c1ec5ef0599864",
+        "bn_directed_turret_26e0015cec2b00b86c433885",
+        "bn_user_W_identity_64x64",
+        "bn_directed_turret_23255f2329a4cf3df6acdb17"
+      ]
+    }
+  ]
+}

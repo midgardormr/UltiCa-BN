@@ -1,0 +1,302 @@
+[
+  {
+    "id": "t_fencegate_o",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_o",
+      "bn_gate_picket_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_fencegate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_o",
+      "bn_gate_picket_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_fencegate_o_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_o",
+      "bn_gate_picket_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_summer_wide",
+      "bn_gate_ground_summer_wide"
+    ]
+  },
+  {
+    "id": "t_fencegate_o_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_o",
+      "bn_gate_picket_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_autumn_wide",
+      "bn_gate_ground_autumn_wide"
+    ]
+  },
+  {
+    "id": "t_fencegate_o_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_o",
+      "bn_gate_picket_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_wide",
+      "bn_gate_ground_snow_wide"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_o",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_o",
+      "bn_gate_privacy_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_tall_wide",
+      "bn_gate_ground_grass_tall_wide"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_o",
+      "bn_gate_privacy_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_tall_wide",
+      "bn_gate_ground_grass_tall_wide"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_o_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_o",
+      "bn_gate_privacy_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_summer_wide",
+      "bn_gate_ground_summer_wide"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_o_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_o",
+      "bn_gate_privacy_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_autumn_wide",
+      "bn_gate_ground_autumn_wide"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_o_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_o",
+      "bn_gate_privacy_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_wide",
+      "bn_gate_ground_snow_wide"
+    ]
+  },
+  {
+    "id": "t_chaingate_o",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_o",
+      "bn_gate_chain_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_wide",
+      "bn_gate_ground_pavement_wide"
+    ]
+  },
+  {
+    "id": "t_chaingate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_o",
+      "bn_gate_chain_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_wide",
+      "bn_gate_ground_pavement_wide"
+    ]
+  },
+  {
+    "id": "t_chaingate_o_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_o",
+      "bn_gate_chain_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_wide",
+      "bn_gate_ground_pavement_wide"
+    ]
+  },
+  {
+    "id": "t_chaingate_o_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_o",
+      "bn_gate_chain_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_wide",
+      "bn_gate_ground_pavement_wide"
+    ]
+  },
+  {
+    "id": "t_chaingate_o_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_o",
+      "bn_gate_chain_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_wide",
+      "bn_gate_ground_snow_wide"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_summer_wide",
+      "bn_gate_ground_summer_wide"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_autumn_wide",
+      "bn_gate_ground_autumn_wide"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_wide",
+      "bn_gate_ground_snow_wide"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_o",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_o",
+      "bn_gate_splitrail_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_o",
+      "bn_gate_splitrail_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_o_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_o",
+      "bn_gate_splitrail_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_summer_wide",
+      "bn_gate_ground_summer_wide"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_o_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_o",
+      "bn_gate_splitrail_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_autumn_wide",
+      "bn_gate_ground_autumn_wide"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_o_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_o",
+      "bn_gate_splitrail_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_wide",
+      "bn_gate_ground_snow_wide"
+    ]
+  }
+]

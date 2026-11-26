@@ -1,0 +1,11 @@
+{
+  "id": "mil_base_4f",
+  "fg": [
+    "road_t_connection_w",
+    "road_t_connection_s",
+    "road_t_connection_e",
+    "road_t_connection_n"
+  ],
+  "bg": "field",
+  "rotates": true
+}

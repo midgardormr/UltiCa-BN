@@ -1,0 +1,32 @@
+{
+  "id": "vp_bn_narrow_xlhalfboard_vertical_left",
+  "fg": "vp_xlhalfboard_vertical_left",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_xlhalfboard_vertical_left",
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_f4500a6537915c17aa2d74a9"
+          ],
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ]
+        }
+      ]
+    }
+  ],
+  "default_tint": "#622625",
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_f4500a6537915c17aa2d74a9"
+      ]
+    }
+  ]
+}

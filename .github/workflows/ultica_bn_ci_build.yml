@@ -1,0 +1,108 @@
+name: Bright Nights UltiCa builds
+
+on:
+  push:
+    branches: [ultica-bn]
+    paths:
+      - 'gfx/UltimateCataclysm/**'
+      - 'gfx/Chibi_Ultica/**'
+      - 'gfx/Altica/**'
+      - 'gfx/MShockXotto+/**'
+      - 'tools/compose.py'
+      - 'tools/build_bn_tileset.py'
+      - 'tools/prepare_bn_orientation.py'
+      - 'tools/check_bn_compatibility.py'
+      - 'tools/bn-compatibility.json'
+      - 'tools/tests/**'
+      - '.github/workflows/ultica_bn_ci_build.yml'
+  pull_request:
+    branches: [ultica-bn]
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Publish the checked batch as a release
+        type: boolean
+        default: false
+  workflow_call:
+    inputs:
+      ref:
+        description: Commit to check without publishing a release
+        type: string
+        default: ''
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        tileset: [UltimateCataclysm, Chibi_Ultica, Altica]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref || github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update && sudo apt-get install -y libvips42
+      - run: python -m pip install pyvips tqdm pillow
+      - run: python -m unittest discover -s tools/tests
+      - name: Compose and verify this branch's sources
+        run: python tools/build_bn_tileset.py "${{ matrix.tileset }}" "build/${{ matrix.tileset }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.tileset }}-BN
+          path: build/${{ matrix.tileset }}/
+
+  release:
+    needs: build
+    concurrency:
+      group: bn-tileset-release
+      cancel-in-progress: false
+    if: github.event_name == 'workflow_dispatch' && inputs.publish == true && github.ref == 'refs/heads/ultica-bn' && inputs.ref == ''
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: UltimateCataclysm-BN
+          path: release/UltimateCataclysm
+      - uses: actions/download-artifact@v4
+        with:
+          name: Chibi_Ultica-BN
+          path: release/ChibiUltica
+      - uses: actions/download-artifact@v4
+        with:
+          name: Altica-BN
+          path: release/Altica
+      - name: Publish versioned BN tilesets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        working-directory: release
+        run: |
+          set -euo pipefail
+          release_date="$(TZ=Europe/Moscow date +%F)"
+          existing_tags="$(gh api --paginate \
+            "repos/$GITHUB_REPOSITORY/git/matching-refs/tags/bn-$release_date." \
+            --jq '.[].ref')"
+          sequence=1
+          tag="bn-$release_date.$sequence"
+          while grep -Fxq "refs/tags/$tag" <<<"$existing_tags"; do
+            sequence=$((sequence + 1))
+            tag="bn-$release_date.$sequence"
+          done
+          for tileset in UltimateCataclysm ChibiUltica Altica; do
+            printf 'Source: https://github.com/%s\nRelease: %s\n' \
+              "$GITHUB_REPOSITORY" "$tag" >"$tileset/SOURCE.txt"
+            zip -qr "$tileset.zip" "$tileset"
+          done
+          sha256sum UltimateCataclysm.zip ChibiUltica.zip Altica.zip >SHA256SUMS
+          gh release create "$tag" UltimateCataclysm.zip ChibiUltica.zip Altica.zip SHA256SUMS \
+            --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "UltiCa for Bright Nights — $release_date ($sequence)" \
+            --notes "Bright Nights tileset packs. Original artwork credits and licenses are retained in the source repository and tileset metadata." \
+            --prerelease --latest=false

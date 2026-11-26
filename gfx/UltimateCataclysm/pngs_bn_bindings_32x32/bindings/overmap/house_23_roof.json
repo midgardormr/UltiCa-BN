@@ -1,0 +1,11 @@
+{
+  "id": "house_23_roof",
+  "fg": [
+    "house_park_faceN",
+    "house_park_faceW",
+    "house_park_faceS",
+    "house_park_faceE"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

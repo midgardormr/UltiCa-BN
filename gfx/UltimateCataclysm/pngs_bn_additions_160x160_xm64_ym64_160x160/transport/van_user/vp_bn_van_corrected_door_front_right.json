@@ -1,0 +1,75 @@
+{
+  "id": "vp_bn_van_corrected_door_front_right",
+  "fg": [
+    "bn_van_user_body_0064",
+    "bn_van_user_body_0065",
+    "bn_van_user_body_0066",
+    "bn_van_user_body_0067"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "bn_van_user_body_0072",
+        "bn_van_user_body_0073",
+        "bn_van_user_body_0074",
+        "bn_van_user_body_0075"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_acf4a0eb2f8a7690590ff704",
+            "bn_surface_paint_5fe9cd07889807311c952a36",
+            "bn_surface_paint_5fb4b3e53b968edd8503bb0b",
+            "bn_surface_paint_14793bf4f5927f52b8fbbe3d"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_van_user_body_0072",
+        "bn_van_user_body_0073",
+        "bn_van_user_body_0074",
+        "bn_van_user_body_0075"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd"
+          ],
+          "bg": [
+            "bn_surface_paint_acf4a0eb2f8a7690590ff704",
+            "bn_surface_paint_5fe9cd07889807311c952a36",
+            "bn_surface_paint_5fb4b3e53b968edd8503bb0b",
+            "bn_surface_paint_14793bf4f5927f52b8fbbe3d"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_c0a8d0c1d18ca52260b143e1",
+        "bn_surface_paint_4c9cac526bbb0547fe44174c",
+        "bn_surface_paint_1d354fa7d5b640dc83f9f00d",
+        "bn_surface_paint_3595570f072388b5f7c751db"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "airport_runway_west_marked_7",
+  "fg": [
+    "runway_ns",
+    "runway_ew"
+  ],
+  "rotates": true
+}

@@ -1,14 +1,26 @@
-[
-  {
-    "id": "vp_afs_roof_external_tank",
-    "fg": [ "vp_afs_roof_external_tank_rotNS", "vp_afs_roof_external_tank_rotEW" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center_32x48",
-        "bg": [ "vp_afs_roof_external_tank_rotNS", "vp_afs_roof_external_tank_rotEW" ]
-      }
-    ]
-  }
-]
+{
+  "id": "vp_afs_roof_external_tank",
+  "fg": [
+    "vp_afs_roof_external_tank_rotNS",
+    "vp_afs_roof_external_tank_rotEW"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center_32x48",
+      "bg": [
+        "vp_afs_roof_external_tank_rotNS",
+        "vp_afs_roof_external_tank_rotEW"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_e889462ab1aaa19c286a99a2"
+          ]
+        }
+      ]
+    }
+  ]
+}

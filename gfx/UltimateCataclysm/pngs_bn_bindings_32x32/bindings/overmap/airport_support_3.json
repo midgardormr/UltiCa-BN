@@ -1,0 +1,10 @@
+{
+  "id": "airport_support_3",
+  "fg": [
+    "smallhangar_ew",
+    "smallhangar_n",
+    "smallhangar_ew",
+    "smallhangar_s"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": "stream",
+  "multitile": true,
+  "fg": [
+    "t_water_moving_sh_edge_ns",
+    "t_water_moving_sh_edge_ew"
+  ],
+  "bg": "field",
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "bg": "field",
+      "fg": [
+        "river_se",
+        "river_ne",
+        "river_nw",
+        "river_sw"
+      ]
+    },
+    {
+      "id": "end",
+      "bg": "field",
+      "fg": [
+        "t_water_moving_sh_end_piece_n",
+        "t_water_moving_sh_end_piece_w",
+        "t_water_moving_sh_end_piece_s",
+        "t_water_moving_sh_end_piece_e"
+      ]
+    }
+  ]
+}

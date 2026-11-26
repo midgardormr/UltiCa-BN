@@ -1,0 +1,59 @@
+{
+  "id": "vp_reinforced_solar_panel",
+  "fg": [
+    "bn_vp_solar_protective_glass_0",
+    "bn_user_W_bn_user_E_no_solar_overlay_vp_reinforced_solar_panel_v2",
+    "bn_vp_solar_protective_glass_0",
+    "bn_user_E_no_solar_overlay_vp_reinforced_solar_panel_v2"
+  ],
+  "bg": [
+    "bn_vp_solar_panel_ultica_0",
+    "bn_user_W_bn_user_E_reinforced_solar_panel_base_bg",
+    "bn_vp_solar_panel_ultica_0",
+    "bn_user_E_reinforced_solar_panel_base_bg"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_glass_center_32x48",
+      "bg": [
+        "bn_vp_solar_panel_ultica_0",
+        "bn_user_W_bn_user_E_reinforced_solar_panel_base_bg",
+        "bn_vp_solar_panel_ultica_0",
+        "bn_user_E_reinforced_solar_panel_base_bg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_user_E_identity_32x64",
+            "bn_user_W_bn_user_E_reinforced_solar_panel_base_bg_mask",
+            "bn_user_E_identity_32x64",
+            "bn_user_W_bn_user_E_no_solar_overlay_vp_reinforced_solar_panel_v2_mask"
+          ],
+          "fg": [
+            "bn_surface_paint_f9d281cc34dab2ff99b951cf"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_user_E_identity_32x64",
+        "bn_user_W_bn_user_E_no_solar_overlay_vp_reinforced_solar_panel_v2_mask",
+        "bn_user_E_identity_32x64",
+        "bn_user_W_bn_user_E_no_solar_overlay_vp_reinforced_solar_panel_v2_mask"
+      ],
+      "bg": [
+        "bn_user_E_identity_32x64",
+        "bn_user_W_bn_user_E_reinforced_solar_panel_base_bg_mask",
+        "bn_user_E_identity_32x64",
+        "bn_user_W_bn_user_E_no_solar_overlay_vp_reinforced_solar_panel_v2_mask"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mine_shaft_lower",
+  "fg": [
+    "mine_N_1",
+    "mine_W_1",
+    "mine_S_1",
+    "mine_E_1"
+  ],
+  "bg": [
+    "t_rock_floor_center_tall",
+    "t_rock_floor_center_tall",
+    "t_rock_floor_center_tall",
+    "t_rock_floor_center_tall"
+  ],
+  "rotates": true
+}

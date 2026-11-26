@@ -1,0 +1,11 @@
+{
+  "id": "ranch_camp_68_basement",
+  "fg": [
+    "rural_house_faceS",
+    "rural_house_faceE",
+    "rural_house_faceN",
+    "rural_house_faceW"
+  ],
+  "bg": "t_soil_center",
+  "rotates": true
+}

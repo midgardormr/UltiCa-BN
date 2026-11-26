@@ -1,0 +1,14 @@
+[
+  {
+    "id": [
+      "pawn",
+      "pawn_1",
+      "pawn_pf",
+      "pawn_pf_roof",
+      "pawn_roof",
+      "pawn_roof_1"
+    ],
+    "fg": "bn_pawn_front",
+    "rotates": false
+  }
+]

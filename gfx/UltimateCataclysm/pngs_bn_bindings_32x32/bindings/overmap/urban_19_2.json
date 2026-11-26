@@ -1,0 +1,16 @@
+{
+  "id": "urban_19_2",
+  "fg": [
+    "otr_house_1_faceN",
+    "otr_house_1_faceW",
+    "otr_house_1_faceS",
+    "otr_house_1_faceE"
+  ],
+  "bg": [
+    "t_soil_center",
+    "t_soil_center",
+    "t_soil_center",
+    "t_soil_center"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "luna_park_1_1_0",
+  "fg": [
+    "luna_park_mid_right_faceN",
+    "luna_park_mid_right_faceW",
+    "luna_park_mid_right_faceS",
+    "luna_park_mid_right_faceE"
+  ],
+  "bg": "field",
+  "rotates": true
+}

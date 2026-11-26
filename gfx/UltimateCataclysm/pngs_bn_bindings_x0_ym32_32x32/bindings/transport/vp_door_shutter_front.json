@@ -1,0 +1,75 @@
+{
+  "id": "vp_door_shutter_front",
+  "fg": [
+    "vp_door_shutter_faceS",
+    "vp_door_shutter_faceE",
+    "vp_door_shutter_faceN",
+    "vp_door_shutter_faceW"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "vp_door_shutter_open_faceS",
+        "vp_door_shutter_open_faceE",
+        "vp_door_shutter_open_faceN",
+        "vp_door_shutter_open_faceW"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_82904891c884a321fc32c9b1",
+            "bn_surface_paint_2ea4d91d75a5bb1dc312d567",
+            "bn_surface_paint_e8b25a1304ce44c6ff927222",
+            "bn_surface_paint_b8522d68b5f67187a93e3458"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48"
+      ],
+      "bg": [
+        "vp_door_shutter_open_faceS",
+        "vp_door_shutter_open_faceE",
+        "vp_door_shutter_open_faceN",
+        "vp_door_shutter_open_faceW"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2"
+          ],
+          "bg": [
+            "bn_surface_paint_82904891c884a321fc32c9b1",
+            "bn_surface_paint_2ea4d91d75a5bb1dc312d567",
+            "bn_surface_paint_e8b25a1304ce44c6ff927222",
+            "bn_surface_paint_b8522d68b5f67187a93e3458"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_d7196d3819ffec48f8e3c0bf",
+        "bn_surface_paint_55fe0895ca7c9fc58608e470",
+        "bn_surface_paint_e6a239dba57470f788a72ad7",
+        "bn_surface_paint_6d8539804727dac0b26fafdc"
+      ]
+    }
+  ]
+}

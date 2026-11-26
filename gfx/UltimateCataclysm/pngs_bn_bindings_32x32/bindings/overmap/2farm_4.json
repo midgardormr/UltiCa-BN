@@ -1,0 +1,10 @@
+{
+  "id": "2farm_4",
+  "fg": [
+    "pasture_end_n",
+    "pasture_end_e",
+    "pasture_end_s",
+    "pasture_end_w"
+  ],
+  "rotates": true
+}

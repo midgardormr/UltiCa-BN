@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_terminal_narrow_E_roof_joint",
+  "fg": [
+    "bn_limo_roof_S_front",
+    "bn_limo_roof_S_front",
+    "bn_limo_roof_S_front",
+    "bn_limo_roof_S_front"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_terminal_narrow_E_roof_joint_mask",
+        "bn_terminal_narrow_E_roof_joint_mask",
+        "bn_terminal_narrow_E_roof_joint_mask",
+        "bn_terminal_narrow_E_roof_joint_mask"
+      ]
+    }
+  ]
+}

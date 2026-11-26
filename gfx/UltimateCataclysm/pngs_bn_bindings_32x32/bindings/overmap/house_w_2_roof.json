@@ -1,0 +1,16 @@
+{
+  "fg": [
+    "otr_house_1_faceN",
+    "otr_house_1_faceW",
+    "otr_house_1_faceS",
+    "otr_house_1_faceE"
+  ],
+  "bg": [
+    "open_air",
+    "open_air",
+    "open_air",
+    "open_air"
+  ],
+  "rotates": true,
+  "id": "house_w_2_roof"
+}

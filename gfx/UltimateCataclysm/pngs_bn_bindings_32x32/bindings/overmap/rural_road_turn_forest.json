@@ -1,0 +1,6 @@
+{
+  "id": "rural_road_turn_forest",
+  "fg": "dirt_road_unconnected",
+  "bg": "field",
+  "rotates": false
+}

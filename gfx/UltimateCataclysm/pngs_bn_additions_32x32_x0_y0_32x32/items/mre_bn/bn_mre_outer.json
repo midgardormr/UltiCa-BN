@@ -1,0 +1,33 @@
+[
+  {
+    "id": [
+      "mre_chilibeans_box",
+      "mre_bbqbeef_box",
+      "mre_chickennoodle_box",
+      "mre_spaghetti_box",
+      "mre_chicken_box",
+      "mre_beeftaco_box",
+      "mre_beef_box",
+      "mre_meatball_box",
+      "mre_beefstew_box",
+      "mre_chilimac_box",
+      "mre_veggy_box",
+      "mre_macaronimarinara_box",
+      "mre_cheesetort_box",
+      "mre_mushroomfettuccine_box",
+      "mre_mexicanchickenstew_box",
+      "mre_chickenburritobowl_box",
+      "mre_maplesausage_box",
+      "mre_ravioli_box",
+      "mre_pepperjackbeef_box",
+      "mre_hashbrownbacon_box",
+      "mre_lemontuna_box",
+      "mre_asianbeef_box",
+      "mre_chickenpesto_box",
+      "mre_southwestbeef_box",
+      "mre_hotdog_box",
+      "mre_omelette_box"
+    ],
+    "fg": "bn_mre_outer_pouch"
+  }
+]

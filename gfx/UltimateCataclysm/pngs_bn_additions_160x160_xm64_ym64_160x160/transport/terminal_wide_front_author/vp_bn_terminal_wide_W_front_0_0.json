@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_terminal_wide_W_front_0_0",
+  "fg": [
+    "bn_terminal_wide_W_front_0_0",
+    "bn_terminal_wide_W_front_0_0",
+    "bn_terminal_wide_W_front_0_0",
+    "bn_terminal_wide_W_front_0_0"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_terminal_wide_W_front_0_0_mask",
+        "bn_terminal_wide_W_front_0_0_mask",
+        "bn_terminal_wide_W_front_0_0_mask",
+        "bn_terminal_wide_W_front_0_0_mask"
+      ]
+    }
+  ]
+}

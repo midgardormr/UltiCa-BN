@@ -1,0 +1,76 @@
+{
+  "id": "vp_bn_roof_cap_hdhatch_opaque_left",
+  "fg": [
+    "bn_EW_mirrored_0044",
+    "bn_EW_mirrored_0045",
+    "bn_EW_mirrored_0046",
+    "bn_EW_mirrored_0047"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "bn_EW_mirrored_0052",
+        "bn_EW_mirrored_0053",
+        "bn_EW_mirrored_0054",
+        "bn_EW_mirrored_0055"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_33b399ec05c5597656b21e2e",
+            "bn_surface_paint_92041a8b81b4ce102d1a5100",
+            "bn_surface_paint_06bb36574894b3587e7f3fe2",
+            "bn_surface_paint_353cec4d9c9155169994b940"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_EW_mirrored_0052",
+        "bn_EW_mirrored_0053",
+        "bn_EW_mirrored_0054",
+        "bn_EW_mirrored_0055"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd"
+          ],
+          "bg": [
+            "bn_surface_paint_33b399ec05c5597656b21e2e",
+            "bn_surface_paint_92041a8b81b4ce102d1a5100",
+            "bn_surface_paint_06bb36574894b3587e7f3fe2",
+            "bn_surface_paint_353cec4d9c9155169994b940"
+          ]
+        }
+      ]
+    }
+  ],
+  "rotates": true,
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_EW_mirrored_0048",
+        "bn_surface_paint_f94b110481dae7915082b3da",
+        "bn_EW_mirrored_0050",
+        "bn_surface_paint_147e313ecbb9917be7247e0c"
+      ]
+    }
+  ]
+}

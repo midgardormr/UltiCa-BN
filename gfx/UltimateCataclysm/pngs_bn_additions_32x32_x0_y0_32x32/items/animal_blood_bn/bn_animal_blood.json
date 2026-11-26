@@ -1,0 +1,10 @@
+[
+  {
+    "id": "animal_blood",
+    "fg": "bn_animal_blood"
+  },
+  {
+    "id": "animal_blood_concentrate",
+    "fg": "bn_animal_blood_concentrate"
+  }
+]

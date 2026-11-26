@@ -1,0 +1,31 @@
+{
+  "id": "vp_frame_wood_light_nw",
+  "fg": "frame_wood_nw",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "frame_wood_nw",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ],
+          "bg": [
+            "bn_surface_paint_8c31d83e544077cf5890ef6b"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_8c31d83e544077cf5890ef6b"
+      ]
+    }
+  ]
+}

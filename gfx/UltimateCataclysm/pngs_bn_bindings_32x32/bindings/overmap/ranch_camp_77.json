@@ -1,0 +1,11 @@
+{
+  "id": "ranch_camp_77",
+  "fg": [
+    "road_end_piece_n",
+    "road_end_piece_w",
+    "road_end_piece_s",
+    "road_end_piece_e"
+  ],
+  "bg": "field",
+  "rotates": true
+}

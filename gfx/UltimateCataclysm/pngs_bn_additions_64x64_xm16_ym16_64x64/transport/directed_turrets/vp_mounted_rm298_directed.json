@@ -1,0 +1,44 @@
+{
+  "id": "vp_mounted_rm298_directed",
+  "fg": [
+    "bn_directed_turret_8da6903bb1fd3908a2bf8ec1",
+    "bn_directed_turret_1122c537f2df969fcebceca4",
+    "bn_directed_turret_c92bb047ab5c448635773089",
+    "bn_directed_turret_0de0f517e98eaca571d6e18d"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_directed_turret_01bfb60e607b9b111747a9b9",
+        "bn_directed_turret_761b88009e3b2e996146a7ca",
+        "bn_directed_turret_f9bb6a2c621fd6f2b8bc822e",
+        "bn_directed_turret_2e1bb122a9224f09b815cf8d"
+      ],
+      "bg": [
+        "bn_directed_turret_8da6903bb1fd3908a2bf8ec1",
+        "bn_directed_turret_1122c537f2df969fcebceca4",
+        "bn_directed_turret_c92bb047ab5c448635773089",
+        "bn_directed_turret_0de0f517e98eaca571d6e18d"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_directed_turret_1f7013a86e91afe5461d67fb",
+            "bn_directed_turret_e9ffd8ba2e5b180a119675d3",
+            "bn_directed_turret_712eb37dd98ab9d74bbe8b4b",
+            "bn_directed_turret_edc626e713d308754ec7ec81"
+          ]
+        }
+      ]
+    }
+  ],
+  "bg": [
+    "bn_directed_turret_2dac88a00b6442c40de565b2",
+    "bn_user_turret_base_E_preserved",
+    "bn_directed_turret_d51ae6c98c4d2863eae0ee4b",
+    "bn_user_turret_base_W_preserved"
+  ]
+}

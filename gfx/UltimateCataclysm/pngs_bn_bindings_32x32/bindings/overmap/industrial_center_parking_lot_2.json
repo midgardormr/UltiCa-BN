@@ -1,0 +1,10 @@
+{
+  "id": "industrial_center_parking_lot_2",
+  "fg": [
+    "bn_airport_apron_3_fg_1",
+    "s_lot",
+    "bn_airport_apron_3_fg_1",
+    "s_lot"
+  ],
+  "rotates": true
+}

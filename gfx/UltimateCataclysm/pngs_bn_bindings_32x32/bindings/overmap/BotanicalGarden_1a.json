@@ -1,0 +1,11 @@
+{
+  "id": "BotanicalGarden_1a",
+  "fg": [
+    "BotanicalGarden_1a_faceN",
+    "BotanicalGarden_1b_faceW",
+    "BotanicalGarden_1b_faceN",
+    "BotanicalGarden_1a_faceW"
+  ],
+  "bg": "field",
+  "rotates": true
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "id": [
+      "mre_chilibeans",
+      "mre_bbqbeef",
+      "mre_chickennoodle",
+      "mre_spaghetti",
+      "mre_chicken",
+      "mre_beeftaco",
+      "mre_beef",
+      "mre_meatball",
+      "mre_beefstew",
+      "mre_chilimac",
+      "mre_veggy",
+      "mre_macaronimarinara",
+      "mre_cheesetort",
+      "mre_mushroomfettuccine",
+      "mre_mexicanchickenstew",
+      "mre_chickenburritobowl",
+      "mre_maplesausage",
+      "mre_ravioli",
+      "mre_pepperjackbeef",
+      "mre_hashbrownbacon",
+      "mre_lemontuna",
+      "mre_asianbeef",
+      "mre_chickenpesto",
+      "mre_southwestbeef",
+      "mre_hotdog",
+      "mre_omelette"
+    ],
+    "fg": "bn_mre_meal_pouch"
+  }
+]

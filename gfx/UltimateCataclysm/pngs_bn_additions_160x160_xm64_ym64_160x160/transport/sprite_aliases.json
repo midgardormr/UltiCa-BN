@@ -1,0 +1,814 @@
+[
+  {
+    "id": "bn_EW_mirrored_0004",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0005",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0006",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0007",
+    "fg": "bn_EW_mirrored_0007"
+  },
+  {
+    "id": "bn_EW_mirrored_0016",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0017",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0018",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0019",
+    "fg": "bn_EW_mirrored_0007"
+  },
+  {
+    "id": "bn_EW_mirrored_0024",
+    "fg": "bn_EW_mirrored_0024"
+  },
+  {
+    "id": "bn_EW_mirrored_0025",
+    "fg": "bn_EW_mirrored_0025"
+  },
+  {
+    "id": "bn_EW_mirrored_0026",
+    "fg": "bn_EW_mirrored_0026"
+  },
+  {
+    "id": "bn_EW_mirrored_0027",
+    "fg": "bn_EW_mirrored_0027"
+  },
+  {
+    "id": "bn_EW_mirrored_0036",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0037",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0038",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0039",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0040",
+    "fg": "bn_EW_mirrored_0024"
+  },
+  {
+    "id": "bn_EW_mirrored_0041",
+    "fg": "bn_EW_mirrored_0025"
+  },
+  {
+    "id": "bn_EW_mirrored_0042",
+    "fg": "bn_EW_mirrored_0026"
+  },
+  {
+    "id": "bn_EW_mirrored_0043",
+    "fg": "bn_EW_mirrored_0027"
+  },
+  {
+    "id": "bn_EW_mirrored_0048",
+    "fg": "bn_EW_mirrored_0048"
+  },
+  {
+    "id": "bn_EW_mirrored_0049",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0050",
+    "fg": "bn_EW_mirrored_0050"
+  },
+  {
+    "id": "bn_EW_mirrored_0051",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0068",
+    "fg": "bn_EW_mirrored_0068"
+  },
+  {
+    "id": "bn_EW_mirrored_0069",
+    "fg": "bn_EW_mirrored_0069"
+  },
+  {
+    "id": "bn_EW_mirrored_0070",
+    "fg": "bn_EW_mirrored_0070"
+  },
+  {
+    "id": "bn_EW_mirrored_0071",
+    "fg": "bn_EW_mirrored_0071"
+  },
+  {
+    "id": "bn_EW_mirrored_0076",
+    "fg": "bn_EW_mirrored_0076"
+  },
+  {
+    "id": "bn_EW_mirrored_0077",
+    "fg": "bn_EW_mirrored_0077"
+  },
+  {
+    "id": "bn_EW_mirrored_0078",
+    "fg": "bn_EW_mirrored_0078"
+  },
+  {
+    "id": "bn_EW_mirrored_0079",
+    "fg": "bn_EW_mirrored_0079"
+  },
+  {
+    "id": "bn_EW_mirrored_0088",
+    "fg": "bn_EW_mirrored_0088"
+  },
+  {
+    "id": "bn_EW_mirrored_0089",
+    "fg": "bn_EW_mirrored_0088"
+  },
+  {
+    "id": "bn_EW_mirrored_0090",
+    "fg": "bn_EW_mirrored_0088"
+  },
+  {
+    "id": "bn_EW_mirrored_0091",
+    "fg": "bn_EW_mirrored_0088"
+  },
+  {
+    "id": "bn_EW_mirrored_0092",
+    "fg": "bn_EW_mirrored_0076"
+  },
+  {
+    "id": "bn_EW_mirrored_0093",
+    "fg": "bn_EW_mirrored_0077"
+  },
+  {
+    "id": "bn_EW_mirrored_0094",
+    "fg": "bn_EW_mirrored_0078"
+  },
+  {
+    "id": "bn_EW_mirrored_0095",
+    "fg": "bn_EW_mirrored_0079"
+  },
+  {
+    "id": "bn_EW_mirrored_0100",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0101",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0102",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0103",
+    "fg": "bn_EW_mirrored_0103"
+  },
+  {
+    "id": "bn_EW_mirrored_0112",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0113",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0114",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_EW_mirrored_0115",
+    "fg": "bn_EW_mirrored_0103"
+  },
+  {
+    "id": "bn_EW_mirrored_0120",
+    "fg": "bn_EW_mirrored_0026"
+  },
+  {
+    "id": "bn_EW_mirrored_0121",
+    "fg": "bn_EW_mirrored_0121"
+  },
+  {
+    "id": "bn_EW_mirrored_0122",
+    "fg": "bn_EW_mirrored_0024"
+  },
+  {
+    "id": "bn_EW_mirrored_0123",
+    "fg": "bn_EW_mirrored_0123"
+  },
+  {
+    "id": "bn_EW_mirrored_0132",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0133",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0134",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0135",
+    "fg": "bn_EW_mirrored_0036"
+  },
+  {
+    "id": "bn_EW_mirrored_0136",
+    "fg": "bn_EW_mirrored_0026"
+  },
+  {
+    "id": "bn_EW_mirrored_0137",
+    "fg": "bn_EW_mirrored_0121"
+  },
+  {
+    "id": "bn_EW_mirrored_0138",
+    "fg": "bn_EW_mirrored_0024"
+  },
+  {
+    "id": "bn_EW_mirrored_0139",
+    "fg": "bn_EW_mirrored_0123"
+  },
+  {
+    "id": "bn_EW_mirrored_0144",
+    "fg": "bn_EW_mirrored_0144"
+  },
+  {
+    "id": "bn_EW_mirrored_0145",
+    "fg": "bn_EW_mirrored_0145"
+  },
+  {
+    "id": "bn_EW_mirrored_0146",
+    "fg": "bn_EW_mirrored_0146"
+  },
+  {
+    "id": "bn_EW_mirrored_0147",
+    "fg": "bn_EW_mirrored_0147"
+  },
+  {
+    "id": "bn_EW_mirrored_0152",
+    "fg": "bn_EW_mirrored_0152"
+  },
+  {
+    "id": "bn_EW_mirrored_0153",
+    "fg": "bn_EW_mirrored_0153"
+  },
+  {
+    "id": "bn_EW_mirrored_0154",
+    "fg": "bn_EW_mirrored_0154"
+  },
+  {
+    "id": "bn_EW_mirrored_0155",
+    "fg": "bn_EW_mirrored_0155"
+  },
+  {
+    "id": "bn_EW_mirrored_0164",
+    "fg": "bn_EW_mirrored_0164"
+  },
+  {
+    "id": "bn_EW_mirrored_0165",
+    "fg": "bn_EW_mirrored_0164"
+  },
+  {
+    "id": "bn_EW_mirrored_0166",
+    "fg": "bn_EW_mirrored_0164"
+  },
+  {
+    "id": "bn_EW_mirrored_0167",
+    "fg": "bn_EW_mirrored_0164"
+  },
+  {
+    "id": "bn_EW_mirrored_0168",
+    "fg": "bn_EW_mirrored_0152"
+  },
+  {
+    "id": "bn_EW_mirrored_0169",
+    "fg": "bn_EW_mirrored_0153"
+  },
+  {
+    "id": "bn_EW_mirrored_0170",
+    "fg": "bn_EW_mirrored_0154"
+  },
+  {
+    "id": "bn_EW_mirrored_0171",
+    "fg": "bn_EW_mirrored_0155"
+  },
+  {
+    "id": "bn_EW_mirrored_0176",
+    "fg": "bn_EW_mirrored_0176"
+  },
+  {
+    "id": "bn_EW_mirrored_0177",
+    "fg": "bn_EW_mirrored_0177"
+  },
+  {
+    "id": "bn_EW_mirrored_0178",
+    "fg": "bn_EW_mirrored_0178"
+  },
+  {
+    "id": "bn_EW_mirrored_0179",
+    "fg": "bn_EW_mirrored_0179"
+  },
+  {
+    "id": "bn_EW_mirrored_0184",
+    "fg": "bn_EW_mirrored_0184"
+  },
+  {
+    "id": "bn_EW_mirrored_0185",
+    "fg": "bn_EW_mirrored_0185"
+  },
+  {
+    "id": "bn_EW_mirrored_0186",
+    "fg": "bn_EW_mirrored_0186"
+  },
+  {
+    "id": "bn_EW_mirrored_0187",
+    "fg": "bn_EW_mirrored_0187"
+  },
+  {
+    "id": "bn_EW_mirrored_0196",
+    "fg": "bn_EW_mirrored_0184"
+  },
+  {
+    "id": "bn_EW_mirrored_0197",
+    "fg": "bn_EW_mirrored_0185"
+  },
+  {
+    "id": "bn_EW_mirrored_0198",
+    "fg": "bn_EW_mirrored_0186"
+  },
+  {
+    "id": "bn_EW_mirrored_0199",
+    "fg": "bn_EW_mirrored_0187"
+  },
+  {
+    "id": "bn_plane_passenger_N_rear_glass_0_mask",
+    "fg": "bn_plane_passenger_N_rear_glass_0_mask"
+  },
+  {
+    "id": "bn_surface_paint_142a0a0638a0b3938322912c",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_surface_paint_212e326b387de8666ee00702",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_surface_paint_2c605924f9dc71dfa7f92ba3",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_surface_paint_37c03c2e9c649727ce6f0d4b",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_surface_paint_457e567f6e8606b182b8c67c",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_surface_paint_6ae1c6fbbb460ef1bf663c78",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_surface_paint_7af0e1e7b106e8ad392dd97f",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_surface_paint_ae01d502c959d8f841f27350",
+    "fg": "bn_surface_paint_dcd7b45a56b45e4a55def015"
+  },
+  {
+    "id": "bn_van_east_cab_door_left_mask_0_fg",
+    "fg": "bn_surface_paint_33bc38a4ccdbc4f5983b28d7"
+  },
+  {
+    "id": "bn_van_east_cab_door_right_mask_0_fg",
+    "fg": "bn_surface_paint_3595570f072388b5f7c751db"
+  },
+  {
+    "id": "bn_van_user_mask_0048",
+    "fg": "bn_surface_paint_b42db590e4b0966517927151"
+  },
+  {
+    "id": "bn_van_user_mask_0049",
+    "fg": "bn_surface_paint_eb8c985f8462bc289c2b3499"
+  },
+  {
+    "id": "bn_van_user_mask_0050",
+    "fg": "bn_surface_paint_053ed5b1ff264d67fd71281f"
+  },
+  {
+    "id": "bn_van_user_mask_0051",
+    "fg": "bn_surface_paint_33bc38a4ccdbc4f5983b28d7"
+  },
+  {
+    "id": "bn_van_user_mask_0068",
+    "fg": "bn_surface_paint_c0a8d0c1d18ca52260b143e1"
+  },
+  {
+    "id": "bn_van_user_mask_0069",
+    "fg": "bn_surface_paint_4c9cac526bbb0547fe44174c"
+  },
+  {
+    "id": "bn_van_user_mask_0070",
+    "fg": "bn_surface_paint_1d354fa7d5b640dc83f9f00d"
+  },
+  {
+    "id": "bn_van_user_mask_0071",
+    "fg": "bn_surface_paint_3595570f072388b5f7c751db"
+  },
+  {
+    "id": "bn_van_user_mask_0088",
+    "fg": "bn_surface_paint_b07bae744956aae22c4e17af"
+  },
+  {
+    "id": "bn_van_user_mask_0089",
+    "fg": "bn_surface_paint_a1e1671346d50acbaa79f9b7"
+  },
+  {
+    "id": "bn_van_user_mask_0090",
+    "fg": "bn_surface_paint_9b7a798089ffd85b5180e1f4"
+  },
+  {
+    "id": "bn_van_user_mask_0091",
+    "fg": "bn_surface_paint_bf71767dc71b3b8f5bf88f6c"
+  },
+  {
+    "id": "bn_van_user_mask_0100",
+    "fg": "bn_surface_paint_b07bae744956aae22c4e17af"
+  },
+  {
+    "id": "bn_van_user_mask_0101",
+    "fg": "bn_surface_paint_a1e1671346d50acbaa79f9b7"
+  },
+  {
+    "id": "bn_van_user_mask_0102",
+    "fg": "bn_surface_paint_9b7a798089ffd85b5180e1f4"
+  },
+  {
+    "id": "bn_van_user_mask_0103",
+    "fg": "bn_surface_paint_bf71767dc71b3b8f5bf88f6c"
+  },
+  {
+    "id": "bn_van_user_mask_0108",
+    "fg": "bn_surface_paint_d1578086d6df902bc3baf336"
+  },
+  {
+    "id": "bn_van_user_mask_0109",
+    "fg": "bn_surface_paint_4b503257e081ecb6060167da"
+  },
+  {
+    "id": "bn_van_user_mask_0110",
+    "fg": "bn_surface_paint_008b337ef4c6f3f719ed3772"
+  },
+  {
+    "id": "bn_van_user_mask_0111",
+    "fg": "bn_surface_paint_4d791e6aee13dc40ed65e6ac"
+  },
+  {
+    "id": "bn_van_user_mask_0120",
+    "fg": "bn_surface_paint_d1578086d6df902bc3baf336"
+  },
+  {
+    "id": "bn_van_user_mask_0121",
+    "fg": "bn_surface_paint_4b503257e081ecb6060167da"
+  },
+  {
+    "id": "bn_van_user_mask_0122",
+    "fg": "bn_surface_paint_008b337ef4c6f3f719ed3772"
+  },
+  {
+    "id": "bn_van_user_mask_0123",
+    "fg": "bn_surface_paint_4d791e6aee13dc40ed65e6ac"
+  },
+  {
+    "id": "bn_van_user_mask_0128",
+    "fg": "bn_surface_paint_ba4012ee3b39c3aa5e67e682"
+  },
+  {
+    "id": "bn_van_user_mask_0129",
+    "fg": "bn_surface_paint_4df3b98cbcd4ec37be4ad80f"
+  },
+  {
+    "id": "bn_van_user_mask_0130",
+    "fg": "bn_surface_paint_b722c565ccac25a59f10f35c"
+  },
+  {
+    "id": "bn_van_user_mask_0131",
+    "fg": "bn_surface_paint_b8624bd70067211d92f80617"
+  },
+  {
+    "id": "bn_van_user_mask_0140",
+    "fg": "bn_surface_paint_ba4012ee3b39c3aa5e67e682"
+  },
+  {
+    "id": "bn_van_user_mask_0141",
+    "fg": "bn_surface_paint_4df3b98cbcd4ec37be4ad80f"
+  },
+  {
+    "id": "bn_van_user_mask_0142",
+    "fg": "bn_surface_paint_b722c565ccac25a59f10f35c"
+  },
+  {
+    "id": "bn_van_user_mask_0143",
+    "fg": "bn_surface_paint_b8624bd70067211d92f80617"
+  },
+  {
+    "id": "bn_van_user_mask_0148",
+    "fg": "bn_surface_paint_0d4f6b06f25da9bfe52e0b83"
+  },
+  {
+    "id": "bn_van_user_mask_0149",
+    "fg": "bn_surface_paint_dcdf94259783eac33d136987"
+  },
+  {
+    "id": "bn_van_user_mask_0150",
+    "fg": "bn_surface_paint_44361f2d7f969752a1cfac0a"
+  },
+  {
+    "id": "bn_van_user_mask_0151",
+    "fg": "bn_surface_paint_3fc9abd1125968ab2a5d8555"
+  },
+  {
+    "id": "bn_van_user_mask_0160",
+    "fg": "bn_surface_paint_0d4f6b06f25da9bfe52e0b83"
+  },
+  {
+    "id": "bn_van_user_mask_0161",
+    "fg": "bn_surface_paint_dcdf94259783eac33d136987"
+  },
+  {
+    "id": "bn_van_user_mask_0162",
+    "fg": "bn_surface_paint_44361f2d7f969752a1cfac0a"
+  },
+  {
+    "id": "bn_van_user_mask_0163",
+    "fg": "bn_surface_paint_3fc9abd1125968ab2a5d8555"
+  },
+  {
+    "id": "bn_van_user_mask_0168",
+    "fg": "bn_surface_paint_918f4a46d154788b30a97fee"
+  },
+  {
+    "id": "bn_van_user_mask_0169",
+    "fg": "bn_surface_paint_ebf2caaaff45149e0d60bca7"
+  },
+  {
+    "id": "bn_van_user_mask_0170",
+    "fg": "bn_surface_paint_6a853cc07ebd444fd708d2ba"
+  },
+  {
+    "id": "bn_van_user_mask_0171",
+    "fg": "bn_surface_paint_e7df541258f2a33ca194b781"
+  },
+  {
+    "id": "bn_van_user_mask_0188",
+    "fg": "bn_surface_paint_6a853cc07ebd444fd708d2ba"
+  },
+  {
+    "id": "bn_van_user_mask_0189",
+    "fg": "bn_surface_paint_e7df541258f2a33ca194b781"
+  },
+  {
+    "id": "bn_van_user_mask_0190",
+    "fg": "bn_surface_paint_918f4a46d154788b30a97fee"
+  },
+  {
+    "id": "bn_van_user_mask_0191",
+    "fg": "bn_surface_paint_ebf2caaaff45149e0d60bca7"
+  },
+  {
+    "id": "bn_van_user_mask_0208",
+    "fg": "bn_surface_paint_918f4a46d154788b30a97fee"
+  },
+  {
+    "id": "bn_van_user_mask_0209",
+    "fg": "bn_surface_paint_ebf2caaaff45149e0d60bca7"
+  },
+  {
+    "id": "bn_van_user_mask_0210",
+    "fg": "bn_surface_paint_6a853cc07ebd444fd708d2ba"
+  },
+  {
+    "id": "bn_van_user_mask_0211",
+    "fg": "bn_surface_paint_e7df541258f2a33ca194b781"
+  },
+  {
+    "id": "bn_van_user_mask_0228",
+    "fg": "bn_surface_paint_918f4a46d154788b30a97fee"
+  },
+  {
+    "id": "bn_van_user_mask_0229",
+    "fg": "bn_surface_paint_ebf2caaaff45149e0d60bca7"
+  },
+  {
+    "id": "bn_van_user_mask_0230",
+    "fg": "bn_surface_paint_6a853cc07ebd444fd708d2ba"
+  },
+  {
+    "id": "bn_van_user_mask_0231",
+    "fg": "bn_surface_paint_e7df541258f2a33ca194b781"
+  },
+  {
+    "id": "bn_van_user_mask_0248",
+    "fg": "bn_surface_paint_6a853cc07ebd444fd708d2ba"
+  },
+  {
+    "id": "bn_van_user_mask_0249",
+    "fg": "bn_surface_paint_e7df541258f2a33ca194b781"
+  },
+  {
+    "id": "bn_van_user_mask_0250",
+    "fg": "bn_surface_paint_918f4a46d154788b30a97fee"
+  },
+  {
+    "id": "bn_van_user_mask_0251",
+    "fg": "bn_surface_paint_ebf2caaaff45149e0d60bca7"
+  },
+  {
+    "id": "bn_van_user_mask_0268",
+    "fg": "bn_surface_paint_6a853cc07ebd444fd708d2ba"
+  },
+  {
+    "id": "bn_van_user_mask_0269",
+    "fg": "bn_surface_paint_e7df541258f2a33ca194b781"
+  },
+  {
+    "id": "bn_van_user_mask_0270",
+    "fg": "bn_surface_paint_918f4a46d154788b30a97fee"
+  },
+  {
+    "id": "bn_van_user_mask_0271",
+    "fg": "bn_surface_paint_ebf2caaaff45149e0d60bca7"
+  },
+  {
+    "id": "bn_van_user_mask_0288",
+    "fg": "bn_surface_paint_8ace88d11262a87810251a7b"
+  },
+  {
+    "id": "bn_van_user_mask_0289",
+    "fg": "bn_surface_paint_8ace88d11262a87810251a7b"
+  },
+  {
+    "id": "bn_van_user_mask_0290",
+    "fg": "bn_surface_paint_8ace88d11262a87810251a7b"
+  },
+  {
+    "id": "bn_van_user_mask_0291",
+    "fg": "bn_surface_paint_8ace88d11262a87810251a7b"
+  },
+  {
+    "id": "bn_van_user_roof_front_left_E_0003",
+    "fg": "bn_van_surface_front_left_E"
+  },
+  {
+    "id": "bn_van_user_roof_front_left_N_0000",
+    "fg": "bn_van_surface_front_left_N"
+  },
+  {
+    "id": "bn_van_user_roof_front_left_S_0002",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_front_left_W_0001",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_front_middle_N_0004",
+    "fg": "bn_van_surface_front_left_inner_N"
+  },
+  {
+    "id": "bn_van_user_roof_front_middle_S_0006",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_front_right_E_0011",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_front_right_N_0008",
+    "fg": "bn_van_surface_front_right_N"
+  },
+  {
+    "id": "bn_van_user_roof_front_right_S_0010",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_front_right_W_0009",
+    "fg": "bn_van_surface_front_right_W"
+  },
+  {
+    "id": "bn_van_user_roof_middle_left_E_0015",
+    "fg": "bn_van_surface_front_inner_left_E"
+  },
+  {
+    "id": "bn_van_user_roof_middle_left_N_0012",
+    "fg": "bn_van_surface_front_inner_left_N"
+  },
+  {
+    "id": "bn_van_user_roof_middle_left_S_0014",
+    "fg": "bn_van_surface_middle_left_S"
+  },
+  {
+    "id": "bn_van_user_roof_middle_left_W_0013",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_middle_middle_E_0019",
+    "fg": "bn_van_user_roof_middle_middle_E_0019"
+  },
+  {
+    "id": "bn_van_user_roof_middle_middle_N_0016",
+    "fg": "bn_limo_roof_N"
+  },
+  {
+    "id": "bn_van_user_roof_middle_middle_S_0018",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_middle_middle_W_0017",
+    "fg": "bn_van_user_roof_middle_middle_E_0019"
+  },
+  {
+    "id": "bn_van_user_roof_middle_right_E_0023",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_middle_right_N_0020",
+    "fg": "bn_van_surface_front_inner_right_N"
+  },
+  {
+    "id": "bn_van_user_roof_middle_right_S_0022",
+    "fg": "bn_van_surface_middle_right_S"
+  },
+  {
+    "id": "bn_van_user_roof_middle_right_W_0021",
+    "fg": "bn_van_surface_front_inner_left_E"
+  },
+  {
+    "id": "bn_van_user_roof_rear_left_E_0027",
+    "fg": "bn_van_surface_rear_left_E"
+  },
+  {
+    "id": "bn_van_user_roof_rear_left_N_0024",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_rear_left_S_0026",
+    "fg": "bn_van_surface_rear_left_S"
+  },
+  {
+    "id": "bn_van_user_roof_rear_left_W_0025",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_rear_middle_E_0031",
+    "fg": "bn_van_surface_rear_middle_E"
+  },
+  {
+    "id": "bn_van_user_roof_rear_middle_N_0028",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_rear_middle_S_0030",
+    "fg": "bn_van_surface_rear_middle_S"
+  },
+  {
+    "id": "bn_van_user_roof_rear_middle_W_0029",
+    "fg": "bn_van_surface_rear_middle_W"
+  },
+  {
+    "id": "bn_van_user_roof_rear_right_E_0035",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_rear_right_N_0032",
+    "fg": "bn_roof_lamp_f627ca4c2c322f15db2615"
+  },
+  {
+    "id": "bn_van_user_roof_rear_right_S_0034",
+    "fg": "bn_van_surface_rear_right_S"
+  },
+  {
+    "id": "bn_van_user_roof_rear_right_W_0033",
+    "fg": "bn_van_surface_rear_left_S"
+  },
+  {
+    "id": "bn_van_west_cab_door_left_mask_0_fg",
+    "fg": "bn_surface_paint_eb8c985f8462bc289c2b3499"
+  },
+  {
+    "id": "bn_van_west_cab_door_right_mask_0_fg",
+    "fg": "bn_surface_paint_17b4ca9e32574e76800ab04a"
+  }
+]

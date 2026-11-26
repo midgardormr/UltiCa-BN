@@ -1,0 +1,10 @@
+{
+  "fg": [
+    "t_sewage_t_connection_s",
+    "t_sewage_t_connection_e",
+    "t_sewage_t_connection_n",
+    "t_sewage_t_connection_w"
+  ],
+  "rotates": true,
+  "id": "necropolis_b_64"
+}

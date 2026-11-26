@@ -1,0 +1,13 @@
+{
+  "id": "f_fridge",
+  "rotates": true,
+  "flags": [
+    "ALIGN_TO_TERRAIN"
+  ],
+  "fg": [
+    "f_fridge_faceS",
+    "f_fridge_faceW",
+    "f_fridge_faceN",
+    "f_fridge_faceE"
+  ]
+}

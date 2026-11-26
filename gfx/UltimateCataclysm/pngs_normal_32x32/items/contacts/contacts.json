@@ -1,4 +1,7 @@
 {
-  "id": "myopia_contacts_weekly",
+  "id": [
+    "myopia_contacts_weekly",
+    "contacts"
+  ],
   "fg": "contacts"
 }

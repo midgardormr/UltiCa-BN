@@ -1,0 +1,16 @@
+{
+  "id": "mansion_boarded_t2d",
+  "fg": [
+    "mansion_S",
+    "mansion_E",
+    "mansion_N",
+    "mansion_W"
+  ],
+  "bg": [
+    "field_tall",
+    "field_tall",
+    "field_tall",
+    "field_tall"
+  ],
+  "rotates": true
+}

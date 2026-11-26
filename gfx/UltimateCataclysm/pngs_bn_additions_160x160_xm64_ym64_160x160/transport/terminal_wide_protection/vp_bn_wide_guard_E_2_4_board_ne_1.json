@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_wide_guard_E_2_4_board_ne_1",
+  "fg": [
+    "bn_wide_guard_E_2_4_board_ne_1_7e0953f37531",
+    "bn_wide_guard_E_2_4_board_ne_1_04d9d53c3bcf",
+    "bn_wide_guard_E_2_4_board_ne_1_c5dfa0c10a81",
+    "bn_wide_guard_E_2_4_board_ne_1_ff6d353eacbb"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_wide_guard_E_2_4_board_ne_1_7e0953f37531",
+        "bn_wide_guard_E_2_4_board_ne_1_04d9d53c3bcf",
+        "bn_wide_guard_E_2_4_board_ne_1_c5dfa0c10a81",
+        "bn_wide_guard_E_2_4_board_ne_1_ff6d353eacbb"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_wide_guard_E_2_4_board_ne_1_e5f2b8886ba7",
+            "bn_wide_guard_E_2_4_board_ne_1_44693a8dcec5",
+            "bn_wide_guard_E_2_4_board_ne_1_4eb488915add",
+            "bn_wide_guard_E_2_4_board_ne_1_1f97eaec4df4"
+          ],
+          "fg": [
+            "bn_wide_guard_E_2_4_board_ne_1_154af6ca08d5",
+            "bn_wide_guard_E_2_4_board_ne_1_154af6ca08d5",
+            "bn_wide_guard_E_2_4_board_ne_1_154af6ca08d5",
+            "bn_wide_guard_E_2_4_board_ne_1_154af6ca08d5"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_guard_E_2_4_board_ne_1_e5f2b8886ba7",
+        "bn_wide_guard_E_2_4_board_ne_1_44693a8dcec5",
+        "bn_wide_guard_E_2_4_board_ne_1_4eb488915add",
+        "bn_wide_guard_E_2_4_board_ne_1_1f97eaec4df4"
+      ]
+    }
+  ]
+}

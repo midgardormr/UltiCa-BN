@@ -1,0 +1,10 @@
+{
+  "id": "urban_31_17",
+  "fg": [
+    "police_dept03",
+    "police_dept01",
+    "police_dept02",
+    "police_dept04"
+  ],
+  "rotates": true
+}

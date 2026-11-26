@@ -1,0 +1,10 @@
+{
+  "id": "s_lightindustry_road_1",
+  "fg": [
+    "industry_light_road_E",
+    "industry_light_road_N",
+    "industry_light_road_W",
+    "industry_light_road_S"
+  ],
+  "rotates": true
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bone_knife",
+    "fg": "bn_oknife_bone_knife"
+  },
+  {
+    "id": "knife_stinger",
+    "fg": "bn_oknife_knife_stinger"
+  },
+  {
+    "id": "knife_triffid",
+    "fg": "bn_oknife_knife_triffid"
+  },
+  {
+    "id": "knife_tooth",
+    "fg": "bn_oknife_knife_tooth"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "vp_bn_user_floodlight_front_side_roof",
+  "fg": [
+    "bn_roof_lamp_48d2573690a71128baf4e3",
+    "bn_roof_lamp_e303a121fa6850588d2762",
+    "bn_roof_lamp_7a109aa7720a1fbc17b5f1",
+    "bn_roof_lamp_ee15ebaf8b22cbf338df01"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_roof_lamp_48d2573690a71128baf4e3",
+        "bn_roof_lamp_e303a121fa6850588d2762",
+        "bn_roof_lamp_7a109aa7720a1fbc17b5f1",
+        "bn_roof_lamp_ee15ebaf8b22cbf338df01"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_roof_lamp_6a25b4c272a227518624f9",
+            "bn_roof_lamp_51ea4a213c4026857bd084",
+            "bn_roof_lamp_f627ca4c2c322f15db2615",
+            "bn_roof_lamp_6a25b4c272a227518624f9"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_roof_lamp_6a25b4c272a227518624f9",
+        "bn_roof_lamp_51ea4a213c4026857bd084",
+        "bn_roof_lamp_f627ca4c2c322f15db2615",
+        "bn_roof_lamp_6a25b4c272a227518624f9"
+      ]
+    }
+  ]
+}

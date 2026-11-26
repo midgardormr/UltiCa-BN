@@ -1,0 +1,11 @@
+{
+  "id": "cabin_4",
+  "fg": [
+    "cabin_faceN",
+    "cabin_faceW",
+    "cabin_faceS",
+    "cabin_faceE"
+  ],
+  "bg": "field",
+  "rotates": true
+}

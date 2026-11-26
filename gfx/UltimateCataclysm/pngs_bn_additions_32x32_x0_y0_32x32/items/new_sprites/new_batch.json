@@ -1,0 +1,274 @@
+[
+  {
+    "id": "depowered_exo",
+    "fg": "bn_new_depowered_exo"
+  },
+  {
+    "id": "depowered_plating",
+    "fg": "bn_new_depowered_plating"
+  },
+  {
+    "id": "depowered_plating_on",
+    "fg": "bn_new_depowered_plating"
+  },
+  {
+    "id": "depowered_armor",
+    "fg": "bn_new_depowered_armor"
+  },
+  {
+    "id": "power_armor_exo_2",
+    "fg": "bn_new_power_armor_exo_2"
+  },
+  {
+    "id": "power_armor_exo_2_on",
+    "fg": "bn_new_power_armor_exo_2_on"
+  },
+  {
+    "id": "power_armor_exo_3",
+    "fg": "bn_new_power_armor_exo_3"
+  },
+  {
+    "id": "power_armor_exo_3_on",
+    "fg": "bn_new_power_armor_exo_3_on"
+  },
+  {
+    "id": "power_armor_plating_3",
+    "fg": "bn_new_power_armor_plating_3"
+  },
+  {
+    "id": "power_armor_plating_3_on",
+    "fg": "bn_new_power_armor_plating_3_on"
+  },
+  {
+    "id": "exosuit_survivor",
+    "fg": "bn_new_exosuit_survivor"
+  },
+  {
+    "id": "exosuit_survivor_on",
+    "fg": "bn_new_exosuit_survivor_on"
+  },
+  {
+    "id": "leather_pouch",
+    "fg": "bn_new_leather_pouch"
+  },
+  {
+    "id": "llink",
+    "fg": "bn_new_llink"
+  },
+  {
+    "id": "universal_autolink",
+    "fg": "bn_new_universal_autolink"
+  },
+  {
+    "id": "universal_auto_conversion_kit",
+    "fg": "bn_new_universal_auto_conversion_kit"
+  },
+  {
+    "id": "3d_printer_basic",
+    "fg": "bn_new_3d_printer_basic"
+  },
+  {
+    "id": "3d_printer_advanced",
+    "fg": "bn_new_3d_printer_advanced"
+  },
+  {
+    "id": "clay_pallet_full",
+    "fg": "bn_new_clay_pallet_full"
+  },
+  {
+    "id": "clay_pallet_done",
+    "fg": "bn_new_clay_pallet_done"
+  },
+  {
+    "id": "yoke_harness",
+    "fg": "bn_new_yoke_harness"
+  },
+  {
+    "id": "bike_rack",
+    "fg": "bn_new_bike_rack"
+  },
+  {
+    "id": "foldframe",
+    "fg": "bn_new_foldframe"
+  },
+  {
+    "id": "xlframe",
+    "fg": "bn_new_xlframe"
+  },
+  {
+    "id": "frame",
+    "fg": "bn_new_frame"
+  },
+  {
+    "id": "hdframe",
+    "fg": "bn_new_hdframe"
+  },
+  {
+    "id": "frame_wood",
+    "fg": "bn_new_frame_wood"
+  },
+  {
+    "id": "foldwoodframe",
+    "fg": "bn_new_foldwoodframe"
+  },
+  {
+    "id": "frame_wood_light",
+    "fg": "bn_new_frame_wood_light"
+  },
+  {
+    "id": "frame_plastic",
+    "fg": "bn_new_frame_plastic"
+  },
+  {
+    "id": "frame_carbon",
+    "fg": "bn_new_frame_carbon"
+  },
+  {
+    "id": "frame_wood_deck",
+    "fg": "bn_new_frame_wood_deck"
+  },
+  {
+    "id": "forgerig",
+    "fg": "bn_new_forgerig"
+  },
+  {
+    "id": "kilnrig",
+    "fg": "bn_new_kilnrig"
+  },
+  {
+    "id": "weldrig",
+    "fg": "bn_new_weldrig"
+  },
+  {
+    "id": "3d_printer_basicrig",
+    "fg": "bn_new_3d_printer_basicrig"
+  },
+  {
+    "id": "3d_printer_advancedrig",
+    "fg": "bn_new_3d_printer_advancedrig"
+  },
+  {
+    "id": "fold_orichalcum_frame",
+    "fg": "bn_new_fold_orichalcum_frame"
+  },
+  {
+    "id": "orichalcum_frame",
+    "fg": "bn_new_orichalcum_frame"
+  },
+  {
+    "id": "afs_metal_rig",
+    "fg": "bn_new_afs_metal_rig"
+  },
+  {
+    "id": "afs_blatant_half_life_reference",
+    "fg": "bn_new_afs_blatant_half_life_reference"
+  },
+  {
+    "id": "afs_titanium_frame",
+    "fg": "bn_new_afs_titanium_frame"
+  },
+  {
+    "id": "afs_titanium_foldable_frame",
+    "fg": "bn_new_afs_titanium_foldable_frame"
+  },
+  {
+    "id": "lmil_armor",
+    "fg": "bn_new_lmil_armor"
+  },
+  {
+    "id": "auto_case",
+    "fg": "bn_new_auto_case"
+  },
+  {
+    "id": "power_armor_basic",
+    "fg": "bn_new_power_armor_basic"
+  },
+  {
+    "id": "power_armor_basic_on",
+    "fg": "bn_new_power_armor_basic_on"
+  },
+  {
+    "id": "makeshift_sled_frame_item",
+    "fg": "bn_new_makeshift_sled_frame_item"
+  },
+  {
+    "id": "boat_rental",
+    "fg": "bn_new_boat_rental"
+  },
+  {
+    "id": "triffid_sprout",
+    "fg": "bn_new_triffid_sprout"
+  },
+  {
+    "id": "vp_welding_rig",
+    "fg": "bn_new_vp_welding_rig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_vp_welding_rig"
+      }
+    ]
+  },
+  {
+    "id": "vp_afs_metal_rig",
+    "fg": "bn_new_vp_afs_metal_rig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_vp_afs_metal_rig"
+      }
+    ]
+  },
+  {
+    "id": "vp_veh_forge",
+    "fg": "bn_new_forgerig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_forgerig"
+      }
+    ]
+  },
+  {
+    "id": "vp_veh_kiln",
+    "fg": "bn_new_kilnrig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_kilnrig"
+      }
+    ]
+  },
+  {
+    "id": "vp_3d_printer_basicrig",
+    "fg": "bn_new_3d_printer_basicrig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_3d_printer_basicrig"
+      }
+    ]
+  },
+  {
+    "id": "vp_3d_printer_advancedrig",
+    "fg": "bn_new_3d_printer_advancedrig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_3d_printer_advancedrig"
+      }
+    ]
+  }
+]

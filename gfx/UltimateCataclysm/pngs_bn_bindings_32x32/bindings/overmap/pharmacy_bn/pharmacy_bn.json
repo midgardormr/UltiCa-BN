@@ -1,0 +1,10 @@
+[
+  {
+    "id": [
+      "s_pharm",
+      "s_pharm_roof"
+    ],
+    "fg": "bn_pharmacy_front",
+    "rotates": false
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "office_skyscraper_19",
+  "fg": [
+    "office_tower_roof_sw",
+    "office_tower_roof_se",
+    "office_tower_roof_ne",
+    "office_tower_roof_nw"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

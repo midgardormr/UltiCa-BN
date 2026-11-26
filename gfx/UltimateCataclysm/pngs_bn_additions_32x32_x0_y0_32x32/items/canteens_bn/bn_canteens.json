@@ -1,0 +1,18 @@
+[
+  {
+    "id": "canteen",
+    "fg": "bn_canteen"
+  },
+  {
+    "id": "power_armor_canteen",
+    "fg": "bn_power_armor_canteen"
+  },
+  {
+    "id": "sq_fcanteen",
+    "fg": "bn_sq_fcanteen"
+  },
+  {
+    "id": "crt_canteen",
+    "fg": "bn_crt_canteen"
+  }
+]

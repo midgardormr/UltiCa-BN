@@ -1,0 +1,11 @@
+{
+  "id": "necropolis_a_63",
+  "fg": [
+    "otr_house_1_faceE",
+    "otr_house_1_faceN",
+    "otr_house_1_faceW",
+    "otr_house_1_faceS"
+  ],
+  "bg": "field",
+  "rotates": true
+}

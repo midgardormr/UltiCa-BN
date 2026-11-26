@@ -1,0 +1,11 @@
+{
+  "id": "mil_base_4h",
+  "fg": [
+    "road_edge_ns",
+    "road_edge_ew",
+    "road_edge_ns",
+    "road_edge_ew"
+  ],
+  "bg": "field",
+  "rotates": true
+}

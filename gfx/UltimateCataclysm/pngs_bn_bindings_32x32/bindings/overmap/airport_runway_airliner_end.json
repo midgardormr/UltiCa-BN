@@ -1,0 +1,8 @@
+{
+  "id": "airport_runway_airliner_end",
+  "fg": [
+    "runway_ns",
+    "runway_ew"
+  ],
+  "rotates": true
+}

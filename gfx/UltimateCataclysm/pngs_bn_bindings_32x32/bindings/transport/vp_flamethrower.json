@@ -1,0 +1,21 @@
+{
+  "id": "vp_flamethrower",
+  "fg": "vp_machinegun_mounted_rotS",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_machinegun_mounted_rotS",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ]
+        }
+      ]
+    }
+  ],
+  "bg": "bg_crows_rotS"
+}

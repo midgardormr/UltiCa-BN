@@ -1,0 +1,6 @@
+{
+  "id": "dirt_road_turn1",
+  "fg": "dirt_road_unconnected",
+  "bg": "field",
+  "rotates": false
+}

@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_van_corrected_halfboard_cover_right",
+  "fg": [
+    "bn_van_user_body_0104",
+    "bn_van_user_body_0105",
+    "bn_van_user_body_0106",
+    "bn_van_user_body_0107"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a",
+        "bn_roof_lamp_0c553daff9d064038a245a"
+      ],
+      "bg": [
+        "bn_van_user_body_0104",
+        "bn_van_user_body_0105",
+        "bn_van_user_body_0106",
+        "bn_van_user_body_0107"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_d1578086d6df902bc3baf336",
+            "bn_surface_paint_4b503257e081ecb6060167da",
+            "bn_surface_paint_008b337ef4c6f3f719ed3772",
+            "bn_surface_paint_4d791e6aee13dc40ed65e6ac"
+          ],
+          "fg": [
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd",
+            "bn_surface_paint_aec3cce5544284e4108af3bd"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_d1578086d6df902bc3baf336",
+        "bn_surface_paint_4b503257e081ecb6060167da",
+        "bn_surface_paint_008b337ef4c6f3f719ed3772",
+        "bn_surface_paint_4d791e6aee13dc40ed65e6ac"
+      ]
+    }
+  ]
+}

@@ -1,14 +1,47 @@
-[
-  {
-    "id": "vp_basketsm_wheelchair",
-    "fg": [ "wheelchair_north", "wheelchair_east", "wheelchair_south", "wheelchair_west" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "wheelchair_north", "wheelchair_east", "wheelchair_south", "wheelchair_west" ]
-      }
-    ]
-  }
-]
+{
+  "id": "vp_basketsm_wheelchair",
+  "fg": [
+    "wheelchair_north",
+    "wheelchair_west",
+    "wheelchair_south",
+    "wheelchair_east"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [
+        "wheelchair_north",
+        "wheelchair_west",
+        "wheelchair_south",
+        "wheelchair_east"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ],
+          "bg": [
+            "bn_surface_paint_c6ed309006955dd49307e146",
+            "bn_surface_paint_0cea887bebfb55a9942a2e47",
+            "bn_surface_paint_f78917d1824707585b2f2581",
+            "bn_surface_paint_dd51047d32dac0ddfc82a7cd"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_c6ed309006955dd49307e146",
+        "bn_surface_paint_0cea887bebfb55a9942a2e47",
+        "bn_surface_paint_f78917d1824707585b2f2581",
+        "bn_surface_paint_dd51047d32dac0ddfc82a7cd"
+      ]
+    }
+  ]
+}

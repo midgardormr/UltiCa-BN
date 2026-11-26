@@ -1,0 +1,65 @@
+[
+  {
+    "id": [
+      "2fmotel_1_f2",
+      "2fmotel_1_r",
+      "motel_1",
+      "motel_1_no_sidewalk",
+      "motel_1_roof"
+    ],
+    "fg": [
+      "bn_motel_q0_north",
+      "bn_motel_q0_west",
+      "bn_motel_q0_south",
+      "bn_motel_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2fmotel_entrance_f2",
+      "motel_entrance",
+      "motel_entrance_no_sidewalk",
+      "motel_entrance_roof"
+    ],
+    "fg": [
+      "bn_motel_q1_north",
+      "bn_motel_q1_west",
+      "bn_motel_q1_south",
+      "bn_motel_q1_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2fmotel_2_f2",
+      "2fmotel_2_r",
+      "motel_2",
+      "motel_2_no_sidewalk",
+      "motel_2_roof"
+    ],
+    "fg": [
+      "bn_motel_q2_north",
+      "bn_motel_q2_west",
+      "bn_motel_q2_south",
+      "bn_motel_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2fmotel_3_f2",
+      "2fmotel_3_r",
+      "motel_3",
+      "motel_3_no_sidewalk",
+      "motel_3_roof"
+    ],
+    "fg": [
+      "bn_motel_q3_north",
+      "bn_motel_q3_west",
+      "bn_motel_q3_south",
+      "bn_motel_q3_east"
+    ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "shield_wooden_large",
+    "fg": "bn_lshield_shield_wooden_large"
+  },
+  {
+    "id": "shield_leather_large",
+    "fg": "bn_lshield_shield_leather_large"
+  },
+  {
+    "id": "shield_kevlar_large",
+    "fg": "bn_lshield_shield_kevlar_large"
+  },
+  {
+    "id": "shield_banded_large",
+    "fg": "bn_lshield_shield_banded_large"
+  },
+  {
+    "id": "shield_spiked_large",
+    "fg": "bn_lshield_shield_spiked_large"
+  },
+  {
+    "id": "shield_scute",
+    "fg": "bn_lshield_shield_scute"
+  }
+]

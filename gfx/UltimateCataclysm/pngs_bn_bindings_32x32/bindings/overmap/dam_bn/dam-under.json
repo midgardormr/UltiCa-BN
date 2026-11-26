@@ -1,0 +1,14 @@
+{
+  "id": [
+    "dam",
+    "dam_under",
+    "dam_center_under"
+  ],
+  "fg": [
+    "bn_dam_dam_under_north",
+    "bn_dam_dam_under_west",
+    "bn_dam_dam_under_south",
+    "bn_dam_dam_under_east"
+  ],
+  "rotates": true
+}

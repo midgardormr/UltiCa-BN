@@ -1,0 +1,13 @@
+{
+  "id": "vp_ram_spiked",
+  "fg": "vp_ram_spiked",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_ram_spiked"
+    }
+  ]
+}

@@ -1,14 +1,47 @@
-[
-  {
-    "id": "vp_frame_handle",
-    "fg": [ "handle_motor_rotN", "handle_motor_rotE", "handle_motor_rotS", "handle_motor_rotW" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "handle_motor_rotN", "handle_motor_rotE", "handle_motor_rotS", "handle_motor_rotW" ]
-      }
-    ]
-  }
-]
+{
+  "id": "vp_frame_handle",
+  "fg": [
+    "native_handle_motor_rotN",
+    "native_handle_motor_rotW",
+    "native_handle_motor_rotS",
+    "native_handle_motor_rotE"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [
+        "native_handle_motor_rotN",
+        "native_handle_motor_rotW",
+        "native_handle_motor_rotS",
+        "native_handle_motor_rotE"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ],
+          "bg": [
+            "bn_surface_paint_1ee145646e879c55d49116e3",
+            "bn_surface_paint_206e2e5a4e15130afbbbc7eb",
+            "bn_surface_paint_366710dea7d9533ffa42ef05",
+            "bn_surface_paint_751bc0c67b322b257a1550e6"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_1ee145646e879c55d49116e3",
+        "bn_surface_paint_206e2e5a4e15130afbbbc7eb",
+        "bn_surface_paint_366710dea7d9533ffa42ef05",
+        "bn_surface_paint_751bc0c67b322b257a1550e6"
+      ]
+    }
+  ]
+}

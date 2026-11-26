@@ -1,0 +1,75 @@
+{
+  "id": "vp_hddoor_full_vertical_left",
+  "fg": [
+    "vp_hddoor_L_rotN",
+    "vp_hddoor_L_rotW",
+    "bn_user_front_left_door_closed_S_native",
+    "bn_user_E_hddoor_left_base_fg"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "vp_hddoor_left_open_rotN",
+        "vp_hddoor_left_open_rotW",
+        "bn_user_front_left_door_open_S_native",
+        "bn_user_E_hddoor_left_open_fg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_0093a6d4d9b816e772b72c50",
+            "bn_surface_paint_b78530475a345f4e7f991da6",
+            "bn_door_material_mask_bn_user_front_left_door_open_S_native",
+            "bn_door_material_mask_bn_user_E_hddoor_left_open_fg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48"
+      ],
+      "bg": [
+        "vp_hddoor_left_open_rotN",
+        "vp_hddoor_left_open_rotW",
+        "bn_user_front_left_door_open_S_native",
+        "bn_user_E_hddoor_left_open_fg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2"
+          ],
+          "bg": [
+            "bn_surface_paint_0093a6d4d9b816e772b72c50",
+            "bn_surface_paint_b78530475a345f4e7f991da6",
+            "bn_door_material_mask_bn_user_front_left_door_open_S_native",
+            "bn_door_material_mask_bn_user_E_hddoor_left_open_fg"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_3e1f5b9c51707663908afb42",
+        "bn_surface_paint_deff737d7b710fd49e62cd08",
+        "bn_surface_paint_b0e701ff3d9fa1c26ff0cf82",
+        "bn_door_material_mask_bn_user_E_hddoor_left_base_fg"
+      ]
+    }
+  ]
+}

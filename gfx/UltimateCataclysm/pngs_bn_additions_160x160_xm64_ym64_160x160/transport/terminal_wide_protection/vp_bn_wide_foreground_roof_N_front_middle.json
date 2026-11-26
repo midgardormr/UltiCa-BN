@@ -1,0 +1,31 @@
+{
+  "id": "vp_bn_wide_foreground_roof_N_front_middle",
+  "fg": "bn_wide_foreground_roof_N_front_middle_54c595368472",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_wide_foreground_roof_N_front_middle_2fbab01b470f",
+      "bg": "bn_wide_foreground_roof_N_front_middle_54c595368472",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_wide_foreground_roof_N_front_middle_79a324c83fb0"
+          ],
+          "bg": [
+            "bn_wide_foreground_roof_N_front_middle_73bb5afb45e5"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_foreground_roof_N_front_middle_73bb5afb45e5"
+      ]
+    }
+  ]
+}

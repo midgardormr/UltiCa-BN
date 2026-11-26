@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_user_funnel_right",
+  "fg": [
+    "bn_user_funnel_center_N_anchored64",
+    "bn_user_W_bn_user_E_funnel_left",
+    "bn_user_funnel_left_S_anchored64",
+    "bn_user_E_funnel_right"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_user_W_identity_64x64",
+        "bn_user_W_bn_user_E_funnel_left_mask",
+        "bn_user_W_identity_64x64",
+        "bn_user_W_identity_64x64"
+      ]
+    }
+  ]
+}

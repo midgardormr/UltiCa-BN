@@ -1,0 +1,27 @@
+{
+  "id": "vp_spoiler_carbon_right",
+  "fg": [
+    "vp_board_ne",
+    "vp_board_ne_rotW",
+    "vp_board_ne_rotS",
+    "vp_board_ne_rotE"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48"
+      ],
+      "bg": [
+        "vp_board_ne",
+        "vp_board_ne_rotW",
+        "vp_board_ne_rotS",
+        "vp_board_ne_rotE"
+      ]
+    }
+  ]
+}

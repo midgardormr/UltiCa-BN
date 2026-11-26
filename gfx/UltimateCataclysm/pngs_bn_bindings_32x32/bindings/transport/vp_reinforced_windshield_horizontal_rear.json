@@ -1,0 +1,31 @@
+{
+  "id": "vp_reinforced_windshield_horizontal_rear",
+  "fg": "vp_windshield_reinforced_horizontal_rear",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_glass_center",
+      "bg": "vp_windshield_reinforced_horizontal_rear",
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_01e36ec64e24c71a46db883d"
+          ],
+          "bg": [
+            "bn_surface_paint_6472f75212157f41727c74ee"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_6472f75212157f41727c74ee"
+      ]
+    }
+  ]
+}

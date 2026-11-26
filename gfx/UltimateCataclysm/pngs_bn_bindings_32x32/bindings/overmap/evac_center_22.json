@@ -1,0 +1,11 @@
+{
+  "id": "evac_center_22",
+  "fg": [
+    "road_edge_ew",
+    "road_edge_ns",
+    "road_edge_ew",
+    "road_edge_ns"
+  ],
+  "bg": "field",
+  "rotates": true
+}

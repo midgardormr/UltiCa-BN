@@ -1,0 +1,12 @@
+{
+  "id": "vp_bn_van_n_open_door_right",
+  "fg": "bn_van_n_open_door_right",
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_cd32f9080f6f2bf35ec33cc0"
+      ]
+    }
+  ]
+}

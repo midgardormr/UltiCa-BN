@@ -1,0 +1,58 @@
+[
+  {
+    "id": "armguard_hard",
+    "fg": "bn_armguard_hard"
+  },
+  {
+    "id": "armguard_lightplate",
+    "fg": "bn_armguard_lightplate"
+  },
+  {
+    "id": "armguard_lightplate_superalloy",
+    "fg": "bn_armguard_lightplate_superalloy"
+  },
+  {
+    "id": "armguard_metal",
+    "fg": "bn_armguard_metal"
+  },
+  {
+    "id": "armguard_bronze",
+    "fg": "bn_armguard_bronze"
+  },
+  {
+    "id": "armguard_scrap",
+    "fg": "bn_armguard_scrap"
+  },
+  {
+    "id": "carbon_armguard",
+    "fg": "bn_carbon_armguard"
+  },
+  {
+    "id": "arm_splint",
+    "fg": "bn_arm_splint"
+  },
+  {
+    "id": "arm_xlsplint",
+    "fg": "bn_arm_xlsplint"
+  },
+  {
+    "id": "armguard_lightplate_surv",
+    "fg": "bn_armguard_lightplate_surv"
+  },
+  {
+    "id": "armguard_lightplate_surv_superalloy",
+    "fg": "bn_armguard_lightplate_surv_superalloy"
+  },
+  {
+    "id": "sq_advanced_arm_splint",
+    "fg": "bn_sq_advanced_arm_splint"
+  },
+  {
+    "id": "sq_farmguard_lightplate",
+    "fg": "bn_sq_farmguard_lightplate"
+  },
+  {
+    "id": "crt_armguard",
+    "fg": "bn_crt_armguard"
+  }
+]

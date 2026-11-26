@@ -1,0 +1,70 @@
+{
+  "id": [
+    "vp_hddoor_right",
+    "vp_hddoor_opaque_appearance_hddoor_right"
+  ],
+  "fg": [
+    "bn_vp_hddoor_right_fg_0",
+    "bn_vp_hddoor_right_fg_1",
+    "bn_user_front_right_door_closed_S_native",
+    "bn_user_E_hddoor_right_base_fg"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "bn_vp_hddoor_right_additional_tiles_0_fg_0",
+        "bn_vp_hddoor_right_additional_tiles_0_fg_1",
+        "bn_user_front_right_door_open_S_native",
+        "bn_user_E_hddoor_right_open_fg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_36f77a223a8d0a855158cdd4",
+            "bn_surface_paint_2f2ee38235c183083073bd58",
+            "bn_door_material_mask_bn_user_front_right_door_open_S_native",
+            "bn_door_material_mask_bn_user_E_hddoor_right_open_fg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": "bn_vp_hddoor_right_additional_tiles_1_fg",
+      "bg": [
+        "bn_vp_hddoor_right_additional_tiles_0_fg_0",
+        "bn_vp_hddoor_right_additional_tiles_0_fg_1",
+        "bn_user_front_right_door_open_S_native",
+        "bn_user_E_hddoor_right_open_fg"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_212b26ce23d18810346a2a15"
+          ],
+          "bg": [
+            "bn_surface_paint_36f77a223a8d0a855158cdd4",
+            "bn_surface_paint_2f2ee38235c183083073bd58",
+            "bn_door_material_mask_bn_user_front_right_door_open_S_native",
+            "bn_door_material_mask_bn_user_E_hddoor_right_open_fg"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_b0c073a1857bd439aadf3494",
+        "bn_surface_paint_ba27e2b31de6c31be2c6405b",
+        "bn_door_material_mask_bn_user_front_right_door_closed_S_native",
+        "bn_door_material_mask_bn_user_E_hddoor_right_base_fg"
+      ]
+    }
+  ]
+}

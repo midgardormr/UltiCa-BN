@@ -1,0 +1,58 @@
+{
+  "id": "f_sink",
+  "rotates": true,
+  "multitile": true,
+  "flags": [
+    "ALIGN_TO_TERRAIN"
+  ],
+  "fg": [
+    "bn_sink_faceS",
+    "bn_sink_faceW",
+    "bn_sink_faceN",
+    "bn_sink_faceE"
+  ],
+  "bg": "",
+  "additional_tiles": [
+    {
+      "id": "unconnected",
+      "fg": [
+        "bn_sink_faceS",
+        "bn_sink_faceW",
+        "bn_sink_faceN",
+        "bn_sink_faceE"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "bn_sink_middle_faceW",
+        "bn_sink_middle_faceS"
+      ]
+    },
+    {
+      "id": "edge_reverse",
+      "fg": [
+        "bn_sink_middle_faceE",
+        "bn_sink_middle_faceN"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "bn_sink_end_top_faceW",
+        "bn_sink_end_left_faceS",
+        "bn_sink_faceW",
+        "bn_sink_end_right_faceS"
+      ]
+    },
+    {
+      "id": "end_piece_reverse",
+      "fg": [
+        "bn_sink_end_top_faceE",
+        "bn_sink_end_left_faceN",
+        "bn_sink_faceE",
+        "bn_sink_end_right_faceN"
+      ]
+    }
+  ]
+}

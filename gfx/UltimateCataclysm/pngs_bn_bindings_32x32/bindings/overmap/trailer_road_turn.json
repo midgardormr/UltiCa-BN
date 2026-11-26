@@ -1,0 +1,11 @@
+{
+  "id": "trailer_road_turn",
+  "fg": [
+    "road_corner_ne",
+    "road_corner_nw",
+    "road_corner_sw",
+    "road_corner_se"
+  ],
+  "bg": "field",
+  "rotates": true
+}

@@ -1,0 +1,4 @@
+Exact UDP overmap route markers, copied without redrawing.
+overmap_path: MSX++UnDeadPeopleEdition/normal_stuff.png, frame 9262, sheet start 9024
+overmap_path_above: MSX++UnDeadPeopleEdition/normal_stuff.png, frame 9238, sheet start 9024
+overmap_path_below: MSX++UnDeadPeopleEdition/normal_stuff.png, frame 9238, sheet start 9024

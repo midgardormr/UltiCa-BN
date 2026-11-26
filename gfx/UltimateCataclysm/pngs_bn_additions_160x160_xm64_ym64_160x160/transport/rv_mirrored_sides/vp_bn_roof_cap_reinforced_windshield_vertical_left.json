@@ -1,0 +1,56 @@
+{
+  "id": "vp_bn_roof_cap_reinforced_windshield_vertical_left",
+  "fg": [
+    "bn_EW_mirrored_0020",
+    "bn_EW_mirrored_0021",
+    "bn_EW_mirrored_0022",
+    "bn_EW_mirrored_0023"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_camper_cover_left_1_fg",
+        "bn_camper_cover_left_1_fg",
+        "bn_camper_cover_left_1_fg",
+        "bn_camper_cover_left_1_fg"
+      ],
+      "bg": [
+        "bn_EW_mirrored_0020",
+        "bn_EW_mirrored_0021",
+        "bn_EW_mirrored_0022",
+        "bn_EW_mirrored_0023"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_c7cb6e85367890ee627099dd",
+            "bn_surface_paint_c7cb6e85367890ee627099dd",
+            "bn_surface_paint_c7cb6e85367890ee627099dd",
+            "bn_surface_paint_c7cb6e85367890ee627099dd"
+          ],
+          "bg": [
+            "bn_surface_paint_96125eae45ce685ba668f004",
+            "bn_surface_paint_875e02c09f586adc065f6a1b",
+            "bn_surface_paint_027f0099441941af8d894bad",
+            "bn_EW_mirrored_0027"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_96125eae45ce685ba668f004",
+        "bn_surface_paint_875e02c09f586adc065f6a1b",
+        "bn_surface_paint_027f0099441941af8d894bad",
+        "bn_EW_mirrored_0027"
+      ]
+    }
+  ],
+  "rotates": true
+}

@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_van_s_bridge",
+  "fg": [
+    "bn_van_s_bridge",
+    "bn_van_s_bridge",
+    "bn_van_s_bridge",
+    "bn_van_s_bridge"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_roof_s_front_left_d0_broken",
+        "bn_roof_s_front_left_d0_broken",
+        "bn_roof_s_front_left_d0_broken",
+        "bn_roof_s_front_left_d0_broken"
+      ],
+      "bg": [
+        "bn_van_s_bridge",
+        "bn_van_s_bridge",
+        "bn_van_s_bridge",
+        "bn_van_s_bridge"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_a02087130b39ca9a80aee8c9",
+            "bn_surface_paint_a02087130b39ca9a80aee8c9",
+            "bn_surface_paint_a02087130b39ca9a80aee8c9",
+            "bn_surface_paint_a02087130b39ca9a80aee8c9"
+          ],
+          "bg": [
+            "bn_surface_paint_41da650c93c58242949ed520",
+            "bn_surface_paint_41da650c93c58242949ed520",
+            "bn_surface_paint_41da650c93c58242949ed520",
+            "bn_surface_paint_41da650c93c58242949ed520"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_41da650c93c58242949ed520",
+        "bn_surface_paint_41da650c93c58242949ed520",
+        "bn_surface_paint_41da650c93c58242949ed520",
+        "bn_surface_paint_41da650c93c58242949ed520"
+      ]
+    }
+  ]
+}

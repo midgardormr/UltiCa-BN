@@ -1,12 +1,39 @@
 {
   "id": "vp_solar_panel_v3",
-  "fg": [ "vp_solar_filler_3", "vp_solar_filler_3_rotEW" ],
+  "fg": [
+    "vp_solar_filler_3",
+    "vp_solar_filler_3_rotEW"
+  ],
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
       "fg": "crack_glass_center_32x48",
-      "bg": [ "vp_solar_filler_3", "vp_solar_filler_3_rotEW" ]
+      "bg": [
+        "vp_solar_filler_3",
+        "vp_solar_filler_3_rotEW"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_surface_paint_f9d281cc34dab2ff99b951cf"
+          ],
+          "bg": [
+            "bn_surface_paint_25b4942f1279657bfc951596",
+            "bn_surface_paint_28e0f168a64022ac206e9373"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_25b4942f1279657bfc951596",
+        "bn_surface_paint_28e0f168a64022ac206e9373"
+      ]
     }
   ]
 }

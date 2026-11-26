@@ -1,52 +1,174 @@
 [
-{
-  "id": "vp_solar_panel",
-  "fg": [ "vp_solar_filler", "vp_solar_filler_rotEW" ],
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "broken",
-      "fg": "crack_glass_center_32x48",
-      "bg": [ "vp_solar_filler", "vp_solar_filler_rotEW" ]
-    }
-  ]
-},
-{
-  "id": "vp_reinforced_solar_panel",
-  "fg": [ "vp_solar_filler_reinforcement_foreground", "vp_solar_filler_reinforcement_foreground_rotEW" ],
-  "bg": [ "vp_solar_filler", "vp_solar_filler_rotEW" ],
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "broken",
-      "fg": "crack_glass_center_32x48",
-      "bg": [ "vp_solar_filler", "vp_solar_filler_rotEW" ]
-    }
-  ]
-},
-{
-  "id": "vp_solar_panel_v2",
-  "fg": [ "vp_solar_filler_2", "vp_solar_filler_2_rotEW" ],
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "broken",
-      "fg": "crack_glass_center_32x48",
-      "bg": [ "vp_solar_filler_2", "vp_solar_filler_2_rotEW" ]
-    }
-  ]
-},
-{
-  "id": "vp_reinforced_solar_panel_v2",
-  "fg": [ "vp_solar_filler_reinforcement_foreground", "vp_solar_filler_reinforcement_foreground_rotEW" ],
-  "bg": [ "vp_solar_filler_2", "vp_solar_filler_2_rotEW" ],
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "broken",
-      "fg": "crack_glass_center_32x48",
-      "bg": [ "vp_solar_filler_2", "vp_solar_filler_2_rotEW" ]
-    }
-  ]
-}
+  {
+    "id": "vp_solar_panel",
+    "fg": [
+      "vp_solar_filler",
+      "vp_solar_filler_rotEW"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center_32x48",
+        "bg": [
+          "vp_solar_filler",
+          "vp_solar_filler_rotEW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_f9d281cc34dab2ff99b951cf"
+            ],
+            "bg": [
+              "bn_surface_paint_537e7d8282633c5c000ac3b0",
+              "bn_surface_paint_e246aeabca03e04b4388221a"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_537e7d8282633c5c000ac3b0",
+          "bn_surface_paint_e246aeabca03e04b4388221a"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_reinforced_solar_panel",
+    "fg": [
+      "vp_solar_filler_reinforcement_foreground",
+      "vp_solar_filler_reinforcement_foreground_rotEW"
+    ],
+    "bg": [
+      "vp_solar_filler",
+      "vp_solar_filler_rotEW"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center_32x48",
+        "bg": [
+          "vp_solar_filler",
+          "vp_solar_filler_rotEW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_f9d281cc34dab2ff99b951cf"
+            ],
+            "bg": [
+              "bn_surface_paint_537e7d8282633c5c000ac3b0",
+              "bn_surface_paint_e246aeabca03e04b4388221a"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_537e7d8282633c5c000ac3b0",
+          "bn_surface_paint_e246aeabca03e04b4388221a"
+        ],
+        "fg": [
+          "bn_surface_paint_15e2beeff7d45dc2271fbbc8",
+          "bn_surface_paint_a5b0a4f3bb7f79e75add9678"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_solar_panel_v2",
+    "fg": [
+      "vp_solar_filler_2",
+      "vp_solar_filler_2_rotEW"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center_32x48",
+        "bg": [
+          "vp_solar_filler_2",
+          "vp_solar_filler_2_rotEW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_f9d281cc34dab2ff99b951cf"
+            ],
+            "bg": [
+              "bn_surface_paint_3bc1ebc9e1af85e9ba7da5ae",
+              "bn_surface_paint_4da7e155d476596f85c7fbdf"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "fg": [
+          "bn_surface_paint_3bc1ebc9e1af85e9ba7da5ae",
+          "bn_surface_paint_4da7e155d476596f85c7fbdf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_reinforced_solar_panel_v2",
+    "fg": [
+      "vp_solar_filler_reinforcement_foreground",
+      "vp_solar_filler_reinforcement_foreground_rotEW"
+    ],
+    "bg": [
+      "vp_solar_filler_2",
+      "vp_solar_filler_2_rotEW"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center_32x48",
+        "bg": [
+          "vp_solar_filler_2",
+          "vp_solar_filler_2_rotEW"
+        ],
+        "masks": [
+          {
+            "type": "tint",
+            "fg": [
+              "bn_surface_paint_f9d281cc34dab2ff99b951cf"
+            ],
+            "bg": [
+              "bn_surface_paint_3bc1ebc9e1af85e9ba7da5ae",
+              "bn_surface_paint_4da7e155d476596f85c7fbdf"
+            ]
+          }
+        ]
+      }
+    ],
+    "masks": [
+      {
+        "type": "tint",
+        "bg": [
+          "bn_surface_paint_3bc1ebc9e1af85e9ba7da5ae",
+          "bn_surface_paint_4da7e155d476596f85c7fbdf"
+        ],
+        "fg": [
+          "bn_surface_paint_15e2beeff7d45dc2271fbbc8",
+          "bn_surface_paint_a5b0a4f3bb7f79e75add9678"
+        ]
+      }
+    ]
+  }
 ]

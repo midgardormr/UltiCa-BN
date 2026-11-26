@@ -1,0 +1,50 @@
+[
+  {
+    "id": "garnet",
+    "fg": "bn_mineral_garnet"
+  },
+  {
+    "id": "amethyst",
+    "fg": "bn_mineral_amethyst"
+  },
+  {
+    "id": "aquamarine",
+    "fg": "bn_mineral_aquamarine"
+  },
+  {
+    "id": "emerald",
+    "fg": "bn_mineral_emerald"
+  },
+  {
+    "id": "alexandrite",
+    "fg": "bn_mineral_alexandrite"
+  },
+  {
+    "id": "ruby",
+    "fg": "bn_mineral_ruby"
+  },
+  {
+    "id": "peridot",
+    "fg": "bn_mineral_peridot"
+  },
+  {
+    "id": "sapphire",
+    "fg": "bn_mineral_sapphire"
+  },
+  {
+    "id": "opal",
+    "fg": "bn_mineral_opal"
+  },
+  {
+    "id": "tourmaline",
+    "fg": "bn_mineral_tourmaline"
+  },
+  {
+    "id": "citrine",
+    "fg": "bn_mineral_citrine"
+  },
+  {
+    "id": "blue_topaz",
+    "fg": "bn_mineral_blue_topaz"
+  }
+]

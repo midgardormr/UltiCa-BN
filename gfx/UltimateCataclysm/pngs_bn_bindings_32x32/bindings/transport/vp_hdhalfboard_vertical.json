@@ -1,0 +1,31 @@
+{
+  "id": "vp_hdhalfboard_vertical",
+  "fg": "vp_hdhalfboard_vertical",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_hdhalfboard_vertical",
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_f889a26ead737d3e9ca5c018"
+          ],
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_f889a26ead737d3e9ca5c018"
+      ]
+    }
+  ]
+}

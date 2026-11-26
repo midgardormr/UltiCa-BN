@@ -1,0 +1,75 @@
+{
+  "id": "vp_bn_wide_guard_S_3_4_door_full_right_1",
+  "fg": [
+    "bn_wide_guard_S_3_4_door_full_right_1_86c2db679eda",
+    "bn_wide_guard_S_3_4_door_full_right_1_f7a506414721",
+    "bn_wide_guard_S_3_4_door_full_right_1_4e87efea9f5a",
+    "bn_wide_guard_S_3_4_door_full_right_1_85b8356bd964"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [
+        "bn_wide_guard_S_3_4_door_full_right_1_174a616026a6",
+        "bn_wide_guard_S_3_4_door_full_right_1_22e46a074b21",
+        "bn_wide_guard_S_3_4_door_full_right_1_f0fbe1462f73",
+        "bn_wide_guard_S_3_4_door_full_right_1_d7fe0816e777"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_wide_guard_S_3_4_door_full_right_1_d54589ee7d97",
+            "bn_wide_guard_S_3_4_door_full_right_1_c3b46f413fd4",
+            "bn_wide_guard_S_3_4_door_full_right_1_e94606865a0e",
+            "bn_wide_guard_S_3_4_door_full_right_1_a01ca4eb6362"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "fg": [
+        "bn_wide_guard_S_3_4_door_full_right_1_f40bc0f26489",
+        "bn_wide_guard_S_3_4_door_full_right_1_f40bc0f26489",
+        "bn_wide_guard_S_3_4_door_full_right_1_f40bc0f26489",
+        "bn_wide_guard_S_3_4_door_full_right_1_f40bc0f26489"
+      ],
+      "bg": [
+        "bn_wide_guard_S_3_4_door_full_right_1_174a616026a6",
+        "bn_wide_guard_S_3_4_door_full_right_1_22e46a074b21",
+        "bn_wide_guard_S_3_4_door_full_right_1_f0fbe1462f73",
+        "bn_wide_guard_S_3_4_door_full_right_1_d7fe0816e777"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "fg": [
+            "bn_wide_guard_S_3_4_door_full_right_1_534630b34cc3",
+            "bn_wide_guard_S_3_4_door_full_right_1_534630b34cc3",
+            "bn_wide_guard_S_3_4_door_full_right_1_534630b34cc3",
+            "bn_wide_guard_S_3_4_door_full_right_1_534630b34cc3"
+          ],
+          "bg": [
+            "bn_wide_guard_S_3_4_door_full_right_1_d54589ee7d97",
+            "bn_wide_guard_S_3_4_door_full_right_1_c3b46f413fd4",
+            "bn_wide_guard_S_3_4_door_full_right_1_e94606865a0e",
+            "bn_wide_guard_S_3_4_door_full_right_1_a01ca4eb6362"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_guard_S_3_4_door_full_right_1_774e49ca65da",
+        "bn_wide_guard_S_3_4_door_full_right_1_52b86616a0f9",
+        "bn_wide_guard_S_3_4_door_full_right_1_cd094465e186",
+        "bn_wide_guard_S_3_4_door_full_right_1_28a685b6425a"
+      ]
+    }
+  ]
+}

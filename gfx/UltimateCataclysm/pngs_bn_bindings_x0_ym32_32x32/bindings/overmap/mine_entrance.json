@@ -1,0 +1,16 @@
+{
+  "id": "mine_entrance",
+  "fg": [
+    "mine_N_1",
+    "mine_W_1",
+    "mine_S_1",
+    "mine_E_1"
+  ],
+  "bg": [
+    "field_tall",
+    "field_tall",
+    "field_tall",
+    "field_tall"
+  ],
+  "rotates": true
+}

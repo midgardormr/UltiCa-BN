@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_wide_hidden_bn_terminal_wide_E_body_2_4_1",
+  "fg": [
+    "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_2440ed37757e",
+    "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_2440ed37757e",
+    "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_2440ed37757e",
+    "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_2440ed37757e"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_f1ac6120a19b",
+        "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_f1ac6120a19b",
+        "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_f1ac6120a19b",
+        "bn_wide_hidden_bn_terminal_wide_E_body_2_4_1_f1ac6120a19b"
+      ]
+    }
+  ]
+}

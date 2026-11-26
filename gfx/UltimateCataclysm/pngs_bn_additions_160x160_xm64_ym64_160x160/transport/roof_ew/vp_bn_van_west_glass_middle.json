@@ -1,0 +1,67 @@
+{
+  "id": "vp_bn_van_west_glass_middle",
+  "fg": [
+    "bn_van_west_glass_middle",
+    "bn_van_west_glass_middle",
+    "bn_van_west_glass_middle",
+    "bn_van_west_glass_middle"
+  ],
+  "bg": [
+    "bn_van_west_glass_middle_body",
+    "bn_van_west_glass_middle_body",
+    "bn_van_west_glass_middle_body",
+    "bn_van_west_glass_middle_body"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "bn_van_west_glass_middle_glass_damaged",
+        "bn_van_west_glass_middle_glass_damaged",
+        "bn_van_west_glass_middle_glass_damaged",
+        "bn_van_west_glass_middle_glass_damaged"
+      ],
+      "bg": [
+        "bn_van_west_glass_middle_body",
+        "bn_van_west_glass_middle_body",
+        "bn_van_west_glass_middle_body",
+        "bn_van_west_glass_middle_body"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+            "bn_surface_paint_8f9392d236e5a3f027fbae1e"
+          ],
+          "fg": [
+            "bn_surface_paint_8027891d40cde7142c4af0b3",
+            "bn_surface_paint_8027891d40cde7142c4af0b3",
+            "bn_surface_paint_8027891d40cde7142c4af0b3",
+            "bn_surface_paint_8027891d40cde7142c4af0b3"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_b331903d418e6802965ec482",
+        "bn_surface_paint_b331903d418e6802965ec482",
+        "bn_surface_paint_b331903d418e6802965ec482",
+        "bn_surface_paint_b331903d418e6802965ec482"
+      ],
+      "bg": [
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e",
+        "bn_surface_paint_8f9392d236e5a3f027fbae1e"
+      ]
+    }
+  ]
+}

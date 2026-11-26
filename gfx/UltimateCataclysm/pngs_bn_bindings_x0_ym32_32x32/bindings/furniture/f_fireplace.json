@@ -1,0 +1,13 @@
+{
+  "id": "f_fireplace",
+  "rotates": true,
+  "flags": [
+    "ALIGN_TO_TERRAIN"
+  ],
+  "fg": [
+    "f_fireplace",
+    "bn_fireplace_faceW",
+    "bn_fireplace_faceN",
+    "bn_fireplace_faceE"
+  ]
+}

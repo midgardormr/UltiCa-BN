@@ -1,0 +1,11 @@
+{
+  "id": "mine_entrance_loading_zone_roof",
+  "fg": [
+    "mine_N_2",
+    "mine_W_2",
+    "mine_S_2",
+    "mine_E_2"
+  ],
+  "bg": "open_air",
+  "rotates": true
+}

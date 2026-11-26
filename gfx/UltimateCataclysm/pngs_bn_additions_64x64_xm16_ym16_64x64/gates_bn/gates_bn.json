@@ -1,0 +1,170 @@
+[
+  {
+    "id": "t_splitrail_fencegate_c",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_c",
+      "bn_gate_splitrail_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_centered",
+      "bn_gate_ground_grass_centered"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_c_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_c",
+      "bn_gate_splitrail_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_summer_centered",
+      "bn_gate_ground_summer_centered"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_c_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_c",
+      "bn_gate_splitrail_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_autumn_centered",
+      "bn_gate_ground_autumn_centered"
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_c_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_c",
+      "bn_gate_splitrail_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_centered",
+      "bn_gate_ground_snow_centered"
+    ]
+  },
+  {
+    "id": "t_chaingate_c",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_c",
+      "bn_gate_chain_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_centered",
+      "bn_gate_ground_pavement_centered"
+    ]
+  },
+  {
+    "id": "t_chaingate_c_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_c",
+      "bn_gate_chain_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_centered",
+      "bn_gate_ground_pavement_centered"
+    ]
+  },
+  {
+    "id": "t_chaingate_c_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_c",
+      "bn_gate_chain_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_centered",
+      "bn_gate_ground_pavement_centered"
+    ]
+  },
+  {
+    "id": "t_chaingate_c_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_c",
+      "bn_gate_chain_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_centered",
+      "bn_gate_ground_pavement_centered"
+    ]
+  },
+  {
+    "id": "t_chaingate_c_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_c",
+      "bn_gate_chain_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_centered",
+      "bn_gate_ground_snow_centered"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_c",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_c",
+      "bn_gate_chickenwire_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_centered",
+      "bn_gate_ground_grass_centered"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_c_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_c",
+      "bn_gate_chickenwire_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_centered",
+      "bn_gate_ground_grass_centered"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_c_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_c",
+      "bn_gate_chickenwire_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_summer_centered",
+      "bn_gate_ground_summer_centered"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_c_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_c",
+      "bn_gate_chickenwire_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_autumn_centered",
+      "bn_gate_ground_autumn_centered"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_c_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_c",
+      "bn_gate_chickenwire_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_snow_centered",
+      "bn_gate_ground_snow_centered"
+    ]
+  }
+]

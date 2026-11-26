@@ -1,0 +1,20 @@
+{
+  "id": "vp_bn_terminal_wide_E_front_0_4_wheel_rail",
+  "fg": [
+    "bn_terminal_wide_E_front_0_4_wheel_rail",
+    "bn_terminal_wide_E_front_0_4_wheel_rail",
+    "bn_terminal_wide_E_front_0_4_wheel_rail",
+    "bn_terminal_wide_E_front_0_4_wheel_rail"
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_terminal_wide_E_front_0_4_wheel_mask",
+        "bn_terminal_wide_E_front_0_4_wheel_mask",
+        "bn_terminal_wide_E_front_0_4_wheel_mask",
+        "bn_terminal_wide_E_front_0_4_wheel_mask"
+      ]
+    }
+  ]
+}

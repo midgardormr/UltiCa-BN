@@ -1,0 +1,16 @@
+{
+  "id": "airport_hangar_roof_2",
+  "fg": [
+    "smallhangar_ew",
+    "smallhangar_n",
+    "smallhangar_ew",
+    "smallhangar_s"
+  ],
+  "rotates": true,
+  "bg": [
+    "open_air",
+    "open_air",
+    "open_air",
+    "open_air"
+  ]
+}

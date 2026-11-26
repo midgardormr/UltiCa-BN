@@ -1,0 +1,47 @@
+{
+  "id": "vp_bn_exterior_solid_stowboard_wheel_left",
+  "fg": [
+    "vp_stowboard_horizontal_front_rotW",
+    "bn_vp_bn_exterior_solid_stowboard_wheel_left_fg_1",
+    "vp_stowboard_horizontal_front_rotE",
+    "vp_stowboard_horizontal_front"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [
+        "vp_stowboard_horizontal_front_rotW",
+        "bn_vp_bn_exterior_solid_stowboard_wheel_left_fg_1",
+        "vp_stowboard_horizontal_front_rotE",
+        "vp_stowboard_horizontal_front"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_7da37097d969c001ea243af0",
+            "bn_surface_paint_927d2ddb4c1642e9154f6815",
+            "bn_surface_paint_70c1a810e89c15e3b4d98314",
+            "bn_surface_paint_079ae869aa711e85def62c27"
+          ],
+          "fg": [
+            "bn_surface_paint_1d2b682772c7cf6336733d27"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_7da37097d969c001ea243af0",
+        "bn_surface_paint_927d2ddb4c1642e9154f6815",
+        "bn_surface_paint_70c1a810e89c15e3b4d98314",
+        "bn_surface_paint_079ae869aa711e85def62c27"
+      ]
+    }
+  ]
+}

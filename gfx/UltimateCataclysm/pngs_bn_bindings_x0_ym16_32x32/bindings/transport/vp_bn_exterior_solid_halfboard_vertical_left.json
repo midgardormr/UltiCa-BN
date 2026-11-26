@@ -1,0 +1,55 @@
+{
+  "id": "vp_bn_exterior_solid_halfboard_vertical_left",
+  "fg": [
+    "vp_halfboard_vertical_left",
+    "bn_vp_bn_exterior_solid_halfboard_vertical_left_fg_1",
+    "vp_halfboard_vertical_right",
+    "vp_halfboard_vertical_left_rotE_right_rotW"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48",
+        "crack_metal_center_32x48"
+      ],
+      "bg": [
+        "vp_halfboard_vertical_left",
+        "bn_vp_bn_exterior_solid_halfboard_vertical_left_fg_1",
+        "vp_halfboard_vertical_right",
+        "vp_halfboard_vertical_left_rotE_right_rotW"
+      ],
+      "masks": [
+        {
+          "type": "tint",
+          "bg": [
+            "bn_surface_paint_459c2bbb6698ed0afaaecfde",
+            "bn_surface_paint_cbe3dc7b9f21069b1fe7d0b5",
+            "bn_surface_paint_bf82c9a5eead9f97d8d63189",
+            "bn_surface_paint_16a596365162e49acb14576c"
+          ],
+          "fg": [
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2",
+            "bn_surface_paint_e889462ab1aaa19c286a99a2"
+          ]
+        }
+      ]
+    }
+  ],
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_459c2bbb6698ed0afaaecfde",
+        "bn_surface_paint_cbe3dc7b9f21069b1fe7d0b5",
+        "bn_surface_paint_bf82c9a5eead9f97d8d63189",
+        "bn_surface_paint_16a596365162e49acb14576c"
+      ]
+    }
+  ]
+}

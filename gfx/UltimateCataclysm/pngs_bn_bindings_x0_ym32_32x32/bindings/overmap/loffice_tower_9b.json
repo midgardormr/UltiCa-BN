@@ -1,0 +1,16 @@
+{
+  "id": "loffice_tower_9b",
+  "fg": [
+    "office_tower_mid_nw",
+    "office_tower_mid_sw",
+    "office_tower_mid_se",
+    "office_tower_mid_ne"
+  ],
+  "bg": [
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall",
+    "open_air_tall"
+  ],
+  "rotates": true
+}

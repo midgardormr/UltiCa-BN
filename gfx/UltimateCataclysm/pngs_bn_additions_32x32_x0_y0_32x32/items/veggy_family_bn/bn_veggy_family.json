@@ -1,0 +1,26 @@
+[
+  {
+    "id": "veggy",
+    "fg": "bn_veggy_veggy"
+  },
+  {
+    "id": "veggy_wild_cooked",
+    "fg": "bn_veggy_veggy_wild_cooked"
+  },
+  {
+    "id": "veggy_pickled",
+    "fg": "bn_veggy_veggy_pickled"
+  },
+  {
+    "id": "dry_veggy",
+    "fg": "bn_veggy_dry_veggy"
+  },
+  {
+    "id": "rehydrated_veggy",
+    "fg": "bn_veggy_rehydrated_veggy"
+  },
+  {
+    "id": "jar_clay_veggy_pickled",
+    "fg": "bn_veggy_veggy_pickled"
+  }
+]

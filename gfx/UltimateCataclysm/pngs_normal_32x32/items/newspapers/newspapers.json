@@ -15,7 +15,10 @@
     "bg": ""
   },
   {
-    "id": "newest_newspaper",
+    "id": [
+      "newest_newspaper",
+      "news_regional"
+    ],
     "fg": "newest_newspaper",
     "bg": ""
   },

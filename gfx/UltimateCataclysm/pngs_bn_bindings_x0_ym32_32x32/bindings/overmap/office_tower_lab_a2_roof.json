@@ -1,0 +1,11 @@
+{
+  "id": "office_tower_lab_a2_roof",
+  "fg": [
+    "office_tower_2_a2_faceN",
+    "office_tower_2_a2_faceW",
+    "office_tower_2_a2_faceS",
+    "office_tower_2_a2_faceE"
+  ],
+  "rotates": true,
+  "bg": "open_air"
+}

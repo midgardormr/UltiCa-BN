@@ -1,0 +1,11 @@
+{
+  "id": "hunter_shack_1",
+  "fg": [
+    "hunter_shack_1_faceS",
+    "hunter_shack_1_faceW",
+    "hunter_shack_1_faceN",
+    "hunter_shack_1_faceE"
+  ],
+  "bg": "field",
+  "rotates": true
+}

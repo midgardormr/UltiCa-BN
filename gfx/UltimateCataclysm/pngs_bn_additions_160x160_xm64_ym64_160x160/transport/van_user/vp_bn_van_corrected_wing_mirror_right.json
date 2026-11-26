@@ -1,0 +1,21 @@
+{
+  "id": "vp_bn_van_corrected_wing_mirror_right",
+  "fg": [
+    "bn_van_user_body_0284",
+    "bn_van_user_body_0285",
+    "bn_van_user_body_0286",
+    "bn_van_user_body_0287"
+  ],
+  "rotates": true,
+  "masks": [
+    {
+      "type": "tint",
+      "fg": [
+        "bn_surface_paint_8ace88d11262a87810251a7b",
+        "bn_surface_paint_8ace88d11262a87810251a7b",
+        "bn_surface_paint_8ace88d11262a87810251a7b",
+        "bn_surface_paint_8ace88d11262a87810251a7b"
+      ]
+    }
+  ]
+}

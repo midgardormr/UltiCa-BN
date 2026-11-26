@@ -1,0 +1,16 @@
+{
+  "id": "wizardtower2_study",
+  "fg": [
+    "wizard_tower2_rot_N",
+    "wizard_tower2_rot_W",
+    "wizard_tower2_rot_S",
+    "wizard_tower2_rot_E"
+  ],
+  "bg": [
+    "field_large",
+    "field_large",
+    "field_large",
+    "field_large"
+  ],
+  "rotates": true
+}

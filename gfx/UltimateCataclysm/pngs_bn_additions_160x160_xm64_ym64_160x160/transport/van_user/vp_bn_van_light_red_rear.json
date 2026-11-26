@@ -1,0 +1,22 @@
+{
+  "id": "vp_bn_van_light_red_rear",
+  "fg": [
+    "bn_van_user_lamp_front_S_0038",
+    "bn_van_user_lamp_front_W_0037",
+    "bn_van_user_lamp_front_N_0036",
+    "bn_van_user_lamp_front_E_0039"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_roof_lamp_0c553daff9d064038a245a",
+      "bg": [
+        "bn_van_user_lamp_front_S_0038",
+        "bn_van_user_lamp_front_W_0037",
+        "bn_van_user_lamp_front_N_0036",
+        "bn_van_user_lamp_front_E_0039"
+      ]
+    }
+  ]
+}

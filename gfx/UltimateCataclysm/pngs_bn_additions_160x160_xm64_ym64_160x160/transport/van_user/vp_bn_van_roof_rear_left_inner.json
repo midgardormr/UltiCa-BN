@@ -1,0 +1,22 @@
+{
+  "id": "vp_bn_van_roof_rear_left_inner",
+  "fg": [
+    "bn_van_surface_rear_left_inner_N",
+    "bn_van_surface_front_right_inner_E",
+    "bn_van_surface_rear_left_inner_S",
+    "bn_van_surface_rear_left_inner_E"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "bn_roof_lamp_0c553daff9d064038a245a",
+      "bg": [
+        "bn_van_surface_rear_left_inner_N",
+        "bn_van_surface_front_right_inner_E",
+        "bn_van_surface_rear_left_inner_S",
+        "bn_van_surface_rear_left_inner_E"
+      ]
+    }
+  ]
+}

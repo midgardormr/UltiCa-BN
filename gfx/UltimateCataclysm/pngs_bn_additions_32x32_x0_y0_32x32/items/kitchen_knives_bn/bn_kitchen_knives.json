@@ -1,0 +1,74 @@
+[
+  {
+    "id": "butchering_kit_plus_one",
+    "fg": "bn_kitchen_butchering_kit"
+  },
+  {
+    "id": "butchering_kit_plus_two",
+    "fg": "bn_kitchen_butchering_kit"
+  },
+  {
+    "id": "knife_butcher_plus_one",
+    "fg": "bn_kitchen_knife_butcher"
+  },
+  {
+    "id": "knife_butcher_plus_two",
+    "fg": "bn_kitchen_knife_butcher"
+  },
+  {
+    "id": "knife_carving_plus_one",
+    "fg": "bn_kitchen_knife_carving"
+  },
+  {
+    "id": "knife_carving_plus_two",
+    "fg": "bn_kitchen_knife_carving"
+  },
+  {
+    "id": "knife_meat_cleaver_plus_one",
+    "fg": "bn_kitchen_knife_meat_cleaver"
+  },
+  {
+    "id": "knife_meat_cleaver_plus_two",
+    "fg": "bn_kitchen_knife_meat_cleaver"
+  },
+  {
+    "id": "base_kitchen_knife",
+    "fg": "bn_kitchen_knife_butcher"
+  },
+  {
+    "id": "butchering_kit",
+    "fg": "bn_kitchen_butchering_kit"
+  },
+  {
+    "id": "knife_bread",
+    "fg": "bn_kitchen_knife_bread"
+  },
+  {
+    "id": "knife_butcher",
+    "fg": "bn_kitchen_knife_butcher"
+  },
+  {
+    "id": "knife_carving",
+    "fg": "bn_kitchen_knife_carving"
+  },
+  {
+    "id": "knife_chef",
+    "fg": "bn_kitchen_knife_chef"
+  },
+  {
+    "id": "knife_meat_cleaver",
+    "fg": "bn_kitchen_knife_meat_cleaver"
+  },
+  {
+    "id": "knife_paring",
+    "fg": "bn_kitchen_knife_paring"
+  },
+  {
+    "id": "knife_steak",
+    "fg": "bn_kitchen_knife_steak"
+  },
+  {
+    "id": "knife_vegetable_cleaver",
+    "fg": "bn_kitchen_knife_vegetable_cleaver"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "silo_finale",
+  "fg": [
+    "silo_rot_N",
+    "silo_rot_W",
+    "silo_rot_S",
+    "silo_rot_E"
+  ],
+  "bg": "t_rock_center",
+  "rotates": true
+}

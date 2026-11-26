@@ -1,0 +1,16 @@
+{
+  "id": "chemical_lab_roof_ocu",
+  "fg": [
+    "cabin_faceN",
+    "cabin_faceW",
+    "cabin_faceS",
+    "cabin_faceE"
+  ],
+  "bg": [
+    "open_air",
+    "open_air",
+    "open_air",
+    "open_air"
+  ],
+  "rotates": true
+}

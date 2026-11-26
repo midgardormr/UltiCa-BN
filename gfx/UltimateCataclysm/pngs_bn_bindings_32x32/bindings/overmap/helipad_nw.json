@@ -1,0 +1,10 @@
+{
+  "id": "helipad_nw",
+  "fg": [
+    "helipad_nw_north",
+    "helipad_nw_west",
+    "helipad_nw_south",
+    "helipad_nw_east"
+  ],
+  "rotates": true
+}
