@@ -8,16 +8,16 @@
       { "id": "center", "fg": "t_wattle_fence_center", "bg": "t_grass" },
       {
         "id": "corner",
-        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_ne", "t_wattle_fence_corner_se", "t_wattle_fence_corner_sw" ],
+        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_sw", "t_wattle_fence_corner_se", "t_wattle_fence_corner_ne" ],
         "bg": "t_grass"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_wattle_fence_t_connection_n",
-          "t_wattle_fence_t_connection_e",
+          "t_wattle_fence_t_connection_w",
           "t_wattle_fence_t_connection_s",
-          "t_wattle_fence_t_connection_w"
+          "t_wattle_fence_t_connection_e"
         ],
         "bg": "t_grass"
       },
@@ -26,9 +26,9 @@
         "id": "end_piece",
         "fg": [
           "t_wattle_fence_end_piece_n",
-          "t_wattle_fence_end_piece_e",
+          "t_wattle_fence_end_piece_w",
           "t_wattle_fence_end_piece_s",
-          "t_wattle_fence_end_piece_w"
+          "t_wattle_fence_end_piece_e"
         ],
         "bg": "t_grass"
       },
@@ -44,16 +44,16 @@
       { "id": "center", "fg": "t_wattle_fence_center", "bg": "t_grass_summer" },
       {
         "id": "corner",
-        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_ne", "t_wattle_fence_corner_se", "t_wattle_fence_corner_sw" ],
+        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_sw", "t_wattle_fence_corner_se", "t_wattle_fence_corner_ne" ],
         "bg": "t_grass_summer"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_wattle_fence_t_connection_n",
-          "t_wattle_fence_t_connection_e",
+          "t_wattle_fence_t_connection_w",
           "t_wattle_fence_t_connection_s",
-          "t_wattle_fence_t_connection_w"
+          "t_wattle_fence_t_connection_e"
         ],
         "bg": "t_grass_summer"
       },
@@ -62,9 +62,9 @@
         "id": "end_piece",
         "fg": [
           "t_wattle_fence_end_piece_n",
-          "t_wattle_fence_end_piece_e",
+          "t_wattle_fence_end_piece_w",
           "t_wattle_fence_end_piece_s",
-          "t_wattle_fence_end_piece_w"
+          "t_wattle_fence_end_piece_e"
         ],
         "bg": "t_grass_summer"
       },
@@ -80,16 +80,16 @@
       { "id": "center", "fg": "t_wattle_fence_center", "bg": "t_grass_autumn" },
       {
         "id": "corner",
-        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_ne", "t_wattle_fence_corner_se", "t_wattle_fence_corner_sw" ],
+        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_sw", "t_wattle_fence_corner_se", "t_wattle_fence_corner_ne" ],
         "bg": "t_grass_autumn"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_wattle_fence_t_connection_n",
-          "t_wattle_fence_t_connection_e",
+          "t_wattle_fence_t_connection_w",
           "t_wattle_fence_t_connection_s",
-          "t_wattle_fence_t_connection_w"
+          "t_wattle_fence_t_connection_e"
         ],
         "bg": "t_grass_autumn"
       },
@@ -98,9 +98,9 @@
         "id": "end_piece",
         "fg": [
           "t_wattle_fence_end_piece_n",
-          "t_wattle_fence_end_piece_e",
+          "t_wattle_fence_end_piece_w",
           "t_wattle_fence_end_piece_s",
-          "t_wattle_fence_end_piece_w"
+          "t_wattle_fence_end_piece_e"
         ],
         "bg": "t_grass_autumn"
       },
@@ -116,16 +116,16 @@
       { "id": "center", "fg": "t_wattle_fence_center", "bg": "snow_shallow_center" },
       {
         "id": "corner",
-        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_ne", "t_wattle_fence_corner_se", "t_wattle_fence_corner_sw" ],
+        "fg": [ "t_wattle_fence_corner_nw", "t_wattle_fence_corner_sw", "t_wattle_fence_corner_se", "t_wattle_fence_corner_ne" ],
         "bg": "snow_shallow_center"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_wattle_fence_t_connection_n",
-          "t_wattle_fence_t_connection_e",
+          "t_wattle_fence_t_connection_w",
           "t_wattle_fence_t_connection_s",
-          "t_wattle_fence_t_connection_w"
+          "t_wattle_fence_t_connection_e"
         ],
         "bg": "snow_shallow_center"
       },
@@ -134,9 +134,9 @@
         "id": "end_piece",
         "fg": [
           "t_wattle_fence_end_piece_n",
-          "t_wattle_fence_end_piece_e",
+          "t_wattle_fence_end_piece_w",
           "t_wattle_fence_end_piece_s",
-          "t_wattle_fence_end_piece_w"
+          "t_wattle_fence_end_piece_e"
         ],
         "bg": "snow_shallow_center"
       },

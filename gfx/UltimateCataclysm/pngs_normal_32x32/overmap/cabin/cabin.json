@@ -18,7 +18,7 @@
       "cabin_strange_b",
       "riverside_dwelling"
     ],
-    "fg": [ "cabin_faceN", "cabin_faceE", "cabin_faceS", "cabin_faceW" ],
+    "fg": [ "cabin_faceN", "cabin_faceW", "cabin_faceS", "cabin_faceE" ],
     "bg": "field",
     "rotates": true
   },
@@ -37,7 +37,7 @@
       "cabin_lake_roof",
       "lake_cabin_boathouse_roof"
     ],
-    "fg": [ "cabin_faceN", "cabin_faceE", "cabin_faceS", "cabin_faceW" ],
+    "fg": [ "cabin_faceN", "cabin_faceW", "cabin_faceS", "cabin_faceE" ],
     "bg": "open_air",
     "rotates": true
   }

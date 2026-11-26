@@ -7,9 +7,11 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_hdstowboard_ne", "vp_hdstowboard_ne_rotE", "vp_hdstowboard_ne_rotS", "vp_hdstowboard_ne_rotW" ]
+        "bg": [ "vp_hdstowboard_ne", "vp_hdstowboard_ne_rotE", "vp_hdstowboard_ne_rotS", "vp_hdstowboard_ne_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_18", "paint_mask_32x32_x0_y0_19", "paint_mask_32x32_x0_y0_20", "paint_mask_32x32_x0_y0_21"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_18", "paint_mask_32x32_x0_y0_19", "paint_mask_32x32_x0_y0_20", "paint_mask_32x32_x0_y0_21"]}]
   },
   {
     "id": "vp_hdstowboard_nw",
@@ -19,9 +21,11 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_hdstowboard_nw", "vp_hdstowboard_nw_rotE", "vp_hdstowboard_nw_rotS", "vp_hdstowboard_nw_rotW" ]
+        "bg": [ "vp_hdstowboard_nw", "vp_hdstowboard_nw_rotE", "vp_hdstowboard_nw_rotS", "vp_hdstowboard_nw_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_22", "paint_mask_32x32_x0_y0_23", "paint_mask_32x32_x0_y0_24", "paint_mask_32x32_x0_y0_25"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_22", "paint_mask_32x32_x0_y0_23", "paint_mask_32x32_x0_y0_24", "paint_mask_32x32_x0_y0_25"]}]
   },
   {
     "id": "vp_hdstowboard_se",
@@ -31,9 +35,11 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_hdstowboard_se", "vp_hdstowboard_se_rotE", "vp_hdstowboard_nw", "vp_hdstowboard_se_rotW" ]
+        "bg": [ "vp_hdstowboard_se", "vp_hdstowboard_se_rotE", "vp_hdstowboard_nw", "vp_hdstowboard_se_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_26", "paint_mask_32x32_x0_y0_27", "paint_mask_32x32_x0_y0_22", "paint_mask_32x32_x0_y0_28"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_26", "paint_mask_32x32_x0_y0_27", "paint_mask_32x32_x0_y0_22", "paint_mask_32x32_x0_y0_28"]}]
   },
   {
     "id": "vp_hdstowboard_sw",
@@ -43,9 +49,11 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_hdstowboard_sw", "vp_hdstowboard_sw_rotE", "vp_hdstowboard_ne", "vp_hdstowboard_sw_rotW" ]
+        "bg": [ "vp_hdstowboard_sw", "vp_hdstowboard_sw_rotE", "vp_hdstowboard_ne", "vp_hdstowboard_sw_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_29", "paint_mask_32x32_x0_y0_30", "paint_mask_32x32_x0_y0_18", "paint_mask_32x32_x0_y0_31"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_29", "paint_mask_32x32_x0_y0_30", "paint_mask_32x32_x0_y0_18", "paint_mask_32x32_x0_y0_31"]}]
   },
   {
     "id": "vp_hdstowboard_vertical_left",
@@ -65,9 +73,11 @@
           "vp_hdstowboard_vertical_left_rotE_right_rotW",
           "vp_hdstowboard_vertical_right",
           "vp_hdstowboard_vertical_left_rotW_right_rotE"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_32", "paint_mask_32x32_x0_y0_33", "paint_mask_32x32_x0_y0_34", "paint_mask_32x32_x0_y0_35"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_32", "paint_mask_32x32_x0_y0_33", "paint_mask_32x32_x0_y0_34", "paint_mask_32x32_x0_y0_35"]}]
   },
   {
     "id": "vp_hdstowboard_vertical_right",
@@ -87,15 +97,20 @@
           "vp_hdstowboard_vertical_left_rotW_right_rotE",
           "vp_hdstowboard_vertical_left",
           "vp_hdstowboard_vertical_left_rotE_right_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_34", "paint_mask_32x32_x0_y0_35", "paint_mask_32x32_x0_y0_32", "paint_mask_32x32_x0_y0_33"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_34", "paint_mask_32x32_x0_y0_35", "paint_mask_32x32_x0_y0_32", "paint_mask_32x32_x0_y0_33"]}]
   },
   {
     "id": [ "vp_hdstowboard_horizontal", "vp_hdstowboard_horizontal_2" ],
     "fg": "vp_hdstowboard_horizontal_front",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_hdstowboard_horizontal_front" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_hdstowboard_horizontal_front",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_36"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_36"}]
   },
   {
     "id": "vp_hdstowboard_horizontal_front",
@@ -115,9 +130,11 @@
           "vp_hdstowboard_horizontal_front_rotE",
           "vp_hdstowboard_horizontal_front_rotS",
           "vp_hdstowboard_horizontal_front_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_36", "paint_mask_32x32_x0_y0_37", "paint_mask_32x32_x0_y0_38", "paint_mask_32x32_x0_y0_39"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_36", "paint_mask_32x32_x0_y0_37", "paint_mask_32x32_x0_y0_38", "paint_mask_32x32_x0_y0_39"]}]
   },
   {
     "id": "vp_hdstowboard_horizontal_rear",
@@ -137,14 +154,19 @@
           "vp_hdstowboard_horizontal_front_rotW",
           "vp_hdstowboard_horizontal_front",
           "vp_hdstowboard_horizontal_front_rotE"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_40", "paint_mask_32x32_x0_y0_39", "paint_mask_32x32_x0_y0_36", "paint_mask_32x32_x0_y0_37"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_40", "paint_mask_32x32_x0_y0_39", "paint_mask_32x32_x0_y0_36", "paint_mask_32x32_x0_y0_37"]}]
   },
   {
     "id": "vp_hdstowboard_vertical",
     "fg": "vp_hdstowboard_vertical_left_rotE_right_rotW",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_hdstowboard_vertical_left_rotE_right_rotW" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_hdstowboard_vertical_left_rotE_right_rotW",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_33"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_33"}]
   }
 ]

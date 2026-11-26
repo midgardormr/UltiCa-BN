@@ -8,16 +8,16 @@
     {
       "id": "corner",
       "bg": "",
-      "fg": [ "t_strconc_floor_corner_nw", "t_strconc_floor_corner_ne", "t_strconc_floor_corner_se", "t_strconc_floor_corner_sw" ]
+      "fg": [ "t_strconc_floor_corner_nw", "t_strconc_floor_corner_sw", "t_strconc_floor_corner_se", "t_strconc_floor_corner_ne" ]
     },
     {
       "id": "t_connection",
       "bg": "",
       "fg": [
         "t_strconc_floor_t_connection_n",
-        "t_strconc_floor_t_connection_e",
+        "t_strconc_floor_t_connection_w",
         "t_strconc_floor_t_connection_s",
-        "t_strconc_floor_t_connection_w"
+        "t_strconc_floor_t_connection_e"
       ]
     },
     { "id": "edge", "bg": "", "fg": [ "t_strconc_floor_edge_ns", "t_strconc_floor_edge_ew" ] },
@@ -26,9 +26,9 @@
       "bg": "",
       "fg": [
         "t_strconc_floor_end_piece_n",
-        "t_strconc_floor_end_piece_e",
+        "t_strconc_floor_end_piece_w",
         "t_strconc_floor_end_piece_s",
-        "t_strconc_floor_end_piece_w"
+        "t_strconc_floor_end_piece_e"
       ]
     },
     { "bg": "", "id": "unconnected", "fg": "t_strconc_floor_unconnected" }

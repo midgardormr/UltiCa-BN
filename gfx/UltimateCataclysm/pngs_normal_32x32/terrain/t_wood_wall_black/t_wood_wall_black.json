@@ -8,18 +8,18 @@
       "id": "corner",
       "fg": [
         "t_wood_wall_black_corner_nw",
-        "t_wood_wall_black_corner_ne",
+        "t_wood_wall_black_corner_sw",
         "t_wood_wall_black_corner_se",
-        "t_wood_wall_black_corner_sw"
+        "t_wood_wall_black_corner_ne"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
         "t_wood_wall_black_t_connection_n",
-        "t_wood_wall_black_t_connection_e",
+        "t_wood_wall_black_t_connection_w",
         "t_wood_wall_black_t_connection_s",
-        "t_wood_wall_black_t_connection_w"
+        "t_wood_wall_black_t_connection_e"
       ]
     },
     { "id": "edge", "fg": [ "t_wood_wall_black_edge_ns", "t_wood_wall_black_edge_ew" ] },

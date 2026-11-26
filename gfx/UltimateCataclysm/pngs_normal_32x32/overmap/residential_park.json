@@ -14,7 +14,7 @@
       "house_gardener",
       "house_toolshed"
     ],
-    "fg": [ "house_park_faceN", "house_park_faceE", "house_park_faceS", "house_park_faceW" ],
+    "fg": [ "house_park_faceN", "house_park_faceW", "house_park_faceS", "house_park_faceE" ],
     "bg": "field",
     "rotates": true
   },
@@ -33,7 +33,7 @@
       "house_gardener_roof",
       "house_toolshed_roof"
     ],
-    "fg": [ "house_park_faceN", "house_park_faceE", "house_park_faceS", "house_park_faceW" ],
+    "fg": [ "house_park_faceN", "house_park_faceW", "house_park_faceS", "house_park_faceE" ],
     "bg": "open_air",
     "rotates": true
   },
@@ -50,8 +50,7 @@
       "house_gardener_basement",
       "house_toolshed_basement"
     ],
-    "fg": [ "house_park_faceN", "house_park_faceE", "house_park_faceS", "house_park_faceW" ],
-    "bg": "t_soil_center",
-    "rotates": true
+    "fg": [{"sprite": "bn_basement_storage", "weight": 1}, {"sprite": "bn_basement_workshop", "weight": 1}, {"sprite": "bn_basement_laundry", "weight": 1}],
+    "rotates": false
   }
 ]

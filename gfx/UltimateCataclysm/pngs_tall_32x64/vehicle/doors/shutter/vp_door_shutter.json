@@ -11,7 +11,8 @@
           "vp_door_shutter_open_faceW",
           "vp_door_shutter_open_faceN",
           "vp_door_shutter_open_faceE"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_20", "paint_mask_32x64_x0_y-32_21", "paint_mask_32x64_x0_y-32_22", "paint_mask_32x64_x0_y-32_23"]}]
       },
       {
         "id": "broken",
@@ -21,12 +22,14 @@
           "vp_door_shutter_open_faceW",
           "vp_door_shutter_open_faceN",
           "vp_door_shutter_open_faceE"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_20", "paint_mask_32x64_x0_y-32_21", "paint_mask_32x64_x0_y-32_22", "paint_mask_32x64_x0_y-32_23"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_16", "paint_mask_32x64_x0_y-32_17", "paint_mask_32x64_x0_y-32_18", "paint_mask_32x64_x0_y-32_19"]}]
   },
   {
-    "id": "vp_door_shutter_left",
+    "id": [ "vp_door_shutter_left", "vp_v_shutter" ],
     "fg": [ "vp_door_shutter_faceW", "vp_door_shutter_faceN", "vp_door_shutter_faceE", "vp_door_shutter_left_rotW_right_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -37,7 +40,8 @@
           "vp_door_shutter_open_faceN",
           "vp_door_shutter_open_faceE",
           "vp_door_shutter_open_left_rotW_right_rotE"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_21", "paint_mask_32x64_x0_y-32_22", "paint_mask_32x64_x0_y-32_23", "paint_mask_32x64_x0_y-32_25"]}]
       },
       {
         "id": "broken",
@@ -47,9 +51,11 @@
           "vp_door_shutter_open_faceN",
           "vp_door_shutter_open_faceE",
           "vp_door_shutter_open_left_rotW_right_rotE"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_21", "paint_mask_32x64_x0_y-32_22", "paint_mask_32x64_x0_y-32_23", "paint_mask_32x64_x0_y-32_25"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_17", "paint_mask_32x64_x0_y-32_18", "paint_mask_32x64_x0_y-32_19", "paint_mask_32x64_x0_y-32_24"]}]
   },
   {
     "id": "vp_door_shutter_right",
@@ -63,7 +69,8 @@
           "vp_door_shutter_open_left_rotW_right_rotE",
           "vp_door_shutter_open_faceW",
           "vp_door_shutter_open_faceN"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_23", "paint_mask_32x64_x0_y-32_25", "paint_mask_32x64_x0_y-32_21", "paint_mask_32x64_x0_y-32_22"]}]
       },
       {
         "id": "broken",
@@ -73,9 +80,11 @@
           "vp_door_shutter_open_left_rotW_right_rotE",
           "vp_door_shutter_open_faceW",
           "vp_door_shutter_open_faceN"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_23", "paint_mask_32x64_x0_y-32_25", "paint_mask_32x64_x0_y-32_21", "paint_mask_32x64_x0_y-32_22"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_19", "paint_mask_32x64_x0_y-32_24", "paint_mask_32x64_x0_y-32_17", "paint_mask_32x64_x0_y-32_18"]}]
   },
   {
     "id": "vp_door_shutter_rear",
@@ -89,7 +98,8 @@
           "vp_door_shutter_open_faceE",
           "vp_door_shutter_open_faceS",
           "vp_door_shutter_open_faceW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_22", "paint_mask_32x64_x0_y-32_23", "paint_mask_32x64_x0_y-32_20", "paint_mask_32x64_x0_y-32_21"]}]
       },
       {
         "id": "broken",
@@ -99,8 +109,10 @@
           "vp_door_shutter_open_faceE",
           "vp_door_shutter_open_faceS",
           "vp_door_shutter_open_faceW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_22", "paint_mask_32x64_x0_y-32_23", "paint_mask_32x64_x0_y-32_20", "paint_mask_32x64_x0_y-32_21"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_18", "paint_mask_32x64_x0_y-32_19", "paint_mask_32x64_x0_y-32_16", "paint_mask_32x64_x0_y-32_17"]}]
   }
 ]

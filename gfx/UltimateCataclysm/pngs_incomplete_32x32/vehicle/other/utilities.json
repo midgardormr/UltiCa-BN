@@ -66,13 +66,13 @@
   },
   {
     "id": "vp_welding_rig",
-    "fg": [ "vp_welding_rig", "vp_welding_rig" ],
+    "fg": "bn_new_vp_welding_rig",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_welding_rig", "vp_welding_rig" ]
+        "bg": "bn_new_vp_welding_rig"
       }
     ]
   },
@@ -102,25 +102,25 @@
   },
   {
     "id": "vp_veh_forge",
-    "fg": [ "vp_forge", "vp_forge" ],
+    "fg": "bn_new_forgerig",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_forge", "vp_forge" ]
+        "bg": "bn_new_forgerig"
       }
     ]
   },
   {
     "id": "vp_veh_kiln",
-    "fg": [ "vp_kiln", "vp_kiln" ],
+    "fg": "bn_new_kilnrig",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_kiln", "vp_kiln" ]
+        "bg": "bn_new_kilnrig"
       }
     ]
   },

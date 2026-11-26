@@ -8,18 +8,18 @@
       "id": "corner",
       "fg": [
         "t_wood_wall_orange_corner_nw",
-        "t_wood_wall_orange_corner_ne",
+        "t_wood_wall_orange_corner_sw",
         "t_wood_wall_orange_corner_se",
-        "t_wood_wall_orange_corner_sw"
+        "t_wood_wall_orange_corner_ne"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
         "t_wood_wall_orange_t_connection_n",
-        "t_wood_wall_orange_t_connection_e",
+        "t_wood_wall_orange_t_connection_w",
         "t_wood_wall_orange_t_connection_s",
-        "t_wood_wall_orange_t_connection_w"
+        "t_wood_wall_orange_t_connection_e"
       ]
     },
     { "id": "edge", "fg": [ "t_wood_wall_orange_edge_ns", "t_wood_wall_orange_edge_ew" ] },
@@ -27,9 +27,9 @@
       "id": "end_piece",
       "fg": [
         "t_wood_wall_orange_end_piece_n",
-        "t_wood_wall_orange_end_piece_e",
+        "t_wood_wall_orange_end_piece_w",
         "t_wood_wall_orange_end_piece_s",
-        "t_wood_wall_orange_end_piece_w"
+        "t_wood_wall_orange_end_piece_e"
       ]
     },
     { "id": "unconnected", "fg": "t_wood_wall_orange_unconnected" }

@@ -1,60 +1,79 @@
 [
   {
-    "id": "vp_xlhalfboard_ne",
+    "id": [ "vp_xlhalfboard_ne", "vp_aluminum_halfboard_appearance_xlhalfboard_ne", "vp_aluminum_halfboard_appearance_xlhalfboard_ne_from_cover", "vp_halfboard_appearance_xlhalfboard_ne" ],
     "fg": [ "vp_xlhalfboard_ne", "vp_xlhalfboard_ne_rotE", "vp_xlhalfboard_ne_rotS", "vp_xlhalfboard_ne_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_xlhalfboard_ne", "vp_xlhalfboard_ne_rotE", "vp_xlhalfboard_ne_rotS", "vp_xlhalfboard_ne_rotW" ]
+        "bg": [ "vp_xlhalfboard_ne", "vp_xlhalfboard_ne_rotE", "vp_xlhalfboard_ne_rotS", "vp_xlhalfboard_ne_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_73", "paint_mask_32x32_x0_y0_74", "paint_mask_32x32_x0_y0_75", "paint_mask_32x32_x0_y0_76"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_73", "paint_mask_32x32_x0_y0_74", "paint_mask_32x32_x0_y0_75", "paint_mask_32x32_x0_y0_76"]}]
   },
   {
-    "id": "vp_xlhalfboard_nw",
+    "id": [ "vp_xlhalfboard_nw", "vp_aluminum_halfboard_appearance_xlhalfboard_nw", "vp_aluminum_halfboard_appearance_xlhalfboard_nw_from_cover", "vp_halfboard_appearance_xlhalfboard_nw" ],
     "fg": [ "vp_xlhalfboard_nw", "vp_xlhalfboard_nw_rotE", "vp_xlhalfboard_nw_rotS", "vp_xlhalfboard_nw_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_xlhalfboard_nw", "vp_xlhalfboard_nw_rotE", "vp_xlhalfboard_nw_rotS", "vp_xlhalfboard_nw_rotW" ]
+        "bg": [ "vp_xlhalfboard_nw", "vp_xlhalfboard_nw_rotE", "vp_xlhalfboard_nw_rotS", "vp_xlhalfboard_nw_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_77", "paint_mask_32x32_x0_y0_78", "paint_mask_32x32_x0_y0_79", "paint_mask_32x32_x0_y0_80"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_77", "paint_mask_32x32_x0_y0_78", "paint_mask_32x32_x0_y0_79", "paint_mask_32x32_x0_y0_80"]}]
   },
   {
-    "id": "vp_xlhalfboard_se",
+    "id": [ "vp_xlhalfboard_se", "vp_aluminum_board_appearance_xlhalfboard_se", "vp_aluminum_halfboard_appearance_xlhalfboard_se", "vp_halfboard_appearance_xlhalfboard_se", "vp_windshield_appearance_xlhalfboard_se" ],
     "fg": "vp_xlhalfboard_se",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_se" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_se",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_81"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_81"}]
   },
   {
-    "id": "vp_xlhalfboard_sw",
+    "id": [ "vp_xlhalfboard_sw", "vp_aluminum_board_appearance_xlhalfboard_sw", "vp_aluminum_halfboard_appearance_xlhalfboard_sw", "vp_halfboard_appearance_xlhalfboard_sw", "vp_windshield_appearance_xlhalfboard_sw" ],
     "fg": "vp_xlhalfboard_sw",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_sw" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_sw",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_82"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_82"}]
   },
   {
-    "id": "vp_xlhalfboard_vertical_left",
+    "id": [ "vp_xlhalfboard_vertical_left", "vp_aluminum_halfboard_appearance_xlhalfboard_vertical_left", "vp_halfboard_appearance_xlhalfboard_vertical_left" ],
     "fg": "vp_xlhalfboard_vertical_left",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_vertical_left" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_vertical_left",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_83"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_83"}]
   },
   {
-    "id": "vp_xlhalfboard_vertical_right",
+    "id": [ "vp_xlhalfboard_vertical_right", "vp_aluminum_halfboard_appearance_xlhalfboard_vertical_right", "vp_halfboard_appearance_xlhalfboard_vertical_right" ],
     "fg": "vp_xlhalfboard_vertical_right",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_vertical_right" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_vertical_right",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_84"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_84"}]
   },
   {
     "id": [ "vp_xlhalfboard_horizontal", "vp_xlhalfboard_horizontal_2" ],
     "fg": "vp_xlhalfboard_horizontal_front",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_horizontal_front" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_horizontal_front",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_85"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_85"}]
   },
   {
-    "id": "vp_xlhalfboard_horizontal_front",
+    "id": [ "vp_xlhalfboard_horizontal_front", "vp_carbon_halfboard_appearance_xlhalfboard_horizontal_front" ],
     "fg": [
       "vp_xlhalfboard_horizontal_front",
       "vp_xlhalfboard_horizontal_front_rotE",
@@ -71,21 +90,29 @@
           "vp_xlhalfboard_horizontal_front_rotE",
           "vp_xlhalfboard_horizontal_front_rotS",
           "vp_xlhalfboard_horizontal_front_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_85", "paint_mask_32x32_x0_y0_86", "paint_mask_32x32_x0_y0_87", "paint_mask_32x32_x0_y0_88"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_85", "paint_mask_32x32_x0_y0_86", "paint_mask_32x32_x0_y0_87", "paint_mask_32x32_x0_y0_88"]}]
   },
   {
     "id": "vp_xlhalfboard_horizontal_rear",
     "fg": "vp_xlhalfboard_horizontal_rear",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_horizontal_rear" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_horizontal_rear",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_89"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_89"}]
   },
   {
-    "id": [ "vp_xlhalfboard_vertical", "vp_xlhalfboard_vertical_2" ],
+    "id": [ "vp_xlhalfboard_vertical", "vp_xlhalfboard_vertical_2", "vp_aluminum_halfboard_appearance_xlhalfboard_vertical", "vp_halfboard_appearance_xlhalfboard_vertical" ],
     "fg": "vp_xlhalfboard_vertical",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_vertical" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_xlhalfboard_vertical",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_90"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_90"}]
   },
   {
     "id": "vp_xlhalfboard_cover",
@@ -95,8 +122,10 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_xlhalfboard_cover", "vp_xlhalfboard_cover_rotE", "vp_xlhalfboard_cover_rotS", "vp_xlhalfboard_cover_rotW" ]
+        "bg": [ "vp_xlhalfboard_cover", "vp_xlhalfboard_cover_rotE", "vp_xlhalfboard_cover_rotS", "vp_xlhalfboard_cover_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x32_x0_y0_91", "paint_mask_32x32_x0_y0_92", "paint_mask_32x32_x0_y0_93", "paint_mask_32x32_x0_y0_94"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x32_x0_y0_91", "paint_mask_32x32_x0_y0_92", "paint_mask_32x32_x0_y0_93", "paint_mask_32x32_x0_y0_94"]}]
   }
 ]

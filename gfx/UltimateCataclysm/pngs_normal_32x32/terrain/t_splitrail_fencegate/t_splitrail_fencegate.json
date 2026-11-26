@@ -1,33 +1,41 @@
 [{
     "id": "t_splitrail_fencegate_c",
-    "fg": "t_splitrail_fencegate_c",
-    "bg": "t_grass"
+    "fg": ["bn_splitrail_gate_ns_c", "bn_gate_splitrail_ew_c_padded"],
+    "bg": ["bn_gate_ground_grass_centered", "bn_gate_ground_grass_centered"],
+    "rotates": true
 },{
     "id": "t_splitrail_fencegate_o",
-    "fg": "t_splitrail_fencegate_o",
-    "bg": "t_grass"
+    "fg": ["bn_splitrail_gate_ns_o", "bn_gate_splitrail_ew_o_wide"],
+    "bg": ["bn_gate_ground_grass_wide", "bn_gate_ground_grass_wide"],
+    "rotates": true
 },{
     "id": "t_splitrail_fencegate_c_season_summer",
-    "fg": "t_splitrail_fencegate_c",
-    "bg": "t_grass_summer"
+    "fg": ["bn_splitrail_gate_ns_c", "bn_gate_splitrail_ew_c_padded"],
+    "bg": ["bn_gate_ground_summer_centered", "bn_gate_ground_summer_centered"],
+    "rotates": true
 },{
     "id": "t_splitrail_fencegate_o_season_summer",
-    "fg": "t_splitrail_fencegate_o",
-    "bg": "t_grass_summer"
+    "fg": ["bn_splitrail_gate_ns_o", "bn_gate_splitrail_ew_o_wide"],
+    "bg": ["t_grass_summer_large", "t_grass_summer_large"],
+    "rotates": true
 },{
     "id": "t_splitrail_fencegate_c_season_autumn",
-    "fg": "t_splitrail_fencegate_c",
-    "bg": "t_grass_autumn"
+    "fg": ["bn_splitrail_gate_ns_c", "bn_gate_splitrail_ew_c_padded"],
+    "bg": ["bn_gate_ground_autumn_centered", "bn_gate_ground_autumn_centered"],
+    "rotates": true
 },{
     "id": "t_splitrail_fencegate_o_season_autumn",
-    "fg": "t_splitrail_fencegate_o",
-    "bg": "t_grass_autumn"
+    "fg": ["bn_splitrail_gate_ns_o", "bn_gate_splitrail_ew_o_wide"],
+    "bg": ["t_grass_autumn_large", "t_grass_autumn_large"],
+    "rotates": true
 },{
     "id": "t_splitrail_fencegate_c_season_winter",
-    "fg": "t_splitrail_fencegate_c",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_splitrail_gate_ns_c", "bn_gate_splitrail_ew_c_padded"],
+    "bg": ["bn_gate_ground_snow_centered", "bn_gate_ground_snow_centered"],
+    "rotates": true
 },{
     "id": "t_splitrail_fencegate_o_season_winter",
-    "fg": "t_splitrail_fencegate_o",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_splitrail_gate_ns_o", "bn_gate_splitrail_ew_o_wide"],
+    "bg": ["snow_shallow_large", "snow_shallow_large"],
+    "rotates": true
 }]

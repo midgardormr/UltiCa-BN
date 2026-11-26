@@ -1,6 +1,6 @@
 [
   {
-    "id": "vp_halfboard_cover_left",
+    "id": [ "vp_halfboard_cover_left", "vp_carbon_halfboard_appearance_halfboard_cover_left" ],
     "fg": [
       "vp_halfboard_cover_left",
       "vp_halfboard_cover_left_rotE",
@@ -17,12 +17,14 @@
           "vp_halfboard_cover_left_rotE",
           "vp_halfboard_cover_left_rotS",
           "vp_halfboard_cover_left_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_140", "paint_mask_32x48_x0_y-16_141", "paint_mask_32x48_x0_y-16_142", "paint_mask_32x48_x0_y-16_143"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_140", "paint_mask_32x48_x0_y-16_141", "paint_mask_32x48_x0_y-16_142", "paint_mask_32x48_x0_y-16_143"]}]
   },
   {
-    "id": "vp_halfboard_cover_right",
+    "id": [ "vp_halfboard_cover_right", "vp_carbon_halfboard_appearance_halfboard_cover_right" ],
     "fg": [
       "vp_halfboard_cover_right",
       "vp_halfboard_cover_right_rotE",
@@ -39,9 +41,11 @@
           "vp_halfboard_cover_right_rotE",
           "vp_halfboard_cover_right_rotS",
           "vp_halfboard_cover_right_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_144", "paint_mask_32x48_x0_y-16_145", "paint_mask_32x48_x0_y-16_146", "paint_mask_32x48_x0_y-16_147"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_144", "paint_mask_32x48_x0_y-16_145", "paint_mask_32x48_x0_y-16_146", "paint_mask_32x48_x0_y-16_147"]}]
   },
   {
     "id": "vp_halfboard_wheel_left",
@@ -61,9 +65,11 @@
           "vp_halfboard_wheel_left_rotE",
           "vp_halfboard_wheel_left_rotS",
           "vp_halfboard_wheel_left_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_148", "paint_mask_32x48_x0_y-16_149", "paint_mask_32x48_x0_y-16_150", "paint_mask_32x48_x0_y-16_151"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_148", "paint_mask_32x48_x0_y-16_149", "paint_mask_32x48_x0_y-16_150", "paint_mask_32x48_x0_y-16_151"]}]
   },
   {
     "id": "vp_halfboard_wheel_right",
@@ -83,8 +89,10 @@
           "vp_halfboard_wheel_right_rotE",
           "vp_halfboard_wheel_right_rotS",
           "vp_halfboard_wheel_right_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_152", "paint_mask_32x48_x0_y-16_153", "paint_mask_32x48_x0_y-16_154", "paint_mask_32x48_x0_y-16_155"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_152", "paint_mask_32x48_x0_y-16_153", "paint_mask_32x48_x0_y-16_154", "paint_mask_32x48_x0_y-16_155"]}]
   }
 ]

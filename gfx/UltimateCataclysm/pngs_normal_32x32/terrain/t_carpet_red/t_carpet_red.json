@@ -18,21 +18,21 @@
       { "id": "center", "fg": "t_carpet_red_center" },
       {
         "id": "corner",
-        "fg": [ "t_carpet_red_corner_nw", "t_carpet_red_corner_ne", "t_carpet_red_corner_se", "t_carpet_red_corner_sw" ]
+        "fg": [ "t_carpet_red_corner_nw", "t_carpet_red_corner_sw", "t_carpet_red_corner_se", "t_carpet_red_corner_ne" ]
       },
       {
         "id": "t_connection",
         "fg": [
           "t_carpet_red_t_connection_n",
-          "t_carpet_red_t_connection_e",
+          "t_carpet_red_t_connection_w",
           "t_carpet_red_t_connection_s",
-          "t_carpet_red_t_connection_w"
+          "t_carpet_red_t_connection_e"
         ]
       },
       { "id": "edge", "fg": [ "t_carpet_red_edge_ns", "t_carpet_red_edge_ew" ] },
       {
         "id": "end_piece",
-        "fg": [ "t_carpet_red_end_piece_n", "t_carpet_red_end_piece_e", "t_carpet_red_end_piece_s", "t_carpet_red_end_piece_w" ]
+        "fg": [ "t_carpet_red_end_piece_n", "t_carpet_red_end_piece_w", "t_carpet_red_end_piece_s", "t_carpet_red_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_carpet_red_unconnected" }
     ]

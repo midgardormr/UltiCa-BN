@@ -1,0 +1,58 @@
+[
+  {
+    "id": "vp_ram_military_horizontal",
+    "fg": [
+      "vp_ram_military",
+      "vp_ram_military_right",
+      "vp_ram_military_down",
+      "vp_ram_military_left"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_alloy",
+    "fg": [
+      "vp_ram_alloy",
+      "vp_ram_alloy_right",
+      "vp_ram_alloy_down",
+      "vp_ram_alloy_left"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_hardsteel",
+    "fg": [
+      "vp_ram_hardsteel",
+      "vp_ram_hardsteel_right",
+      "vp_ram_hardsteel_down",
+      "vp_ram_hardsteel_left"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_spiked",
+    "fg": "vp_ram_spiked",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_ram_spiked"
+      }
+    ]
+  },
+  {
+    "id": "vp_ram_steel",
+    "fg": "vp_ram_steel",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_ram_steel"
+      }
+    ]
+  }
+]

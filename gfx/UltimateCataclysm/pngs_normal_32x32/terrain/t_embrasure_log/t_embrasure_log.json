@@ -8,18 +8,18 @@
       { "id": "center", "fg": "t_embrasure_log_center", "bg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_ne", "t_embrasure_log_corner_se", "t_embrasure_log_corner_sw" ],
-        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_sw", "t_embrasure_log_corner_se", "t_embrasure_log_corner_ne" ],
+        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
         "fg": [
           "t_embrasure_log_t_connection_n",
-          "t_embrasure_log_t_connection_e",
+          "t_embrasure_log_t_connection_w",
           "t_embrasure_log_t_connection_s",
-          "t_embrasure_log_t_connection_w"
+          "t_embrasure_log_t_connection_e"
         ],
-        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       {
         "id": "edge",
@@ -30,11 +30,11 @@
         "id": "end_piece",
         "fg": [
           "t_embrasure_log_end_piece_n",
-          "t_embrasure_log_end_piece_e",
+          "t_embrasure_log_end_piece_w",
           "t_embrasure_log_end_piece_s",
-          "t_embrasure_log_end_piece_w"
+          "t_embrasure_log_end_piece_e"
         ],
-        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_embrasure_log_unconnected", "bg": "t_grass" }
     ]
@@ -48,18 +48,18 @@
       { "id": "center", "fg": "t_embrasure_log_center", "bg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_ne", "t_embrasure_log_corner_se", "t_embrasure_log_corner_sw" ],
-        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_sw", "t_embrasure_log_corner_se", "t_embrasure_log_corner_ne" ],
+        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
         "fg": [
           "t_embrasure_log_t_connection_n",
-          "t_embrasure_log_t_connection_e",
+          "t_embrasure_log_t_connection_w",
           "t_embrasure_log_t_connection_s",
-          "t_embrasure_log_t_connection_w"
+          "t_embrasure_log_t_connection_e"
         ],
-        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       {
         "id": "edge",
@@ -70,11 +70,11 @@
         "id": "end_piece",
         "fg": [
           "t_embrasure_log_end_piece_n",
-          "t_embrasure_log_end_piece_e",
+          "t_embrasure_log_end_piece_w",
           "t_embrasure_log_end_piece_s",
-          "t_embrasure_log_end_piece_w"
+          "t_embrasure_log_end_piece_e"
         ],
-        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_embrasure_log_unconnected", "bg": "t_grass_summer" }
     ]
@@ -88,18 +88,18 @@
       { "id": "center", "fg": "t_embrasure_log_center", "bg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_ne", "t_embrasure_log_corner_se", "t_embrasure_log_corner_sw" ],
-        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_sw", "t_embrasure_log_corner_se", "t_embrasure_log_corner_ne" ],
+        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
         "fg": [
           "t_embrasure_log_t_connection_n",
-          "t_embrasure_log_t_connection_e",
+          "t_embrasure_log_t_connection_w",
           "t_embrasure_log_t_connection_s",
-          "t_embrasure_log_t_connection_w"
+          "t_embrasure_log_t_connection_e"
         ],
-        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       {
         "id": "edge",
@@ -110,11 +110,11 @@
         "id": "end_piece",
         "fg": [
           "t_embrasure_log_end_piece_n",
-          "t_embrasure_log_end_piece_e",
+          "t_embrasure_log_end_piece_w",
           "t_embrasure_log_end_piece_s",
-          "t_embrasure_log_end_piece_w"
+          "t_embrasure_log_end_piece_e"
         ],
-        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_embrasure_log_unconnected", "bg": "t_grass_autumn" }
     ]
@@ -128,18 +128,18 @@
       { "id": "center", "fg": "t_embrasure_log_center", "bg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_ne", "t_embrasure_log_corner_se", "t_embrasure_log_corner_sw" ],
-        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_embrasure_log_corner_nw", "t_embrasure_log_corner_sw", "t_embrasure_log_corner_se", "t_embrasure_log_corner_ne" ],
+        "bg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
         "fg": [
           "t_embrasure_log_t_connection_n",
-          "t_embrasure_log_t_connection_e",
+          "t_embrasure_log_t_connection_w",
           "t_embrasure_log_t_connection_s",
-          "t_embrasure_log_t_connection_w"
+          "t_embrasure_log_t_connection_e"
         ],
-        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "bg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       {
         "id": "edge",
@@ -150,11 +150,11 @@
         "id": "end_piece",
         "fg": [
           "t_embrasure_log_end_piece_n",
-          "t_embrasure_log_end_piece_e",
+          "t_embrasure_log_end_piece_w",
           "t_embrasure_log_end_piece_s",
-          "t_embrasure_log_end_piece_w"
+          "t_embrasure_log_end_piece_e"
         ],
-        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "bg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_embrasure_log_unconnected", "bg": "snow_shallow_center" }
     ]

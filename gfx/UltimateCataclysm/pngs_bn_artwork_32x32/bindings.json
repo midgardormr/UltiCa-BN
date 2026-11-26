@@ -1,0 +1,162 @@
+[
+  {
+    "id": "crack_glass_right",
+    "fg": "crack_glass_right"
+  },
+  {
+    "id": "fedora",
+    "fg": "bn_fedora"
+  },
+  {
+    "id": "helmet_riot",
+    "fg": "bn_helmet_riot"
+  },
+  {
+    "id": "mon_anomaly_boss",
+    "fg": "mon_sapient_light",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dragonfly",
+    "fg": "mon_dragonfly_small",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_frog",
+    "fg": "mon_bullfrog_frog",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_mosquito",
+    "fg": "mon_mosquito_small",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_spider_jumping",
+    "fg": "mon_spider_jumping_small",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_spider_trapdoor",
+    "fg": "mon_spider_trapdoor_small",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_spider_widow",
+    "fg": "mon_spider_widow_small",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_spider_wolf",
+    "fg": "mon_spider_wolf_small",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_zombie_dancer",
+    "fg": [
+      {
+        "weight": 1,
+        "sprite": "mon_zombie_resort_dancer1"
+      },
+      {
+        "weight": 1,
+        "sprite": "mon_zombie_resort_dancer2"
+      }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "overlay_female_worn_ammo_satchel_leg",
+    "fg": "overlay_female_worn_leg_small_bag"
+  },
+  {
+    "id": "overlay_female_worn_chainmail_hands",
+    "fg": "chainmail_gloves_f"
+  },
+  {
+    "id": [
+      "overlay_female_worn_thermal_cooling",
+      "overlay_female_worn_thermal_cooling_on"
+    ],
+    "fg": "bn_overlay_female_worn_thermal_cooling"
+  },
+  {
+    "id": [
+      "overlay_female_worn_thermal_gloves",
+      "overlay_female_worn_thermal_gloves_on"
+    ],
+    "fg": "gloves_liner_f",
+    "bg": ""
+  },
+  {
+    "id": [
+      "overlay_female_worn_thermal_outfit",
+      "overlay_female_worn_thermal_outfit_on"
+    ],
+    "fg": "bn_overlay_female_worn_thermal_outfit"
+  },
+  {
+    "id": "overlay_male_worn_ammo_satchel_leg",
+    "fg": "overlay_male_worn_leg_small_bag"
+  },
+  {
+    "id": "overlay_male_worn_chainmail_hands",
+    "fg": "chainmail_gloves_m"
+  },
+  {
+    "id": "overlay_male_worn_helmet_black_dragon_hide",
+    "fg": "bn_overlay_male_worn_helmet_black_dragon_hide"
+  },
+  {
+    "id": [
+      "overlay_male_worn_thermal_cooling",
+      "overlay_male_worn_thermal_cooling_on"
+    ],
+    "fg": "bn_overlay_male_worn_thermal_cooling"
+  },
+  {
+    "id": [
+      "overlay_male_worn_thermal_gloves",
+      "overlay_male_worn_thermal_gloves_on"
+    ],
+    "fg": "gloves_liner_m",
+    "bg": ""
+  },
+  {
+    "id": [
+      "overlay_male_worn_thermal_outfit",
+      "overlay_male_worn_thermal_outfit_on"
+    ],
+    "fg": "bn_overlay_male_worn_thermal_outfit"
+  },
+  {
+    "id": "overlay_worn_chainmail_feet",
+    "fg": "chainmail_feet"
+  },
+  {
+    "id": "techno_idiots",
+    "fg": "bn_techno_idiots"
+  },
+  {
+    "id": "translocate_spellbook",
+    "fg": "bn_translocate_spellbook"
+  },
+  {
+    "id": "wizard_advanced",
+    "fg": "bn_wizard_advanced"
+  },
+  {
+    "id": "grenade_inferno_act",
+    "animated": true,
+    "fg": [
+      {
+        "weight": 8,
+        "sprite": "bn_grenade_inferno"
+      },
+      {
+        "weight": 8,
+        "sprite": "bn_grenade_inferno_act1"
+      }
+    ]
+  }
+]

@@ -8,16 +8,16 @@
       { "id": "center", "fg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
-        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       { "id": "edge", "fg": [ "t_wall_log_edge_ns", "t_wall_log_edge_ew" ] },
       {
         "id": "end_piece",
-        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_wall_log_unconnected", "bg": "t_grass" }
     ]
@@ -31,16 +31,16 @@
       { "id": "center", "fg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
-        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       { "id": "edge", "fg": [ "t_wall_log_edge_ns", "t_wall_log_edge_ew" ] },
       {
         "id": "end_piece",
-        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_wall_log_unconnected", "bg": "t_grass_summer" }
     ]
@@ -54,16 +54,16 @@
       { "id": "center", "fg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
-        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       { "id": "edge", "fg": [ "t_wall_log_edge_ns", "t_wall_log_edge_ew" ] },
       {
         "id": "end_piece",
-        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_wall_log_unconnected", "bg": "t_grass_autumn" }
     ]
@@ -77,16 +77,16 @@
       { "id": "center", "fg": "t_wall_log_center" },
       {
         "id": "corner",
-        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_ne", "t_wall_log_corner_se", "t_wall_log_corner_sw" ]
+        "fg": [ "t_wall_log_corner_nw", "t_wall_log_corner_sw", "t_wall_log_corner_se", "t_wall_log_corner_ne" ]
       },
       {
         "id": "t_connection",
-        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_e", "t_wall_log_t_connection_s", "t_wall_log_t_connection_w" ]
+        "fg": [ "t_wall_log_t_connection_n", "t_wall_log_t_connection_w", "t_wall_log_t_connection_s", "t_wall_log_t_connection_e" ]
       },
       { "id": "edge", "fg": [ "t_wall_log_edge_ns", "t_wall_log_edge_ew" ] },
       {
         "id": "end_piece",
-        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_e", "t_wall_log_end_piece_s", "t_wall_log_end_piece_w" ]
+        "fg": [ "t_wall_log_end_piece_n", "t_wall_log_end_piece_w", "t_wall_log_end_piece_s", "t_wall_log_end_piece_e" ]
       },
       { "id": "unconnected", "fg": "t_wall_log_unconnected", "bg": "snow_shallow_center" }
     ]

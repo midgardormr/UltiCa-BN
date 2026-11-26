@@ -8,9 +8,9 @@
       "id": "end_piece",
       "fg": [
         "f_LIXA_electrical_conduit_end_piece_n",
-        "f_LIXA_electrical_conduit_end_piece_e",
+        "f_LIXA_electrical_conduit_end_piece_w",
         "f_LIXA_electrical_conduit_end_piece_s",
-        "f_LIXA_electrical_conduit_end_piece_w"
+        "f_LIXA_electrical_conduit_end_piece_e"
       ]
     },
     { "id": "unconnected", "fg": "f_LIXA_electrical_conduit_edge_ns" }

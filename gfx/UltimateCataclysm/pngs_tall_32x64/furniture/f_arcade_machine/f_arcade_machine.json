@@ -1,7 +1,8 @@
 [
   {
     "id": "f_arcade_machine",
-    "fg": "f_arcade_machine",
-    "bg": ""
+    "fg": ["f_arcade_machine", "bn_arcade_faceW", "bn_arcade_faceN", "bn_arcade_faceE"],
+    "rotates": true,
+    "flags": ["ALIGN_TO_TERRAIN"]
   }
 ]

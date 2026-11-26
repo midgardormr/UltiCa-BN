@@ -8,18 +8,18 @@
       "id": "corner",
       "fg": [
         "t_skylight_frame_corner_nw",
-        "t_skylight_frame_corner_ne",
+        "t_skylight_frame_corner_sw",
         "t_skylight_frame_corner_se",
-        "t_skylight_frame_corner_sw"
+        "t_skylight_frame_corner_ne"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
         "t_skylight_frame_t_connection_n",
-        "t_skylight_frame_t_connection_e",
+        "t_skylight_frame_t_connection_w",
         "t_skylight_frame_t_connection_s",
-        "t_skylight_frame_t_connection_w"
+        "t_skylight_frame_t_connection_e"
       ]
     },
     { "id": "edge", "fg": [ "t_skylight_frame_edge_ns", "t_skylight_frame_edge_ew" ] },
@@ -27,9 +27,9 @@
       "id": "end_piece",
       "fg": [
         "t_skylight_frame_end_piece_n",
-        "t_skylight_frame_end_piece_e",
+        "t_skylight_frame_end_piece_w",
         "t_skylight_frame_end_piece_s",
-        "t_skylight_frame_end_piece_w"
+        "t_skylight_frame_end_piece_e"
       ]
     },
     { "id": "unconnected", "fg": "t_skylight_frame_unconnected" }

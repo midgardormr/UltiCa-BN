@@ -14,9 +14,9 @@
         "id": "corner",
         "fg": [
           "t_pit_glass_covered_corner_nw",
-          "t_pit_glass_covered_corner_ne",
+          "t_pit_glass_covered_corner_sw",
           "t_pit_glass_covered_corner_se",
-          "t_pit_glass_covered_corner_sw"
+          "t_pit_glass_covered_corner_ne"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ]
       },
@@ -24,9 +24,9 @@
         "id": "t_connection",
         "fg": [
           "t_pit_glass_covered_t_connection_n",
-          "t_pit_glass_covered_t_connection_e",
+          "t_pit_glass_covered_t_connection_w",
           "t_pit_glass_covered_t_connection_s",
-          "t_pit_glass_covered_t_connection_w"
+          "t_pit_glass_covered_t_connection_e"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ]
       },
@@ -39,9 +39,9 @@
         "id": "end_piece",
         "fg": [
           "t_pit_glass_covered_end_piece_n",
-          "t_pit_glass_covered_end_piece_e",
+          "t_pit_glass_covered_end_piece_w",
           "t_pit_glass_covered_end_piece_s",
-          "t_pit_glass_covered_end_piece_w"
+          "t_pit_glass_covered_end_piece_e"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ]
       },
@@ -67,9 +67,9 @@
         "id": "corner",
         "fg": [
           "t_pit_glass_covered_corner_nw",
-          "t_pit_glass_covered_corner_ne",
+          "t_pit_glass_covered_corner_sw",
           "t_pit_glass_covered_corner_se",
-          "t_pit_glass_covered_corner_sw"
+          "t_pit_glass_covered_corner_ne"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass_summer" }, { "weight": 100, "sprite": "t_grass_summer_center2" } ]
       },
@@ -77,9 +77,9 @@
         "id": "t_connection",
         "fg": [
           "t_pit_glass_covered_t_connection_n",
-          "t_pit_glass_covered_t_connection_e",
+          "t_pit_glass_covered_t_connection_w",
           "t_pit_glass_covered_t_connection_s",
-          "t_pit_glass_covered_t_connection_w"
+          "t_pit_glass_covered_t_connection_e"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass_summer" }, { "weight": 100, "sprite": "t_grass_summer_center2" } ]
       },
@@ -92,9 +92,9 @@
         "id": "end_piece",
         "fg": [
           "t_pit_glass_covered_end_piece_n",
-          "t_pit_glass_covered_end_piece_e",
+          "t_pit_glass_covered_end_piece_w",
           "t_pit_glass_covered_end_piece_s",
-          "t_pit_glass_covered_end_piece_w"
+          "t_pit_glass_covered_end_piece_e"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass_summer" }, { "weight": 100, "sprite": "t_grass_summer_center2" } ]
       },
@@ -120,9 +120,9 @@
         "id": "corner",
         "fg": [
           "t_pit_glass_covered_corner_nw",
-          "t_pit_glass_covered_corner_ne",
+          "t_pit_glass_covered_corner_sw",
           "t_pit_glass_covered_corner_se",
-          "t_pit_glass_covered_corner_sw"
+          "t_pit_glass_covered_corner_ne"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass_autumn" }, { "weight": 100, "sprite": "t_grass_autumn_center2" } ]
       },
@@ -130,9 +130,9 @@
         "id": "t_connection",
         "fg": [
           "t_pit_glass_covered_t_connection_n",
-          "t_pit_glass_covered_t_connection_e",
+          "t_pit_glass_covered_t_connection_w",
           "t_pit_glass_covered_t_connection_s",
-          "t_pit_glass_covered_t_connection_w"
+          "t_pit_glass_covered_t_connection_e"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass_autumn" }, { "weight": 100, "sprite": "t_grass_autumn_center2" } ]
       },
@@ -145,9 +145,9 @@
         "id": "end_piece",
         "fg": [
           "t_pit_glass_covered_end_piece_n",
-          "t_pit_glass_covered_end_piece_e",
+          "t_pit_glass_covered_end_piece_w",
           "t_pit_glass_covered_end_piece_s",
-          "t_pit_glass_covered_end_piece_w"
+          "t_pit_glass_covered_end_piece_e"
         ],
         "bg": [ { "weight": 100, "sprite": "t_grass_autumn" }, { "weight": 100, "sprite": "t_grass_autumn_center2" } ]
       },
@@ -173,9 +173,9 @@
         "id": "corner",
         "fg": [
           "t_pit_glass_covered_corner_nw",
-          "t_pit_glass_covered_corner_ne",
+          "t_pit_glass_covered_corner_sw",
           "t_pit_glass_covered_corner_se",
-          "t_pit_glass_covered_corner_sw"
+          "t_pit_glass_covered_corner_ne"
         ],
         "bg": [ { "weight": 100, "sprite": "snow_shallow_center" }, { "weight": 100, "sprite": "snow_shallow_center2" } ]
       },
@@ -183,9 +183,9 @@
         "id": "t_connection",
         "fg": [
           "t_pit_glass_covered_t_connection_n",
-          "t_pit_glass_covered_t_connection_e",
+          "t_pit_glass_covered_t_connection_w",
           "t_pit_glass_covered_t_connection_s",
-          "t_pit_glass_covered_t_connection_w"
+          "t_pit_glass_covered_t_connection_e"
         ],
         "bg": [ { "weight": 100, "sprite": "snow_shallow_center" }, { "weight": 100, "sprite": "snow_shallow_center2" } ]
       },
@@ -198,9 +198,9 @@
         "id": "end_piece",
         "fg": [
           "t_pit_glass_covered_end_piece_n",
-          "t_pit_glass_covered_end_piece_e",
+          "t_pit_glass_covered_end_piece_w",
           "t_pit_glass_covered_end_piece_s",
-          "t_pit_glass_covered_end_piece_w"
+          "t_pit_glass_covered_end_piece_e"
         ],
         "bg": [ { "weight": 100, "sprite": "snow_shallow_center" }, { "weight": 100, "sprite": "snow_shallow_center2" } ]
       },

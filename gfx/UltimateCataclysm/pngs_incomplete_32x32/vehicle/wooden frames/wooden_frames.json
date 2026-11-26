@@ -1,9 +1,12 @@
 [
   {
-    "id": "vp_frame_wood_vertical_2",
+    "id": [ "vp_frame_wood_vertical_2", "vp_frame_wood_light_vertical_2" ],
     "fg": "frame_wood_vertical_2",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_2" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_2",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_225"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_225"}]
   },
   {
     "id": "vp_frame_wood_vertical_2_unconnected",
@@ -24,10 +27,13 @@
     "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_2_left" } ]
   },
   {
-    "id": "vp_frame_wood_vertical",
+    "id": [ "vp_frame_wood_vertical", "vp_frame_wood_light_vertical" ],
     "fg": "frame_wood_vertical",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_226"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_226"}]
   },
   {
     "id": "vp_frame_wood_vertical_unconnected",
@@ -48,34 +54,49 @@
     "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_left" } ]
   },
   {
-    "id": "vp_frame_wood_sw",
+    "id": [ "vp_frame_wood_sw", "vp_frame_wood_light_sw" ],
     "fg": "frame_wood_sw",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_sw" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_sw",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_227"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_227"}]
   },
   {
-    "id": "vp_frame_wood_se",
+    "id": [ "vp_frame_wood_se", "vp_frame_wood_light_se" ],
     "fg": "frame_wood_se",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_se" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_se",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_228"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_228"}]
   },
   {
-    "id": "vp_frame_wood_nw",
+    "id": [ "vp_frame_wood_nw", "vp_frame_wood_light_nw" ],
     "fg": "frame_wood_nw",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_nw" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_nw",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_229"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_229"}]
   },
   {
-    "id": "vp_frame_wood_ne",
+    "id": [ "vp_frame_wood_ne", "vp_frame_wood_light_ne" ],
     "fg": "frame_wood_ne",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_ne" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_ne",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_230"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_230"}]
   },
   {
-    "id": "vp_frame_wood_horizontal_2",
+    "id": [ "vp_frame_wood_horizontal_2", "vp_frame_wood_light_horizontal_2" ],
     "fg": "frame_wood_horizontal_2",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_231"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_231"}]
   },
   {
     "id": "vp_frame_wood_horizontal_2_unconnected",
@@ -108,10 +129,13 @@
     "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2_front" } ]
   },
   {
-    "id": "vp_frame_wood_horizontal",
+    "id": [ "vp_frame_wood_horizontal", "vp_frame_wood_light_horizontal" ],
     "fg": "frame_wood_horizontal",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_231"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_231"}]
   },
   {
     "id": "vp_frame_wood_horizontal_unconnected",
@@ -144,21 +168,27 @@
     "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_front" } ]
   },
   {
-    "id": "vp_frame_wood_cross",
+    "id": [ "vp_frame_wood_cross", "vp_frame_wood_light_cross" ],
     "fg": "frame_wood_cross",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cross" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cross",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_232"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_232"}]
   },
   {
-    "id": [ "vp_frame_wood_cross_unconnected", "vp_frame_wood", "frame_wood" ],
+    "id": ["vp_frame_wood_cross_unconnected", "vp_frame_wood"],
     "fg": "frame_wood_cross_unconnected",
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cross_unconnected" } ]
   },
   {
-    "id": "vp_frame_wood_cover",
+    "id": [ "vp_frame_wood_cover", "vp_frame_wood_deck", "vp_frame_wood_light_cover", "vp_frame_wood_light_handle" ],
     "fg": "frame_wood_cover",
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cover" } ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cover",
+    "masks": [{"type": "tint", "bg": "paint_mask_32x32_x0_y0_233"}]
+   } ],
+    "masks": [{"type": "tint", "fg": "paint_mask_32x32_x0_y0_233"}]
   }
 ]

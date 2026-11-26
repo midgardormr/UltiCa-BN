@@ -18,27 +18,27 @@
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_1_corner_nw",
-            "fd_sludge_int1_1_corner_ne",
+            "fd_sludge_int1_1_corner_sw",
             "fd_sludge_int1_1_corner_se",
-            "fd_sludge_int1_1_corner_sw"
+            "fd_sludge_int1_1_corner_ne"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_2_corner_nw",
-            "fd_sludge_int1_2_corner_ne",
+            "fd_sludge_int1_2_corner_sw",
             "fd_sludge_int1_2_corner_se",
-            "fd_sludge_int1_2_corner_sw"
+            "fd_sludge_int1_2_corner_ne"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_3_corner_nw",
-            "fd_sludge_int1_3_corner_ne",
+            "fd_sludge_int1_3_corner_sw",
             "fd_sludge_int1_3_corner_se",
-            "fd_sludge_int1_3_corner_sw"
+            "fd_sludge_int1_3_corner_ne"
           ]
         }
       ]
@@ -50,27 +50,27 @@
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_1_t_connection_n",
-            "fd_sludge_int1_1_t_connection_e",
+            "fd_sludge_int1_1_t_connection_w",
             "fd_sludge_int1_1_t_connection_s",
-            "fd_sludge_int1_1_t_connection_w"
+            "fd_sludge_int1_1_t_connection_e"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_2_t_connection_n",
-            "fd_sludge_int1_2_t_connection_e",
+            "fd_sludge_int1_2_t_connection_w",
             "fd_sludge_int1_2_t_connection_s",
-            "fd_sludge_int1_2_t_connection_w"
+            "fd_sludge_int1_2_t_connection_e"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_3_t_connection_n",
-            "fd_sludge_int1_3_t_connection_e",
+            "fd_sludge_int1_3_t_connection_w",
             "fd_sludge_int1_3_t_connection_s",
-            "fd_sludge_int1_3_t_connection_w"
+            "fd_sludge_int1_3_t_connection_e"
           ]
         }
       ]
@@ -90,27 +90,27 @@
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_1_end_piece_n",
-            "fd_sludge_int1_1_end_piece_e",
+            "fd_sludge_int1_1_end_piece_w",
             "fd_sludge_int1_1_end_piece_s",
-            "fd_sludge_int1_1_end_piece_w"
+            "fd_sludge_int1_1_end_piece_e"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_2_end_piece_n",
-            "fd_sludge_int1_2_end_piece_e",
+            "fd_sludge_int1_2_end_piece_w",
             "fd_sludge_int1_2_end_piece_s",
-            "fd_sludge_int1_2_end_piece_w"
+            "fd_sludge_int1_2_end_piece_e"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "fd_sludge_int1_3_end_piece_n",
-            "fd_sludge_int1_3_end_piece_e",
+            "fd_sludge_int1_3_end_piece_w",
             "fd_sludge_int1_3_end_piece_s",
-            "fd_sludge_int1_3_end_piece_w"
+            "fd_sludge_int1_3_end_piece_e"
           ]
         }
       ]

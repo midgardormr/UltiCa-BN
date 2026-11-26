@@ -11,9 +11,9 @@
         "bg": "t_grass",
         "fg": [
           "t_splitrail_fence_corner_nw",
-          "t_splitrail_fence_corner_ne",
+          "t_splitrail_fence_corner_sw",
           "t_splitrail_fence_corner_se",
-          "t_splitrail_fence_corner_sw"
+          "t_splitrail_fence_corner_ne"
         ]
       },
       {
@@ -21,9 +21,9 @@
         "bg": "t_grass",
         "fg": [
           "t_splitrail_fence_t_connection_n",
-          "t_splitrail_fence_t_connection_e",
+          "t_splitrail_fence_t_connection_w",
           "t_splitrail_fence_t_connection_s",
-          "t_splitrail_fence_t_connection_w"
+          "t_splitrail_fence_t_connection_e"
         ]
       },
       { "id": "edge", "bg": "t_grass", "fg": [ "t_splitrail_fence_edge_ns", "t_splitrail_fence_edge_ew" ] },
@@ -32,9 +32,9 @@
         "bg": "t_grass",
         "fg": [
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w"
+          "t_splitrail_fence_end_piece_e"
         ]
       },
       {
@@ -56,9 +56,9 @@
         "bg": "t_grass_summer",
         "fg": [
           "t_splitrail_fence_corner_nw",
-          "t_splitrail_fence_corner_ne",
+          "t_splitrail_fence_corner_sw",
           "t_splitrail_fence_corner_se",
-          "t_splitrail_fence_corner_sw"
+          "t_splitrail_fence_corner_ne"
         ]
       },
       {
@@ -66,9 +66,9 @@
         "bg": "t_grass_summer",
         "fg": [
           "t_splitrail_fence_t_connection_n",
-          "t_splitrail_fence_t_connection_e",
+          "t_splitrail_fence_t_connection_w",
           "t_splitrail_fence_t_connection_s",
-          "t_splitrail_fence_t_connection_w"
+          "t_splitrail_fence_t_connection_e"
         ]
       },
       { "id": "edge", "bg": "t_grass_summer", "fg": [ "t_splitrail_fence_edge_ns", "t_splitrail_fence_edge_ew" ] },
@@ -77,9 +77,9 @@
         "bg": "t_grass_summer",
         "fg": [
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w"
+          "t_splitrail_fence_end_piece_e"
         ]
       },
       {
@@ -101,9 +101,9 @@
         "bg": "t_grass_autumn",
         "fg": [
           "t_splitrail_fence_corner_nw",
-          "t_splitrail_fence_corner_ne",
+          "t_splitrail_fence_corner_sw",
           "t_splitrail_fence_corner_se",
-          "t_splitrail_fence_corner_sw"
+          "t_splitrail_fence_corner_ne"
         ]
       },
       {
@@ -111,9 +111,9 @@
         "bg": "t_grass_autumn",
         "fg": [
           "t_splitrail_fence_t_connection_n",
-          "t_splitrail_fence_t_connection_e",
+          "t_splitrail_fence_t_connection_w",
           "t_splitrail_fence_t_connection_s",
-          "t_splitrail_fence_t_connection_w"
+          "t_splitrail_fence_t_connection_e"
         ]
       },
       { "id": "edge", "bg": "t_grass_autumn", "fg": [ "t_splitrail_fence_edge_ns", "t_splitrail_fence_edge_ew" ] },
@@ -122,9 +122,9 @@
         "bg": "t_grass_autumn",
         "fg": [
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w"
+          "t_splitrail_fence_end_piece_e"
         ]
       },
       {
@@ -146,9 +146,9 @@
         "bg": "snow_shallow_center",
         "fg": [
           "t_splitrail_fence_corner_nw",
-          "t_splitrail_fence_corner_ne",
+          "t_splitrail_fence_corner_sw",
           "t_splitrail_fence_corner_se",
-          "t_splitrail_fence_corner_sw"
+          "t_splitrail_fence_corner_ne"
         ]
       },
       {
@@ -156,9 +156,9 @@
         "bg": "snow_shallow_center",
         "fg": [
           "t_splitrail_fence_t_connection_n",
-          "t_splitrail_fence_t_connection_e",
+          "t_splitrail_fence_t_connection_w",
           "t_splitrail_fence_t_connection_s",
-          "t_splitrail_fence_t_connection_w"
+          "t_splitrail_fence_t_connection_e"
         ]
       },
       {
@@ -171,9 +171,9 @@
         "bg": "snow_shallow_center",
         "fg": [
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w"
+          "t_splitrail_fence_end_piece_e"
         ]
       },
       {

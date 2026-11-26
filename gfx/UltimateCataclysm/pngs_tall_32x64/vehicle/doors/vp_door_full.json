@@ -18,7 +18,8 @@
           "vp_door_full_left_open_rotE",
           "vp_door_full_left_open_rotS",
           "vp_door_full_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_28", "paint_mask_32x64_x0_y-32_12", "paint_mask_32x64_x0_y-32_29", "paint_mask_32x64_x0_y-32_37"]}]
       },
       {
         "id": "broken",
@@ -28,9 +29,11 @@
           "vp_door_full_left_open_rotE",
           "vp_door_full_left_open_rotS",
           "vp_door_full_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_28", "paint_mask_32x64_x0_y-32_12", "paint_mask_32x64_x0_y-32_29", "paint_mask_32x64_x0_y-32_37"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_11", "paint_mask_32x64_x0_y-32_35", "paint_mask_32x64_x0_y-32_09", "paint_mask_32x64_x0_y-32_36"]}]
   },
   {
     "id": [
@@ -46,13 +49,16 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_full_left_open_rotS", "vp_door_full_right_open_rotE", "vp_door_full_left_open", "vp_door_rear_open_rotS" ]
+        "fg": [ "vp_door_full_left_open_rotS", "vp_door_full_right_open_rotE", "vp_door_full_left_open", "vp_door_rear_open_rotS" ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_29", "paint_mask_32x64_x0_y-32_38", "paint_mask_32x64_x0_y-32_28", "paint_mask_32x64_x0_y-32_12"]}]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_door_full_left_open_rotS", "vp_door_full_right_open_rotE", "vp_door_full_left_open", "vp_door_rear_open_rotS" ]
+        "bg": [ "vp_door_full_left_open_rotS", "vp_door_full_right_open_rotE", "vp_door_full_left_open", "vp_door_rear_open_rotS" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_29", "paint_mask_32x64_x0_y-32_38", "paint_mask_32x64_x0_y-32_28", "paint_mask_32x64_x0_y-32_12"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_09", "paint_mask_32x64_x0_y-32_36", "paint_mask_32x64_x0_y-32_11", "paint_mask_32x64_x0_y-32_27"]}]
   }
 ]

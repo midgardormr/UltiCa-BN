@@ -1,22 +1,26 @@
 [
   {
     "id": "t_privacy_fencegate_o",
-    "fg": "t_privacy_fencegate_o",
-    "bg": "t_grass_tall"
+    "fg": ["bn_gate_privacy_ns_o", "bn_gate_privacy_ew_o_wide"],
+    "bg": ["t_grass_large", "t_grass_large"],
+    "rotates": true
   },
   {
     "id": "t_privacy_fencegate_o_season_summer",
-    "fg": "t_privacy_fencegate_o",
-    "bg": "t_grass_summer_tall"
+    "fg": ["bn_gate_privacy_ns_o", "bn_gate_privacy_ew_o_wide"],
+    "bg": ["t_grass_summer_large", "t_grass_summer_large"],
+    "rotates": true
   },
   {
     "id": "t_privacy_fencegate_o_season_autumn",
-    "fg": "t_privacy_fencegate_o",
-    "bg": "t_grass_autumn_tall"
+    "fg": ["bn_gate_privacy_ns_o", "bn_gate_privacy_ew_o_wide"],
+    "bg": ["t_grass_autumn_large", "t_grass_autumn_large"],
+    "rotates": true
   },
   {
     "id": "t_privacy_fencegate_o_season_winter",
-    "fg": "t_privacy_fencegate_o",
-    "bg": "snow_shallow_tall"
+    "fg": ["bn_gate_privacy_ns_o", "bn_gate_privacy_ew_o_wide"],
+    "bg": ["snow_shallow_large", "snow_shallow_large"],
+    "rotates": true
   }
 ]

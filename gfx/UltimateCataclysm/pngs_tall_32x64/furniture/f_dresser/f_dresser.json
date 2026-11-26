@@ -7,5 +7,5 @@
     "f_dresser_faceN",
     "f_dresser_faceE"
   ],
-  "bg": ""
+  "flags": ["ALIGN_TO_TERRAIN"]
 }

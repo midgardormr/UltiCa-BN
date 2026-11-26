@@ -1,30 +1,21 @@
 {
   "id": "f_sink",
   "multitile": true,
-  "fg": "f_sink_unconnected",
+  "fg": ["bn_sink_faceS", "bn_sink_faceW", "bn_sink_faceN", "bn_sink_faceE"],
   "bg": "",
   "additional_tiles": [
-    { "id": "center", "bg": "", "fg": "f_sink_center" },
     {
-      "id": "corner",
-      "bg": "",
-      "fg": [ "f_sink_corner_nw", "f_sink_corner_ne", "f_sink_corner_se", "f_sink_corner_sw" ]
+      "id": "unconnected",
+      "fg": [ "bn_sink_faceS", "bn_sink_faceW", "bn_sink_faceN", "bn_sink_faceE" ]
     },
-    {
-      "id": "t_connection",
-      "bg": "",
-      "fg": [ "f_sink_t_connection_n", "f_sink_t_connection_e", "f_sink_t_connection_s", "f_sink_t_connection_w" ]
-    },
-    { "id": "edge", "bg": "", "fg": [ "f_sink_edge_ns", "f_sink_edge_ew" ] },
+    { "id": "edge", "fg": [ "bn_sink_faceW", "bn_sink_middle_faceS" ] },
+    {"id": "edge_reverse", "fg": ["bn_sink_faceE", "bn_sink_faceN"]},
     {
       "id": "end_piece",
-      "bg": "",
-      "fg": [ "f_sink_end_piece_n", "f_sink_end_piece_e", "f_sink_end_piece_s", "f_sink_end_piece_w" ]
+      "fg": [ "bn_sink_end_top_faceW", "bn_sink_end_left_faceS", "bn_sink_faceW", "bn_sink_end_right_faceS" ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": [ "f_sink_unconnected", "f_sink_unconnected", "f_sink_unconnected", "f_sink_unconnected" ]
-    }
-  ]
+    {"id": "end_piece_reverse", "fg": ["bn_sink_end_top_faceE", "bn_sink_end_left_faceN", "bn_sink_faceE", "bn_sink_end_right_faceN"]}
+  ],
+  "rotates": true,
+  "flags": ["ALIGN_TO_TERRAIN"]
 }

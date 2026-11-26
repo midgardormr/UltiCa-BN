@@ -8,12 +8,12 @@
       { "id": "center", "fg": "t_railroad_tie_edge_ns", "bg": "t_railroad_rubble_center" },
       {
         "id": "corner",
-        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_ne", "t_railroad_tie_corner_se", "t_railroad_tie_corner_sw" ],
+        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_sw", "t_railroad_tie_corner_se", "t_railroad_tie_corner_ne" ],
         "bg": "t_railroad_rubble_center"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_ne", "t_railroad_tie_corner_se", "t_railroad_tie_corner_sw" ],
+        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_sw", "t_railroad_tie_corner_se", "t_railroad_tie_corner_ne" ],
         "bg": "t_railroad_rubble_center"
       },
       { "id": "edge", "fg": [ "t_railroad_tie_edge_ns", "t_railroad_tie_edge_ew" ], "bg": "t_railroad_rubble_center" },
@@ -21,9 +21,9 @@
         "id": "end_piece",
         "fg": [
           "t_railroad_tie_end_piece_n",
-          "t_railroad_tie_end_piece_e",
+          "t_railroad_tie_end_piece_w",
           "t_railroad_tie_end_piece_s",
-          "t_railroad_tie_end_piece_w"
+          "t_railroad_tie_end_piece_e"
         ],
         "bg": "t_railroad_rubble_center"
       },
@@ -39,12 +39,12 @@
       { "id": "center", "fg": "t_railroad_tie_corner_ne", "bg": "t_railroad_rubble_center" },
       {
         "id": "corner",
-        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_ne", "t_railroad_tie_corner_se", "t_railroad_tie_corner_sw" ],
+        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_sw", "t_railroad_tie_corner_se", "t_railroad_tie_corner_ne" ],
         "bg": "t_railroad_rubble_center"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_nw", "t_railroad_tie_corner_se", "t_railroad_tie_corner_sw" ],
+        "fg": [ "t_railroad_tie_corner_nw", "t_railroad_tie_corner_sw", "t_railroad_tie_corner_se", "t_railroad_tie_corner_nw" ],
         "bg": "t_railroad_rubble_center"
       },
       {

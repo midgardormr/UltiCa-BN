@@ -1,5 +1,5 @@
 {
-  "id": "vp_ap_chest_freezer",
+  "id": [ "vp_ap_chest_freezer", "vp_freezer" ],
   "fg": "vp_ap_chest_freezer",
   "bg": "vp_ap_wall_wiring"
 }

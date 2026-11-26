@@ -1,6 +1,6 @@
 [
   {
-    "id": "vp_halfboard_hatch_wheel_left",
+    "id": [ "vp_halfboard_hatch_wheel_left", "vp_aluminum_halfboard_appearance_halfboard_hatch_wheel_left" ],
     "fg": [
       "vp_halfboard_hatch_wheel_left",
       "vp_halfboard_hatch_wheel_left_rotE",
@@ -17,12 +17,14 @@
           "vp_halfboard_hatch_wheel_left_rotE",
           "vp_halfboard_hatch_wheel_left_rotS",
           "vp_halfboard_hatch_wheel_left_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_64x64_x-16_y-32_09", "paint_mask_64x64_x-16_y-32_10", "paint_mask_64x64_x-16_y-32_11", "paint_mask_64x64_x-16_y-32_12"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_09", "paint_mask_64x64_x-16_y-32_10", "paint_mask_64x64_x-16_y-32_11", "paint_mask_64x64_x-16_y-32_12"]}]
   },
   {
-    "id": "vp_halfboard_hatch_wheel_right",
+    "id": [ "vp_halfboard_hatch_wheel_right", "vp_aluminum_halfboard_appearance_halfboard_hatch_wheel_right" ],
     "fg": [
       "vp_halfboard_hatch_wheel_right",
       "vp_halfboard_hatch_wheel_right_rotE",
@@ -39,8 +41,10 @@
           "vp_halfboard_hatch_wheel_right_rotE",
           "vp_halfboard_hatch_wheel_right_rotS",
           "vp_halfboard_hatch_wheel_right_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_64x64_x-16_y-32_13", "paint_mask_64x64_x-16_y-32_14", "paint_mask_64x64_x-16_y-32_15", "paint_mask_64x64_x-16_y-32_16"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_13", "paint_mask_64x64_x-16_y-32_14", "paint_mask_64x64_x-16_y-32_15", "paint_mask_64x64_x-16_y-32_16"]}]
   }
 ]

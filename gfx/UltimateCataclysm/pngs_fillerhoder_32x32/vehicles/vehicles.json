@@ -269,7 +269,7 @@
     ]
   },
   {
-    "id": "vp_roof",
+    "id": [ "vp_roof", "vp_roof_carbon", "vp_roof_wood" ],
     "fg": "1799_vp_roof_0",
     "multitile": true,
     "additional_tiles": [
@@ -466,7 +466,7 @@
   },
   {
     "id": "frame",
-    "fg": "98_vp_frame_wood_cross_0"
+    "fg": "bn_new_frame"
   },
   {
     "id": "hard_plate",

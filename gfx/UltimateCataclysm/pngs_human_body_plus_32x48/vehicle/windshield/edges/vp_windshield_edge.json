@@ -16,10 +16,12 @@
           "vp_windshield_horizontal_front_edge_rotE",
           "vp_windshield_horizontal_front_edge_rotS",
           "vp_windshield_horizontal_front_edge_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_178", "paint_mask_32x48_x0_y-16_179", "paint_mask_32x48_x0_y-16_180", "paint_mask_32x48_x0_y-16_181"]}]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_178", "paint_mask_32x48_x0_y-16_179", "paint_mask_32x48_x0_y-16_180", "paint_mask_32x48_x0_y-16_181"]}]
   },
   {
     "id": "vp_windshield_horizontal_rear_edge",
@@ -38,13 +40,15 @@
           "vp_windshield_rear_edge_rotE",
           "vp_windshield_rear_edge_rotS",
           "vp_windshield_rear_edge_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_182", "paint_mask_32x48_x0_y-16_183", "paint_mask_32x48_x0_y-16_184", "paint_mask_32x48_x0_y-16_185"]}]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_182", "paint_mask_32x48_x0_y-16_183", "paint_mask_32x48_x0_y-16_184", "paint_mask_32x48_x0_y-16_185"]}]
   },
   {
-    "id": "vp_windshield_nw_edge",
+    "id": [ "vp_windshield_nw_edge", "vp_halfboard_appearance_windshield_nw_edge", "vp_xlhalfboard_appearance_windshield_nw_edge" ],
     "fg": [
       "vp_windshield_nw_edge_rotN",
       "vp_windshield_nw_edge_rotE",
@@ -60,13 +64,15 @@
           "vp_windshield_nw_edge_rotE",
           "vp_windshield_nw_edge_rotS",
           "vp_windshield_nw_edge_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_186", "paint_mask_32x48_x0_y-16_187", "paint_mask_32x48_x0_y-16_188", "paint_mask_32x48_x0_y-16_189"]}]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_186", "paint_mask_32x48_x0_y-16_187", "paint_mask_32x48_x0_y-16_188", "paint_mask_32x48_x0_y-16_189"]}]
   },
   {
-    "id": "vp_windshield_ne_edge",
+    "id": [ "vp_windshield_ne_edge", "vp_halfboard_appearance_windshield_ne_edge", "vp_xlhalfboard_appearance_windshield_ne_edge" ],
     "fg": [
       "vp_windshield_ne_edge_rotN",
       "vp_windshield_ne_edge_rotE",
@@ -82,33 +88,39 @@
           "vp_windshield_ne_edge_rotE",
           "vp_windshield_ne_edge_rotS",
           "vp_windshield_ne_edge_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_190", "paint_mask_32x48_x0_y-16_191", "paint_mask_32x48_x0_y-16_192", "paint_mask_32x48_x0_y-16_193"]}]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_190", "paint_mask_32x48_x0_y-16_191", "paint_mask_32x48_x0_y-16_192", "paint_mask_32x48_x0_y-16_193"]}]
   },
   {
-    "id": "vp_windshield_sw_edge",
+    "id": [ "vp_windshield_sw_edge", "vp_board_appearance_windshield_sw_edge" ],
     "fg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotE", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
-        "bg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotE", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotW" ]
+        "bg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotE", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_113", "paint_mask_32x48_x0_y-16_114", "paint_mask_32x48_x0_y-16_115", "paint_mask_32x48_x0_y-16_116"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_113", "paint_mask_32x48_x0_y-16_114", "paint_mask_32x48_x0_y-16_115", "paint_mask_32x48_x0_y-16_116"]}]
   },
   {
-    "id": "vp_windshield_se_edge",
+    "id": [ "vp_windshield_se_edge", "vp_board_appearance_windshield_se_edge" ],
     "fg": [ "vp_halfboard_se", "vp_halfboard_se_rotE", "vp_halfboard_se_rotS", "vp_halfboard_se_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
-        "bg": [ "vp_halfboard_se", "vp_halfboard_se_rotE", "vp_halfboard_se_rotS", "vp_halfboard_se_rotW" ]
+        "bg": [ "vp_halfboard_se", "vp_halfboard_se_rotE", "vp_halfboard_se_rotS", "vp_halfboard_se_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_109", "paint_mask_32x48_x0_y-16_110", "paint_mask_32x48_x0_y-16_111", "paint_mask_32x48_x0_y-16_112"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_109", "paint_mask_32x48_x0_y-16_110", "paint_mask_32x48_x0_y-16_111", "paint_mask_32x48_x0_y-16_112"]}]
   }
 ]

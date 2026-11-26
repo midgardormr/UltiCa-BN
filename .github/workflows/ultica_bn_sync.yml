@@ -1,0 +1,96 @@
+name: Weekly BN upstream sync
+
+on:
+  schedule:
+    - cron: '17 7 * * 1' # Monday, 10:17 Moscow time
+  workflow_dispatch:
+  push:
+    branches: [ultica-bn]
+    paths:
+      - '.github/workflows/ultica_bn_sync.yml'
+      - 'tools/sync_bn_upstream.py'
+      - 'tools/tests/test_sync_bn_upstream.py'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: bn-upstream-sync
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tools/tests -p test_sync_bn_upstream.py
+
+  prepare:
+    needs: test
+    if: github.repository == 'midgardormr/UltiCa-BN' && github.ref == 'refs/heads/ultica-bn' && github.event_name != 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    outputs:
+      ready: ${{ steps.merge.outputs.ready }}
+      base_sha: ${{ steps.merge.outputs.base_sha }}
+      upstream_sha: ${{ steps.merge.outputs.upstream_sha }}
+      candidate_sha: ${{ steps.merge.outputs.candidate_sha }}
+      candidate_ref: ${{ steps.merge.outputs.candidate_ref }}
+      incoming: ${{ steps.merge.outputs.incoming }}
+      pr: ${{ steps.merge.outputs.pr }}
+      run_url: ${{ steps.merge.outputs.run_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Update mirror and prepare merge
+        id: merge
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SYNC_UPSTREAM: https://github.com/I-am-Erk/CDDA-Tilesets.git
+          SYNC_UPSTREAM_HEAD: I-am-Erk:master
+          SYNC_RUN_ID: ${{ github.run_id }}-${{ github.run_attempt }}
+          SYNC_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: python tools/sync_bn_upstream.py prepare --output "$RUNNER_TEMP/sync-plan.json"
+
+  build:
+    needs: prepare
+    if: needs.prepare.outputs.ready == 'true'
+    uses: ./.github/workflows/ultica_bn_ci_build.yml
+    permissions:
+      contents: write
+    with:
+      ref: ${{ needs.prepare.outputs.candidate_sha }}
+
+  finish:
+    needs: [prepare, build]
+    if: always() && needs.prepare.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Promote the checked commit or leave the PR open
+        id: promote
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SYNC_PLAN: ${{ toJSON(needs.prepare.outputs) }}
+          SYNC_BUILD_RESULT: ${{ needs.build.result }}
+        run: python tools/sync_bn_upstream.py finish
+      - name: Start the normal release build
+        if: steps.promote.outputs.promoted == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run ultica_bn_ci_build.yml --repo "$GITHUB_REPOSITORY" --ref ultica-bn

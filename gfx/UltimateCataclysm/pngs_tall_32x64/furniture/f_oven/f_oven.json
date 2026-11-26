@@ -3,9 +3,9 @@
   "rotates": true,
   "fg": [
     "oven_faceS",
-    "oven_faceE",
+    "oven_faceW",
     "oven_faceN",
-    "oven_faceW"
+    "oven_faceE"
   ],
-  "bg": ""
+  "flags": ["ALIGN_TO_TERRAIN"]
 }

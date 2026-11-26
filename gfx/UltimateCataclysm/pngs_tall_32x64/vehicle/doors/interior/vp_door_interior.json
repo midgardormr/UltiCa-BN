@@ -11,7 +11,8 @@
           "vp_door_interior_open_rotE",
           "vp_door_interior_rotS_open",
           "vp_door_interior_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_05", "paint_mask_32x64_x0_y-32_06", "paint_mask_32x64_x0_y-32_05", "paint_mask_32x64_x0_y-32_07"]}]
       },
       {
         "id": "broken",
@@ -21,9 +22,11 @@
           "vp_door_interior_open_rotE",
           "vp_door_interior_rotS_open",
           "vp_door_interior_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_05", "paint_mask_32x64_x0_y-32_06", "paint_mask_32x64_x0_y-32_05", "paint_mask_32x64_x0_y-32_07"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_01", "paint_mask_32x64_x0_y-32_02", "paint_mask_32x64_x0_y-32_03", "paint_mask_32x64_x0_y-32_04"]}]
   },
   {
     "id": "vp_door_internal_front",
@@ -37,7 +40,8 @@
           "vp_door_interior_front_open_rotE",
           "vp_door_interior_front_open_rotS",
           "vp_door_interior_front_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_12", "paint_mask_32x64_x0_y-32_13", "paint_mask_32x64_x0_y-32_14", "paint_mask_32x64_x0_y-32_15"]}]
       },
       {
         "id": "broken",
@@ -47,8 +51,10 @@
           "vp_door_interior_front_open_rotE",
           "vp_door_interior_front_open_rotS",
           "vp_door_interior_front_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_12", "paint_mask_32x64_x0_y-32_13", "paint_mask_32x64_x0_y-32_14", "paint_mask_32x64_x0_y-32_15"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_08", "paint_mask_32x64_x0_y-32_09", "paint_mask_32x64_x0_y-32_10", "paint_mask_32x64_x0_y-32_11"]}]
   }
 ]

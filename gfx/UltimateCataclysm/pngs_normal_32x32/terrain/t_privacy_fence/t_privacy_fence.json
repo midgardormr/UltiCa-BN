@@ -9,16 +9,16 @@
       {
         "id": "corner",
         "bg": "t_grass",
-        "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_ne", "t_privacy_fence_corner_se", "t_privacy_fence_corner_sw" ]
+        "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_sw", "t_privacy_fence_corner_se", "t_privacy_fence_corner_ne" ]
       },
       {
         "id": "t_connection",
         "bg": "t_grass",
         "fg": [
           "t_privacy_fence_t_connection_n",
-          "t_privacy_fence_t_connection_e",
+          "t_privacy_fence_t_connection_w",
           "t_privacy_fence_t_connection_s",
-          "t_privacy_fence_t_connection_w"
+          "t_privacy_fence_t_connection_e"
         ]
       },
       { "id": "edge", "bg": "t_grass", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ] },
@@ -27,9 +27,9 @@
         "bg": "t_grass",
         "fg": [
           "t_privacy_fence_end_piece_n",
-          "t_privacy_fence_end_piece_e",
+          "t_privacy_fence_end_piece_w",
           "t_privacy_fence_end_piece_s",
-          "t_privacy_fence_end_piece_w"
+          "t_privacy_fence_end_piece_e"
         ]
       },
       { "bg": "t_grass", "id": "unconnected", "fg": [ "t_privacy_fence_unconnected", "t_privacy_fence_unconnected" ] }
@@ -45,16 +45,16 @@
       {
         "id": "corner",
         "bg": "snow_shallow_center",
-        "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_ne", "t_privacy_fence_corner_se", "t_privacy_fence_corner_sw" ]
+        "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_sw", "t_privacy_fence_corner_se", "t_privacy_fence_corner_ne" ]
       },
       {
         "id": "t_connection",
         "bg": "snow_shallow_center",
         "fg": [
           "t_privacy_fence_t_connection_n",
-          "t_privacy_fence_t_connection_e",
+          "t_privacy_fence_t_connection_w",
           "t_privacy_fence_t_connection_s",
-          "t_privacy_fence_t_connection_w"
+          "t_privacy_fence_t_connection_e"
         ]
       },
       { "id": "edge", "bg": "snow_shallow_center", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ] },
@@ -63,9 +63,9 @@
         "bg": "snow_shallow_center",
         "fg": [
           "t_privacy_fence_end_piece_n",
-          "t_privacy_fence_end_piece_e",
+          "t_privacy_fence_end_piece_w",
           "t_privacy_fence_end_piece_s",
-          "t_privacy_fence_end_piece_w"
+          "t_privacy_fence_end_piece_e"
         ]
       },
       {

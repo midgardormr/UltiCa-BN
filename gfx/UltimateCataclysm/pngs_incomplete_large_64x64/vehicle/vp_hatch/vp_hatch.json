@@ -4,13 +4,17 @@
     "fg": [ "vp_hatch", "vp_hatch_rotE", "vp_hatch_rotS", "vp_hatch_rotW" ],
     "multitile": true,
     "additional_tiles": [
-      { "id": "open", "fg": [ "vp_hatch_open", "vp_hatch_open_rotE", "vp_hatch_open_rotS", "vp_hatch_open_rotW" ] },
+      { "id": "open", "fg": [ "vp_hatch_open", "vp_hatch_open_rotE", "vp_hatch_open_rotS", "vp_hatch_open_rotW" ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_40", "paint_mask_64x64_x-16_y-32_41", "paint_mask_64x64_x-16_y-32_42", "paint_mask_64x64_x-16_y-32_43"]}]
+       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large" ],
-        "bg": [ "vp_hatch_open", "vp_hatch_open_rotE", "vp_hatch_open_rotS", "vp_hatch_open_rotW" ]
+        "bg": [ "vp_hatch_open", "vp_hatch_open_rotE", "vp_hatch_open_rotS", "vp_hatch_open_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_64x64_x-16_y-32_40", "paint_mask_64x64_x-16_y-32_41", "paint_mask_64x64_x-16_y-32_42", "paint_mask_64x64_x-16_y-32_43"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_36", "paint_mask_64x64_x-16_y-32_37", "paint_mask_64x64_x-16_y-32_38", "paint_mask_64x64_x-16_y-32_39"]}]
   },
   {
     "id": "vp_hatch_opaque_front",
@@ -19,13 +23,16 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_hatch_opaque_open", "vp_hatch_opaque_open_rotE", "vp_hatch_opaque_open_rotS", "vp_hatch_opaque_open_rotW" ]
+        "fg": [ "vp_hatch_opaque_open", "vp_hatch_opaque_open_rotE", "vp_hatch_opaque_open_rotS", "vp_hatch_opaque_open_rotW" ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_47", "paint_mask_64x64_x-16_y-32_48", "paint_mask_64x64_x-16_y-32_49", "paint_mask_64x64_x-16_y-32_50"]}]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large" ],
-        "bg": [ "vp_hatch_opaque_open", "vp_hatch_opaque_open_rotE", "vp_hatch_opaque_open_rotS", "vp_hatch_opaque_open_rotW" ]
+        "bg": [ "vp_hatch_opaque_open", "vp_hatch_opaque_open_rotE", "vp_hatch_opaque_open_rotS", "vp_hatch_opaque_open_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_64x64_x-16_y-32_47", "paint_mask_64x64_x-16_y-32_48", "paint_mask_64x64_x-16_y-32_49", "paint_mask_64x64_x-16_y-32_50"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_17", "paint_mask_64x64_x-16_y-32_44", "paint_mask_64x64_x-16_y-32_45", "paint_mask_64x64_x-16_y-32_46"]}]
   }
 ]

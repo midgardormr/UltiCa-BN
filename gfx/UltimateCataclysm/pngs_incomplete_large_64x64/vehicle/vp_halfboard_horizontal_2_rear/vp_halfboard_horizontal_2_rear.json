@@ -17,8 +17,10 @@
           "vp_halfboard_horizontal_2_rear_rotE",
           "vp_halfboard_horizontal_2_rear_rotS",
           "vp_halfboard_horizontal_2_rear_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_64x64_x-16_y-32_17", "paint_mask_64x64_x-16_y-32_18", "paint_mask_64x64_x-16_y-32_19", "paint_mask_64x64_x-16_y-32_20"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_17", "paint_mask_64x64_x-16_y-32_18", "paint_mask_64x64_x-16_y-32_19", "paint_mask_64x64_x-16_y-32_20"]}]
   }
 ]

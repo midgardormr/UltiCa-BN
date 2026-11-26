@@ -27,9 +27,9 @@
         "bg": "field",
         "fg": [
           "t_water_moving_sh_corner_se",
-          "t_water_moving_sh_corner_sw",
+          "river_ne",
           "t_water_moving_sh_corner_nw",
-          "t_water_moving_sh_corner_ne"
+          "river_sw"
         ]
       },
       {
@@ -37,9 +37,9 @@
         "bg": "field",
         "fg": [
           "t_water_moving_sh_end_piece_n",
-          "t_water_moving_sh_end_piece_e",
+          "t_water_moving_sh_end_piece_w",
           "t_water_moving_sh_end_piece_s",
-          "t_water_moving_sh_end_piece_w"
+          "t_water_moving_sh_end_piece_e"
         ]
       }
     ]

@@ -1,0 +1,6664 @@
+[
+  {
+    "id": "101_carpentry",
+    "fg": "bn_book_101_carpentry"
+  },
+  {
+    "id": "1st_aid",
+    "fg": "bn_firstaid_1st_aid"
+  },
+  {
+    "id": "1st_aid_deluxe",
+    "fg": "bn_firstaid_1st_aid_deluxe"
+  },
+  {
+    "id": "1st_aid_ifak",
+    "fg": "bn_1st_aid_ifak"
+  },
+  {
+    "id": [
+      "2Story01_1",
+      "2Story02_1",
+      "2Story03_1",
+      "2StoryModern03_1",
+      "2StoryModern04_1_1",
+      "2StoryModern04_1_2",
+      "2StoryModern05_1",
+      "2StoryModern06_1",
+      "2storyModern01_first",
+      "2storyModern01_second",
+      "2storyModern02_1",
+      "3Story01_1",
+      "bungalow01_1",
+      "bungalow02_1",
+      "bungalow03",
+      "bungalow04",
+      "bungalow05",
+      "bungalow06",
+      "bungalow07",
+      "bungalow08",
+      "bungalow09",
+      "bungalow10",
+      "bungalow11",
+      "bungalow12",
+      "bungalow13",
+      "bungalow14",
+      "bungalow15",
+      "bungalow16",
+      "bungalow17",
+      "bungalow18",
+      "bungalow19",
+      "bungalow20",
+      "bungalow21",
+      "bungalow22",
+      "bungalow23",
+      "bungalow24",
+      "bungalow25",
+      "bungalow26",
+      "bungalow27",
+      "bungalow28",
+      "bungalow29",
+      "bungalow30",
+      "duplex",
+      "garden_house_1_floor_1",
+      "garden_house_1_floor_2",
+      "house_02",
+      "house_03",
+      "house_04",
+      "house_05",
+      "house_05ab",
+      "house_06",
+      "house_07",
+      "house_09",
+      "house_10",
+      "house_11",
+      "house_12",
+      "house_13",
+      "house_14",
+      "house_15",
+      "house_16",
+      "house_17",
+      "house_18",
+      "house_19",
+      "house_20",
+      "house_21",
+      "house_22",
+      "house_22ab",
+      "house_24",
+      "house_25",
+      "house_26",
+      "house_27",
+      "house_28",
+      "house_29",
+      "house_2story_base",
+      "house_2story_second",
+      "house_30",
+      "house_31",
+      "house_32",
+      "house_33",
+      "house_34",
+      "house_35",
+      "house_36",
+      "house_37",
+      "house_38",
+      "house_39",
+      "house_40",
+      "house_41",
+      "house_42",
+      "house_coop01_1",
+      "house_crack1",
+      "house_crack2",
+      "house_crack3",
+      "house_detatched1",
+      "house_detatched10",
+      "house_detatched4",
+      "house_detatched5",
+      "house_dogs",
+      "house_duplex10",
+      "house_duplex11",
+      "house_duplex2",
+      "house_duplex3",
+      "house_duplex4",
+      "house_duplex5",
+      "house_duplex6",
+      "house_duplex7",
+      "house_duplex8",
+      "house_duplex9",
+      "house_fence01",
+      "house_fence02_1",
+      "house_fence03",
+      "house_fence04",
+      "house_fence05_1",
+      "house_fence06_1",
+      "house_fence07_1",
+      "house_fence08_1",
+      "house_fence09_1",
+      "house_fence10_1",
+      "house_fortified",
+      "house_garage",
+      "house_garage2",
+      "house_garage3",
+      "house_garage4",
+      "house_garage5",
+      "house_garage6",
+      "house_garage7",
+      "house_inner_garden",
+      "house_library",
+      "house_modern_1",
+      "house_patio",
+      "house_porch",
+      "house_prepper",
+      "house_prepper2",
+      "house_quiverfull",
+      "house_rv",
+      "house_suicide",
+      "house_w_1",
+      "house_w_2",
+      "house_w_3",
+      "house_w_4",
+      "house_w_5",
+      "house_w_6",
+      "house_w_6_2ndfloor",
+      "house_wooded",
+      "rural_house1",
+      "rural_house2",
+      "urban_10_1",
+      "urban_10_2",
+      "urban_10_3",
+      "urban_10_4",
+      "urban_10_5",
+      "urban_10_6",
+      "urban_11_1",
+      "urban_11_2",
+      "urban_11_3",
+      "urban_11_4",
+      "urban_11_5",
+      "urban_11_6",
+      "urban_12_1",
+      "urban_12_2",
+      "urban_12_3",
+      "urban_12_4",
+      "urban_12_5",
+      "urban_12_6",
+      "urban_15_1",
+      "urban_15_2",
+      "urban_15_3",
+      "urban_15_4",
+      "urban_15_5",
+      "urban_15_6",
+      "urban_16_1",
+      "urban_16_2",
+      "urban_16_3",
+      "urban_16_4",
+      "urban_17_1",
+      "urban_17_2",
+      "urban_17_3",
+      "urban_17_4",
+      "urban_18_10",
+      "urban_18_3",
+      "urban_18_4",
+      "urban_18_5",
+      "urban_18_6",
+      "urban_18_7",
+      "urban_18_8",
+      "urban_18_9",
+      "urban_19_3",
+      "urban_19_4",
+      "urban_1_1",
+      "urban_1_3",
+      "urban_1_6",
+      "urban_20_3",
+      "urban_20_4",
+      "urban_21_1",
+      "urban_21_2",
+      "urban_22_1",
+      "urban_22_2",
+      "urban_40_1",
+      "urban_40_2",
+      "urban_7_1",
+      "urban_7_2",
+      "urban_7_3",
+      "urban_7_4",
+      "urban_7_5",
+      "urban_7_6",
+      "urban_8_1",
+      "urban_8_2",
+      "urban_8_3",
+      "urban_8_4",
+      "urban_8_6",
+      "urban_9_1",
+      "urban_9_2",
+      "urban_9_3",
+      "urban_9_4",
+      "urban_9_5",
+      "urban_9_6"
+    ],
+    "fg": [
+      "otr_house_1_faceN",
+      "otr_house_1_faceW",
+      "otr_house_1_faceS",
+      "otr_house_1_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "2Story01_2",
+      "2Story01_roof",
+      "2Story02_2",
+      "2Story02_roof",
+      "2Story03_2",
+      "2Story03_roof",
+      "2StoryModern03_2",
+      "2StoryModern03_roof",
+      "2StoryModern04_2_1",
+      "2StoryModern04_2_2",
+      "2StoryModern04_roof_1",
+      "2StoryModern04_roof_2",
+      "2StoryModern05_2",
+      "2StoryModern05_roof",
+      "2StoryModern06_2",
+      "2StoryModern06_roof",
+      "2storyModern01_roof",
+      "2storyModern02_2",
+      "2storyModern02_roof",
+      "3Story01_2",
+      "3Story01_3",
+      "3Story01_roof",
+      "bungalow01_roof",
+      "bungalow02_roof",
+      "bungalow03_roof",
+      "bungalow04_roof",
+      "bungalow05_roof",
+      "bungalow06_roof",
+      "bungalow07_roof",
+      "bungalow08_roof",
+      "bungalow09_roof",
+      "bungalow10_roof",
+      "bungalow11_roof",
+      "bungalow12_roof",
+      "bungalow13_roof",
+      "bungalow14_roof",
+      "bungalow15_roof",
+      "bungalow16_roof",
+      "bungalow17_roof",
+      "bungalow18_roof",
+      "bungalow19_roof",
+      "bungalow20_roof",
+      "bungalow21_roof",
+      "bungalow22_roof",
+      "bungalow23_roof",
+      "bungalow24_roof",
+      "bungalow25_roof",
+      "bungalow26_roof",
+      "bungalow27_roof",
+      "bungalow28_roof",
+      "bungalow29_roof",
+      "bungalow30_roof",
+      "duplex_roof",
+      "garden_house_1_roof",
+      "house_02_roof",
+      "house_03_roof",
+      "house_04_roof",
+      "house_09_roof",
+      "house_10_roof",
+      "house_11_roof",
+      "house_12_roof",
+      "house_13_roof",
+      "house_14_roof",
+      "house_15_roof",
+      "house_16_roof",
+      "house_17_roof",
+      "house_18_roof",
+      "house_19_roof",
+      "house_20_roof",
+      "house_21_roof",
+      "house_22_roof",
+      "house_24_roof",
+      "house_25_roof",
+      "house_26_roof",
+      "house_27_roof",
+      "house_28_roof",
+      "house_29_roof",
+      "house_2story_roof",
+      "house_30_roof",
+      "house_31_roof",
+      "house_32_roof",
+      "house_33_roof",
+      "house_coop01_roof",
+      "house_crack1_roof",
+      "house_crack3_roof",
+      "house_detatched10_roof",
+      "house_detatched1_roof",
+      "house_detatched4_roof",
+      "house_detatched5_roof",
+      "house_dogs_roof",
+      "house_duplex10_roof",
+      "house_duplex11_roof",
+      "house_duplex2_roof",
+      "house_duplex3_roof",
+      "house_duplex4_roof",
+      "house_duplex5_roof",
+      "house_duplex6_roof",
+      "house_duplex7_roof",
+      "house_duplex8_roof",
+      "house_duplex9_roof",
+      "house_fence01_roof",
+      "house_fence02_2",
+      "house_fence02_roof",
+      "house_fence03_roof",
+      "house_fence04_roof",
+      "house_fence05_2",
+      "house_fence05_roof",
+      "house_fence06_2",
+      "house_fence06_roof",
+      "house_fence07_2",
+      "house_fence07_3",
+      "house_fence07_roof",
+      "house_fence08_2",
+      "house_fence08_roof",
+      "house_fence09_2",
+      "house_fence09_roof",
+      "house_fence10_2",
+      "house_fence10_roof",
+      "house_fortified_roof",
+      "house_garage2_roof",
+      "house_garage3_roof",
+      "house_garage4_roof",
+      "house_garage5_roof",
+      "house_garage6_roof",
+      "house_garage7_roof",
+      "house_garage_roof",
+      "house_inner_garden_roof",
+      "house_modern_1_roof",
+      "house_patio_roof",
+      "house_porch_roof",
+      "house_prepper2_roof",
+      "house_roof",
+      "house_rv_roof",
+      "house_suicide_roof",
+      "house_w_1_roof",
+      "house_w_2_roof",
+      "house_w_3_roof",
+      "house_w_4_roof",
+      "house_w_5_roof",
+      "house_w_6_roof",
+      "rural_house1_roof",
+      "rural_house2_roof",
+      "urban_19_10",
+      "urban_19_11",
+      "urban_19_12",
+      "urban_19_5",
+      "urban_19_6",
+      "urban_19_7",
+      "urban_19_8",
+      "urban_19_9",
+      "urban_20_5",
+      "urban_20_6",
+      "urban_20_7",
+      "urban_20_8",
+      "urban_21_3",
+      "urban_21_4",
+      "urban_22_3",
+      "urban_22_4",
+      "urban_40_3",
+      "urban_40_4",
+      "urban_40_5",
+      "urban_40_6"
+    ],
+    "fg": [
+      "otr_house_1_faceN",
+      "otr_house_1_faceW",
+      "otr_house_1_faceS",
+      "otr_house_1_faceE"
+    ],
+    "bg": [
+      "open_air",
+      "open_air",
+      "open_air",
+      "open_air"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2Story02_basement",
+      "2StoryModern03_basement",
+      "2StoryModern05_basement",
+      "2StoryModern06_basement",
+      "2storyModern01_basement",
+      "2storyModern02_basement",
+      "3Story01_basement",
+      "basement",
+      "basement_bionic",
+      "basement_bionic_decoy",
+      "basement_chem",
+      "basement_chem2",
+      "basement_hidden_lab_stairs",
+      "basement_messed",
+      "basement_meth",
+      "basement_survival",
+      "basement_weed",
+      "bungalow26_basement",
+      "bungalow27_basement",
+      "bungalow28_basement",
+      "bungalow29_basement",
+      "bungalow30_basement",
+      "garden_house_1_basement",
+      "house_04_basement",
+      "house_05_basement",
+      "house_05ab_basement",
+      "house_10_basement",
+      "house_11_basement",
+      "house_12_basement",
+      "house_13_basement",
+      "house_14_basement",
+      "house_15_basement",
+      "house_16_basement",
+      "house_17_basement",
+      "house_19_basement",
+      "house_22_basement",
+      "house_2story_basement",
+      "house_33_basement",
+      "house_coop01_basement",
+      "house_crack3_basement",
+      "house_detatched1_basement",
+      "house_detatched4_basement",
+      "house_detatched5_basement",
+      "house_fence01_basement",
+      "house_fence03_basement",
+      "house_fence05_basement",
+      "house_fence06_basement",
+      "house_fence08_basement",
+      "house_fence09_basement",
+      "house_fence10_basement",
+      "house_fortified_basement",
+      "house_garage2_basement",
+      "house_garage3_basement",
+      "house_garage4_basement",
+      "house_garage5_basement",
+      "house_garage6_basement",
+      "house_garage7_basement",
+      "house_garage_basement",
+      "house_modern_1_basement",
+      "house_patio_basement",
+      "house_porch_basement",
+      "house_prepper2_basement",
+      "house_prepper_basement",
+      "house_rv_basement",
+      "house_w_1_basement",
+      "house_w_2_basement",
+      "house_w_3_basement",
+      "house_w_4_basement",
+      "house_w_5_basement",
+      "house_w_6_basement",
+      "rural_house2_basement"
+    ],
+    "fg": [
+      {
+        "sprite": "bn_basement_storage",
+        "weight": 1
+      },
+      {
+        "sprite": "bn_basement_workshop",
+        "weight": 1
+      },
+      {
+        "sprite": "bn_basement_laundry",
+        "weight": 1
+      }
+    ],
+    "rotates": false
+  },
+  {
+    "id": [
+      "2StoryModern04_basement_1",
+      "2StoryModern04_basement_2",
+      "urban_18_1",
+      "urban_18_2",
+      "urban_19_1",
+      "urban_19_2",
+      "urban_1_1_basement",
+      "urban_20_1",
+      "urban_20_2",
+      "urban_3_1_basement",
+      "urban_3_2_basement",
+      "urban_5_1_basement",
+      "urban_5_2_basement",
+      "urban_6_1_basement",
+      "urban_6_2_basement"
+    ],
+    "fg": [
+      "otr_house_1_faceN",
+      "otr_house_1_faceW",
+      "otr_house_1_faceS",
+      "otr_house_1_faceE"
+    ],
+    "bg": [
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2fmotel_1_f2",
+      "2fmotel_1_r",
+      "motel_1",
+      "motel_1_no_sidewalk",
+      "motel_1_roof"
+    ],
+    "fg": [
+      "bn_motel_q0_north",
+      "bn_motel_q0_west",
+      "bn_motel_q0_south",
+      "bn_motel_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2fmotel_2_f2",
+      "2fmotel_2_r",
+      "motel_2",
+      "motel_2_no_sidewalk",
+      "motel_2_roof"
+    ],
+    "fg": [
+      "bn_motel_q0_west",
+      "bn_motel_q2_west",
+      "bn_motel_q0_east",
+      "bn_motel_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2fmotel_3_f2",
+      "2fmotel_3_r",
+      "motel_3",
+      "motel_3_no_sidewalk",
+      "motel_3_roof"
+    ],
+    "fg": [
+      "bn_motel_q2_west",
+      "bn_motel_q3_west",
+      "bn_motel_q2_east",
+      "bn_motel_q3_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "2fmotel_entrance_f2",
+      "motel_entrance",
+      "motel_entrance_no_sidewalk",
+      "motel_entrance_roof"
+    ],
+    "fg": [
+      "bn_motel_q3_west",
+      "bn_motel_q0_north",
+      "bn_motel_q3_east",
+      "bn_motel_q0_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "2lcanteen",
+    "fg": "bn_2lcanteen"
+  },
+  {
+    "id": "3d_printer_advanced",
+    "fg": "bn_new_3d_printer_advanced"
+  },
+  {
+    "id": "3d_printer_advancedrig",
+    "fg": "bn_new_3d_printer_advancedrig"
+  },
+  {
+    "id": "3d_printer_basic",
+    "fg": "bn_new_3d_printer_basic"
+  },
+  {
+    "id": "3d_printer_basicrig",
+    "fg": "bn_new_3d_printer_basicrig"
+  },
+  {
+    "id": "40x46mm_casing",
+    "fg": "bn_40x46mm_casing"
+  },
+  {
+    "id": "40x53mm_casing",
+    "fg": "bn_40x53mm_casing"
+  },
+  {
+    "id": [
+      "Cemetery_1a",
+      "Cemetery_1b"
+    ],
+    "fg": "cemetery_small",
+    "rotates": false
+  },
+  {
+    "id": "ZSG",
+    "fg": "bn_book_ZSG"
+  },
+  {
+    "id": "acr",
+    "fg": "m16_auto_rifle_var_acr"
+  },
+  {
+    "id": "adderall",
+    "fg": "bn_adderall"
+  },
+  {
+    "id": "adrenaline_injector",
+    "fg": "bn_adrenaline_injector"
+  },
+  {
+    "id": "advanced_ecig",
+    "fg": "bn_advanced_ecig"
+  },
+  {
+    "id": "afs_blatant_half_life_reference",
+    "fg": "bn_new_afs_blatant_half_life_reference"
+  },
+  {
+    "id": "afs_librarian_book",
+    "fg": "bn_book_afs_librarian_book"
+  },
+  {
+    "id": "afs_metal_rig",
+    "fg": "bn_new_afs_metal_rig"
+  },
+  {
+    "id": "afs_titanium_foldable_frame",
+    "fg": "bn_new_afs_titanium_foldable_frame"
+  },
+  {
+    "id": "afs_titanium_frame",
+    "fg": "bn_new_afs_titanium_frame"
+  },
+  {
+    "id": "ai_module",
+    "fg": "bn_robot_ai_module"
+  },
+  {
+    "id": "ai_module_advanced",
+    "fg": "bn_robot_ai_module_advanced"
+  },
+  {
+    "id": "ai_module_basic",
+    "fg": "bn_robot_ai_module_basic"
+  },
+  {
+    "id": [
+      "airport_apron_3",
+      "airport_apron_6",
+      "marina_18",
+      "railroad_station_2_1",
+      "railroad_station_2_2",
+      "railroad_station_2_3",
+      "railroad_station_2_4",
+      "robofachq_surface_parking",
+      "s_restparking_1",
+      "s_restparking_2",
+      "state_park_1_0"
+    ],
+    "fg": [
+      "s_lot",
+      "bn_airport_apron_3_fg_1",
+      "s_lot",
+      "bn_airport_apron_3_fg_1"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "airport_hangar_roof_2",
+      "airport_hangar_roof_2_west",
+      "airport_hangar_roof_3",
+      "airport_hangar_roof_3_west"
+    ],
+    "fg": [
+      "smallhangar_ew",
+      "smallhangar_n",
+      "smallhangar_ew",
+      "smallhangar_s"
+    ],
+    "rotates": true,
+    "bg": [
+      "open_air",
+      "open_air",
+      "open_air",
+      "open_air"
+    ]
+  },
+  {
+    "id": [
+      "airport_runway_airliner_end",
+      "airport_runway_center",
+      "airport_runway_center_marked_0",
+      "airport_runway_center_marked_1",
+      "airport_runway_center_marked_2",
+      "airport_runway_center_marked_3",
+      "airport_runway_center_marked_4",
+      "airport_runway_center_marked_5",
+      "airport_runway_center_marked_6",
+      "airport_runway_center_marked_7",
+      "airport_runway_east",
+      "airport_runway_east_apron",
+      "airport_runway_east_marked_0",
+      "airport_runway_east_marked_1",
+      "airport_runway_east_marked_2",
+      "airport_runway_east_marked_3",
+      "airport_runway_east_marked_4",
+      "airport_runway_east_marked_5",
+      "airport_runway_east_marked_6",
+      "airport_runway_east_marked_7",
+      "airport_runway_west",
+      "airport_runway_west_marked_0",
+      "airport_runway_west_marked_1",
+      "airport_runway_west_marked_2",
+      "airport_runway_west_marked_3",
+      "airport_runway_west_marked_4",
+      "airport_runway_west_marked_5",
+      "airport_runway_west_marked_6",
+      "airport_runway_west_marked_7"
+    ],
+    "fg": [
+      "runway_ns",
+      "runway_ew"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "airport_support_2",
+      "airport_support_2_west",
+      "airport_support_3",
+      "airport_support_3_west"
+    ],
+    "fg": [
+      "smallhangar_ew",
+      "smallhangar_n",
+      "smallhangar_ew",
+      "smallhangar_s"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "airport_support_4_west",
+      "mil_base_7i"
+    ],
+    "fg": "helipad"
+  },
+  {
+    "id": [
+      "ak74",
+      "ak74_semi"
+    ],
+    "fg": "ak74_semi"
+  },
+  {
+    "id": "alchemy_basic",
+    "fg": "bn_book_alchemy_basic"
+  },
+  {
+    "id": "alexandrite",
+    "fg": "bn_mineral_alexandrite"
+  },
+  {
+    "id": "alohashirt",
+    "fg": "bn_alohashirt"
+  },
+  {
+    "id": "alumentum",
+    "fg": "bn_alumentum"
+  },
+  {
+    "id": "amethyst",
+    "fg": "bn_mineral_amethyst"
+  },
+  {
+    "id": "ammo_ballista_iron",
+    "fg": "bn_ammo_ballista_iron"
+  },
+  {
+    "id": "ammo_ballista_wood",
+    "fg": "bn_ammo_ballista_wood"
+  },
+  {
+    "id": "animal_blood",
+    "fg": "blood"
+  },
+  {
+    "id": "animal_blood_concentrate",
+    "fg": "bn_animal_blood_concentrate"
+  },
+  {
+    "id": "aquamarine",
+    "fg": "bn_mineral_aquamarine"
+  },
+  {
+    "id": [
+      "ar15",
+      "ar15_retool_300blk",
+      "modular_ar15"
+    ],
+    "fg": "modular_ar15"
+  },
+  {
+    "id": [
+      "ar_357sig",
+      "mkg_banshee",
+      "mkg_guard"
+    ],
+    "fg": "bn_mkg_guard"
+  },
+  {
+    "id": "arm_splint",
+    "fg": "bn_arm_splint"
+  },
+  {
+    "id": "arm_xlsplint",
+    "fg": "bn_arm_xlsplint"
+  },
+  {
+    "id": "armguard_bronze",
+    "fg": "bn_armguard_bronze"
+  },
+  {
+    "id": "armguard_hard",
+    "fg": "bn_armguard_hard"
+  },
+  {
+    "id": "armguard_lightplate",
+    "fg": "bn_armguard_lightplate"
+  },
+  {
+    "id": "armguard_lightplate_superalloy",
+    "fg": "bn_armguard_lightplate_superalloy"
+  },
+  {
+    "id": "armguard_lightplate_surv",
+    "fg": "bn_armguard_lightplate_surv"
+  },
+  {
+    "id": "armguard_lightplate_surv_superalloy",
+    "fg": "bn_armguard_lightplate_surv_superalloy"
+  },
+  {
+    "id": "armguard_metal",
+    "fg": "bn_armguard_metal"
+  },
+  {
+    "id": "armguard_scrap",
+    "fg": "bn_armguard_scrap"
+  },
+  {
+    "id": "atomic_coffeepot",
+    "fg": "bn_atomic_coffeepot"
+  },
+  {
+    "id": "atomic_soda_machine",
+    "fg": "bn_atomic_soda_machine"
+  },
+  {
+    "id": "auto_case",
+    "fg": "bn_new_auto_case"
+  },
+  {
+    "id": "backpack_leather",
+    "fg": "bn_backpack_leather"
+  },
+  {
+    "id": "badge_IRS",
+    "fg": "bn_badge_IRS"
+  },
+  {
+    "id": "badge_cybercop",
+    "fg": "bn_badge_cybercop"
+  },
+  {
+    "id": "badge_foodkid",
+    "fg": "bn_badge_foodkid"
+  },
+  {
+    "id": "baking_book",
+    "fg": "bn_book_baking_book"
+  },
+  {
+    "id": "bandit_cabin_roof",
+    "fg": [
+      "cabin_faceN",
+      "cabin_faceW",
+      "cabin_faceS",
+      "cabin_faceE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": [
+      "bank",
+      "bank_1",
+      "bank_roof",
+      "bank_roof_1"
+    ],
+    "fg": "bn_bank_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "bar",
+      "bar_1",
+      "bar_roof",
+      "bar_roof_1"
+    ],
+    "fg": "bn_bar_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "base_kitchen_knife",
+      "knife_butcher",
+      "knife_butcher_plus_one",
+      "knife_butcher_plus_two"
+    ],
+    "fg": "bn_kitchen_knife_butcher"
+  },
+  {
+    "id": "base_plastic_dish",
+    "fg": "bn_dish_base_plastic_dish"
+  },
+  {
+    "id": "beeper",
+    "fg": "bn_beeper"
+  },
+  {
+    "id": "bike_rack",
+    "fg": "bn_new_bike_rack"
+  },
+  {
+    "id": "binoculars",
+    "fg": "bn_binoculars"
+  },
+  {
+    "id": [
+      "biscuit",
+      "cookies"
+    ],
+    "fg": "cookies"
+  },
+  {
+    "id": "black_box_transcript",
+    "fg": "bn_book_black_box_transcript"
+  },
+  {
+    "id": "black_dragons",
+    "fg": "bn_book_black_dragons"
+  },
+  {
+    "id": "blank_card",
+    "fg": "bn_blank_card"
+  },
+  {
+    "id": "blue_topaz",
+    "fg": "bn_mineral_blue_topaz"
+  },
+  {
+    "id": "boat_rental",
+    "fg": "bn_new_boat_rental"
+  },
+  {
+    "id": "bone_knife",
+    "fg": "bn_oknife_bone_knife"
+  },
+  {
+    "id": "book_bloodmagic",
+    "fg": "bn_book_book_bloodmagic"
+  },
+  {
+    "id": "book_lockpick",
+    "fg": "bn_book_book_lockpick"
+  },
+  {
+    "id": "book_mythological",
+    "fg": "bn_book_book_mythological"
+  },
+  {
+    "id": "book_scrollcraft",
+    "fg": "bn_book_book_scrollcraft"
+  },
+  {
+    "id": "booklet_firstaid",
+    "fg": "bn_book_booklet_firstaid"
+  },
+  {
+    "id": "bottle_metal",
+    "fg": "bn_bottle_metal"
+  },
+  {
+    "id": "box_huge",
+    "fg": "bn_box_huge"
+  },
+  {
+    "id": "brass_metal",
+    "fg": "bn_brass_metal"
+  },
+  {
+    "id": "bridge_under",
+    "fg": [
+      "bn_bridge_support_ns",
+      "bn_bridge_support_ew",
+      "bn_bridge_support_ns",
+      "bn_bridge_support_ew"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "bulette_bullet_theory",
+    "fg": "bn_book_bulette_bullet_theory"
+  },
+  {
+    "id": "bullet_vibrator",
+    "fg": "bn_bullet_vibrator"
+  },
+  {
+    "id": "bullet_vibrator_on",
+    "fg": "bn_bullet_vibrator_on"
+  },
+  {
+    "id": [
+      "butchering_kit",
+      "butchering_kit_plus_one",
+      "butchering_kit_plus_two"
+    ],
+    "fg": "bn_kitchen_butchering_kit"
+  },
+  {
+    "id": "cabin_aban1",
+    "fg": "derelict_property",
+    "bg": "field"
+  },
+  {
+    "id": "camelbak",
+    "fg": "bn_camelbak"
+  },
+  {
+    "id": "can_bomb",
+    "fg": "bn_can_bomb"
+  },
+  {
+    "id": "can_bomb_act",
+    "fg": "bn_can_bomb_act"
+  },
+  {
+    "id": [
+      "candy3",
+      "candy3_weed"
+    ],
+    "fg": "bn_candy3"
+  },
+  {
+    "id": "canteen",
+    "fg": "bn_canteen"
+  },
+  {
+    "id": "car_headlight",
+    "fg": "bn_light_car_headlight"
+  },
+  {
+    "id": "car_wide_headlight",
+    "fg": "bn_light_car_wide_headlight"
+  },
+  {
+    "id": "carbon_armguard",
+    "fg": "bn_carbon_armguard"
+  },
+  {
+    "id": "carbon_buckler",
+    "fg": "bn_shield_carbon_buckler"
+  },
+  {
+    "id": "carbon_plate",
+    "fg": "bn_carbon_plate"
+  },
+  {
+    "id": "carbon_rifle",
+    "fg": "bn_carbon_rifle"
+  },
+  {
+    "id": "carbon_shield",
+    "fg": "bn_rshield_carbon_shield"
+  },
+  {
+    "id": "cards_magic",
+    "fg": "bn_cards_magic"
+  },
+  {
+    "id": "carpentry_book",
+    "fg": "bn_book_carpentry_book"
+  },
+  {
+    "id": "cave_rat",
+    "fg": "cave",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": "cemetery_4square_00",
+    "fg": [
+      "bn_cemetery_q0_north",
+      "bn_cemetery_q0_west",
+      "bn_cemetery_q0_south",
+      "bn_cemetery_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "cemetery_4square_01",
+    "fg": [
+      "bn_cemetery_q0_west",
+      "bn_cemetery_q0_south",
+      "bn_cemetery_q0_east",
+      "bn_cemetery_q0_north"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "cemetery_4square_10",
+    "fg": [
+      "bn_cemetery_q0_east",
+      "bn_cemetery_q0_north",
+      "bn_cemetery_q0_west",
+      "bn_cemetery_q0_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "cemetery_4square_11",
+    "fg": [
+      "bn_cemetery_q0_south",
+      "bn_cemetery_q0_east",
+      "bn_cemetery_q0_north",
+      "bn_cemetery_q0_west"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "central_lab_surface_parking",
+      "central_lab_surface_parking_center",
+      "golfcourse_30",
+      "lab_surface_brick_blockA0",
+      "lab_surface_brick_blockA1",
+      "lab_surface_brick_blockB0",
+      "lab_surface_brick_blockB1",
+      "lab_surface_brick_blockC0",
+      "lab_surface_brick_blockC1",
+      "lab_surface_brick_blockC2",
+      "lab_surface_brick_blockD0",
+      "lab_surface_brick_blockD1",
+      "lab_surface_brick_blockE0",
+      "lab_surface_brick_blockE1",
+      "lab_surface_parking_blockA0",
+      "lab_surface_parking_blockA1",
+      "lab_surface_parking_blockA2",
+      "lab_surface_parking_blockB0",
+      "lab_surface_parking_blockB1",
+      "lab_surface_parking_blockC0",
+      "lab_surface_parking_blockC1",
+      "lab_surface_parking_blockD0",
+      "lab_surface_parking_blockD1",
+      "lab_surface_parking_blockE0",
+      "lab_surface_parking_blockE1",
+      "lab_surface_parking_blockE2",
+      "mine_entrance_parking",
+      "parking_2x1_0",
+      "parking_2x1_1",
+      "parking_2x2_0_0",
+      "parking_2x2_0_1",
+      "parking_2x2_1_0",
+      "parking_2x2_1_1",
+      "parking_3x1_0",
+      "parking_3x1_1",
+      "parking_3x1_2",
+      "power_plant_small_1",
+      "s_lot_no_sidewalk",
+      "trailer_caravan_00",
+      "trailer_caravan_01",
+      "trailer_caravan_10",
+      "trailer_caravan_11"
+    ],
+    "fg": "s_lot",
+    "rotates": true
+  },
+  {
+    "id": "ceramic_knife",
+    "fg": "bn_ceramic_knife"
+  },
+  {
+    "id": "cereal2",
+    "fg": "bn_cereal2"
+  },
+  {
+    "id": "chem_ammonium_nitrate_pellets",
+    "fg": "bn_chem_ammonium_nitrate_pellets"
+  },
+  {
+    "id": "chem_potassium_alum",
+    "fg": "bn_chem_potassium_alum"
+  },
+  {
+    "id": [
+      "chem_potassium_chloride",
+      "chem_potassium_hydroxide"
+    ],
+    "fg": "bn_chem_potassium_chloride"
+  },
+  {
+    "id": "chem_rdx",
+    "fg": "bn_chem_rdx"
+  },
+  {
+    "id": "chemical_lab_ocu",
+    "fg": [
+      "cabin_faceN",
+      "cabin_faceW",
+      "cabin_faceS",
+      "cabin_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "chemical_lab_roof_ocu",
+    "fg": [
+      "cabin_faceN",
+      "cabin_faceW",
+      "cabin_faceS",
+      "cabin_faceE"
+    ],
+    "bg": [
+      "open_air",
+      "open_air",
+      "open_air",
+      "open_air"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "child_book",
+    "fg": "bn_book_child_book"
+  },
+  {
+    "id": "chitin_plate",
+    "fg": "bn_chitin_plate"
+  },
+  {
+    "id": "choc_waffles",
+    "fg": "bn_choc_waffles"
+  },
+  {
+    "id": "citrine",
+    "fg": "bn_mineral_citrine"
+  },
+  {
+    "id": "classic_literature",
+    "fg": "bn_book_classic_literature"
+  },
+  {
+    "id": "classified_file_docmission",
+    "fg": "bn_book_classified_file_docmission"
+  },
+  {
+    "id": "claw_bar",
+    "fg": "bn_claw_bar"
+  },
+  {
+    "id": "clay_canister",
+    "fg": "bn_clay_canister"
+  },
+  {
+    "id": "clay_pallet_done",
+    "fg": "bn_new_clay_pallet_done"
+  },
+  {
+    "id": "clay_pallet_full",
+    "fg": "bn_new_clay_pallet_full"
+  },
+  {
+    "id": "collector_book",
+    "fg": "bn_book_collector_book"
+  },
+  {
+    "id": "commune_prospectus",
+    "fg": "bn_book_commune_prospectus"
+  },
+  {
+    "id": "communitygarden_1",
+    "fg": "communitygarden",
+    "bg": "field"
+  },
+  {
+    "id": [
+      "communitygarden_2_roof",
+      "communitygarden_roof"
+    ],
+    "fg": "communitygarden",
+    "bg": "open_air"
+  },
+  {
+    "id": "computer_science",
+    "fg": "bn_book_computer_science"
+  },
+  {
+    "id": "concrete_book",
+    "fg": "bn_book_concrete_book"
+  },
+  {
+    "id": "contacts",
+    "fg": "contacts"
+  },
+  {
+    "id": "cookbook_human",
+    "fg": "bn_book_cookbook_human"
+  },
+  {
+    "id": "cookbook_indian",
+    "fg": "bn_book_cookbook_indian"
+  },
+  {
+    "id": "cooking_poison",
+    "fg": "bn_book_cooking_poison"
+  },
+  {
+    "id": [
+      "cotton_ball",
+      "disincotton_ball"
+    ],
+    "fg": "cotton_ball",
+    "bg": ""
+  },
+  {
+    "id": "crackers",
+    "fg": "crackers_centered"
+  },
+  {
+    "id": [
+      "craft_shop",
+      "craft_shop_1",
+      "craft_shop_2",
+      "craft_shop_3"
+    ],
+    "fg": "bn_craft_shop_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "cranberries",
+      "irradiated_cranberries"
+    ],
+    "fg": "bn_cranberries"
+  },
+  {
+    "id": "crt_armguard",
+    "fg": "bn_crt_armguard"
+  },
+  {
+    "id": "crt_canteen",
+    "fg": "bn_crt_canteen"
+  },
+  {
+    "id": "crt_good_med_kit",
+    "fg": "bn_firstaid_crt_good_med_kit"
+  },
+  {
+    "id": "crt_hatchet",
+    "fg": "bn_crt_hatchet"
+  },
+  {
+    "id": "crt_med_kit",
+    "fg": "bn_firstaid_crt_med_kit"
+  },
+  {
+    "id": "dairy_book",
+    "fg": "bn_book_dairy_book"
+  },
+  {
+    "id": "dairy_farm_isherwood_E",
+    "fg": [
+      "pasture_end_e",
+      "pasture_end_n",
+      "pasture_end_w",
+      "pasture_end_s"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "dairy_farm_isherwood_SE",
+      "horse_farm_7",
+      "horse_farm_isherwood_7"
+    ],
+    "fg": [
+      "barn_faceNS",
+      "barn_faceEW",
+      "barn_faceNS",
+      "barn_faceEW"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "dairy_farm_isherwood_SE_roof",
+    "fg": [
+      "barn_faceNS",
+      "barn_faceEW",
+      "barn_faceNS",
+      "barn_faceEW"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "dairy_farm_isherwood_SW",
+    "fg": [
+      "rural_house_faceS",
+      "rural_house_faceE",
+      "rural_house_faceN",
+      "rural_house_faceW"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "dairy_farm_isherwood_SW_roof",
+    "fg": [
+      "rural_house_faceS",
+      "rural_house_faceE",
+      "rural_house_faceN",
+      "rural_house_faceW"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "dairy_farm_isherwood_W",
+    "fg": [
+      "pasture_end_w",
+      "pasture_end_s",
+      "pasture_end_e",
+      "pasture_end_n"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "dam",
+      "dam_center_under",
+      "dam_under"
+    ],
+    "fg": [
+      "bn_dam_dam_under_north",
+      "bn_dam_dam_under_west",
+      "bn_dam_dam_under_south",
+      "bn_dam_dam_under_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "dam_road",
+    "fg": [
+      "bn_dam_dam_road_north",
+      "bn_dam_dam_road_west",
+      "bn_dam_dam_road_south",
+      "bn_dam_dam_road_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "damhead_ground",
+    "fg": [
+      "bn_dam_ground_north",
+      "bn_dam_ground_west",
+      "bn_dam_ground_south",
+      "bn_dam_ground_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "damhead_ramp",
+    "fg": [
+      "bn_dam_ramp_north",
+      "bn_dam_ramp_west",
+      "bn_dam_ramp_south",
+      "bn_dam_ramp_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "debug_active_relic_test",
+    "fg": "bn_debug_active_relic_test"
+  },
+  {
+    "id": "decoy_anarch",
+    "fg": "bn_book_decoy_anarch"
+  },
+  {
+    "id": "decoy_elfa",
+    "fg": "bn_book_decoy_elfa"
+  },
+  {
+    "id": "deluxe_beansnrice",
+    "fg": "bn_deluxe_beansnrice"
+  },
+  {
+    "id": "deluxe_rice",
+    "fg": "bn_deluxe_rice"
+  },
+  {
+    "id": "deluxe_veggy_beansnrice",
+    "fg": "bn_deluxe_veggy_beansnrice"
+  },
+  {
+    "id": "deluxe_veggy_rice",
+    "fg": "bn_deluxe_veggy_rice"
+  },
+  {
+    "id": "depowered_armor",
+    "fg": "bn_new_depowered_armor"
+  },
+  {
+    "id": "depowered_exo",
+    "fg": "bn_new_depowered_exo"
+  },
+  {
+    "id": [
+      "depowered_plating",
+      "depowered_plating_on"
+    ],
+    "fg": "bn_new_depowered_plating"
+  },
+  {
+    "id": "directed_floodlight",
+    "fg": "bn_light_directed_floodlight"
+  },
+  {
+    "id": [
+      "dirt_road",
+      "dirt_road_3way",
+      "dirt_road_3way_forest",
+      "dirt_road_4way",
+      "dirt_road_forest",
+      "dirt_road_turn",
+      "dirt_road_turn1",
+      "dirt_road_turn1_forest",
+      "dirt_road_turn_forest",
+      "dirtroad",
+      "rural_road_3way",
+      "rural_road_3way_forest",
+      "rural_road_turn",
+      "rural_road_turn1",
+      "rural_road_turn1_forest",
+      "rural_road_turn_forest"
+    ],
+    "fg": "dirt_road_unconnected",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "distilling_cookbook",
+    "fg": "bn_book_distilling_cookbook"
+  },
+  {
+    "id": "dnd_handbook",
+    "fg": "bn_book_dnd_handbook"
+  },
+  {
+    "id": "dragonblood_mutagen_solid",
+    "fg": "bn_dragonblood_mutagen_solid"
+  },
+  {
+    "id": "dried_salad",
+    "fg": "bn_dried_salad"
+  },
+  {
+    "id": "drivebelt_makeshift",
+    "fg": "bn_mpart_drivebelt_makeshift"
+  },
+  {
+    "id": "druid_dust",
+    "fg": "bn_druid_dust"
+  },
+  {
+    "id": [
+      "dry_beans",
+      "raw_beans"
+    ],
+    "fg": "dry_beans"
+  },
+  {
+    "id": "dry_rice",
+    "fg": "bn_rice_dry_rice"
+  },
+  {
+    "id": "dry_veggy",
+    "fg": "bn_veggy_dry_veggy"
+  },
+  {
+    "id": [
+      "egg_acrocanthosaurus",
+      "egg_albertosaurus",
+      "egg_allosaurus",
+      "egg_anzu",
+      "egg_appalachiosaurus",
+      "egg_ceratosaurus",
+      "egg_daspletosaurus",
+      "egg_deinonychus",
+      "egg_dilophosaurus",
+      "egg_dino_theropod",
+      "egg_dryptosaurus",
+      "egg_gallimimus",
+      "egg_gorgosaurus",
+      "egg_nanuqsaurus",
+      "egg_nothronychus",
+      "egg_ornithomimus",
+      "egg_qianzhousaurus",
+      "egg_siats",
+      "egg_struthiomimus",
+      "egg_torvosaurus",
+      "egg_utahraptor"
+    ],
+    "fg": "bn_egg_egg_dino"
+  },
+  {
+    "id": [
+      "egg_albertonykus",
+      "egg_coelophysis",
+      "egg_compsognathus",
+      "egg_dino_theropod_small",
+      "egg_dromaeosaurus",
+      "egg_saurornitholestes",
+      "egg_stenonychosaurus",
+      "egg_velociraptor"
+    ],
+    "fg": "bn_egg_egg_dino_small"
+  },
+  {
+    "id": [
+      "egg_bird",
+      "egg_bird_unfert"
+    ],
+    "fg": "bn_egg_egg_bird"
+  },
+  {
+    "id": [
+      "egg_dino_theropod_large",
+      "egg_spinosaurus",
+      "egg_tyrannosaurus"
+    ],
+    "fg": "bn_egg_egg_dino_large"
+  },
+  {
+    "id": "emerald",
+    "fg": "bn_mineral_emerald"
+  },
+  {
+    "id": "encyclopedia_arcana",
+    "fg": "bn_book_encyclopedia_arcana"
+  },
+  {
+    "id": [
+      "encyclopedia_archery",
+      "encyclopedia_archery_advance"
+    ],
+    "fg": "bn_book_encyclopedia_archery"
+  },
+  {
+    "id": [
+      "encyclopedia_barter",
+      "encyclopedia_barter_advance"
+    ],
+    "fg": "bn_book_encyclopedia_barter"
+  },
+  {
+    "id": [
+      "encyclopedia_bashing",
+      "encyclopedia_bashing_advance"
+    ],
+    "fg": "bn_book_encyclopedia_bashing"
+  },
+  {
+    "id": [
+      "encyclopedia_computer",
+      "encyclopedia_computer_advance"
+    ],
+    "fg": "bn_book_encyclopedia_computer"
+  },
+  {
+    "id": [
+      "encyclopedia_cooking",
+      "encyclopedia_cooking_advance"
+    ],
+    "fg": "bn_book_encyclopedia_cooking"
+  },
+  {
+    "id": [
+      "encyclopedia_cutting",
+      "encyclopedia_cutting_advance"
+    ],
+    "fg": "bn_book_encyclopedia_cutting"
+  },
+  {
+    "id": [
+      "encyclopedia_dodge",
+      "encyclopedia_dodge_advance"
+    ],
+    "fg": "bn_book_encyclopedia_dodge"
+  },
+  {
+    "id": [
+      "encyclopedia_driving",
+      "encyclopedia_driving_advance"
+    ],
+    "fg": "bn_book_encyclopedia_driving"
+  },
+  {
+    "id": [
+      "encyclopedia_electronics",
+      "encyclopedia_electronics_advance"
+    ],
+    "fg": "bn_book_encyclopedia_electronics"
+  },
+  {
+    "id": [
+      "encyclopedia_fabrication",
+      "encyclopedia_fabrication_advance"
+    ],
+    "fg": "bn_book_encyclopedia_fabrication"
+  },
+  {
+    "id": [
+      "encyclopedia_firstaid",
+      "encyclopedia_firstaid_advance"
+    ],
+    "fg": "bn_book_encyclopedia_firstaid"
+  },
+  {
+    "id": [
+      "encyclopedia_gun",
+      "encyclopedia_gun_advance"
+    ],
+    "fg": "bn_book_encyclopedia_gun"
+  },
+  {
+    "id": [
+      "encyclopedia_launcher",
+      "encyclopedia_launcher_advance"
+    ],
+    "fg": "bn_book_encyclopedia_launcher"
+  },
+  {
+    "id": [
+      "encyclopedia_mechanics",
+      "encyclopedia_mechanics_advance"
+    ],
+    "fg": "bn_book_encyclopedia_mechanics"
+  },
+  {
+    "id": [
+      "encyclopedia_melee",
+      "encyclopedia_melee_advance",
+      "encyclopedia_unarmed",
+      "encyclopedia_unarmed_advance"
+    ],
+    "fg": "bn_book_encyclopedia_melee"
+  },
+  {
+    "id": [
+      "encyclopedia_pistol",
+      "encyclopedia_pistol_advance"
+    ],
+    "fg": "bn_book_encyclopedia_pistol"
+  },
+  {
+    "id": [
+      "encyclopedia_rifle",
+      "encyclopedia_rifle_advance"
+    ],
+    "fg": "bn_book_encyclopedia_rifle"
+  },
+  {
+    "id": [
+      "encyclopedia_shotgun",
+      "encyclopedia_shotgun_advance"
+    ],
+    "fg": "bn_book_encyclopedia_shotgun"
+  },
+  {
+    "id": [
+      "encyclopedia_smg",
+      "encyclopedia_smg_advance"
+    ],
+    "fg": "bn_book_encyclopedia_smg"
+  },
+  {
+    "id": [
+      "encyclopedia_speech",
+      "encyclopedia_speech_advance"
+    ],
+    "fg": "bn_book_encyclopedia_speech"
+  },
+  {
+    "id": [
+      "encyclopedia_stabbing",
+      "encyclopedia_stabbing_advance"
+    ],
+    "fg": "bn_book_encyclopedia_stabbing"
+  },
+  {
+    "id": [
+      "encyclopedia_survival",
+      "encyclopedia_survival_advance"
+    ],
+    "fg": "bn_book_encyclopedia_survival"
+  },
+  {
+    "id": [
+      "encyclopedia_swimming",
+      "encyclopedia_swimming_advance"
+    ],
+    "fg": "bn_book_encyclopedia_swimming"
+  },
+  {
+    "id": [
+      "encyclopedia_tailor",
+      "encyclopedia_tailor_advance"
+    ],
+    "fg": "bn_book_encyclopedia_tailor"
+  },
+  {
+    "id": [
+      "encyclopedia_throw",
+      "encyclopedia_throw_advance"
+    ],
+    "fg": "bn_book_encyclopedia_throw"
+  },
+  {
+    "id": [
+      "encyclopedia_traps",
+      "encyclopedia_traps_advance"
+    ],
+    "fg": "bn_book_encyclopedia_traps"
+  },
+  {
+    "id": "engine_block_large",
+    "fg": "bn_eblock_engine_block_large"
+  },
+  {
+    "id": "engine_block_massive",
+    "fg": "bn_eblock_engine_block_massive"
+  },
+  {
+    "id": "engine_block_medium",
+    "fg": "bn_eblock_engine_block_medium"
+  },
+  {
+    "id": "engine_block_small",
+    "fg": "bn_eblock_engine_block_small"
+  },
+  {
+    "id": "engine_block_tiny",
+    "fg": "bn_eblock_engine_block_tiny"
+  },
+  {
+    "id": "essay_book",
+    "fg": "bn_book_essay_book"
+  },
+  {
+    "id": "estoc",
+    "fg": "bn_estoc"
+  },
+  {
+    "id": "evac_center_1",
+    "fg": [
+      "road_corner_nw",
+      "road_corner_sw",
+      "road_corner_se",
+      "road_corner_ne"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "evac_center_10",
+      "evac_center_11",
+      "evac_center_15",
+      "evac_center_16",
+      "evac_center_20",
+      "evac_center_6",
+      "mil_base_4b",
+      "mil_base_4c",
+      "mil_base_4d",
+      "mil_base_4e",
+      "mil_base_4g",
+      "mil_base_4h",
+      "mil_base_4i",
+      "mil_base_road_entrance",
+      "refctr_S3e",
+      "refctr_road"
+    ],
+    "fg": [
+      "road_edge_ns",
+      "road_edge_ew",
+      "road_edge_ns",
+      "road_edge_ew"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "evac_center_2",
+      "evac_center_22",
+      "evac_center_24",
+      "evac_center_3",
+      "evac_center_4",
+      "mil_base_5f",
+      "mil_base_5j",
+      "mil_base_6j",
+      "mil_base_7j"
+    ],
+    "fg": [
+      "road_edge_ew",
+      "road_edge_ns",
+      "road_edge_ew",
+      "road_edge_ns"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "evac_center_21",
+      "mil_base_4j"
+    ],
+    "fg": [
+      "road_corner_sw",
+      "road_corner_se",
+      "road_corner_ne",
+      "road_corner_nw"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "evac_center_23",
+      "retirement_community_13",
+      "retirement_community_30",
+      "retirement_community_9"
+    ],
+    "fg": [
+      "road_t_connection_n",
+      "road_t_connection_w",
+      "road_t_connection_s",
+      "road_t_connection_e"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "evac_center_25",
+    "fg": [
+      "road_corner_se",
+      "road_corner_ne",
+      "road_corner_nw",
+      "road_corner_sw"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "evac_center_5",
+    "fg": [
+      "road_corner_ne",
+      "road_corner_nw",
+      "road_corner_sw",
+      "road_corner_se"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "evil_invitation",
+    "fg": "bn_book_evil_invitation"
+  },
+  {
+    "id": "exosuit_survivor",
+    "fg": "bn_new_exosuit_survivor"
+  },
+  {
+    "id": "exosuit_survivor_on",
+    "fg": "bn_new_exosuit_survivor_on"
+  },
+  {
+    "id": "f_ladder",
+    "fg": "stepladder"
+  },
+  {
+    "id": "f_supercomputer",
+    "fg": [
+      {
+        "weight": 128,
+        "sprite": "f_LIXA_machinery_electronic"
+      },
+      {
+        "weight": 128,
+        "sprite": "f_LIXA_machinery_electronic_2"
+      }
+    ],
+    "bg": "t_thconc_floor_center_tall"
+  },
+  {
+    "id": "f_wool_mattress",
+    "fg": "f_floor_mattress"
+  },
+  {
+    "id": "fairy_tales",
+    "fg": "bn_book_fairy_tales"
+  },
+  {
+    "id": "fermenting_book",
+    "fg": "bn_book_fermenting_book"
+  },
+  {
+    "id": "fertilizer_commercial",
+    "fg": "bn_fertilizer_commercial"
+  },
+  {
+    "id": "filter_air_makeshift",
+    "fg": "bn_mpart_filter_air_makeshift"
+  },
+  {
+    "id": "filter_liquid_makeshift",
+    "fg": "bn_mpart_filter_liquid_makeshift"
+  },
+  {
+    "id": [
+      "fishing_pond_0_0",
+      "fishing_pond_0_1",
+      "fishing_pond_1_0",
+      "fishing_pond_1_1"
+    ],
+    "fg": [
+      "small_wooded_trail_2_rot_N",
+      "small_wooded_trail_2_rot_W",
+      "small_wooded_trail_2_rot_S",
+      "small_wooded_trail_2_rot_E"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "floodlight",
+    "fg": "bn_light_floodlight"
+  },
+  {
+    "id": [
+      "fn_fal",
+      "fn_fal_semi"
+    ],
+    "fg": "fn_fal_semi"
+  },
+  {
+    "id": "fold_orichalcum_frame",
+    "fg": "bn_new_fold_orichalcum_frame"
+  },
+  {
+    "id": [
+      "folded_inflatable_boat",
+      "inflatable_boat"
+    ],
+    "fg": "folded_inflatable_boat"
+  },
+  {
+    "id": "foldframe",
+    "fg": "bn_new_foldframe"
+  },
+  {
+    "id": "foldwoodframe",
+    "fg": "bn_new_foldwoodframe"
+  },
+  {
+    "id": "forest_aban1",
+    "fg": "forest",
+    "bg": "field"
+  },
+  {
+    "id": "forgerig",
+    "fg": "bn_new_forgerig"
+  },
+  {
+    "id": [
+      "fr_12",
+      "fr_22",
+      "fr_223",
+      "fr_3006",
+      "fr_308",
+      "fr_45",
+      "fr_50",
+      "fr_762",
+      "fr_762R",
+      "fr_9mm",
+      "receiver"
+    ],
+    "fg": "receiver"
+  },
+  {
+    "id": "frame_carbon",
+    "fg": "bn_new_frame_carbon"
+  },
+  {
+    "id": "frame_plastic",
+    "fg": "bn_new_frame_plastic"
+  },
+  {
+    "id": "frame_wood",
+    "fg": "bn_new_frame_wood"
+  },
+  {
+    "id": "frame_wood_deck",
+    "fg": "bn_new_frame_wood_deck"
+  },
+  {
+    "id": "frame_wood_light",
+    "fg": "bn_new_frame_wood_light"
+  },
+  {
+    "id": [
+      "fresh_fries",
+      "fries"
+    ],
+    "fg": "fresh_fries"
+  },
+  {
+    "id": "fruit_leather",
+    "fg": "bn_fruit_leather"
+  },
+  {
+    "id": "fur_collar",
+    "fg": "bn_fur_collar"
+  },
+  {
+    "id": "fuse",
+    "fg": "bn_fuse"
+  },
+  {
+    "id": "garnet",
+    "fg": "bn_mineral_garnet"
+  },
+  {
+    "id": "gatling_mech_laser_rebuilt",
+    "fg": "bn_gatling_mech_laser_rebuilt"
+  },
+  {
+    "id": "gatling_mech_laser_salvaged",
+    "fg": "bn_gatling_mech_laser_salvaged"
+  },
+  {
+    "id": "grahmcrackers",
+    "fg": "bn_grahmcrackers"
+  },
+  {
+    "id": "grenade_inferno",
+    "fg": "bn_grenade_inferno"
+  },
+  {
+    "id": "guidebook",
+    "fg": "bn_book_guidebook"
+  },
+  {
+    "id": "gun_module",
+    "fg": "bn_robot_gun_module"
+  },
+  {
+    "id": [
+      "h&k416a5",
+      "modular_m27_assault_rifle_var_modular_h&k416a5"
+    ],
+    "fg": "modular_m27_assault_rifle_var_modular_h&k416a5"
+  },
+  {
+    "id": "handmade_carbine",
+    "fg": "bn_handmade_carbine"
+  },
+  {
+    "id": "hardtack",
+    "fg": "bn_hardtack"
+  },
+  {
+    "id": "hdframe",
+    "fg": "bn_new_hdframe"
+  },
+  {
+    "id": "headlight_reinforced",
+    "fg": "bn_light_headlight_reinforced"
+  },
+  {
+    "id": [
+      "hk_ump45_retool_40",
+      "hk_ump45_retool_9mm"
+    ],
+    "fg": "modular_ump"
+  },
+  {
+    "id": "hockey_stick",
+    "fg": "bn_hockey_stick"
+  },
+  {
+    "id": "holo_cloak",
+    "fg": "bn_holo_cloak"
+  },
+  {
+    "id": "holybook_bible1",
+    "fg": "bn_book_holybook_bible1"
+  },
+  {
+    "id": "holybook_bible3",
+    "fg": "bn_book_holybook_bible3"
+  },
+  {
+    "id": [
+      "horse_farm_7_hayloft",
+      "horse_farm_7_roof",
+      "horse_farm_isherwood_7_hayloft",
+      "horse_farm_isherwood_7_roof"
+    ],
+    "fg": [
+      "barn_faceNS",
+      "barn_faceEW",
+      "barn_faceNS",
+      "barn_faceEW"
+    ],
+    "bg": [
+      "open_air",
+      "open_air",
+      "open_air",
+      "open_air"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "howto_computer",
+    "fg": "bn_book_howto_computer"
+  },
+  {
+    "id": "identification_module",
+    "fg": "bn_robot_identification_module"
+  },
+  {
+    "id": [
+      "industrial_center_parking_lot_1",
+      "industrial_center_parking_lot_2",
+      "marina_16",
+      "marina_17",
+      "marina_19",
+      "marina_20",
+      "mil_base_6f",
+      "mil_base_6g",
+      "mil_base_6h",
+      "mil_base_7g",
+      "mil_base_7h",
+      "mil_base_8f",
+      "mil_base_8g",
+      "mil_base_8h",
+      "retirement_community_14",
+      "retirement_community_27",
+      "retirement_community_33",
+      "retirement_community_8"
+    ],
+    "fg": [
+      "bn_airport_apron_3_fg_1",
+      "s_lot",
+      "bn_airport_apron_3_fg_1",
+      "s_lot"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "industrial_center_warehouse",
+      "mil_base_2g",
+      "mil_base_3g",
+      "municipal_reactor_ware"
+    ],
+    "fg": "warehouse"
+  },
+  {
+    "id": [
+      "industrial_center_warehouse_roof",
+      "mil_base_2g1",
+      "mil_base_3g1",
+      "mil_base_3g2"
+    ],
+    "fg": "warehouse",
+    "bg": "open_air"
+  },
+  {
+    "id": [
+      "irradiated_raspberries",
+      "raspberries"
+    ],
+    "fg": "bn_raspberries"
+  },
+  {
+    "id": [
+      "iv_mutagen",
+      "iv_mutagen_Horse",
+      "iv_mutagen_fox",
+      "iv_mutagen_raptor",
+      "target_iv_mutagen_eagleeyed"
+    ],
+    "fg": "bn_liquid_iv_mutagen"
+  },
+  {
+    "id": [
+      "iv_mutagen_Dragon",
+      "iv_mutagen_Golem",
+      "iv_mutagen_beast",
+      "iv_mutagen_mastodon",
+      "iv_mutagen_super_soldier"
+    ],
+    "fg": "bn_liquid_serum_red"
+  },
+  {
+    "id": "iv_mutagen_alpha",
+    "fg": "bn_liquid_serum_blood_red"
+  },
+  {
+    "id": [
+      "iv_mutagen_beargirl",
+      "iv_mutagen_ursine"
+    ],
+    "fg": "bn_liquid_serum_honey"
+  },
+  {
+    "id": [
+      "iv_mutagen_bird",
+      "iv_mutagen_harpy"
+    ],
+    "fg": "bn_liquid_serum_cyan"
+  },
+  {
+    "id": [
+      "iv_mutagen_bunnygirl",
+      "iv_mutagen_rabbit"
+    ],
+    "fg": "bn_liquid_serum_carrot"
+  },
+  {
+    "id": [
+      "iv_mutagen_cattle",
+      "iv_mutagen_cowgirl",
+      "iv_mutagen_elf",
+      "iv_mutagen_elfa",
+      "iv_mutagen_lamia",
+      "iv_mutagen_lizard",
+      "iv_mutagen_serpent",
+      "iv_mutagen_stego",
+      "iv_mutagen_tyrant"
+    ],
+    "fg": "bn_liquid_serum_light_green"
+  },
+  {
+    "id": [
+      "iv_mutagen_cephalopod",
+      "iv_mutagen_slime",
+      "iv_mutagen_slimegirl",
+      "iv_mutagen_troglobite"
+    ],
+    "fg": "bn_liquid_serum_charcoal"
+  },
+  {
+    "id": "iv_mutagen_chimera",
+    "fg": "bn_liquid_serum_iridescent"
+  },
+  {
+    "id": [
+      "iv_mutagen_doggirl",
+      "iv_mutagen_lupine"
+    ],
+    "fg": "bn_liquid_serum_white"
+  },
+  {
+    "id": [
+      "iv_mutagen_dryad",
+      "iv_mutagen_plant"
+    ],
+    "fg": "bn_liquid_serum_spinach"
+  },
+  {
+    "id": [
+      "iv_mutagen_feline",
+      "iv_mutagen_neko"
+    ],
+    "fg": "bn_liquid_serum_yellow"
+  },
+  {
+    "id": "iv_mutagen_fish",
+    "fg": "bn_liquid_serum_fish_foam"
+  },
+  {
+    "id": [
+      "iv_mutagen_insect",
+      "iv_mutagen_kitsune"
+    ],
+    "fg": "bn_liquid_serum_amber"
+  },
+  {
+    "id": "iv_mutagen_medical",
+    "fg": "bn_liquid_serum_coral"
+  },
+  {
+    "id": "iv_mutagen_migo",
+    "fg": "bn_liquid_serum_migo_lava"
+  },
+  {
+    "id": [
+      "iv_mutagen_mouse",
+      "iv_mutagen_mousegirl"
+    ],
+    "fg": "bn_liquid_serum_metallic_silver"
+  },
+  {
+    "id": "iv_mutagen_rat",
+    "fg": "bn_liquid_serum_beige"
+  },
+  {
+    "id": [
+      "iv_mutagen_spider",
+      "iv_mutagen_spidergirl"
+    ],
+    "fg": "bn_liquid_serum_pale_filaments"
+  },
+  {
+    "id": "iv_mutagen_vamp",
+    "fg": "bn_liquid_serum_vamp_silver"
+  },
+  {
+    "id": "iv_mutagen_wendigo",
+    "fg": "bn_liquid_serum_wendigo_flecks"
+  },
+  {
+    "id": "iv_purifier",
+    "fg": "bn_liquid_iv_purifier"
+  },
+  {
+    "id": [
+      "jar_clay_veggy_pickled",
+      "veggy_pickled"
+    ],
+    "fg": "bn_veggy_veggy_pickled"
+  },
+  {
+    "id": [
+      "jar_pickles_pickled",
+      "pickles_ferment"
+    ],
+    "fg": "bn_jar_pickles_pickled"
+  },
+  {
+    "id": "javelin",
+    "fg": "bn_javelin"
+  },
+  {
+    "id": "javelin_copper",
+    "fg": "bn_javelin_copper"
+  },
+  {
+    "id": [
+      "junkyard_1a",
+      "junkyard_1b",
+      "junkyard_2a",
+      "junkyard_2b",
+      "ws_biker_dump_0_0",
+      "ws_biker_dump_0_1",
+      "ws_biker_dump_0_2",
+      "ws_biker_dump_0_3",
+      "ws_biker_dump_1_0",
+      "ws_biker_dump_1_1",
+      "ws_biker_dump_1_2",
+      "ws_biker_dump_1_3",
+      "ws_biker_dump_2_0",
+      "ws_biker_dump_2_1",
+      "ws_biker_dump_2_2",
+      "ws_biker_dump_2_3",
+      "ws_biker_dump_3_0",
+      "ws_biker_dump_3_1",
+      "ws_biker_dump_3_2",
+      "ws_biker_dump_3_3"
+    ],
+    "fg": "dump",
+    "bg": "field"
+  },
+  {
+    "id": [
+      "junkyard_roof_1a",
+      "junkyard_roof_1b",
+      "ws_biker_dump_2_2_roof"
+    ],
+    "fg": "dump",
+    "bg": "open_air"
+  },
+  {
+    "id": "kevlar_plate",
+    "fg": "bn_kevlar_plate"
+  },
+  {
+    "id": "kilnrig",
+    "fg": "bn_new_kilnrig"
+  },
+  {
+    "id": "kimchi",
+    "fg": "bn_kimchi"
+  },
+  {
+    "id": "kimchi_raw",
+    "fg": "bn_kimchi_raw"
+  },
+  {
+    "id": "knife_bread",
+    "fg": "bn_kitchen_knife_bread"
+  },
+  {
+    "id": [
+      "knife_carving",
+      "knife_carving_plus_one",
+      "knife_carving_plus_two"
+    ],
+    "fg": "bn_kitchen_knife_carving"
+  },
+  {
+    "id": "knife_chef",
+    "fg": "bn_kitchen_knife_chef"
+  },
+  {
+    "id": [
+      "knife_meat_cleaver",
+      "knife_meat_cleaver_plus_one",
+      "knife_meat_cleaver_plus_two"
+    ],
+    "fg": "bn_kitchen_knife_meat_cleaver"
+  },
+  {
+    "id": "knife_paring",
+    "fg": "bn_kitchen_knife_paring"
+  },
+  {
+    "id": "knife_steak",
+    "fg": "bn_kitchen_knife_steak"
+  },
+  {
+    "id": "knife_stinger",
+    "fg": "bn_oknife_knife_stinger"
+  },
+  {
+    "id": "knife_tooth",
+    "fg": "bn_oknife_knife_tooth"
+  },
+  {
+    "id": "knife_triffid",
+    "fg": "bn_oknife_knife_triffid"
+  },
+  {
+    "id": "knife_vegetable_cleaver",
+    "fg": "bn_kitchen_knife_vegetable_cleaver"
+  },
+  {
+    "id": "l_HFPack",
+    "fg": "bn_leadworks_pack"
+  },
+  {
+    "id": "l_base_223",
+    "fg": "bn_l_base_223"
+  },
+  {
+    "id": "l_car_223",
+    "fg": "bn_l_car_223"
+  },
+  {
+    "id": "l_dsr_223",
+    "fg": "bn_l_dsr_223"
+  },
+  {
+    "id": "l_lmg_223",
+    "fg": "bn_l_lmg_223"
+  },
+  {
+    "id": "l_mbr_223",
+    "fg": "bn_l_mbr_223"
+  },
+  {
+    "id": "lab_surface_brick_block2A0",
+    "fg": "open_air"
+  },
+  {
+    "id": "large_stomach_sealed",
+    "fg": "bn_large_stomach_sealed"
+  },
+  {
+    "id": "leather_pouch",
+    "fg": "bn_new_leather_pouch"
+  },
+  {
+    "id": "light_emergency_blue",
+    "fg": "bn_light_light_emergency_blue"
+  },
+  {
+    "id": "light_emergency_red",
+    "fg": "bn_light_light_emergency_red"
+  },
+  {
+    "id": "light_emergency_white",
+    "fg": "bn_light_light_emergency_white"
+  },
+  {
+    "id": "light_grip",
+    "fg": "bn_light_grip"
+  },
+  {
+    "id": "llink",
+    "fg": "bn_new_llink"
+  },
+  {
+    "id": "lmil_armor",
+    "fg": "bn_new_lmil_armor"
+  },
+  {
+    "id": [
+      "lmoe_under",
+      "lmoe_under_safe"
+    ],
+    "fg": "lmoe",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": "lumbermill_dforest",
+    "fg": "forest",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "m16a4",
+    "fg": "m16a4"
+  },
+  {
+    "id": [
+      "m27iar",
+      "modular_m27_assault_rifle_var_modular_m27iar"
+    ],
+    "fg": "modular_m27_assault_rifle_var_modular_m27iar"
+  },
+  {
+    "id": [
+      "m4a1",
+      "modular_m4_carbine_var_modular_m4a1",
+      "oldguard_rifle"
+    ],
+    "fg": "modular_m4_carbine_var_modular_m4a1"
+  },
+  {
+    "id": "mag_barter",
+    "fg": "bn_book_mag_barter"
+  },
+  {
+    "id": "mag_bashing",
+    "fg": "bn_book_mag_bashing"
+  },
+  {
+    "id": "mag_carpentry",
+    "fg": "bn_book_mag_carpentry"
+  },
+  {
+    "id": "mag_cars",
+    "fg": "bn_book_mag_cars"
+  },
+  {
+    "id": "mag_comic",
+    "fg": "bn_book_mag_comic"
+  },
+  {
+    "id": "mag_computer",
+    "fg": "bn_book_mag_computer"
+  },
+  {
+    "id": "mag_cutting",
+    "fg": "bn_book_mag_cutting"
+  },
+  {
+    "id": "mag_dodge",
+    "fg": "bn_book_mag_dodge"
+  },
+  {
+    "id": "mag_dude",
+    "fg": "bn_book_mag_dude"
+  },
+  {
+    "id": "mag_firstaid",
+    "fg": "bn_book_mag_firstaid"
+  },
+  {
+    "id": "mag_gaming",
+    "fg": "bn_book_mag_gaming"
+  },
+  {
+    "id": "mag_melee",
+    "fg": "bn_book_mag_melee"
+  },
+  {
+    "id": "mag_porn",
+    "fg": "bn_book_mag_porn"
+  },
+  {
+    "id": "mag_stabbing",
+    "fg": "bn_book_mag_stabbing"
+  },
+  {
+    "id": "mag_throwing",
+    "fg": "bn_book_mag_throwing"
+  },
+  {
+    "id": "mag_tv",
+    "fg": "bn_book_mag_tv"
+  },
+  {
+    "id": "mag_unarmed",
+    "fg": "bn_book_mag_unarmed"
+  },
+  {
+    "id": "magic_armormaking",
+    "fg": "bn_book_magic_armormaking"
+  },
+  {
+    "id": "makeshift_headwrap",
+    "fg": "bn_makeshift_headwrap"
+  },
+  {
+    "id": "makeshift_sled_frame_item",
+    "fg": "bn_new_makeshift_sled_frame_item"
+  },
+  {
+    "id": [
+      "mall_a_10_roof",
+      "mall_a_19_roof"
+    ],
+    "fg": "road_center",
+    "bg": "open_air"
+  },
+  {
+    "id": [
+      "mall_a_11_roof",
+      "mall_a_12_roof",
+      "mall_a_23_roof",
+      "mall_a_24_roof",
+      "mall_a_25_roof",
+      "mall_a_26_roof",
+      "mall_a_29_roof",
+      "mall_a_30_roof",
+      "mall_a_35_roof",
+      "mall_a_38_roof",
+      "mall_a_3_roof",
+      "mall_a_42_roof",
+      "mall_a_44_roof",
+      "mall_a_49_roof",
+      "mall_a_4_roof",
+      "mall_a_50_roof",
+      "mall_a_51_roof",
+      "mall_a_56_roof",
+      "mall_a_5_roof",
+      "mall_a_62_roof",
+      "mall_a_65_roof",
+      "mall_a_66_roof",
+      "mall_a_67_roof",
+      "mall_a_69_roof",
+      "mall_a_70_roof",
+      "mall_a_71_roof"
+    ],
+    "fg": "mall_indoors",
+    "bg": "open_air"
+  },
+  {
+    "id": [
+      "mall_a_13_roof",
+      "mall_a_20_roof",
+      "mall_a_21_roof",
+      "mall_a_22_roof",
+      "mall_a_31_roof",
+      "mall_a_32_roof",
+      "mall_a_33_roof",
+      "mall_a_34_roof",
+      "mall_a_39_roof",
+      "mall_a_40_roof",
+      "mall_a_41_roof",
+      "mall_a_43_roof",
+      "mall_a_48_roof",
+      "mall_a_52_roof",
+      "mall_a_57_roof",
+      "mall_a_58_roof",
+      "mall_a_59_roof",
+      "mall_a_60_roof",
+      "mall_a_61_roof"
+    ],
+    "fg": "mall_window",
+    "bg": "open_air"
+  },
+  {
+    "id": [
+      "mall_a_14_roof",
+      "mall_a_47_roof",
+      "mall_a_53_roof",
+      "mall_a_68_roof"
+    ],
+    "fg": "mall_entrance",
+    "bg": "open_air"
+  },
+  {
+    "id": [
+      "mall_a_56_basement",
+      "mall_a_62_basement",
+      "mall_a_65_basement",
+      "mall_a_66_basement",
+      "mall_a_67_basement",
+      "mall_a_69_basement",
+      "mall_a_70_basement",
+      "mall_a_71_basement"
+    ],
+    "fg": "mall_indoors",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": [
+      "mall_a_57_basement",
+      "mall_a_58_basement",
+      "mall_a_59_basement",
+      "mall_a_60_basement",
+      "mall_a_61_basement"
+    ],
+    "fg": "mall_window",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": "mall_a_68_basement",
+    "fg": "mall_entrance",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": "mansion_+",
+    "fg": "mansion_CENTER",
+    "bg": "field_tall"
+  },
+  {
+    "id": "mansion_+_dn",
+    "fg": "mansion_CENTER",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": "mansion_+_up",
+    "fg": "mansion_CENTER",
+    "bg": "open_air"
+  },
+  {
+    "id": "mansion_c",
+    "fg": [
+      "mansion_NW",
+      "mansion_SW",
+      "mansion_SE",
+      "mansion_NE"
+    ],
+    "bg": [
+      "field_tall",
+      "field_tall",
+      "field_tall",
+      "field_tall"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "mansion_c_dn",
+    "fg": [
+      "mansion_NW",
+      "mansion_SW",
+      "mansion_SE",
+      "mansion_NE"
+    ],
+    "bg": "t_soil_center",
+    "rotates": true
+  },
+  {
+    "id": "mansion_c_up",
+    "fg": [
+      "mansion_NW",
+      "mansion_SW",
+      "mansion_SE",
+      "mansion_NE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "mansion_entry",
+    "fg": [
+      "mansion_N",
+      "mansion_W",
+      "mansion_S",
+      "mansion_E"
+    ],
+    "bg": [
+      "field_tall",
+      "field_tall",
+      "field_tall",
+      "field_tall"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_entry_dn",
+      "mansion_wild_dn"
+    ],
+    "fg": [
+      "mansion_N",
+      "mansion_W",
+      "mansion_S",
+      "mansion_E"
+    ],
+    "bg": "t_soil_center",
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_entry_up",
+      "mansion_wild_up"
+    ],
+    "fg": [
+      "mansion_N",
+      "mansion_W",
+      "mansion_S",
+      "mansion_E"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "mansion_t",
+    "fg": [
+      "mansion_S",
+      "mansion_E",
+      "mansion_N",
+      "mansion_W"
+    ],
+    "bg": [
+      "field_tall",
+      "field_tall",
+      "field_tall",
+      "field_tall"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "mansion_t_dn",
+    "fg": [
+      "mansion_S",
+      "mansion_E",
+      "mansion_N",
+      "mansion_W"
+    ],
+    "bg": "t_soil_center",
+    "rotates": true
+  },
+  {
+    "id": "mansion_t_up",
+    "fg": [
+      "mansion_S",
+      "mansion_E",
+      "mansion_N",
+      "mansion_W"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "manual_barbaran",
+    "fg": "bn_book_manual_barbaran"
+  },
+  {
+    "id": "manual_bashing",
+    "fg": "bn_book_manual_bashing"
+  },
+  {
+    "id": "manual_brawl",
+    "fg": "bn_book_manual_brawl"
+  },
+  {
+    "id": "manual_business",
+    "fg": "bn_book_manual_business"
+  },
+  {
+    "id": "manual_carpentry",
+    "fg": "bn_book_manual_carpentry"
+  },
+  {
+    "id": "manual_computers",
+    "fg": "bn_book_manual_computers"
+  },
+  {
+    "id": "manual_cutting",
+    "fg": "bn_book_manual_cutting"
+  },
+  {
+    "id": "manual_dodge",
+    "fg": "bn_book_manual_dodge"
+  },
+  {
+    "id": "manual_dodge_kid",
+    "fg": "bn_book_manual_dodge_kid"
+  },
+  {
+    "id": "manual_driving",
+    "fg": "bn_book_manual_driving"
+  },
+  {
+    "id": "manual_kickboxing",
+    "fg": "bn_book_manual_kickboxing"
+  },
+  {
+    "id": "manual_melee",
+    "fg": "bn_book_manual_melee"
+  },
+  {
+    "id": "manual_psionics_advan",
+    "fg": "bn_book_manual_psionics_advan"
+  },
+  {
+    "id": "manual_speech",
+    "fg": "bn_book_manual_speech"
+  },
+  {
+    "id": [
+      "manual_stabbing",
+      "textbook_bashing",
+      "textbook_brawl",
+      "textbook_cutting",
+      "textbook_melee",
+      "textbook_stabbing"
+    ],
+    "fg": "bn_book_manual_stabbing"
+  },
+  {
+    "id": "manual_throw",
+    "fg": "bn_book_manual_throw"
+  },
+  {
+    "id": "marlin_1894c",
+    "fg": "bn_marlin_1894c"
+  },
+  {
+    "id": "mask_filter",
+    "fg": "bn_respirator_mask_filter"
+  },
+  {
+    "id": "mask_halfsurvivor",
+    "fg": "bn_respirator_mask_halfsurvivor"
+  },
+  {
+    "id": "mask_ski",
+    "fg": "bn_mask_ski"
+  },
+  {
+    "id": "mask_ski_loose",
+    "fg": "bn_mask_ski_loose"
+  },
+  {
+    "id": "matrix_crystal_biokinesis",
+    "fg": "bn_mom_matrix_crystal_biokinesis"
+  },
+  {
+    "id": "matrix_crystal_clairsentience",
+    "fg": "bn_mom_matrix_crystal_clairsentience"
+  },
+  {
+    "id": "matrix_crystal_coruscating",
+    "fg": "bn_mom_matrix_crystal_coruscating"
+  },
+  {
+    "id": "matrix_crystal_drained",
+    "fg": "bn_mom_matrix_crystal_drained"
+  },
+  {
+    "id": "matrix_crystal_electrokinesis",
+    "fg": "bn_mom_matrix_crystal_electrokinesis"
+  },
+  {
+    "id": "matrix_crystal_photokinesis",
+    "fg": "bn_mom_matrix_crystal_photokinesis"
+  },
+  {
+    "id": "matrix_crystal_pyrokinesis",
+    "fg": "bn_mom_matrix_crystal_pyrokinesis"
+  },
+  {
+    "id": "matrix_crystal_telekinesis",
+    "fg": "bn_mom_matrix_crystal_telekinesis"
+  },
+  {
+    "id": "matrix_crystal_telepathy",
+    "fg": "bn_mom_matrix_crystal_telepathy"
+  },
+  {
+    "id": "matrix_crystal_teleportation",
+    "fg": "bn_mom_matrix_crystal_teleportation"
+  },
+  {
+    "id": "memory_module",
+    "fg": "bn_robot_memory_module"
+  },
+  {
+    "id": "metal_legends",
+    "fg": "bn_book_metal_legends"
+  },
+  {
+    "id": "microlab_rock_border",
+    "fg": "t_rock_center"
+  },
+  {
+    "id": [
+      "mil_base_1a",
+      "mil_base_1b",
+      "mil_base_1c",
+      "mil_base_1d",
+      "mil_base_1e",
+      "mil_base_1f",
+      "mil_base_1g",
+      "mil_base_1h",
+      "mil_base_1i",
+      "mil_base_1j",
+      "mil_base_1k",
+      "mil_base_2a",
+      "mil_base_2b",
+      "mil_base_2c",
+      "mil_base_2h",
+      "mil_base_2i",
+      "mil_base_2j",
+      "mil_base_2k",
+      "mil_base_3a",
+      "mil_base_3b",
+      "mil_base_3c",
+      "mil_base_3j",
+      "mil_base_3k",
+      "mil_base_4k",
+      "mil_base_5b",
+      "mil_base_5d",
+      "mil_base_5k",
+      "mil_base_6b",
+      "mil_base_6d",
+      "mil_base_6k",
+      "mil_base_7b",
+      "mil_base_7d",
+      "mil_base_7k",
+      "mil_base_8a",
+      "mil_base_8b",
+      "mil_base_8c",
+      "mil_base_8d",
+      "mil_base_8j",
+      "mil_base_8k"
+    ],
+    "fg": "field"
+  },
+  {
+    "id": "mil_base_3i",
+    "fg": "radio_tower_1",
+    "bg": "field_tall"
+  },
+  {
+    "id": [
+      "mil_base_3i1",
+      "mil_base_3i2",
+      "mil_base_3i3",
+      "mil_base_3i4",
+      "radio_tower_even_stair_only"
+    ],
+    "fg": "radio_tower_1",
+    "bg": "open_air_tall"
+  },
+  {
+    "id": [
+      "mil_base_4a",
+      "mil_base_4f"
+    ],
+    "fg": [
+      "road_t_connection_w",
+      "road_t_connection_s",
+      "road_t_connection_e",
+      "road_t_connection_n"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "millyficents_diary",
+    "fg": "bn_book_millyficents_diary"
+  },
+  {
+    "id": "mod_flamethrower_nozzle",
+    "fg": "bn_eblock_mod_flamethrower_nozzle"
+  },
+  {
+    "id": "mon_afs_headless_zombie",
+    "fg": [
+      {
+        "weight": 100,
+        "sprite": "zombie_headless_f"
+      },
+      {
+        "weight": 100,
+        "sprite": "zombie_headless_m"
+      }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_fungal_cat",
+    "fg": "bn_mon_fungal_cat",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_fungal_cougar",
+    "fg": "bn_mon_fungal_cougar",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_fungal_cow",
+    "fg": "bn_mon_fungal_cow",
+    "bg": "shadow_64x64_medium"
+  },
+  {
+    "id": "mon_fungal_coyote",
+    "fg": "bn_mon_fungal_coyote",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_fungal_dog",
+    "fg": "bn_mon_fungal_dog",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_fungal_wolf",
+    "fg": "bn_mon_fungal_wolf",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_shrieker",
+    "fg": "bn_mon_shrieker",
+    "bg": "shadow_32x64_normal"
+  },
+  {
+    "id": "mon_zombie_nurse",
+    "fg": "bn_mon_zombie_nurse"
+  },
+  {
+    "id": "mon_zombie_soldier_camo_1",
+    "fg": "bn_mon_zombie_soldier_camo_1"
+  },
+  {
+    "id": "mon_zombie_surgeon",
+    "fg": "bn_mon_zombie_surgeon"
+  },
+  {
+    "id": "motorcycle_headlight",
+    "fg": "bn_light_motorcycle_headlight"
+  },
+  {
+    "id": [
+      "mre_asianbeef",
+      "mre_bbqbeef",
+      "mre_beef",
+      "mre_beefstew",
+      "mre_beeftaco",
+      "mre_cheesetort",
+      "mre_chicken",
+      "mre_chickenburritobowl",
+      "mre_chickennoodle",
+      "mre_chickenpesto",
+      "mre_chilibeans",
+      "mre_chilimac",
+      "mre_hashbrownbacon",
+      "mre_hotdog",
+      "mre_lemontuna",
+      "mre_macaronimarinara",
+      "mre_maplesausage",
+      "mre_meatball",
+      "mre_mexicanchickenstew",
+      "mre_mushroomfettuccine",
+      "mre_omelette",
+      "mre_pepperjackbeef",
+      "mre_ravioli",
+      "mre_southwestbeef",
+      "mre_spaghetti",
+      "mre_veggy"
+    ],
+    "fg": "bn_mre_meal_pouch"
+  },
+  {
+    "id": [
+      "mre_asianbeef_box",
+      "mre_bbqbeef_box",
+      "mre_beef_box",
+      "mre_beefstew_box",
+      "mre_beeftaco_box",
+      "mre_cheesetort_box",
+      "mre_chicken_box",
+      "mre_chickenburritobowl_box",
+      "mre_chickennoodle_box",
+      "mre_chickenpesto_box",
+      "mre_chilibeans_box",
+      "mre_chilimac_box",
+      "mre_hashbrownbacon_box",
+      "mre_hotdog_box",
+      "mre_lemontuna_box",
+      "mre_macaronimarinara_box",
+      "mre_maplesausage_box",
+      "mre_meatball_box",
+      "mre_mexicanchickenstew_box",
+      "mre_mushroomfettuccine_box",
+      "mre_omelette_box",
+      "mre_pepperjackbeef_box",
+      "mre_ravioli_box",
+      "mre_southwestbeef_box",
+      "mre_spaghetti_box",
+      "mre_veggy_box"
+    ],
+    "fg": "bn_mre_outer_pouch"
+  },
+  {
+    "id": "municipal_reactor_ware_b",
+    "fg": "warehouse",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": "mushroom_culture",
+    "fg": "bn_mushroom_culture"
+  },
+  {
+    "id": "mushroom_morel_culture",
+    "fg": "bn_mushroom_morel_culture"
+  },
+  {
+    "id": [
+      "mutagen",
+      "mutagen_Horse",
+      "mutagen_alpha",
+      "mutagen_beargirl",
+      "mutagen_beast",
+      "mutagen_bird",
+      "mutagen_bunnygirl",
+      "mutagen_cattle",
+      "mutagen_cephalopod",
+      "mutagen_chimera",
+      "mutagen_cowgirl",
+      "mutagen_doggirl",
+      "mutagen_dryad",
+      "mutagen_elf",
+      "mutagen_elfa",
+      "mutagen_feline",
+      "mutagen_fish",
+      "mutagen_fox",
+      "mutagen_harpy",
+      "mutagen_insect",
+      "mutagen_kitsune",
+      "mutagen_lamia",
+      "mutagen_lizard",
+      "mutagen_lupine",
+      "mutagen_mastodon",
+      "mutagen_medical",
+      "mutagen_mouse",
+      "mutagen_mousegirl",
+      "mutagen_neko",
+      "mutagen_plant",
+      "mutagen_rabbit",
+      "mutagen_raptor",
+      "mutagen_rat",
+      "mutagen_serpent",
+      "mutagen_slime",
+      "mutagen_slimegirl",
+      "mutagen_spider",
+      "mutagen_spidergirl",
+      "mutagen_stego",
+      "mutagen_troglobite",
+      "mutagen_ursine",
+      "mutagen_vamp",
+      "mutagen_wendigo"
+    ],
+    "fg": "bn_liquid_mutagen"
+  },
+  {
+    "id": [
+      "mutagen_Dragon",
+      "mutagen_Golem"
+    ],
+    "fg": "bn_liquid_mutagen_light_red"
+  },
+  {
+    "id": "mutagen_jabberblood",
+    "fg": "bn_liquid_mutagen_jabberblood_bubbles"
+  },
+  {
+    "id": "mutagen_migo",
+    "fg": "bn_liquid_mutagen_migo_orange"
+  },
+  {
+    "id": "mutagen_tyrant",
+    "fg": "bn_liquid_mutagen_tyrant_streaks"
+  },
+  {
+    "id": "necro_basic",
+    "fg": "bn_book_necro_basic"
+  },
+  {
+    "id": [
+      "necropolis_a_1",
+      "necropolis_a_18",
+      "necropolis_a_27",
+      "necropolis_a_3",
+      "necropolis_a_36",
+      "necropolis_a_4",
+      "necropolis_a_45",
+      "necropolis_a_72",
+      "necropolis_a_73",
+      "necropolis_a_80",
+      "necropolis_a_81",
+      "necropolis_a_9"
+    ],
+    "fg": "field",
+    "rotates": false
+  },
+  {
+    "id": "necropolis_a_10",
+    "fg": [
+      "otr_house_1_faceW",
+      "otr_house_1_faceS",
+      "otr_house_1_faceE",
+      "otr_house_1_faceN"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_a_11",
+      "necropolis_a_15",
+      "necropolis_a_31",
+      "necropolis_a_47",
+      "necropolis_a_50",
+      "necropolis_a_53",
+      "necropolis_a_59",
+      "necropolis_a_6",
+      "necropolis_a_62",
+      "necropolis_a_77"
+    ],
+    "fg": [
+      "road_edge_ns",
+      "road_edge_ew",
+      "road_edge_ns",
+      "road_edge_ew"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": [
+      "necropolis_a_14",
+      "necropolis_a_35",
+      "necropolis_a_38"
+    ],
+    "fg": "t_pit_unconnected",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": [
+      "necropolis_a_16",
+      "necropolis_a_17"
+    ],
+    "fg": "police"
+  },
+  {
+    "id": [
+      "necropolis_a_19",
+      "necropolis_a_56",
+      "necropolis_a_58",
+      "necropolis_a_60",
+      "necropolis_a_61",
+      "necropolis_a_76"
+    ],
+    "fg": "s_lot",
+    "rotates": false
+  },
+  {
+    "id": "necropolis_a_2",
+    "fg": [
+      "otr_house_1_faceS",
+      "otr_house_1_faceE",
+      "otr_house_1_faceN",
+      "otr_house_1_faceW"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "necropolis_a_20",
+    "fg": [
+      "road_corner_sw",
+      "road_corner_se",
+      "road_corner_ne",
+      "road_corner_nw"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": [
+      "necropolis_a_21",
+      "necropolis_a_23",
+      "necropolis_a_25",
+      "necropolis_a_39",
+      "necropolis_a_42",
+      "necropolis_a_43",
+      "necropolis_a_64",
+      "necropolis_a_66",
+      "necropolis_a_67",
+      "necropolis_a_69",
+      "necropolis_a_70"
+    ],
+    "fg": [
+      "road_edge_ew",
+      "road_edge_ns",
+      "road_edge_ew",
+      "road_edge_ns"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": [
+      "necropolis_a_22",
+      "necropolis_a_41"
+    ],
+    "fg": [
+      "road_t_connection_n",
+      "road_t_connection_w",
+      "road_t_connection_s",
+      "road_t_connection_e"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": [
+      "necropolis_a_24",
+      "necropolis_a_40",
+      "necropolis_a_65"
+    ],
+    "fg": [
+      "road_t_connection_s",
+      "road_t_connection_e",
+      "road_t_connection_n",
+      "road_t_connection_w"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": "necropolis_a_26",
+    "fg": [
+      "road_corner_ne",
+      "road_corner_nw",
+      "road_corner_sw",
+      "road_corner_se"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": "necropolis_a_30",
+    "fg": "park_tall",
+    "bg": "field_tall",
+    "rotates": false
+  },
+  {
+    "id": "necropolis_a_44",
+    "fg": [
+      "road_t_connection_e",
+      "road_t_connection_n",
+      "road_t_connection_w",
+      "road_t_connection_s"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": "necropolis_a_5",
+    "fg": "abstorefront",
+    "rotates": false
+  },
+  {
+    "id": [
+      "necropolis_a_54",
+      "necropolis_a_63"
+    ],
+    "fg": [
+      "otr_house_1_faceE",
+      "otr_house_1_faceN",
+      "otr_house_1_faceW",
+      "otr_house_1_faceS"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "necropolis_a_68",
+    "fg": [
+      "road_center",
+      "road_center",
+      "road_center",
+      "road_center"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": "necropolis_a_71",
+    "fg": [
+      "road_corner_se",
+      "road_corner_ne",
+      "road_corner_nw",
+      "road_corner_sw"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": [
+      "necropolis_a_75",
+      "s_restaurant_fast",
+      "s_restaurant_fast_1"
+    ],
+    "fg": "s_diner"
+  },
+  {
+    "id": "necropolis_a_78",
+    "fg": [
+      "gas_small_faceW",
+      "gas_small_faceS",
+      "gas_small_faceE",
+      "gas_small_faceN"
+    ],
+    "rotates": true,
+    "bg": [
+      "field",
+      "field",
+      "field",
+      "field"
+    ]
+  },
+  {
+    "id": [
+      "necropolis_b_1",
+      "necropolis_b_13",
+      "necropolis_b_14",
+      "necropolis_b_16",
+      "necropolis_b_18",
+      "necropolis_b_19",
+      "necropolis_b_27",
+      "necropolis_b_30",
+      "necropolis_b_32",
+      "necropolis_b_33",
+      "necropolis_b_36",
+      "necropolis_b_4",
+      "necropolis_b_45",
+      "necropolis_b_52",
+      "necropolis_b_55",
+      "necropolis_b_60",
+      "necropolis_b_61",
+      "necropolis_b_72",
+      "necropolis_b_73",
+      "necropolis_b_75",
+      "necropolis_b_76",
+      "necropolis_b_80",
+      "necropolis_b_81",
+      "necropolis_b_9"
+    ],
+    "fg": "t_rock_center",
+    "rotates": false
+  },
+  {
+    "id": "necropolis_b_10",
+    "fg": [
+      "otr_house_1_faceW",
+      "otr_house_1_faceS",
+      "otr_house_1_faceE",
+      "otr_house_1_faceN"
+    ],
+    "bg": [
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_11",
+      "necropolis_b_15",
+      "necropolis_b_20",
+      "necropolis_b_21",
+      "necropolis_b_22",
+      "necropolis_b_24",
+      "necropolis_b_25",
+      "necropolis_b_31",
+      "necropolis_b_38",
+      "necropolis_b_39",
+      "necropolis_b_40",
+      "necropolis_b_41",
+      "necropolis_b_43",
+      "necropolis_b_47",
+      "necropolis_b_48",
+      "necropolis_b_49",
+      "necropolis_b_50",
+      "necropolis_b_53",
+      "necropolis_b_56",
+      "necropolis_b_58",
+      "necropolis_b_59",
+      "necropolis_b_6",
+      "necropolis_b_62",
+      "necropolis_b_65",
+      "necropolis_b_68",
+      "necropolis_b_69",
+      "necropolis_b_70",
+      "necropolis_b_71"
+    ],
+    "fg": [
+      "t_sewage_center",
+      "t_sewage_center",
+      "t_sewage_center",
+      "t_sewage_center"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_12",
+      "necropolis_b_5",
+      "necropolis_b_66"
+    ],
+    "fg": [
+      "t_sewage_t_connection_n",
+      "t_sewage_t_connection_w",
+      "t_sewage_t_connection_s",
+      "t_sewage_t_connection_e"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "necropolis_b_17",
+    "fg": [
+      "t_sewage_t_connection_e",
+      "t_sewage_t_connection_n",
+      "t_sewage_t_connection_w",
+      "t_sewage_t_connection_s"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_2",
+      "urban_1_2_basement",
+      "urban_2_1_basement",
+      "urban_2_2_basement",
+      "urban_4_1",
+      "urban_4_2"
+    ],
+    "fg": [
+      "otr_house_1_faceS",
+      "otr_house_1_faceE",
+      "otr_house_1_faceN",
+      "otr_house_1_faceW"
+    ],
+    "bg": [
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_23",
+      "necropolis_b_42",
+      "necropolis_b_51",
+      "necropolis_b_57",
+      "necropolis_b_64",
+      "necropolis_b_67",
+      "necropolis_b_78"
+    ],
+    "fg": [
+      "t_sewage_t_connection_s",
+      "t_sewage_t_connection_e",
+      "t_sewage_t_connection_n",
+      "t_sewage_t_connection_w"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "necropolis_b_26",
+    "fg": [
+      "t_sewage_corner_ne",
+      "t_sewage_corner_nw",
+      "t_sewage_corner_sw",
+      "t_sewage_corner_se"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_3",
+      "necropolis_b_74"
+    ],
+    "fg": [
+      "t_sewage_edge_ns",
+      "t_sewage_edge_ew",
+      "t_sewage_edge_ns",
+      "t_sewage_edge_ew"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_35",
+      "necropolis_b_79"
+    ],
+    "fg": [
+      "t_sewage_corner_se",
+      "t_sewage_corner_ne",
+      "t_sewage_corner_nw",
+      "t_sewage_corner_sw"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_44",
+      "necropolis_b_8"
+    ],
+    "fg": [
+      "t_sewage_end_piece_e",
+      "t_sewage_end_piece_n",
+      "t_sewage_end_piece_w",
+      "t_sewage_end_piece_s"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "necropolis_b_46",
+    "fg": [
+      "t_sewage_corner_nw",
+      "t_sewage_corner_sw",
+      "t_sewage_corner_se",
+      "t_sewage_corner_ne"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "necropolis_b_54",
+      "necropolis_b_63"
+    ],
+    "fg": [
+      "otr_house_1_faceE",
+      "otr_house_1_faceN",
+      "otr_house_1_faceW",
+      "otr_house_1_faceS"
+    ],
+    "bg": [
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center",
+      "t_soil_center"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "necropolis_b_7",
+    "fg": [
+      "t_sewage_edge_ew",
+      "t_sewage_edge_ns",
+      "t_sewage_edge_ew",
+      "t_sewage_edge_ns"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "necropolis_b_77",
+    "fg": [
+      "t_sewage_corner_sw",
+      "t_sewage_corner_se",
+      "t_sewage_corner_ne",
+      "t_sewage_corner_nw"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "necropolis_datasheet",
+    "fg": "bn_book_necropolis_datasheet"
+  },
+  {
+    "id": "necropolis_freq",
+    "fg": "bn_book_necropolis_freq"
+  },
+  {
+    "id": "news_regional",
+    "fg": "newest_newspaper",
+    "bg": ""
+  },
+  {
+    "id": "note_mutagen_conspiracy",
+    "fg": "bn_book_note_mutagen_conspiracy"
+  },
+  {
+    "id": "novel_crime_murdergrape",
+    "fg": "bn_book_novel_crime_murdergrape"
+  },
+  {
+    "id": "novel_spy_comefly",
+    "fg": "bn_book_novel_spy_comefly"
+  },
+  {
+    "id": "novel_spy_rocketsci",
+    "fg": "bn_book_novel_spy_rocketsci"
+  },
+  {
+    "id": "offalcooking",
+    "fg": "bn_book_offalcooking"
+  },
+  {
+    "id": "office_tower_lab_a1_roof",
+    "fg": [
+      "office_tower_2_a1_faceN",
+      "office_tower_2_a1_faceW",
+      "office_tower_2_a1_faceS",
+      "office_tower_2_a1_faceE"
+    ],
+    "rotates": true,
+    "bg": "open_air"
+  },
+  {
+    "id": "office_tower_lab_a2_roof",
+    "fg": [
+      "office_tower_2_a2_faceN",
+      "office_tower_2_a2_faceW",
+      "office_tower_2_a2_faceS",
+      "office_tower_2_a2_faceE"
+    ],
+    "rotates": true,
+    "bg": "open_air"
+  },
+  {
+    "id": "office_tower_lab_b1_roof",
+    "fg": [
+      "office_tower_2_b1_faceN",
+      "office_tower_2_b1_faceW",
+      "office_tower_2_b1_faceS",
+      "office_tower_2_b1_faceE"
+    ],
+    "rotates": true,
+    "bg": "open_air"
+  },
+  {
+    "id": "office_tower_lab_b2_roof",
+    "fg": [
+      "office_tower_2_b2_faceN",
+      "office_tower_2_b2_faceW",
+      "office_tower_2_b2_faceS",
+      "office_tower_2_b2_faceE"
+    ],
+    "rotates": true,
+    "bg": "open_air"
+  },
+  {
+    "id": "office_tower_lab_b3_roof",
+    "fg": [
+      "office_tower_2_b3_faceN",
+      "office_tower_2_b3_faceW",
+      "office_tower_2_b3_faceS",
+      "office_tower_2_b3_faceE"
+    ],
+    "rotates": true,
+    "bg": "open_air"
+  },
+  {
+    "id": "omnitech_weapon_ups_manual",
+    "fg": "bn_book_omnitech_weapon_ups_manual"
+  },
+  {
+    "id": "opal",
+    "fg": "bn_mineral_opal"
+  },
+  {
+    "id": "orichalcum_frame",
+    "fg": "bn_new_orichalcum_frame"
+  },
+  {
+    "id": "overlay_female_worn_crt_gasmask",
+    "fg": "bn_overlay_female_worn_crt_gasmask"
+  },
+  {
+    "id": "overlay_female_worn_crt_gasmask_on",
+    "fg": "bn_overlay_female_worn_crt_gasmask_on"
+  },
+  {
+    "id": "overlay_female_worn_crt_sarmor",
+    "fg": "bn_overlay_female_worn_crt_sarmor"
+  },
+  {
+    "id": "overlay_male_worn_crt_gasmask",
+    "fg": "bn_overlay_male_worn_crt_gasmask"
+  },
+  {
+    "id": "overlay_male_worn_crt_gasmask_on",
+    "fg": "bn_overlay_male_worn_crt_gasmask_on"
+  },
+  {
+    "id": "overlay_male_worn_crt_sarmor",
+    "fg": "bn_overlay_male_worn_crt_sarmor"
+  },
+  {
+    "id": "overlay_wielded_sword_crt",
+    "fg": "bn_overlay_wielded_sword_crt"
+  },
+  {
+    "id": "overmap_path",
+    "fg": "bn_overmap_path"
+  },
+  {
+    "id": [
+      "overmap_path_above",
+      "overmap_path_below"
+    ],
+    "fg": "bn_overmap_path_above"
+  },
+  {
+    "id": "pack_basket",
+    "fg": "wicker_backpack"
+  },
+  {
+    "id": "pathfinding_module",
+    "fg": "bn_robot_pathfinding_module"
+  },
+  {
+    "id": [
+      "pawn",
+      "pawn_1",
+      "pawn_pf",
+      "pawn_pf_roof",
+      "pawn_roof",
+      "pawn_roof_1"
+    ],
+    "fg": "bn_pawn_front",
+    "rotates": false
+  },
+  {
+    "id": "peridot",
+    "fg": "bn_mineral_peridot"
+  },
+  {
+    "id": "phavian_noetic_resonance_detector_instructions",
+    "fg": "bn_book_phavian_noetic_resonance_detector_instructions"
+  },
+  {
+    "id": "philosophy_book",
+    "fg": "bn_book_philosophy_book"
+  },
+  {
+    "id": "phonebook",
+    "fg": "bn_book_phonebook"
+  },
+  {
+    "id": "pills_sleep",
+    "fg": "bn_ambien"
+  },
+  {
+    "id": "plays_book",
+    "fg": "bn_book_plays_book"
+  },
+  {
+    "id": "poetry_book",
+    "fg": "bn_book_poetry_book"
+  },
+  {
+    "id": "power_armor_basic",
+    "fg": "bn_new_power_armor_basic"
+  },
+  {
+    "id": "power_armor_basic_on",
+    "fg": "bn_new_power_armor_basic_on"
+  },
+  {
+    "id": "power_armor_canteen",
+    "fg": "bn_power_armor_canteen"
+  },
+  {
+    "id": "power_armor_exo_2",
+    "fg": "bn_new_power_armor_exo_2"
+  },
+  {
+    "id": "power_armor_exo_2_on",
+    "fg": "bn_new_power_armor_exo_2_on"
+  },
+  {
+    "id": "power_armor_exo_3",
+    "fg": "bn_new_power_armor_exo_3"
+  },
+  {
+    "id": "power_armor_exo_3_on",
+    "fg": "bn_new_power_armor_exo_3_on"
+  },
+  {
+    "id": "power_armor_plating_3",
+    "fg": "bn_new_power_armor_plating_3"
+  },
+  {
+    "id": "power_armor_plating_3_on",
+    "fg": "bn_new_power_armor_plating_3_on"
+  },
+  {
+    "id": "power_portal_key",
+    "fg": "bn_power_portal_key"
+  },
+  {
+    "id": "powered_earmuffs",
+    "fg": "bn_powered_earmuffs"
+  },
+  {
+    "id": "powered_earmuffs_on",
+    "fg": "bn_powered_earmuffs_on"
+  },
+  {
+    "id": [
+      "public_works_NE",
+      "public_works_NE_roof"
+    ],
+    "fg": [
+      "bn_public_works_NE_fg_0",
+      "bn_public_works_NE_fg_1",
+      "bn_public_works_NE_fg_2",
+      "bn_public_works_NE_fg_3"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "public_works_NW",
+      "public_works_NW_roof"
+    ],
+    "fg": [
+      "bn_public_works_NW_fg_0",
+      "bn_public_works_NW_fg_1",
+      "bn_public_works_NW_fg_2",
+      "bn_public_works_NW_fg_3"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "public_works_SE",
+      "public_works_SE_roof"
+    ],
+    "fg": [
+      "bn_public_works_SE_fg_0",
+      "bn_public_works_SE_fg_1",
+      "bn_public_works_SE_fg_2",
+      "bn_public_works_SE_fg_3"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "public_works_SW",
+      "public_works_SW_roof"
+    ],
+    "fg": [
+      "bn_public_works_SW_fg_0",
+      "bn_public_works_SW_fg_1",
+      "bn_public_works_SW_fg_2",
+      "bn_public_works_SW_fg_3"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "pump_complex",
+    "fg": "bn_pump_pump_complex"
+  },
+  {
+    "id": "purifier",
+    "fg": "bn_liquid_purifier"
+  },
+  {
+    "id": "purifier_smart_shot",
+    "fg": "bn_purifier_smart_shot"
+  },
+  {
+    "id": "pyrokinetic_matrix_crystal_bomb",
+    "fg": "bn_mom_pyrokinetic_matrix_crystal_bomb"
+  },
+  {
+    "id": "pyrokinetic_matrix_crystal_bomb_act",
+    "fg": "bn_mom_pyrokinetic_matrix_crystal_bomb_act"
+  },
+  {
+    "id": "reach_bow",
+    "fg": "compbow"
+  },
+  {
+    "id": "recipe_fox",
+    "fg": "bn_book_recipe_fox"
+  },
+  {
+    "id": "recipe_lab_cvd",
+    "fg": "bn_book_recipe_lab_cvd"
+  },
+  {
+    "id": "recipe_mil_augs",
+    "fg": "bn_book_recipe_mil_augs"
+  },
+  {
+    "id": "recipe_survivor_matrix_crystal_ground",
+    "fg": "bn_book_recipe_survivor_matrix_crystal_ground"
+  },
+  {
+    "id": "record_accounting",
+    "fg": "bn_book_record_accounting"
+  },
+  {
+    "id": "record_weather",
+    "fg": "bn_book_record_weather"
+  },
+  {
+    "id": "reference_aircraft",
+    "fg": "bn_book_reference_aircraft"
+  },
+  {
+    "id": "reference_cooking",
+    "fg": "bn_book_reference_cooking"
+  },
+  {
+    "id": "reference_fabrication1",
+    "fg": "bn_book_reference_fabrication1"
+  },
+  {
+    "id": [
+      "reference_firstaid1",
+      "reference_firstaid2"
+    ],
+    "fg": "bn_book_reference_firstaid1"
+  },
+  {
+    "id": "rehydrated_veggy",
+    "fg": "bn_veggy_rehydrated_veggy"
+  },
+  {
+    "id": "remotevehcontrol",
+    "fg": "bn_remotevehcontrol"
+  },
+  {
+    "id": [
+      "retirement_community_10",
+      "retirement_community_11",
+      "retirement_community_12",
+      "retirement_community_29",
+      "retirement_community_31"
+    ],
+    "fg": [
+      "road_edge_ew",
+      "road_edge_ns"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "retirement_community_16",
+      "retirement_community_17",
+      "retirement_community_20",
+      "retirement_community_21",
+      "retirement_community_24",
+      "retirement_community_25",
+      "retirement_community_37",
+      "retirement_community_road"
+    ],
+    "fg": [
+      "road_edge_ns",
+      "road_edge_ew"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "retirement_community_28",
+      "retirement_community_32"
+    ],
+    "fg": [
+      "road_t_connection_s",
+      "road_t_connection_e",
+      "road_t_connection_n",
+      "road_t_connection_w"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "retirement_community_park_1",
+      "retirement_community_park_2",
+      "retirement_community_park_3",
+      "retirement_community_park_4",
+      "retirement_community_park_5",
+      "retirement_community_park_6",
+      "retirement_community_park_7",
+      "retirement_community_park_8",
+      "retirement_community_park_9"
+    ],
+    "fg": "park",
+    "bg": "field"
+  },
+  {
+    "id": [
+      "retirement_community_park_b_1",
+      "retirement_community_park_b_2",
+      "retirement_community_park_b_3",
+      "retirement_community_park_b_4",
+      "retirement_community_park_b_5",
+      "retirement_community_park_b_6",
+      "retirement_community_park_b_7",
+      "retirement_community_park_b_8",
+      "retirement_community_park_b_9"
+    ],
+    "fg": "park",
+    "bg": "t_soil_center"
+  },
+  {
+    "id": "ruby",
+    "fg": "bn_mineral_ruby"
+  },
+  {
+    "id": "rune_alchemist",
+    "fg": "bn_rune_alchemist"
+  },
+  {
+    "id": "rune_animist",
+    "fg": "bn_rune_animist"
+  },
+  {
+    "id": "rune_biomancer",
+    "fg": "bn_rune_biomancer"
+  },
+  {
+    "id": "rune_druid",
+    "fg": "bn_rune_druid"
+  },
+  {
+    "id": "rune_earthshaper",
+    "fg": "bn_rune_earthshaper"
+  },
+  {
+    "id": "rune_kelvinist",
+    "fg": "bn_rune_kelvinist"
+  },
+  {
+    "id": "rune_magus",
+    "fg": "bn_rune_magus"
+  },
+  {
+    "id": "rune_stormshaper",
+    "fg": "bn_rune_stormshaper"
+  },
+  {
+    "id": "rune_technomancer",
+    "fg": "bn_rune_technomancer"
+  },
+  {
+    "id": "rx12_injector",
+    "fg": "bn_rx12_injector"
+  },
+  {
+    "id": [
+      "s_butcher_upper_roof",
+      "s_butcher_upper_roof_1"
+    ],
+    "fg": "s_butcher"
+  },
+  {
+    "id": [
+      "s_clothes",
+      "s_clothes_1",
+      "s_clothes_2",
+      "s_clothes_3",
+      "s_clothes_4",
+      "s_clothes_5",
+      "s_clothes_6",
+      "s_clothes_roof",
+      "s_clothes_roof_1",
+      "s_clothes_roof_2",
+      "s_clothes_roof_3",
+      "s_clothes_roof_4",
+      "s_clothes_roof_5",
+      "s_clothes_roof_6",
+      "s_clothes_upper_roof_4"
+    ],
+    "fg": "bn_clothing_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_electronics",
+      "s_electronics_1",
+      "s_electronics_2",
+      "s_electronics_roof",
+      "s_electronics_roof_1",
+      "s_electronics_roof_2"
+    ],
+    "fg": "bn_electronics_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_garage",
+      "s_garage_1",
+      "s_garage_2",
+      "s_garage_roof",
+      "s_garage_roof_1",
+      "s_garage_roof_2",
+      "s_garage_upper_roof_2"
+    ],
+    "fg": "bn_garage_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_grocery",
+      "s_grocery_roof"
+    ],
+    "fg": "bn_grocery_second_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_grocery_1",
+      "s_grocery_roof_1"
+    ],
+    "fg": "bn_grocery_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_gun",
+      "s_gun_1",
+      "s_gun_2",
+      "s_gun_3",
+      "s_gun_4"
+    ],
+    "fg": "s_gunstore"
+  },
+  {
+    "id": [
+      "s_gun_2ndfloor_4",
+      "s_gun_roof",
+      "s_gun_roof_1",
+      "s_gun_roof_3",
+      "s_gun_roof_4"
+    ],
+    "fg": "s_gunstore",
+    "bg": "open_air"
+  },
+  {
+    "id": [
+      "s_hardware",
+      "s_hardware_1",
+      "s_hardware_2",
+      "s_hardware_3",
+      "s_hardware_roof",
+      "s_hardware_roof_1",
+      "s_hardware_roof_2",
+      "s_hardware_roof_3"
+    ],
+    "fg": "bn_hardware_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_pharm",
+      "s_pharm_roof"
+    ],
+    "fg": "bn_pharmacy_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_pizza_parlor",
+      "s_pizza_parlor_1",
+      "s_pizza_parlor_roof",
+      "s_pizza_parlor_roof_1"
+    ],
+    "fg": "bn_pizzeria_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_restaurant",
+      "s_restaurant_1",
+      "s_restaurant_2",
+      "s_restaurant_3",
+      "s_restaurant_foodplace",
+      "s_restaurant_foodplace_roof",
+      "s_restaurant_foodplace_upper_roof",
+      "s_restaurant_roof",
+      "s_restaurant_roof_1",
+      "s_restaurant_roof_2",
+      "s_restaurant_roof_3"
+    ],
+    "fg": "bn_restaurant_front",
+    "rotates": false
+  },
+  {
+    "id": [
+      "s_restaurant_fast_roof",
+      "s_restaurant_fast_roof_1"
+    ],
+    "fg": "s_diner",
+    "bg": "open_air"
+  },
+  {
+    "id": "s_shoppingplaza_a1",
+    "fg": [
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_front_00",
+      "bn_shoppingplaza_ascii_plus"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_a2",
+    "fg": [
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_front_01",
+      "bn_shoppingplaza_ascii_plus"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_a3",
+    "fg": [
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_front_02",
+      "bn_shoppingplaza_ascii_plus"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_a4",
+    "fg": [
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_front_03",
+      "bn_shoppingplaza_ascii_plus"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_a5",
+    "fg": [
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_ascii_plus",
+      "bn_shoppingplaza_front_04",
+      "bn_shoppingplaza_ascii_plus"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_a6",
+    "fg": [
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_front_05",
+      "bn_shoppingplaza_ascii_M"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_b1",
+    "fg": [
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_front_06",
+      "bn_shoppingplaza_ascii_M"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_b2",
+    "fg": [
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_front_07",
+      "bn_shoppingplaza_ascii_M"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_b3",
+    "fg": [
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_front_08",
+      "bn_shoppingplaza_ascii_M"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_b4",
+    "fg": [
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_front_09",
+      "bn_shoppingplaza_ascii_M"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_b5",
+    "fg": [
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_front_10",
+      "bn_shoppingplaza_ascii_M"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_shoppingplaza_b6",
+    "fg": [
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_ascii_M",
+      "bn_shoppingplaza_front_11",
+      "bn_shoppingplaza_ascii_M"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "s_sports",
+    "fg": "s_camping"
+  },
+  {
+    "id": "s_sports_roof",
+    "fg": "s_camping",
+    "bg": "open_air"
+  },
+  {
+    "id": "sa_cryptology_key",
+    "fg": "bn_book_sa_cryptology_key"
+  },
+  {
+    "id": "sapphire",
+    "fg": "bn_mineral_sapphire"
+  },
+  {
+    "id": "sauerkraut",
+    "fg": "bn_preserved_veggy_sauerkraut"
+  },
+  {
+    "id": [
+      "sausage",
+      "sausage_raw"
+    ],
+    "fg": "sausage"
+  },
+  {
+    "id": [
+      "schematics_chickenbot",
+      "schematics_tankbot",
+      "schematics_tripod"
+    ],
+    "fg": "generic_schematics"
+  },
+  {
+    "id": "schematics_teleportation",
+    "fg": "bn_book_schematics_teleportation"
+  },
+  {
+    "id": "seed_bananas",
+    "fg": "bn_seed_bananas"
+  },
+  {
+    "id": "seed_coconut",
+    "fg": "bn_seed_coconut"
+  },
+  {
+    "id": [
+      "seed_coffee_cherry",
+      "seed_horseradish",
+      "seed_melon",
+      "seed_mustard",
+      "seed_popcorn",
+      "seed_raw_burdock",
+      "seed_spurge"
+    ],
+    "fg": "seeds"
+  },
+  {
+    "id": "seed_lemon",
+    "fg": "bn_seed_lemon"
+  },
+  {
+    "id": "seed_mycus_fruit",
+    "fg": "bn_seed_mycus_fruit"
+  },
+  {
+    "id": "seed_orange",
+    "fg": "bn_seed_orange"
+  },
+  {
+    "id": "seed_pineapple",
+    "fg": "bn_seed_pineapple"
+  },
+  {
+    "id": "seed_rice",
+    "fg": "bn_rice_seed_rice"
+  },
+  {
+    "id": "self_monitoring_module",
+    "fg": "bn_robot_self_monitoring_module"
+  },
+  {
+    "id": "sensor_module",
+    "fg": "bn_robot_sensor_module"
+  },
+  {
+    "id": "sewage_treatment_1_0_upper_roof",
+    "fg": [
+      "sewagetreatmentplant_n_2",
+      "sewagetreatmentplant_w_2",
+      "sewagetreatmentplant_s_2",
+      "sewagetreatmentplant_e_2"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "shark_plush",
+    "fg": "bn_shark_plush"
+  },
+  {
+    "id": "shelter_vandal_under",
+    "fg": [
+      "otr_evac_shelter_1_faceN",
+      "otr_evac_shelter_1_faceW",
+      "otr_evac_shelter_1_faceS",
+      "otr_evac_shelter_1_faceE"
+    ],
+    "bg": "t_soil_center",
+    "rotates": true
+  },
+  {
+    "id": "shield_ballistic",
+    "fg": "bn_bshield_shield_ballistic"
+  },
+  {
+    "id": "shield_ballistic_large",
+    "fg": "bn_rshield_shield_ballistic_large"
+  },
+  {
+    "id": "shield_banded",
+    "fg": "bn_shield_shield_banded"
+  },
+  {
+    "id": "shield_banded_large",
+    "fg": "bn_lshield_shield_banded_large"
+  },
+  {
+    "id": "shield_bronze",
+    "fg": "bn_shield_shield_bronze"
+  },
+  {
+    "id": "shield_buckler",
+    "fg": "bn_shield_shield_buckler"
+  },
+  {
+    "id": "shield_buckler_superalloy",
+    "fg": "bn_shield_shield_buckler_superalloy"
+  },
+  {
+    "id": "shield_hoplon",
+    "fg": "bn_shield_shield_hoplon"
+  },
+  {
+    "id": "shield_kevlar",
+    "fg": "bn_shield_shield_kevlar"
+  },
+  {
+    "id": "shield_kevlar_large",
+    "fg": "bn_lshield_shield_kevlar_large"
+  },
+  {
+    "id": "shield_leather",
+    "fg": "bn_shield_shield_leather"
+  },
+  {
+    "id": "shield_leather_large",
+    "fg": "bn_lshield_shield_leather_large"
+  },
+  {
+    "id": "shield_riot",
+    "fg": "bn_rshield_shield_riot"
+  },
+  {
+    "id": "shield_riot_surv",
+    "fg": "bn_rshield_shield_riot_surv"
+  },
+  {
+    "id": "shield_scute",
+    "fg": "bn_lshield_shield_scute"
+  },
+  {
+    "id": "shield_spiked",
+    "fg": "bn_shield_shield_spiked"
+  },
+  {
+    "id": "shield_spiked_large",
+    "fg": "bn_lshield_shield_spiked_large"
+  },
+  {
+    "id": "shield_targe_wooden",
+    "fg": "bn_shield_shield_targe_wooden"
+  },
+  {
+    "id": "shield_welded",
+    "fg": "bn_bshield_shield_welded"
+  },
+  {
+    "id": "shield_welded_composite",
+    "fg": "bn_bshield_shield_welded_composite"
+  },
+  {
+    "id": "shield_welded_hard",
+    "fg": "bn_bshield_shield_welded_hard"
+  },
+  {
+    "id": "shield_welded_superalloy",
+    "fg": "bn_bshield_shield_welded_superalloy"
+  },
+  {
+    "id": "shield_welded_surv",
+    "fg": "bn_bshield_shield_welded_surv"
+  },
+  {
+    "id": "shield_welded_surv_superalloy",
+    "fg": "bn_bshield_shield_welded_surv_superalloy"
+  },
+  {
+    "id": "shield_wooden",
+    "fg": "bn_shield_shield_wooden"
+  },
+  {
+    "id": "shield_wooden_large",
+    "fg": "bn_lshield_shield_wooden_large"
+  },
+  {
+    "id": "shrapnel",
+    "fg": "bn_shrapnel"
+  },
+  {
+    "id": "sig_mcx",
+    "fg": "bn_sig_mcx"
+  },
+  {
+    "id": "sippy_cup",
+    "fg": "bn_dish_sippy_cup"
+  },
+  {
+    "id": [
+      "small_hstomach_boiled",
+      "small_stomach_boiled"
+    ],
+    "fg": "stomach_boiled"
+  },
+  {
+    "id": "smallscrapyard_ocu",
+    "fg": "cs_city_dump_small"
+  },
+  {
+    "id": "smoxygen_tank",
+    "fg": "bn_smoxygen_tank"
+  },
+  {
+    "id": "soybean",
+    "fg": "bn_soybean"
+  },
+  {
+    "id": "spear_homemade_halfpike",
+    "fg": "bn_spear_homemade_halfpike"
+  },
+  {
+    "id": "spiked_boxing",
+    "fg": "bn_spiked_boxing"
+  },
+  {
+    "id": "sq_advanced_arm_splint",
+    "fg": "bn_sq_advanced_arm_splint"
+  },
+  {
+    "id": "sq_farmguard_lightplate",
+    "fg": "bn_sq_farmguard_lightplate"
+  },
+  {
+    "id": "sq_fcanteen",
+    "fg": "bn_sq_fcanteen"
+  },
+  {
+    "id": "sq_frozen_core",
+    "fg": "bn_sq_frozen_core"
+  },
+  {
+    "id": "sq_recipe_book_vertigon",
+    "fg": "bn_book_sq_recipe_book_vertigon"
+  },
+  {
+    "id": [
+      "station_radio",
+      "station_radio_1",
+      "station_radio_roof",
+      "station_radio_roof_1"
+    ],
+    "fg": "bn_radio_station_front",
+    "rotates": false
+  },
+  {
+    "id": "stick_fiber",
+    "fg": "bn_stick_fiber"
+  },
+  {
+    "id": "stomach_sealed",
+    "fg": "bn_stomach_sealed"
+  },
+  {
+    "id": "story_book",
+    "fg": "bn_book_story_book"
+  },
+  {
+    "id": "sugar_fried",
+    "fg": "bn_sugar_fried"
+  },
+  {
+    "id": "sugarkin_flyer",
+    "fg": "bn_book_sugarkin_flyer"
+  },
+  {
+    "id": [
+      "surv_full_223",
+      "surv_full_3006",
+      "surv_full_308",
+      "surv_full_762R"
+    ],
+    "fg": "bn_surv_full_223"
+  },
+  {
+    "id": "surv_full_762",
+    "fg": "bn_surv_full_762"
+  },
+  {
+    "id": "survivalflavor_book",
+    "fg": "bn_book_survivalflavor_book"
+  },
+  {
+    "id": "sweets_book",
+    "fg": "bn_book_sweets_book"
+  },
+  {
+    "id": "sword_crt",
+    "fg": "bn_sword_crt"
+  },
+  {
+    "id": [
+      "t_chaingate_c_season_autumn",
+      "t_chaingate_c_season_spring",
+      "t_chaingate_c_season_summer"
+    ],
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_c",
+      "bn_gate_chain_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_centered",
+      "bn_gate_ground_pavement_centered"
+    ]
+  },
+  {
+    "id": [
+      "t_chaingate_l_season_autumn",
+      "t_chaingate_l_season_spring",
+      "t_chaingate_l_season_summer"
+    ],
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_locked_ns_c",
+      "t_gate_chainlink_l"
+    ],
+    "bg": [
+      "t_pavement",
+      "t_pavement"
+    ]
+  },
+  {
+    "id": [
+      "t_chaingate_o_season_autumn",
+      "t_chaingate_o_season_spring",
+      "t_chaingate_o_season_summer"
+    ],
+    "rotates": true,
+    "fg": [
+      "bn_gate_chain_ns_o",
+      "bn_gate_chain_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_pavement_wide",
+      "bn_gate_ground_pavement_wide"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_c_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_c",
+      "bn_gate_chickenwire_ew_c_padded"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_centered",
+      "bn_gate_ground_grass_centered"
+    ]
+  },
+  {
+    "id": "t_chickenwire_gate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_chickenwire_ns_o",
+      "bn_gate_chickenwire_ew_o_shifted"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_shifted",
+      "bn_gate_ground_grass_shifted"
+    ]
+  },
+  {
+    "id": "t_dirtfloor_thatchroof",
+    "multitile": true,
+    "fg": "t_dirtfloor_unconnected",
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_dirtfloor_center"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_dirtfloor_corner_nw",
+          "t_dirtfloor_corner_sw",
+          "t_dirtfloor_corner_se",
+          "t_dirtfloor_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_dirtfloor_t_connection_n",
+          "t_dirtfloor_t_connection_w",
+          "t_dirtfloor_t_connection_s",
+          "t_dirtfloor_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_dirtfloor_edge_ns",
+          "t_dirtfloor_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_dirtfloor_end_piece_n",
+          "t_dirtfloor_end_piece_w",
+          "t_dirtfloor_end_piece_s",
+          "t_dirtfloor_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_dirtfloor_unconnected"
+      }
+    ]
+  },
+  {
+    "id": "t_fencegate_c",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_c",
+      "t_fencegate_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_fencegate_o",
+    "rotates": true,
+    "fg": [
+      "bn_gate_picket_ns_o",
+      "bn_gate_picket_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_fungus_wall_transformed",
+    "fg": "t_fungus_wall_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_fungus_wall_center"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_fungus_wall_corner_nw",
+          "t_fungus_wall_corner_sw",
+          "t_fungus_wall_corner_se",
+          "t_fungus_wall_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_fungus_wall_t_connection_n",
+          "t_fungus_wall_t_connection_w",
+          "t_fungus_wall_t_connection_s",
+          "t_fungus_wall_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_fungus_wall_edge_ns",
+          "t_fungus_wall_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_fungus_wall_end_piece_n",
+          "t_fungus_wall_end_piece_w",
+          "t_fungus_wall_end_piece_s",
+          "t_fungus_wall_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [
+          "t_fungus_wall_unconnected",
+          "t_fungus_wall_unconnected"
+        ]
+      }
+    ]
+  },
+  {
+    "id": [
+      "t_gate_metal_c",
+      "t_gate_metal_c_season_spring"
+    ],
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "t_grass_autumn",
+      "t_grass_autumn"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "t_grass_summer",
+      "t_grass_summer"
+    ]
+  },
+  {
+    "id": "t_gate_metal_c_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_c",
+      "bn_gate_metal_ew_c"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ]
+  },
+  {
+    "id": [
+      "t_gate_metal_o",
+      "t_gate_metal_o_season_spring"
+    ],
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "t_grass_autumn_large",
+      "t_grass_autumn_large"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "t_grass_summer_large",
+      "t_grass_summer_large"
+    ]
+  },
+  {
+    "id": "t_gate_metal_o_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_metal_ns_o",
+      "bn_gate_metal_ew_o_wide"
+    ],
+    "bg": [
+      "snow_shallow_large",
+      "snow_shallow_large"
+    ]
+  },
+  {
+    "id": "t_palisade_gate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_palisade_ns_o",
+      "t_palisade_gate_o"
+    ],
+    "bg": [
+      "t_grass_tall",
+      "t_grass_tall"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_palisade_gate_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_palisade_ns_c",
+      "t_palisade_gate"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": [
+      "t_portcullis",
+      "t_portcullis_season_spring"
+    ],
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_portcullis_season_autumn",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "t_grass_autumn",
+      "t_grass_autumn"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_portcullis_season_summer",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "t_grass_summer",
+      "t_grass_summer"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_portcullis_season_winter",
+    "rotates": true,
+    "fg": [
+      "bn_gate_portcullis_ns_c",
+      "bn_gate_portcullis_ew_c"
+    ],
+    "bg": [
+      "snow_shallow_center",
+      "snow_shallow_center"
+    ],
+    "flags": [
+      "CONNECT_TO_WALL"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_c_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_c",
+      "t_privacy_fencegate_c"
+    ],
+    "bg": [
+      "t_grass",
+      "t_grass"
+    ]
+  },
+  {
+    "id": "t_privacy_fencegate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_gate_privacy_ns_o",
+      "bn_gate_privacy_ew_o_wide"
+    ],
+    "bg": [
+      "t_grass_large",
+      "t_grass_large"
+    ]
+  },
+  {
+    "id": "t_sand_singing",
+    "multitile": true,
+    "fg": "t_sand_unconnected",
+    "bg": "t_grass",
+    "additional_tiles": [
+      {
+        "id": "center",
+        "bg": "t_grass",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": "t_sand_center"
+          },
+          {
+            "weight": 1,
+            "sprite": "t_sand_center2"
+          },
+          {
+            "weight": 1,
+            "sprite": "t_sand_center3"
+          },
+          {
+            "weight": 1,
+            "sprite": "t_sand_center4"
+          }
+        ]
+      },
+      {
+        "id": "corner",
+        "bg": "t_grass",
+        "fg": [
+          "t_sand_corner_nw",
+          "t_sand_corner_sw",
+          "t_sand_corner_se",
+          "t_sand_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "t_grass",
+        "fg": [
+          "t_sand_t_connection_n",
+          "t_sand_t_connection_w",
+          "t_sand_t_connection_s",
+          "t_sand_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "bg": "t_grass",
+        "fg": [
+          "t_sand_edge_ns",
+          "t_sand_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "bg": "t_grass",
+        "fg": [
+          "t_sand_end_piece_n",
+          "t_sand_end_piece_w",
+          "t_sand_end_piece_s",
+          "t_sand_end_piece_e"
+        ]
+      },
+      {
+        "bg": "t_grass",
+        "id": "unconnected",
+        "fg": "t_sand_unconnected"
+      }
+    ]
+  },
+  {
+    "id": "t_splitrail_fencegate_o_season_spring",
+    "rotates": true,
+    "fg": [
+      "bn_splitrail_gate_ns_o",
+      "bn_gate_splitrail_ew_o_wide"
+    ],
+    "bg": [
+      "bn_gate_ground_grass_wide",
+      "bn_gate_ground_grass_wide"
+    ]
+  },
+  {
+    "id": "tall_tales",
+    "fg": "bn_book_tall_tales"
+  },
+  {
+    "id": [
+      "target_iv_mutagen_acidblood",
+      "target_iv_mutagen_acidproof",
+      "target_iv_mutagen_adrenaline",
+      "target_iv_mutagen_albino",
+      "target_iv_mutagen_alcmet",
+      "target_iv_mutagen_alpha_thresh",
+      "target_iv_mutagen_amorphous",
+      "target_iv_mutagen_amphibian",
+      "target_iv_mutagen_animalempath",
+      "target_iv_mutagen_animalempath2",
+      "target_iv_mutagen_antennae",
+      "target_iv_mutagen_antlers",
+      "target_iv_mutagen_arachnidarmsok",
+      "target_iv_mutagen_armfeathers",
+      "target_iv_mutagen_armtentacles8",
+      "target_iv_mutagen_barbs",
+      "target_iv_mutagen_bark",
+      "target_iv_mutagen_beak",
+      "target_iv_mutagen_beakhum",
+      "target_iv_mutagen_beakpeck",
+      "target_iv_mutagen_beast_thresh",
+      "target_iv_mutagen_beautiful",
+      "target_iv_mutagen_beautiful2",
+      "target_iv_mutagen_beautiful3",
+      "target_iv_mutagen_bendy1",
+      "target_iv_mutagen_bendy2",
+      "target_iv_mutagen_bendy3",
+      "target_iv_mutagen_biolum1",
+      "target_iv_mutagen_biolum2",
+      "target_iv_mutagen_bird_thresh",
+      "target_iv_mutagen_birdeye",
+      "target_iv_mutagen_bovinebulk",
+      "target_iv_mutagen_bovinebulk2",
+      "target_iv_mutagen_burrow",
+      "target_iv_mutagen_canineears",
+      "target_iv_mutagen_cannibal",
+      "target_iv_mutagen_carnivore",
+      "target_iv_mutagen_cattle_thresh",
+      "target_iv_mutagen_cenobite",
+      "target_iv_mutagen_cephalopod_thresh",
+      "target_iv_mutagen_cepheyes",
+      "target_iv_mutagen_cfhair",
+      "target_iv_mutagen_chimera_thresh",
+      "target_iv_mutagen_chitin",
+      "target_iv_mutagen_chitin2",
+      "target_iv_mutagen_chitin3",
+      "target_iv_mutagen_chitinfur",
+      "target_iv_mutagen_chitinfur2",
+      "target_iv_mutagen_chitinfur3",
+      "target_iv_mutagen_chloromorph",
+      "target_iv_mutagen_claws",
+      "target_iv_mutagen_clawsrat",
+      "target_iv_mutagen_clawsretract",
+      "target_iv_mutagen_clawsst",
+      "target_iv_mutagen_clawstentacle",
+      "target_iv_mutagen_coldblood3",
+      "target_iv_mutagen_coldblood4",
+      "target_iv_mutagen_compoundeyes",
+      "target_iv_mutagen_crafty",
+      "target_iv_mutagen_deft",
+      "target_iv_mutagen_dexalpha",
+      "target_iv_mutagen_dexup3",
+      "target_iv_mutagen_dexup4",
+      "target_iv_mutagen_disimmune",
+      "target_iv_mutagen_disresistant",
+      "target_iv_mutagen_down",
+      "target_iv_mutagen_easysleeper",
+      "target_iv_mutagen_easysleeper2",
+      "target_iv_mutagen_eatdead",
+      "target_iv_mutagen_eathealth",
+      "target_iv_mutagen_eatpoison",
+      "target_iv_mutagen_electroreceptors",
+      "target_iv_mutagen_elfa_thresh",
+      "target_iv_mutagen_elfaears",
+      "target_iv_mutagen_elfaeyes",
+      "target_iv_mutagen_fangs",
+      "target_iv_mutagen_fangsspider",
+      "target_iv_mutagen_fasthealer",
+      "target_iv_mutagen_fasthealer2",
+      "target_iv_mutagen_fastreflexes",
+      "target_iv_mutagen_fat",
+      "target_iv_mutagen_feathers",
+      "target_iv_mutagen_feleye",
+      "target_iv_mutagen_feline_thresh",
+      "target_iv_mutagen_felineears",
+      "target_iv_mutagen_felineflexibility",
+      "target_iv_mutagen_felinefur",
+      "target_iv_mutagen_feyhearing",
+      "target_iv_mutagen_fish_thresh",
+      "target_iv_mutagen_fleet",
+      "target_iv_mutagen_fleet2",
+      "target_iv_mutagen_flowers",
+      "target_iv_mutagen_forkedtongue",
+      "target_iv_mutagen_freshwaterosmosis",
+      "target_iv_mutagen_fur",
+      "target_iv_mutagen_gills",
+      "target_iv_mutagen_gillsceph",
+      "target_iv_mutagen_gizzard",
+      "target_iv_mutagen_goodcardio",
+      "target_iv_mutagen_goodcardio2",
+      "target_iv_mutagen_goodhearing",
+      "target_iv_mutagen_goodmemory",
+      "target_iv_mutagen_gourmand",
+      "target_iv_mutagen_grazer",
+      "target_iv_mutagen_growl",
+      "target_iv_mutagen_hairroots",
+      "target_iv_mutagen_heavysleeper",
+      "target_iv_mutagen_heavysleeper2",
+      "target_iv_mutagen_herbivore",
+      "target_iv_mutagen_hibernate",
+      "target_iv_mutagen_hiss",
+      "target_iv_mutagen_hollowbones",
+      "target_iv_mutagen_hooves",
+      "target_iv_mutagen_horns",
+      "target_iv_mutagen_hornscurled",
+      "target_iv_mutagen_hornspointed",
+      "target_iv_mutagen_hugeok",
+      "target_iv_mutagen_hunger",
+      "target_iv_mutagen_hunger2",
+      "target_iv_mutagen_hunger3",
+      "target_iv_mutagen_incisors",
+      "target_iv_mutagen_infrared",
+      "target_iv_mutagen_infresist",
+      "target_iv_mutagen_inkglands",
+      "target_iv_mutagen_insect_thresh",
+      "target_iv_mutagen_insectarmsok",
+      "target_iv_mutagen_insectreservoir",
+      "target_iv_mutagen_intalpha",
+      "target_iv_mutagen_intslime",
+      "target_iv_mutagen_intup3",
+      "target_iv_mutagen_intup4",
+      "target_iv_mutagen_killer",
+      "target_iv_mutagen_largeok",
+      "target_iv_mutagen_leaves",
+      "target_iv_mutagen_leaves2",
+      "target_iv_mutagen_leaves3",
+      "target_iv_mutagen_legtentacles",
+      "target_iv_mutagen_legtentbrace",
+      "target_iv_mutagen_lightbones",
+      "target_iv_mutagen_lighteater",
+      "target_iv_mutagen_lightfur",
+      "target_iv_mutagen_lightstep",
+      "target_iv_mutagen_lizard_thresh",
+      "target_iv_mutagen_lizeye",
+      "target_iv_mutagen_lizir",
+      "target_iv_mutagen_lupine_thresh",
+      "target_iv_mutagen_lupineears",
+      "target_iv_mutagen_lupinefur",
+      "target_iv_mutagen_lynxfur",
+      "target_iv_mutagen_mandibles",
+      "target_iv_mutagen_masochist",
+      "target_iv_mutagen_masochistmed",
+      "target_iv_mutagen_medical_thresh",
+      "target_iv_mutagen_membrane",
+      "target_iv_mutagen_metrat",
+      "target_iv_mutagen_minotaur",
+      "target_iv_mutagen_mouse_thresh",
+      "target_iv_mutagen_mouseears",
+      "target_iv_mutagen_mouthtentacles",
+      "target_iv_mutagen_muttough",
+      "target_iv_mutagen_muttough2",
+      "target_iv_mutagen_muttough3",
+      "target_iv_mutagen_muzzle",
+      "target_iv_mutagen_muzzlebear",
+      "target_iv_mutagen_muzzlelong",
+      "target_iv_mutagen_muzzlerat",
+      "target_iv_mutagen_nails",
+      "target_iv_mutagen_nightvision",
+      "target_iv_mutagen_nightvision2",
+      "target_iv_mutagen_nightvision3",
+      "target_iv_mutagen_nonaddictive",
+      "target_iv_mutagen_nopain",
+      "target_iv_mutagen_nothirst",
+      "target_iv_mutagen_painrec1",
+      "target_iv_mutagen_painresist",
+      "target_iv_mutagen_painresisttroglo",
+      "target_iv_mutagen_pale",
+      "target_iv_mutagen_paraimmune",
+      "target_iv_mutagen_patchskin1",
+      "target_iv_mutagen_patchskin2",
+      "target_iv_mutagen_paws",
+      "target_iv_mutagen_pawslarge",
+      "target_iv_mutagen_peralpha",
+      "target_iv_mutagen_persistencehunter",
+      "target_iv_mutagen_persistencehunter2",
+      "target_iv_mutagen_perslimeok",
+      "target_iv_mutagen_perup3",
+      "target_iv_mutagen_perup4",
+      "target_iv_mutagen_pheromoneinsect",
+      "target_iv_mutagen_pheromonemammal",
+      "target_iv_mutagen_plant_thresh",
+      "target_iv_mutagen_plantskin",
+      "target_iv_mutagen_poisonous",
+      "target_iv_mutagen_poisonous2",
+      "target_iv_mutagen_poisresist",
+      "target_iv_mutagen_pretty",
+      "target_iv_mutagen_proboscis",
+      "target_iv_mutagen_psychopath",
+      "target_iv_mutagen_quick",
+      "target_iv_mutagen_quills",
+      "target_iv_mutagen_rabbit_ears",
+      "target_iv_mutagen_rabbit_feet",
+      "target_iv_mutagen_rabbit_fur",
+      "target_iv_mutagen_rabbit_nose",
+      "target_iv_mutagen_radioactive",
+      "target_iv_mutagen_radiogenic",
+      "target_iv_mutagen_raptalons",
+      "target_iv_mutagen_raptor_thresh",
+      "target_iv_mutagen_rat_thresh",
+      "target_iv_mutagen_regen",
+      "target_iv_mutagen_regenliz",
+      "target_iv_mutagen_robust",
+      "target_iv_mutagen_roots2",
+      "target_iv_mutagen_roots3",
+      "target_iv_mutagen_rosebuds",
+      "target_iv_mutagen_roughskin",
+      "target_iv_mutagen_ruminant",
+      "target_iv_mutagen_saberteeth",
+      "target_iv_mutagen_saprophage",
+      "target_iv_mutagen_saprovore",
+      "target_iv_mutagen_scales",
+      "target_iv_mutagen_seesleep",
+      "target_iv_mutagen_selfaware",
+      "target_iv_mutagen_sharkteeth",
+      "target_iv_mutagen_shell",
+      "target_iv_mutagen_shell2",
+      "target_iv_mutagen_sleekscales",
+      "target_iv_mutagen_slime_thresh",
+      "target_iv_mutagen_slimehands",
+      "target_iv_mutagen_slimespawner",
+      "target_iv_mutagen_slimy",
+      "target_iv_mutagen_slitnostrils",
+      "target_iv_mutagen_small2",
+      "target_iv_mutagen_smallok",
+      "target_iv_mutagen_snake_coils",
+      "target_iv_mutagen_snarl",
+      "target_iv_mutagen_snout",
+      "target_iv_mutagen_spider_thresh",
+      "target_iv_mutagen_spines",
+      "target_iv_mutagen_spots",
+      "target_iv_mutagen_stockytroglo",
+      "target_iv_mutagen_stralpha",
+      "target_iv_mutagen_strongback",
+      "target_iv_mutagen_stronglegs",
+      "target_iv_mutagen_strongstomach",
+      "target_iv_mutagen_strup3",
+      "target_iv_mutagen_strup4",
+      "target_iv_mutagen_tail_rabbit",
+      "target_iv_mutagen_tail_snake",
+      "target_iv_mutagen_tail_snake_ok",
+      "target_iv_mutagen_tailcattle",
+      "target_iv_mutagen_tailclub",
+      "target_iv_mutagen_tailfin",
+      "target_iv_mutagen_tailfluffy",
+      "target_iv_mutagen_taillong",
+      "target_iv_mutagen_tailraptor",
+      "target_iv_mutagen_tailrat",
+      "target_iv_mutagen_tailsting",
+      "target_iv_mutagen_tailstub",
+      "target_iv_mutagen_tailthick",
+      "target_iv_mutagen_talons",
+      "target_iv_mutagen_terrifying",
+      "target_iv_mutagen_thickscales",
+      "target_iv_mutagen_thickskin",
+      "target_iv_mutagen_thorns",
+      "target_iv_mutagen_thresh_rabbit",
+      "target_iv_mutagen_thresh_serpent",
+      "target_iv_mutagen_tolerance",
+      "target_iv_mutagen_tough",
+      "target_iv_mutagen_tough2",
+      "target_iv_mutagen_tough3",
+      "target_iv_mutagen_toxicflesh",
+      "target_iv_mutagen_transpiration",
+      "target_iv_mutagen_treecommunion",
+      "target_iv_mutagen_troglobite_thresh",
+      "target_iv_mutagen_ursine_thresh",
+      "target_iv_mutagen_ursineears",
+      "target_iv_mutagen_ursinefur",
+      "target_iv_mutagen_vines2",
+      "target_iv_mutagen_vines3",
+      "target_iv_mutagen_viscous",
+      "target_iv_mutagen_vomitous",
+      "target_iv_mutagen_wakeful",
+      "target_iv_mutagen_wakeful2",
+      "target_iv_mutagen_wakeful3",
+      "target_iv_mutagen_watersleep",
+      "target_iv_mutagen_weakscent",
+      "target_iv_mutagen_webbed",
+      "target_iv_mutagen_webbridge",
+      "target_iv_mutagen_webrappel",
+      "target_iv_mutagen_webrope",
+      "target_iv_mutagen_webwalker",
+      "target_iv_mutagen_webweaver",
+      "target_iv_mutagen_whiskers",
+      "target_iv_mutagen_whiskersrat",
+      "target_iv_mutagen_wingsbat",
+      "target_iv_mutagen_wingsbird",
+      "target_iv_mutagen_wingsbutterfly",
+      "target_iv_mutagen_wingsinsect"
+    ],
+    "fg": "bn_liquid_serum_light_gray"
+  },
+  {
+    "id": "targeting_module",
+    "fg": "bn_robot_targeting_module"
+  },
+  {
+    "id": "textbook_archery",
+    "fg": "bn_book_textbook_archery"
+  },
+  {
+    "id": "textbook_atomic_lab",
+    "fg": "bn_book_textbook_atomic_lab"
+  },
+  {
+    "id": "textbook_business",
+    "fg": "bn_book_textbook_business"
+  },
+  {
+    "id": "textbook_chemistry",
+    "fg": "bn_book_textbook_chemistry"
+  },
+  {
+    "id": "textbook_computer",
+    "fg": "bn_book_textbook_computer"
+  },
+  {
+    "id": "textbook_dodge",
+    "fg": "bn_book_textbook_dodge"
+  },
+  {
+    "id": "textbook_extraction",
+    "fg": "bn_book_textbook_extraction"
+  },
+  {
+    "id": "textbook_fabrication",
+    "fg": "bn_book_textbook_fabrication"
+  },
+  {
+    "id": "textbook_speech",
+    "fg": "bn_book_textbook_speech"
+  },
+  {
+    "id": "textbook_survival",
+    "fg": "bn_book_textbook_survival"
+  },
+  {
+    "id": "textbook_tailor",
+    "fg": "bn_book_textbook_tailor"
+  },
+  {
+    "id": [
+      "thermal_cooling",
+      "thermal_cooling_on"
+    ],
+    "fg": "bn_thermal_cooling"
+  },
+  {
+    "id": [
+      "thermal_outfit",
+      "thermal_outfit_on"
+    ],
+    "fg": "bn_thermal_outfit"
+  },
+  {
+    "id": "thermal_shirt",
+    "fg": "bn_thermal_shirt"
+  },
+  {
+    "id": "thorazine",
+    "fg": "bn_thorazine"
+  },
+  {
+    "id": "toastem",
+    "fg": "bn_toastem_toastem"
+  },
+  {
+    "id": "toastem2",
+    "fg": "bn_toastem_toastem2"
+  },
+  {
+    "id": "toastem3",
+    "fg": "bn_toastem_toastem3"
+  },
+  {
+    "id": "tofu_rice",
+    "fg": "bn_tofu_rice"
+  },
+  {
+    "id": "tool_anfo_charge",
+    "fg": "bn_anfo_charge"
+  },
+  {
+    "id": "tool_anfo_charge_act",
+    "fg": "bn_anfo_charge_act"
+  },
+  {
+    "id": "tool_black_powder_charge",
+    "fg": "bn_black_powder_charge"
+  },
+  {
+    "id": "tool_black_powder_charge_act",
+    "fg": "bn_black_powder_charge_act"
+  },
+  {
+    "id": "tool_improvised_barrel_bomb",
+    "fg": "bn_improvised_barrel_bomb"
+  },
+  {
+    "id": "tool_improvised_barrel_bomb_act",
+    "fg": "bn_improvised_barrel_bomb_act"
+  },
+  {
+    "id": "tool_rdx_charge",
+    "fg": "bn_rdx_charge"
+  },
+  {
+    "id": "tool_rdx_charge_act",
+    "fg": "bn_rdx_charge_act"
+  },
+  {
+    "id": "tourmaline",
+    "fg": "bn_mineral_tourmaline"
+  },
+  {
+    "id": [
+      "town_hall_0_0_0",
+      "town_hall_0_0_1",
+      "town_hall_0_0_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q0_north",
+      "bn_town_hall_q0_west",
+      "bn_town_hall_q0_south",
+      "bn_town_hall_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "town_hall_0_1_0",
+      "town_hall_0_1_1",
+      "town_hall_0_1_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q0_west",
+      "bn_town_hall_q0_south",
+      "bn_town_hall_q0_east",
+      "bn_town_hall_q0_north"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "town_hall_1_0_0",
+      "town_hall_1_0_1",
+      "town_hall_1_0_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q0_east",
+      "bn_town_hall_q0_north",
+      "bn_town_hall_q0_west",
+      "bn_town_hall_q0_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "town_hall_1_1_0",
+      "town_hall_1_1_1",
+      "town_hall_1_1_roof"
+    ],
+    "fg": [
+      "bn_town_hall_q0_south",
+      "bn_town_hall_q0_east",
+      "bn_town_hall_q0_north",
+      "bn_town_hall_q0_west"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "toxic_dump_roof",
+    "fg": "toxic_waste_dump",
+    "bg": "open_air"
+  },
+  {
+    "id": "triffid_sprout",
+    "fg": "bn_new_triffid_sprout"
+  },
+  {
+    "id": "universal_auto_conversion_kit",
+    "fg": "bn_new_universal_auto_conversion_kit"
+  },
+  {
+    "id": "universal_autolink",
+    "fg": "bn_new_universal_autolink"
+  },
+  {
+    "id": [
+      "urban_13_1",
+      "urban_13_2",
+      "urban_14_1",
+      "urban_14_2",
+      "urban_23_1",
+      "urban_23_2",
+      "urban_24_1",
+      "urban_24_2",
+      "urban_25_1",
+      "urban_25_2",
+      "urban_26_1",
+      "urban_26_2",
+      "urban_27_1",
+      "urban_27_2",
+      "urban_28_1",
+      "urban_28_2",
+      "urban_29_1",
+      "urban_29_2",
+      "urban_30_1"
+    ],
+    "fg": "s_apt"
+  },
+  {
+    "id": [
+      "urban_13_10",
+      "urban_13_11",
+      "urban_13_12",
+      "urban_13_5",
+      "urban_13_6",
+      "urban_13_7",
+      "urban_13_8",
+      "urban_13_9",
+      "urban_14_10",
+      "urban_14_11",
+      "urban_14_12",
+      "urban_14_13",
+      "urban_14_14",
+      "urban_14_5",
+      "urban_14_6",
+      "urban_14_7",
+      "urban_14_8",
+      "urban_14_9",
+      "urban_23_10",
+      "urban_23_11",
+      "urban_23_5",
+      "urban_23_6",
+      "urban_23_7",
+      "urban_23_8",
+      "urban_23_9",
+      "urban_24_10",
+      "urban_24_11",
+      "urban_24_12",
+      "urban_24_14",
+      "urban_24_5",
+      "urban_24_6",
+      "urban_24_7",
+      "urban_24_8",
+      "urban_24_9",
+      "urban_25_10",
+      "urban_25_12",
+      "urban_25_5",
+      "urban_25_6",
+      "urban_25_7",
+      "urban_25_8",
+      "urban_25_9",
+      "urban_26_10",
+      "urban_26_11",
+      "urban_26_12",
+      "urban_26_5",
+      "urban_26_6",
+      "urban_26_7",
+      "urban_26_8",
+      "urban_26_9",
+      "urban_27_10",
+      "urban_27_11",
+      "urban_27_12",
+      "urban_27_13",
+      "urban_27_5",
+      "urban_27_6",
+      "urban_27_7",
+      "urban_27_8",
+      "urban_27_9",
+      "urban_28_10",
+      "urban_28_11",
+      "urban_28_5",
+      "urban_28_6",
+      "urban_28_7",
+      "urban_28_8",
+      "urban_28_9",
+      "urban_29_10",
+      "urban_29_5",
+      "urban_29_6",
+      "urban_29_7",
+      "urban_29_8",
+      "urban_29_9",
+      "urban_30_10",
+      "urban_30_5",
+      "urban_30_6",
+      "urban_30_7",
+      "urban_30_8",
+      "urban_30_9",
+      "urban_38_10",
+      "urban_38_11",
+      "urban_38_12",
+      "urban_38_5",
+      "urban_38_6",
+      "urban_38_7",
+      "urban_38_8",
+      "urban_38_9",
+      "urban_39_10",
+      "urban_39_5",
+      "urban_39_6",
+      "urban_39_7",
+      "urban_39_8",
+      "urban_39_9"
+    ],
+    "fg": "s_apt",
+    "bg": "open_air_tall"
+  },
+  {
+    "id": [
+      "urban_13_3",
+      "urban_13_4",
+      "urban_14_3",
+      "urban_14_4",
+      "urban_23_3",
+      "urban_23_4",
+      "urban_24_3",
+      "urban_24_4",
+      "urban_25_3",
+      "urban_25_4",
+      "urban_26_3",
+      "urban_26_4",
+      "urban_27_3",
+      "urban_27_4",
+      "urban_28_3",
+      "urban_28_4",
+      "urban_29_3",
+      "urban_29_4",
+      "urban_30_3",
+      "urban_30_4",
+      "urban_38_1",
+      "urban_38_2",
+      "urban_38_3",
+      "urban_38_4",
+      "urban_39_2",
+      "urban_39_3",
+      "urban_39_4"
+    ],
+    "fg": "s_apt",
+    "bg": "field_tall"
+  },
+  {
+    "id": [
+      "urban_30_2",
+      "urban_39_1"
+    ],
+    "fg": [
+      "sub_station_rot_N",
+      "sub_station_rot_W",
+      "sub_station_rot_S",
+      "sub_station_rot_E"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_31_1",
+      "urban_31_13",
+      "urban_31_17",
+      "urban_31_5",
+      "urban_31_9"
+    ],
+    "fg": [
+      "police_dept03",
+      "police_dept01",
+      "police_dept02",
+      "police_dept04"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_31_10",
+      "urban_31_2",
+      "urban_31_6"
+    ],
+    "fg": [
+      "police_dept04",
+      "police_dept03",
+      "police_dept01",
+      "police_dept02"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_31_11",
+      "urban_31_15",
+      "urban_31_19",
+      "urban_31_3",
+      "urban_31_7"
+    ],
+    "fg": [
+      "police_dept01",
+      "police_dept02",
+      "police_dept04",
+      "police_dept03"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_31_12",
+      "urban_31_16",
+      "urban_31_4",
+      "urban_31_8"
+    ],
+    "fg": [
+      "police_dept02",
+      "police_dept04",
+      "police_dept03",
+      "police_dept01"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_32_1",
+      "urban_32_13",
+      "urban_32_17",
+      "urban_32_5",
+      "urban_32_9"
+    ],
+    "fg": [
+      "bn_fire_station_q0_north",
+      "bn_fire_station_q0_west",
+      "bn_fire_station_q0_south",
+      "bn_fire_station_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_32_10",
+      "urban_32_14",
+      "urban_32_18",
+      "urban_32_2",
+      "urban_32_6"
+    ],
+    "fg": [
+      "bn_fire_station_q1_north",
+      "bn_fire_station_q0_north",
+      "bn_fire_station_q1_south",
+      "bn_fire_station_q0_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_32_11",
+      "urban_32_15",
+      "urban_32_19",
+      "urban_32_3",
+      "urban_32_7"
+    ],
+    "fg": [
+      "bn_fire_station_q0_west",
+      "bn_fire_station_q2_west",
+      "bn_fire_station_q0_east",
+      "bn_fire_station_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_32_12",
+      "urban_32_16",
+      "urban_32_20",
+      "urban_32_4",
+      "urban_32_8"
+    ],
+    "fg": [
+      "bn_fire_station_q2_west",
+      "bn_fire_station_q1_north",
+      "bn_fire_station_q2_east",
+      "bn_fire_station_q1_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "urban_32_21",
+    "fg": [
+      "bn_fire_station_q1_north",
+      "bn_fire_station_q1_north",
+      "bn_fire_station_q2_east",
+      "bn_fire_station_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_33_1",
+      "urban_33_13",
+      "urban_33_17",
+      "urban_33_21",
+      "urban_33_25",
+      "urban_33_29",
+      "urban_33_5",
+      "urban_33_9"
+    ],
+    "fg": [
+      "bn_hotel_q0_north",
+      "bn_hotel_q0_west",
+      "bn_hotel_q0_south",
+      "bn_hotel_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_33_10",
+      "urban_33_14",
+      "urban_33_18",
+      "urban_33_2",
+      "urban_33_22",
+      "urban_33_26",
+      "urban_33_30",
+      "urban_33_34",
+      "urban_33_6"
+    ],
+    "fg": [
+      "bn_hotel_q1_north",
+      "bn_hotel_q0_north",
+      "bn_hotel_q1_south",
+      "bn_hotel_q0_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_33_11",
+      "urban_33_15",
+      "urban_33_19",
+      "urban_33_23",
+      "urban_33_27",
+      "urban_33_3",
+      "urban_33_31",
+      "urban_33_35",
+      "urban_33_7"
+    ],
+    "fg": [
+      "bn_hotel_q0_west",
+      "bn_hotel_q2_west",
+      "bn_hotel_q0_east",
+      "bn_hotel_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_33_12",
+      "urban_33_16",
+      "urban_33_20",
+      "urban_33_24",
+      "urban_33_28",
+      "urban_33_32",
+      "urban_33_36",
+      "urban_33_4",
+      "urban_33_8"
+    ],
+    "fg": [
+      "bn_hotel_q2_west",
+      "bn_hotel_q1_north",
+      "bn_hotel_q2_east",
+      "bn_hotel_q1_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_41_1",
+      "urban_41_5",
+      "urban_41_9"
+    ],
+    "fg": [
+      "bn_library_q0_north",
+      "bn_library_q0_west",
+      "bn_library_q0_south",
+      "bn_library_q0_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_41_10",
+      "urban_41_2",
+      "urban_41_6"
+    ],
+    "fg": [
+      "bn_library_q1_north",
+      "bn_library_q0_north",
+      "bn_library_q1_south",
+      "bn_library_q0_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_41_11",
+      "urban_41_3",
+      "urban_41_7"
+    ],
+    "fg": [
+      "bn_library_q0_west",
+      "bn_library_q2_west",
+      "bn_library_q0_east",
+      "bn_library_q2_east"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_41_12",
+      "urban_41_4",
+      "urban_41_8"
+    ],
+    "fg": [
+      "bn_library_q2_west",
+      "bn_library_q1_north",
+      "bn_library_q2_east",
+      "bn_library_q1_south"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "veggy",
+    "fg": "bn_veggy_veggy"
+  },
+  {
+    "id": "veggy_canned",
+    "fg": "bn_preserved_veggy_veggy_canned"
+  },
+  {
+    "id": "veggy_salad",
+    "fg": "bn_veggy_salad"
+  },
+  {
+    "id": "veggy_wild_cooked",
+    "fg": "bn_veggy_veggy_wild_cooked"
+  },
+  {
+    "id": "vinegar_maker",
+    "fg": "bn_book_vinegar_maker"
+  },
+  {
+    "id": "visions_solitude",
+    "fg": "bn_book_visions_solitude"
+  },
+  {
+    "id": "vp_3d_printer_advancedrig",
+    "fg": "bn_new_3d_printer_advancedrig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_3d_printer_advancedrig"
+      }
+    ]
+  },
+  {
+    "id": "vp_3d_printer_basicrig",
+    "fg": "bn_new_3d_printer_basicrig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_3d_printer_basicrig"
+      }
+    ]
+  },
+  {
+    "id": "vp_afs_metal_rig",
+    "fg": "bn_new_vp_afs_metal_rig",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "bn_new_vp_afs_metal_rig"
+      }
+    ]
+  },
+  {
+    "id": [
+      "water_acid",
+      "water_acid_weak"
+    ],
+    "fg": "bn_water_acid"
+  },
+  {
+    "id": "wearable_rx12",
+    "fg": "bn_wearable_rx12"
+  },
+  {
+    "id": "weldrig",
+    "fg": "bn_new_weldrig"
+  },
+  {
+    "id": "well_pump",
+    "fg": "bn_pump_well_pump"
+  },
+  {
+    "id": "whistle_multitool",
+    "fg": "bn_whistle_multitool"
+  },
+  {
+    "id": "wide_headlight_reinforced",
+    "fg": "bn_light_wide_headlight_reinforced"
+  },
+  {
+    "id": "winemaking_beginner",
+    "fg": "bn_book_winemaking_beginner"
+  },
+  {
+    "id": [
+      "ws_fire_lookout_tower_f4",
+      "ws_fire_lookout_tower_f5"
+    ],
+    "fg": "ws_fire_lookout_tower_f2",
+    "bg": "open_air"
+  },
+  {
+    "id": "xanax",
+    "fg": "bn_xanax"
+  },
+  {
+    "id": "xlballistic_vest_empty",
+    "fg": "bn_xlballistic_vest_empty"
+  },
+  {
+    "id": "xlframe",
+    "fg": "bn_new_xlframe"
+  },
+  {
+    "id": "yoke_harness",
+    "fg": "bn_new_yoke_harness"
+  },
+  {
+    "id": "vp_funnel",
+    "fg": "vp_funnel"
+  },
+  {
+    "id": "vp_wind_turbine",
+    "fg": "vp_wind_turbine"
+  },
+  {
+    "id": "vp_distorion_flow_rotor_part",
+    "fg": "vp_distorion_flow_rotor_part"
+  }
+]

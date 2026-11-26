@@ -1,22 +1,25 @@
 [
   {
-    "id": "vp_hddoor_left",
+    "id": [ "vp_hddoor_left", "vp_hddoor" ],
     "fg": [ "vp_hddoor_L_rotN", "vp_hddoor_L_rotE", "vp_hddoor_L_rotS", "vp_hddoor_L_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_hddoor_left_open_rotN", "vp_hddoor_left_open_rotE", "vp_hddoor_left_open_rotS", "vp_hddoor_left_open_rotW" ]
+        "fg": [ "vp_hddoor_left_open_rotN", "vp_hddoor_left_open_rotE", "vp_hddoor_left_open_rotS", "vp_hddoor_left_open_rotW" ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_158", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_159"]}]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
-        "bg": [ "vp_hddoor_left_open_rotN", "vp_hddoor_left_open_rotE", "vp_hddoor_left_open_rotS", "vp_hddoor_left_open_rotW" ]
+        "bg": [ "vp_hddoor_left_open_rotN", "vp_hddoor_left_open_rotE", "vp_hddoor_left_open_rotS", "vp_hddoor_left_open_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_158", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_159"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_156", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_157"]}]
   },
   {
-    "id": "vp_hddoor_right",
+    "id": [ "vp_hddoor_right", "vp_hddoor_opaque_appearance_hddoor_right" ],
     "fg": [ "vp_hddoor_R_rotN", "vp_hddoor_R_rotW", "vp_hddoor_R_rotS", "vp_hddoor_R_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -29,7 +32,8 @@
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [ "vp_hddoor_right_open_rotN", "vp_hddoor_right_open_rotE", "vp_hddoor_right_open_rotS", "vp_hddoor_right_open_rotW" ]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_157"]}]
   },
   {
     "id": "vp_hddoor_opaque_left",
@@ -48,7 +52,8 @@
           "vp_hddoor_opaque_left_open_rotE",
           "vp_hddoor_opaque_left_open_rotS",
           "vp_hddoor_opaque_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_164", "paint_mask_32x48_x0_y-16_165", "paint_mask_32x48_x0_y-16_166", "paint_mask_32x48_x0_y-16_167"]}]
       },
       {
         "id": "broken",
@@ -58,9 +63,11 @@
           "vp_hddoor_opaque_left_open_rotE",
           "vp_hddoor_opaque_left_open_rotS",
           "vp_hddoor_opaque_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_164", "paint_mask_32x48_x0_y-16_165", "paint_mask_32x48_x0_y-16_166", "paint_mask_32x48_x0_y-16_167"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_160", "paint_mask_32x48_x0_y-16_161", "paint_mask_32x48_x0_y-16_162", "paint_mask_32x48_x0_y-16_163"]}]
   },
   {
     "id": "vp_hddoor_opaque_right",
@@ -79,7 +86,8 @@
           "vp_hddoor_opaque_right_open_rotE",
           "vp_hddoor_opaque_right_open_rotS",
           "vp_hddoor_opaque_right_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_170", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_171"]}]
       },
       {
         "id": "broken",
@@ -89,8 +97,10 @@
           "vp_hddoor_opaque_right_open_rotE",
           "vp_hddoor_opaque_right_open_rotS",
           "vp_hddoor_opaque_right_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_170", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_171"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_168", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_25", "paint_mask_32x48_x0_y-16_169"]}]
   }
 ]

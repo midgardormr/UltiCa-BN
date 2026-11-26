@@ -1,18 +1,21 @@
 [
   {
     "id": "t_chaingate_c",
-    "fg": "t_gate_chainlink_c",
-    "bg": "t_pavement"
+    "fg": ["bn_gate_chain_ns_c", "bn_gate_chain_ew_c_padded"],
+    "bg": ["bn_gate_ground_pavement_centered", "bn_gate_ground_pavement_centered"],
+    "rotates": true
   },
   {
     "id": "t_chaingate_l",
-    "fg": "t_gate_chainlink_l",
-    "bg": "t_pavement"
+    "fg": ["bn_gate_chain_locked_ns_c", "t_gate_chainlink_l"],
+    "bg": ["t_pavement", "t_pavement"],
+    "rotates": true
   },
   {
     "id": "t_chaingate_o",
-    "fg": "t_gate_chainlink_o",
-    "bg": "t_pavement"
+    "fg": ["bn_gate_chain_ns_o", "bn_gate_chain_ew_o_wide"],
+    "bg": ["bn_gate_ground_pavement_wide", "bn_gate_ground_pavement_wide"],
+    "rotates": true
   },
   {
     "id": "t_chainfence_posts",
@@ -21,18 +24,21 @@
   },
   {
     "id": "t_chaingate_c_season_winter",
-    "fg": "t_gate_chainlink_c",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_gate_chain_ns_c", "bn_gate_chain_ew_c_padded"],
+    "bg": ["bn_gate_ground_snow_centered", "bn_gate_ground_snow_centered"],
+    "rotates": true
   },
   {
     "id": "t_chaingate_l_season_winter",
-    "fg": "t_gate_chainlink_l",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_gate_chain_locked_ns_c", "t_gate_chainlink_l"],
+    "bg": ["snow_shallow_center", "snow_shallow_center"],
+    "rotates": true
   },
   {
     "id": "t_chaingate_o_season_winter",
-    "fg": "t_gate_chainlink_o",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_gate_chain_ns_o", "bn_gate_chain_ew_o_wide"],
+    "bg": ["snow_shallow_large", "snow_shallow_large"],
+    "rotates": true
   },
   {
     "id": "t_chainfence_posts_season_winter",

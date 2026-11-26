@@ -1,7 +1,9 @@
 [
   {
     "id": "f_dryer",
-    "fg": "f_dryer",
-    "bg": ""
+    "fg": ["f_dryer", "bn_dryer_faceW", "bn_dryer_faceN", "bn_dryer_faceE"],
+    "bg": "",
+    "rotates": true,
+    "flags": ["ALIGN_TO_TERRAIN"]
   }
 ]

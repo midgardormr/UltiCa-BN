@@ -15,12 +15,12 @@
       },
       {
         "id": "corner",
-        "fg": [ "t_nm_brain_corner_nw", "t_nm_brain_corner_ne", "t_nm_brain_corner_se", "t_nm_brain_corner_sw" ],
+        "fg": [ "t_nm_brain_corner_nw", "t_nm_brain_corner_sw", "t_nm_brain_corner_se", "t_nm_brain_corner_ne" ],
         "bg": "t_nm_floor_flesh"
       },
       {
         "id": "t_connection",
-        "fg": [ "t_nm_brain_t_connection_n", "t_nm_brain_t_connection_e", "t_nm_brain_t_connection_s", "t_nm_brain_t_connection_w" ]
+        "fg": [ "t_nm_brain_t_connection_n", "t_nm_brain_t_connection_w", "t_nm_brain_t_connection_s", "t_nm_brain_t_connection_e" ]
       },
       { "id": "edge", "fg": [ "t_nm_brain_edge_ns", "t_nm_brain_edge_ew" ] },
       {

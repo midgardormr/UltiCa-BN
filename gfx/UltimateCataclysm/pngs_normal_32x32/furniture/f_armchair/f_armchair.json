@@ -7,5 +7,6 @@
     "f_armchair_faceN",
     "f_armchair_faceE"
   ],
-  "bg": ""
+  "bg": "",
+  "flags": ["ALIGN_TO_TERRAIN"]
 }

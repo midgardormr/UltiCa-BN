@@ -8,16 +8,16 @@
     {
       "id": "corner",
       "bg": "t_metal_floor_center",
-      "fg": [ "t_LIXA_laser_corner_nw", "t_LIXA_laser_corner_ne", "t_LIXA_laser_corner_se", "t_LIXA_laser_corner_sw" ]
+      "fg": [ "t_LIXA_laser_corner_nw", "t_LIXA_laser_corner_sw", "t_LIXA_laser_corner_se", "t_LIXA_laser_corner_ne" ]
     },
     {
       "id": "t_connection",
       "bg": "t_metal_floor_center",
       "fg": [
         "t_LIXA_laser_t_connection_n",
-        "t_LIXA_laser_t_connection_e",
+        "t_LIXA_laser_t_connection_w",
         "t_LIXA_laser_t_connection_s",
-        "t_LIXA_laser_t_connection_w"
+        "t_LIXA_laser_t_connection_e"
       ]
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "end_piece",
       "bg": "t_metal_floor_center",
-      "fg": [ "t_LIXA_laser_end_piece_n", "t_LIXA_laser_end_piece_e", "t_LIXA_laser_end_piece_s", "t_LIXA_laser_end_piece_w" ]
+      "fg": [ "t_LIXA_laser_end_piece_n", "t_LIXA_laser_end_piece_w", "t_LIXA_laser_end_piece_s", "t_LIXA_laser_end_piece_e" ]
     },
     { "id": "unconnected", "bg": "t_metal_floor_center", "fg": "t_LIXA_laser_center" }
   ]

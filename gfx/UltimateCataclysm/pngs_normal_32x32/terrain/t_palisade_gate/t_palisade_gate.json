@@ -1,22 +1,30 @@
 [
   {
     "id": "t_palisade_gate",
-    "fg": "t_palisade_gate",
-    "bg": "t_grass"
+    "fg": ["bn_gate_palisade_ns_c", "t_palisade_gate"],
+    "bg": ["t_grass", "t_grass"],
+    "rotates": true,
+    "flags": ["CONNECT_TO_WALL"]
   },
   {
     "id": "t_palisade_gate_season_summer",
-    "fg": "t_palisade_gate",
-    "bg": "t_grass_summer"
+    "fg": ["bn_gate_palisade_ns_c", "t_palisade_gate"],
+    "bg": ["t_grass_summer", "t_grass_summer"],
+    "rotates": true,
+    "flags": ["CONNECT_TO_WALL"]
   },
   {
     "id": "t_palisade_gate_season_autumn",
-    "fg": "t_palisade_gate",
-    "bg": "t_grass_autumn"
+    "fg": ["bn_gate_palisade_ns_c", "t_palisade_gate"],
+    "bg": ["t_grass_autumn", "t_grass_autumn"],
+    "rotates": true,
+    "flags": ["CONNECT_TO_WALL"]
   },
   {
     "id": "t_palisade_gate_season_winter",
-    "fg": "t_palisade_gate",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_gate_palisade_ns_c", "t_palisade_gate"],
+    "bg": ["snow_shallow_center", "snow_shallow_center"],
+    "rotates": true,
+    "flags": ["CONNECT_TO_WALL"]
   }
 ]

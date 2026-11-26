@@ -8,9 +8,9 @@
       "id": "center",
       "fg": [
         "t_dirt_season_summer_center",
-        "t_dirt_season_summer_center4",
+        "t_dirt_season_summer_center2",
         "t_dirt_season_summer_center3",
-        "t_dirt_season_summer_center2"
+        "t_dirt_season_summer_center4"
       ],
       "bg": ""
     },
@@ -18,9 +18,9 @@
       "id": "corner",
       "fg": [
         "t_dirt_season_summer_corner_nw",
-        "t_dirt_season_summer_corner_ne",
+        "t_dirt_season_summer_corner_sw",
         "t_dirt_season_summer_corner_se",
-        "t_dirt_season_summer_corner_sw"
+        "t_dirt_season_summer_corner_ne"
       ],
       "bg": ""
     },
@@ -28,9 +28,9 @@
       "id": "t_connection",
       "fg": [
         "t_dirt_season_summer_t_connection_n",
-        "t_dirt_season_summer_t_connection_e",
+        "t_dirt_season_summer_t_connection_w",
         "t_dirt_season_summer_t_connection_s",
-        "t_dirt_season_summer_t_connection_w"
+        "t_dirt_season_summer_t_connection_e"
       ],
       "bg": ""
     },
@@ -39,9 +39,9 @@
       "id": "end_piece",
       "fg": [
         "t_dirt_season_summer_end_piece_n",
-        "t_dirt_season_summer_end_piece_e",
+        "t_dirt_season_summer_end_piece_w",
         "t_dirt_season_summer_end_piece_s",
-        "t_dirt_season_summer_end_piece_w"
+        "t_dirt_season_summer_end_piece_e"
       ],
       "bg": ""
     },

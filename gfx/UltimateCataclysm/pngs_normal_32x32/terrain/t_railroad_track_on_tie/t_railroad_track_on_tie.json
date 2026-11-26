@@ -10,9 +10,9 @@
         "id": "corner",
         "fg": [
           "t_railroad_track_on_tie_corner_nw",
-          "t_railroad_track_on_tie_corner_ne",
+          "t_railroad_track_on_tie_corner_sw",
           "t_railroad_track_on_tie_corner_se",
-          "t_railroad_track_on_tie_corner_sw"
+          "t_railroad_track_on_tie_corner_ne"
         ],
         "bg": "t_railroad_rubble_center"
       },
@@ -20,9 +20,9 @@
         "id": "t_connection",
         "fg": [
           "t_railroad_track_on_tie_corner_nw",
+          "t_railroad_track_on_tie_corner_sw",
           "t_railroad_track_on_tie_corner_se",
-          "t_railroad_track_on_tie_corner_se",
-          "t_railroad_track_on_tie_corner_sw"
+          "t_railroad_track_on_tie_corner_se"
         ],
         "bg": "t_railroad_rubble_center"
       },
@@ -46,9 +46,9 @@
         "id": "corner",
         "fg": [
           "t_railroad_track_on_tie_corner_nw",
-          "t_railroad_track_on_tie_corner_ne",
+          "t_railroad_track_on_tie_corner_sw",
           "t_railroad_track_on_tie_corner_se",
-          "t_railroad_track_on_tie_corner_sw"
+          "t_railroad_track_on_tie_corner_ne"
         ],
         "bg": "t_railroad_rubble_center"
       },
@@ -56,9 +56,9 @@
         "id": "t_connection",
         "fg": [
           "t_railroad_track_on_tie_corner_nw",
-          "t_railroad_track_on_tie_corner_ne",
+          "t_railroad_track_on_tie_corner_sw",
           "t_railroad_track_on_tie_corner_se",
-          "t_railroad_track_on_tie_corner_sw"
+          "t_railroad_track_on_tie_corner_ne"
         ],
         "bg": "t_railroad_rubble_center"
       },

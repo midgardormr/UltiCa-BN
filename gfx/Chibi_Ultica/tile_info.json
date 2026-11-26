@@ -4,13 +4,16 @@
     "width": 32,
     "height": 32
   },
+  {"bn_artwork.png": {"sprite_width": 32, "sprite_height": 32}},
+  {"gates.png": {"sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -32}},
+  {"solar.png": {"sprite_width": 32, "sprite_height": 64, "sprite_offset_y": 0}},
   {
     "ChibiLarge.png": {
       "sprite_width": 64,
       "sprite_height": 80,
       "sprite_offset_x": -16,
       "sprite_offset_y": -48,
-      "exclude": [ "furniture", "terrain", "mods/Magiclysm/furnitures" ]
+      "exclude": [ "furniture", "terrain", "mods/Magiclysm/furnitures", "monsters/mon_zow/mon_zow.json" ]
     }
   },
   {
@@ -36,7 +39,15 @@
         "mods/Magiclysm/furniture",
         "mods/Aftershock/terrain",
         "mods/Aftershock/furniture",
-        "mods/skyisland/furniture"
+        "mods/skyisland/furniture",
+        "character/overlay/worn/overlay_female_worn_thermal_outfit_0.json",
+        "character/overlay/worn/overlay_female_worn_thermal_outfit_on_0.json",
+        "character/overlay/worn/overlay_male_worn_thermal_outfit_0.json",
+        "character/overlay/worn/overlay_male_worn_thermal_outfit_on_0.json",
+        "character/overlay/worn/overlay_worn_mask_ski_loose_mask_ski_loose_0.json",
+        "character/overlay/worn/overlay_worn_mask_ski_mask_ski_0.json",
+        "monster/mon_spider_trapdoor_0.json",
+        "monster/mon_zombie_dancer_0.json"
       ]
     }
   },
@@ -59,7 +70,7 @@
     }
   },
   {
-    "ChibiTaller.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -32, "exclude": [ "terrain" ] }
+    "ChibiTaller.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -32, "exclude": [ "terrain", "furniture/f_fungal_tangle.png" ] }
   },
   {
     "ChibiHuge.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
@@ -74,7 +85,7 @@
     }
   },
   {
-    "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
+    "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true, "sprite_offset_x": 6 }
   },
   {
     "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/wielded", "overlay/worn" ] }

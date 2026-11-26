@@ -6,13 +6,16 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_trunk_open", "vp_door_trunk_open_rotE", "vp_door_trunk_open_rotS", "vp_door_trunk_open_rotW" ]
+        "fg": [ "vp_door_trunk_open", "vp_door_trunk_open_rotE", "vp_door_trunk_open_rotS", "vp_door_trunk_open_rotW" ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_60", "paint_mask_32x64_x0_y-32_61", "paint_mask_32x64_x0_y-32_62", "paint_mask_32x64_x0_y-32_63"]}]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_door_trunk_open", "vp_door_trunk_open_rotE", "vp_door_trunk_open_rotS", "vp_door_trunk_open_rotW" ]
+        "bg": [ "vp_door_trunk_open", "vp_door_trunk_open_rotE", "vp_door_trunk_open_rotS", "vp_door_trunk_open_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x64_x0_y-32_60", "paint_mask_32x64_x0_y-32_61", "paint_mask_32x64_x0_y-32_62", "paint_mask_32x64_x0_y-32_63"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x64_x0_y-32_56", "paint_mask_32x64_x0_y-32_57", "paint_mask_32x64_x0_y-32_58", "paint_mask_32x64_x0_y-32_59"]}]
   }
 ]

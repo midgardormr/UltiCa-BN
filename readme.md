@@ -1,3 +1,7 @@
+# UltiCa for Bright Nights
+
+This fork adds Bright Nights artwork and bindings. Downloads are available in [this fork's releases](https://github.com/midgardormr/UltiCa-BN/releases); see [building and upstream synchronization](doc/ultica-bn.md).
+
 <p align="center">
     <img src="./screenshots/UltimateCataclysm/showcase-sep-2021.png" alt="Showcase">
 </p>

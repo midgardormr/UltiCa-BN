@@ -16,7 +16,8 @@
           "vp_door_trunk_hatch_wheel_left_open_rotE",
           "vp_door_trunk_hatch_wheel_left_open_rotS",
           "vp_door_trunk_hatch_wheel_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_40", "paint_mask_64x64_x-16_y-32_54", "paint_mask_64x64_x-16_y-32_55", "paint_mask_64x64_x-16_y-32_56"]}]
       },
       {
         "id": "broken",
@@ -26,9 +27,11 @@
           "vp_door_trunk_hatch_wheel_left_open_rotE",
           "vp_door_trunk_hatch_wheel_left_open_rotS",
           "vp_door_trunk_hatch_wheel_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_64x64_x-16_y-32_40", "paint_mask_64x64_x-16_y-32_54", "paint_mask_64x64_x-16_y-32_55", "paint_mask_64x64_x-16_y-32_56"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_36", "paint_mask_64x64_x-16_y-32_51", "paint_mask_64x64_x-16_y-32_52", "paint_mask_64x64_x-16_y-32_53"]}]
   },
   {
     "id": [ "vp_door_trunk_wheel_left", "vp_door_trunk_wheel_right" ],
@@ -47,7 +50,8 @@
           "vp_door_trunk_hatch_floor_wheel_left_open_rotE",
           "vp_door_trunk_hatch_wheel_left_open_rotS",
           "vp_door_trunk_hatch_floor_wheel_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_40", "paint_mask_64x64_x-16_y-32_59", "paint_mask_64x64_x-16_y-32_55", "paint_mask_64x64_x-16_y-32_60"]}]
       },
       {
         "id": "broken",
@@ -57,8 +61,10 @@
           "vp_door_trunk_hatch_floor_wheel_left_open_rotE",
           "vp_door_trunk_hatch_wheel_left_open_rotS",
           "vp_door_trunk_hatch_floor_wheel_left_open_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_64x64_x-16_y-32_40", "paint_mask_64x64_x-16_y-32_59", "paint_mask_64x64_x-16_y-32_55", "paint_mask_64x64_x-16_y-32_60"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_64x64_x-16_y-32_36", "paint_mask_64x64_x-16_y-32_57", "paint_mask_64x64_x-16_y-32_52", "paint_mask_64x64_x-16_y-32_58"]}]
   }
 ]

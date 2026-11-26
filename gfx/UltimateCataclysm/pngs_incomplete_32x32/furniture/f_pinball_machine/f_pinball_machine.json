@@ -1,5 +1,6 @@
 {
   "id": "f_pinball_machine",
-  "fg": "f_pinball_machine",
-  "bg": ""
+  "fg": ["bn_pinball_faceS", "bn_pinball_faceW", "bn_pinball_faceN", "bn_pinball_faceE"],
+  "rotates": true,
+  "flags": ["ALIGN_TO_TERRAIN"]
 }

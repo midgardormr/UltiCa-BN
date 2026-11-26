@@ -72,23 +72,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_ne", "t_fungus1_corner_se", "t_fungus1_corner_sw" ]
+            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_ne", "t_fungus2_corner_se", "t_fungus2_corner_sw" ]
+            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_ne", "t_fungus3_corner_se", "t_fungus3_corner_sw" ]
+            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_ne", "t_fungus5_corner_se", "t_fungus5_corner_sw" ]
+            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_ne", "t_fungus6_corner_se", "t_fungus6_corner_sw" ]
+            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ]
           }
         ]
       },
@@ -98,23 +98,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_e", "t_fungus1_t_connection_s", "t_fungus1_t_connection_w" ]
+            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_e", "t_fungus2_t_connection_s", "t_fungus2_t_connection_w" ]
+            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_e", "t_fungus3_t_connection_s", "t_fungus3_t_connection_w" ]
+            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_e", "t_fungus5_t_connection_s", "t_fungus5_t_connection_w" ]
+            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_e", "t_fungus6_t_connection_s", "t_fungus6_t_connection_w" ]
+            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ]
           }
         ]
       },
@@ -135,23 +135,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_e", "t_fungus1_end_piece_s", "t_fungus1_end_piece_w" ]
+            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_e", "t_fungus2_end_piece_s", "t_fungus2_end_piece_w" ]
+            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_e", "t_fungus3_end_piece_s", "t_fungus3_end_piece_w" ]
+            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_e", "t_fungus5_end_piece_s", "t_fungus5_end_piece_w" ]
+            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_e", "t_fungus6_end_piece_s", "t_fungus6_end_piece_w" ]
+            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ]
           }
         ]
       },
@@ -231,23 +231,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_ne", "t_fungus1_corner_se", "t_fungus1_corner_sw" ]
+            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_ne", "t_fungus2_corner_se", "t_fungus2_corner_sw" ]
+            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_ne", "t_fungus3_corner_se", "t_fungus3_corner_sw" ]
+            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_ne", "t_fungus5_corner_se", "t_fungus5_corner_sw" ]
+            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_ne", "t_fungus6_corner_se", "t_fungus6_corner_sw" ]
+            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ]
           }
         ]
       },
@@ -257,23 +257,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_e", "t_fungus1_t_connection_s", "t_fungus1_t_connection_w" ]
+            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_e", "t_fungus2_t_connection_s", "t_fungus2_t_connection_w" ]
+            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_e", "t_fungus3_t_connection_s", "t_fungus3_t_connection_w" ]
+            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_e", "t_fungus5_t_connection_s", "t_fungus5_t_connection_w" ]
+            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_e", "t_fungus6_t_connection_s", "t_fungus6_t_connection_w" ]
+            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ]
           }
         ]
       },
@@ -284,23 +284,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_e", "t_fungus1_end_piece_s", "t_fungus1_end_piece_w" ]
+            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_e", "t_fungus2_end_piece_s", "t_fungus2_end_piece_w" ]
+            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_e", "t_fungus3_end_piece_s", "t_fungus3_end_piece_w" ]
+            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_e", "t_fungus5_end_piece_s", "t_fungus5_end_piece_w" ]
+            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_e", "t_fungus6_end_piece_s", "t_fungus6_end_piece_w" ]
+            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ]
           }
         ]
       },
@@ -380,23 +380,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_ne", "t_fungus1_corner_se", "t_fungus1_corner_sw" ]
+            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_ne", "t_fungus2_corner_se", "t_fungus2_corner_sw" ]
+            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_ne", "t_fungus3_corner_se", "t_fungus3_corner_sw" ]
+            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_ne", "t_fungus5_corner_se", "t_fungus5_corner_sw" ]
+            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_ne", "t_fungus6_corner_se", "t_fungus6_corner_sw" ]
+            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ]
           }
         ]
       },
@@ -406,23 +406,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_e", "t_fungus1_t_connection_s", "t_fungus1_t_connection_w" ]
+            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_e", "t_fungus2_t_connection_s", "t_fungus2_t_connection_w" ]
+            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_e", "t_fungus3_t_connection_s", "t_fungus3_t_connection_w" ]
+            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_e", "t_fungus5_t_connection_s", "t_fungus5_t_connection_w" ]
+            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_e", "t_fungus6_t_connection_s", "t_fungus6_t_connection_w" ]
+            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ]
           }
         ]
       },
@@ -433,23 +433,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_e", "t_fungus1_end_piece_s", "t_fungus1_end_piece_w" ]
+            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_e", "t_fungus2_end_piece_s", "t_fungus2_end_piece_w" ]
+            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_e", "t_fungus3_end_piece_s", "t_fungus3_end_piece_w" ]
+            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_e", "t_fungus5_end_piece_s", "t_fungus5_end_piece_w" ]
+            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_e", "t_fungus6_end_piece_s", "t_fungus6_end_piece_w" ]
+            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ]
           }
         ]
       },
@@ -529,23 +529,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_ne", "t_fungus1_corner_se", "t_fungus1_corner_sw" ]
+            "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_ne", "t_fungus2_corner_se", "t_fungus2_corner_sw" ]
+            "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_ne", "t_fungus3_corner_se", "t_fungus3_corner_sw" ]
+            "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_ne", "t_fungus5_corner_se", "t_fungus5_corner_sw" ]
+            "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_ne", "t_fungus6_corner_se", "t_fungus6_corner_sw" ]
+            "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ]
           }
         ]
       },
@@ -555,23 +555,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_e", "t_fungus1_t_connection_s", "t_fungus1_t_connection_w" ]
+            "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_e", "t_fungus2_t_connection_s", "t_fungus2_t_connection_w" ]
+            "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_e", "t_fungus3_t_connection_s", "t_fungus3_t_connection_w" ]
+            "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_e", "t_fungus5_t_connection_s", "t_fungus5_t_connection_w" ]
+            "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_e", "t_fungus6_t_connection_s", "t_fungus6_t_connection_w" ]
+            "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ]
           }
         ]
       },
@@ -582,23 +582,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_e", "t_fungus1_end_piece_s", "t_fungus1_end_piece_w" ]
+            "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_e", "t_fungus2_end_piece_s", "t_fungus2_end_piece_w" ]
+            "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_e", "t_fungus3_end_piece_s", "t_fungus3_end_piece_w" ]
+            "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_e", "t_fungus5_end_piece_s", "t_fungus5_end_piece_w" ]
+            "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ]
           },
           {
             "weight": 1,
-            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_e", "t_fungus6_end_piece_s", "t_fungus6_end_piece_w" ]
+            "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ]
           }
         ]
       },

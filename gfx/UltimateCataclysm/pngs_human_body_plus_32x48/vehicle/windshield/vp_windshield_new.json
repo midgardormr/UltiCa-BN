@@ -17,9 +17,11 @@
           "vp_windshield_cover_left_rotE",
           "vp_windshield_cover_left_rotS",
           "vp_windshield_cover_left_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_211", "paint_mask_32x48_x0_y-16_195", "paint_mask_32x48_x0_y-16_212", "paint_mask_32x48_x0_y-16_213"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_211", "paint_mask_32x48_x0_y-16_195", "paint_mask_32x48_x0_y-16_212", "paint_mask_32x48_x0_y-16_213"]}]
   },
   {
     "id": "vp_windshield_cover_right",
@@ -39,12 +41,14 @@
           "vp_windshield_cover_right_rotE",
           "vp_windshield_cover_right_rotS",
           "vp_windshield_cover_right_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_214", "paint_mask_32x48_x0_y-16_215", "paint_mask_32x48_x0_y-16_216", "paint_mask_32x48_x0_y-16_197"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_214", "paint_mask_32x48_x0_y-16_215", "paint_mask_32x48_x0_y-16_216", "paint_mask_32x48_x0_y-16_197"]}]
   },
   {
-    "id": "vp_windshield_wheel_left",
+    "id": [ "vp_windshield_wheel_left", "vp_halfboard_appearance_windshield_wheel_left" ],
     "fg": [
       "vp_windshield_wheel_left",
       "vp_windshield_wheel_left_rotE",
@@ -61,12 +65,14 @@
           "vp_windshield_wheel_left_rotE",
           "vp_windshield_wheel_left_rotS",
           "vp_windshield_wheel_left_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_199", "paint_mask_32x48_x0_y-16_200", "paint_mask_32x48_x0_y-16_201", "paint_mask_32x48_x0_y-16_217"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_199", "paint_mask_32x48_x0_y-16_200", "paint_mask_32x48_x0_y-16_201", "paint_mask_32x48_x0_y-16_217"]}]
   },
   {
-    "id": "vp_windshield_wheel_right",
+    "id": [ "vp_windshield_wheel_right", "vp_halfboard_appearance_windshield_wheel_right" ],
     "fg": [
       "vp_windshield_wheel_right",
       "vp_windshield_wheel_right_rotE",
@@ -83,9 +89,11 @@
           "vp_windshield_wheel_right_rotE",
           "vp_windshield_wheel_right_rotS",
           "vp_windshield_wheel_right_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_203", "paint_mask_32x48_x0_y-16_218", "paint_mask_32x48_x0_y-16_205", "paint_mask_32x48_x0_y-16_206"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_203", "paint_mask_32x48_x0_y-16_218", "paint_mask_32x48_x0_y-16_205", "paint_mask_32x48_x0_y-16_206"]}]
   },
   {
     "id": "vp_windshield_vertical_2_left",
@@ -104,10 +112,12 @@
           "vp_windshield_left_rotE",
           "vp_windshield_left_rotS",
           "vp_windshield_vertical_2_left_rotW_right_rotE"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_207", "paint_mask_32x48_x0_y-16_208", "paint_mask_32x48_x0_y-16_209", "paint_mask_32x48_x0_y-16_219"]}]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_207", "paint_mask_32x48_x0_y-16_208", "paint_mask_32x48_x0_y-16_209", "paint_mask_32x48_x0_y-16_219"]}]
   },
   {
     "id": "vp_windshield_vertical_2_right",
@@ -126,9 +136,11 @@
           "vp_windshield_vertical_2_left_rotW_right_rotE",
           "vp_windshield_right_rotS",
           "vp_windshield_right_rotW"
-        ]
+        ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_209", "paint_mask_32x48_x0_y-16_219", "paint_mask_32x48_x0_y-16_207", "paint_mask_32x48_x0_y-16_208"]}]
       }
     ],
-    "multitile": true
+    "multitile": true,
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_209", "paint_mask_32x48_x0_y-16_219", "paint_mask_32x48_x0_y-16_207", "paint_mask_32x48_x0_y-16_208"]}]
   }
 ]

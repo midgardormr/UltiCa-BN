@@ -10,9 +10,9 @@
       "bg": "",
       "fg": [
         "t_shingle_flat_roof_corner_nw",
-        "t_shingle_flat_roof_corner_ne",
+        "t_shingle_flat_roof_corner_sw",
         "t_shingle_flat_roof_corner_se",
-        "t_shingle_flat_roof_corner_sw"
+        "t_shingle_flat_roof_corner_ne"
       ]
     },
     {
@@ -20,9 +20,9 @@
       "bg": "",
       "fg": [
         "t_shingle_flat_roof_t_connection_n",
-        "t_shingle_flat_roof_t_connection_e",
+        "t_shingle_flat_roof_t_connection_w",
         "t_shingle_flat_roof_t_connection_s",
-        "t_shingle_flat_roof_t_connection_w"
+        "t_shingle_flat_roof_t_connection_e"
       ]
     },
     { "id": "edge", "bg": "", "fg": [ "t_shingle_flat_roof_edge_ns", "t_shingle_flat_roof_edge_ew" ] },
@@ -31,9 +31,9 @@
       "bg": "",
       "fg": [
         "t_shingle_flat_roof_end_piece_n",
-        "t_shingle_flat_roof_end_piece_e",
+        "t_shingle_flat_roof_end_piece_w",
         "t_shingle_flat_roof_end_piece_s",
-        "t_shingle_flat_roof_end_piece_w"
+        "t_shingle_flat_roof_end_piece_e"
       ]
     },
     { "bg": "", "id": "unconnected", "fg": "t_shingle_flat_roof_unconnected" }

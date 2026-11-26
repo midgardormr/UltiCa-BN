@@ -1,42 +1,50 @@
 [
   {
     "id": "t_chickenwire_gate_c",
-    "fg": "t_chickenwire_gate_c",
-    "bg": "t_grass"
+    "fg": ["bn_gate_chickenwire_ns_c", "bn_gate_chickenwire_ew_c_padded"],
+    "bg": ["bn_gate_ground_grass_centered", "bn_gate_ground_grass_centered"],
+    "rotates": true
   },
   {
     "id": "t_chickenwire_gate_c_season_summer",
-    "fg": "t_chickenwire_gate_c",
-    "bg": "t_grass_summer"
+    "fg": ["bn_gate_chickenwire_ns_c", "bn_gate_chickenwire_ew_c_padded"],
+    "bg": ["bn_gate_ground_summer_centered", "bn_gate_ground_summer_centered"],
+    "rotates": true
   },
   {
     "id": "t_chickenwire_gate_c_season_autumn",
-    "fg": "t_chickenwire_gate_c",
-    "bg": "t_grass_autumn"
+    "fg": ["bn_gate_chickenwire_ns_c", "bn_gate_chickenwire_ew_c_padded"],
+    "bg": ["bn_gate_ground_autumn_centered", "bn_gate_ground_autumn_centered"],
+    "rotates": true
   },
   {
     "id": "t_chickenwire_gate_c_season_winter",
-    "fg": "t_chickenwire_gate_c",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_gate_chickenwire_ns_c", "bn_gate_chickenwire_ew_c_padded"],
+    "bg": ["bn_gate_ground_snow_centered", "bn_gate_ground_snow_centered"],
+    "rotates": true
   },
   {
     "id": "t_chickenwire_gate_o",
-    "fg": "t_chickenwire_gate_o",
-    "bg": "t_grass"
+    "fg": ["bn_gate_chickenwire_ns_o", "bn_gate_chickenwire_ew_o_shifted"],
+    "bg": ["bn_gate_ground_grass_shifted", "bn_gate_ground_grass_shifted"],
+    "rotates": true
   },
   {
     "id": "t_chickenwire_gate_o_season_summer",
-    "fg": "t_chickenwire_gate_o",
-    "bg": "t_grass_summer"
+    "fg": ["bn_gate_chickenwire_ns_o", "bn_gate_chickenwire_ew_o_shifted"],
+    "bg": ["bn_gate_ground_summer_shifted", "bn_gate_ground_summer_shifted"],
+    "rotates": true
   },
   {
     "id": "t_chickenwire_gate_o_season_autumn",
-    "fg": "t_chickenwire_gate_o",
-    "bg": "t_grass_autumn"
+    "fg": ["bn_gate_chickenwire_ns_o", "bn_gate_chickenwire_ew_o_shifted"],
+    "bg": ["bn_gate_ground_autumn_shifted", "bn_gate_ground_autumn_shifted"],
+    "rotates": true
   },
   {
     "id": "t_chickenwire_gate_o_season_winter",
-    "fg": "t_chickenwire_gate_o",
-    "bg": "snow_shallow_center"
+    "fg": ["bn_gate_chickenwire_ns_o", "bn_gate_chickenwire_ew_o_shifted"],
+    "bg": ["bn_gate_ground_snow_shifted", "bn_gate_ground_snow_shifted"],
+    "rotates": true
   }
 ]

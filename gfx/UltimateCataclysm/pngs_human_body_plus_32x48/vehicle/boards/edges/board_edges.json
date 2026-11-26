@@ -1,15 +1,17 @@
 [
   {
-    "id": "vp_board_ne_edge",
+    "id": [ "vp_board_ne_edge", "vp_windshield_appearance_board_ne_edge" ],
     "fg": [ "vp_board_ne", "vp_board_ne_edge_rotE", "vp_board_ne_rotS", "vp_board_ne_edge_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
-        "bg": [ "vp_board_ne", "vp_board_ne_edge_rotE", "vp_board_ne_rotS", "vp_board_ne_edge_rotW" ]
+        "bg": [ "vp_board_ne", "vp_board_ne_edge_rotE", "vp_board_ne_rotS", "vp_board_ne_edge_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_01", "paint_mask_32x48_x0_y-16_17", "paint_mask_32x48_x0_y-16_03", "paint_mask_32x48_x0_y-16_18"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_01", "paint_mask_32x48_x0_y-16_17", "paint_mask_32x48_x0_y-16_03", "paint_mask_32x48_x0_y-16_18"]}]
   },
   {
     "id": "vp_board_nw_edge",
@@ -19,8 +21,10 @@
       {
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
-        "bg": [ "vp_board_ne_rotW", "vp_board_nw_edge_rotE", "vp_board_nw_rotS", "vp_board_nw_edge_rotW" ]
+        "bg": [ "vp_board_ne_rotW", "vp_board_nw_edge_rotE", "vp_board_nw_rotS", "vp_board_nw_edge_rotW" ],
+        "masks": [{"type": "tint", "bg": ["paint_mask_32x48_x0_y-16_04", "paint_mask_32x48_x0_y-16_19", "paint_mask_32x48_x0_y-16_05", "paint_mask_32x48_x0_y-16_20"]}]
       }
-    ]
+    ],
+    "masks": [{"type": "tint", "fg": ["paint_mask_32x48_x0_y-16_04", "paint_mask_32x48_x0_y-16_19", "paint_mask_32x48_x0_y-16_05", "paint_mask_32x48_x0_y-16_20"]}]
   }
 ]

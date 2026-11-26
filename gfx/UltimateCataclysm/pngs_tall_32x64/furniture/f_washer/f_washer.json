@@ -1,7 +1,9 @@
 [
   {
     "id": "f_washer",
-    "fg": "f_washer",
-    "bg": ""
+    "fg": ["f_washer", "bn_washer_faceW", "bn_washer_faceN", "bn_washer_faceE"],
+    "bg": "",
+    "rotates": true,
+    "flags": ["ALIGN_TO_TERRAIN"]
   }
 ]
