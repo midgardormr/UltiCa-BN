@@ -1,4 +1,4 @@
-"""Check compiled frames/states/masks against source, plus a small BN direction policy."""
+"""Check compiled sprites, bindings, offsets, states and tint masks."""
 import argparse
 import hashlib
 import json
