@@ -85,22 +85,21 @@ jobs:
           set -euo pipefail
           release_date="$(TZ=Europe/Moscow date +%F)"
           existing_tags="$(gh api --paginate \
-            "repos/$GITHUB_REPOSITORY/git/matching-refs/tags/bn-$release_date." \
+            "repos/$GITHUB_REPOSITORY/git/matching-refs/tags/UltiCa-BN-$release_date" \
             --jq '.[].ref')"
           sequence=1
-          tag="bn-$release_date.$sequence"
+          tag="UltiCa-BN-$release_date"
           while grep -Fxq "refs/tags/$tag" <<<"$existing_tags"; do
             sequence=$((sequence + 1))
-            tag="bn-$release_date.$sequence"
+            tag="UltiCa-BN-$release_date.$sequence"
           done
           for tileset in UltimateCataclysm ChibiUltica Altica; do
             printf 'Source: https://github.com/%s\nRelease: %s\n' \
               "$GITHUB_REPOSITORY" "$tag" >"$tileset/SOURCE.txt"
             zip -qr "$tileset.zip" "$tileset"
           done
-          sha256sum UltimateCataclysm.zip ChibiUltica.zip Altica.zip >SHA256SUMS
-          gh release create "$tag" UltimateCataclysm.zip ChibiUltica.zip Altica.zip SHA256SUMS \
+          gh release create "$tag" UltimateCataclysm.zip ChibiUltica.zip Altica.zip \
             --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
-            --title "UltiCa for Bright Nights — $release_date ($sequence)" \
+            --title "$tag" \
             --notes "Bright Nights tileset packs. Original artwork credits and licenses are retained in the source repository and tileset metadata." \
             --prerelease --latest=false

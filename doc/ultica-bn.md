@@ -60,8 +60,8 @@ CI means automated checks and builds on changes. **Bright Nights UltiCa builds**
 runs local tests and builds all three packs. Pushes do not publish releases.
 To publish, run that workflow on `ultica-bn` and enable **Publish the checked
 batch as a release**. A batch contains `UltimateCataclysm.zip`, `ChibiUltica.zip`,
-`Altica.zip` and `SHA256SUMS`. Tags use `bn-YYYY-MM-DD.N`, with Moscow dates and
-an increasing same-day sequence number.
+`Altica.zip`. Release titles and tags use `UltiCa-BN-YYYY-MM-DD`, with Moscow
+dates. Additional releases on the same day use `.2`, `.3` and so on.
 
 ## Upstream updates
 
